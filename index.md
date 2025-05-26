@@ -1,4 +1,4 @@
 ---
-PO Library dan Lain-lain: Welcome to my blog
+title: Welcome to my blog
 ---
 
