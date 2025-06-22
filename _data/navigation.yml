@@ -20,4 +20,4 @@ docs:
   - title: Iklim dan Perubahan Iklim
     children:
       - title: "Iklim dan Perubahan Iklim"
-        url: /_posts/Metklim/
+        url: /docs/Metklim/
