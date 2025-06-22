@@ -3,6 +3,7 @@ title: Iklim dan Perubahan Iklim
 permalink: /docs/Metklim/
 layout: single
 toc: true
+toc_sticky: true
 sidebar:
   nav: "docs"
 ---
