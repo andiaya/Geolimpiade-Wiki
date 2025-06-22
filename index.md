@@ -12,9 +12,6 @@ Blog ini saya buat untuk memberi catatan saya tempat lain yang lebih bermanfaat 
 Blog ini bersifat rangkuman catatan pembinaan, sehingga saya tidak akan menyebutkan sitasi seperti yang umumnya dilakukan. Ini karena tidak memungkinkan memadankan semua yang disampaikan dalam kelas dengan sumber utama dan bukan karena kesombongan saya. Saya akan mengecek kembali beberapa informasi sebelum saya pindahkan ke blog ini dan sumber-sumber tersebut akan saya cantumkan di dalam ataupun di bawah laman materi beserta buku-buku rujukan yang umumnya digunakan untuk materi tersebut.
 Terima kasih!
 
-## Quick Links
+## Materi Olimpiade Sains Nasional Bidang Geografi
 
-- [Quick Start Guide](/docs/quick-start-guide/)
-- [Installation](/docs/installation/)
-- [Configuration](/docs/configuration/)
-- [Iklim dan Perubahan Iklim](/PO-Geografi/docs/Metklim/)
+- [1. Iklim dan Perubahan Iklim](/PO-Geografi/docs/Metklim/)
