@@ -1,12 +1,11 @@
 ---
-title: "Welcome to Documentation"
+title: "Tentang Laman"
 layout: single
 permalink: /
 sidebar:
   nav: "docs"
 ---
 
-# Tentang Laman
 Laman ini berisi rangkuman catatan pembinaan Olimpiade Sains Nasional (OSN) mata pelajaran geografi.
 Struktur materi dibuat mengikuti [silabus](https://sma.dikdasmen.go.id/data/files/silabus/9.%20SILABUS%20NASIONAL%20BARU%20Geografi.pdf) yang diterbitkan oleh Direktorat SMA Kemendikdasmen ditambah beberapa materi yang tidak tercakup dalam silabus namun keluar dalam soal OSN sebelumnya.
 Blog ini saya buat untuk memberi catatan saya tempat lain yang lebih bermanfaat daripada mengendap di binder materi OSN saya.
