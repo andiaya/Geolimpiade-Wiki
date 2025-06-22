@@ -18,4 +18,4 @@ Terima kasih!
 - [Quick Start Guide](/docs/quick-start-guide/)
 - [Installation](/docs/installation/)
 - [Configuration](/docs/configuration/)
-- [Iklim dan Perubahan Iklim](/_posts/Metklim/)
+- [Iklim dan Perubahan Iklim](/docs/Metklim/)
