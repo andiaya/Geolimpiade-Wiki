@@ -1,0 +1,23 @@
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Installation"
+        url: /docs/installation/
+  - title: Configuration
+    children:
+      - title: "Basic Setup"
+        url: /docs/configuration/
+      - title: "Advanced Options"
+        url: /docs/advanced-configuration/
+  - title: Help
+    children:
+      - title: "FAQ"
+        url: /docs/faq/
+      - title: "Troubleshooting"
+        url: /docs/troubleshooting/
+  - title: Iklim dan Perubahan Iklim
+    children:
+      - title: "Iklim dan Perubahan Iklim"
+        url: /docs/Metklim/
