@@ -3,7 +3,7 @@ title: "Welcome to Documentation"
 layout: single
 permalink: /
 sidebar:
-  nav: "_posts"
+  nav: "docs"
 ---
 
 # Tentang Laman
@@ -18,4 +18,4 @@ Terima kasih!
 - [Quick Start Guide](/docs/quick-start-guide/)
 - [Installation](/docs/installation/)
 - [Configuration](/docs/configuration/)
-- [Iklim dan Perubahan Iklim](/docs/Metklim/)
+- [Iklim dan Perubahan Iklim](/PO-Geografi/docs/Metklim/)
