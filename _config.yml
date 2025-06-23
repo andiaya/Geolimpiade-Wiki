@@ -1,7 +1,6 @@
-title: "PO Geografi"
-name: "Ryan Andri Wijaya"
-description: "Pembinaan Online Geografi"
-baseurl: "/PO-Geografi"
+title: "Geolimpiade Wiki"
+description: "Materi Olimpiade Geografi"
+baseurl: "/Geolimpiade-Wiki"
 url: "https://andiaya.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
