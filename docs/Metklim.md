@@ -608,6 +608,7 @@ Penginderaan jauh adalah pengukuran parameter dengan instrumen yang tidak langsu
 
 ## 7.3. Penyajian Data Meteorologis
 ### 7.3.1. Peta Sinoptik
+
 ### 7.3.2. Diagram Termodinamika
 * Grafik Skew T - Log P
 * Tephigram
