@@ -14,4 +14,4 @@ Terima kasih!
 
 ## Materi Olimpiade Sains Nasional Bidang Geografi
 
-- [1. Iklim dan Perubahan Iklim](/PO-Geografi/docs/Metklim/)
+- [1. Iklim dan Perubahan Iklim](/Geolimpiade-Wiki/docs/Metklim/)
