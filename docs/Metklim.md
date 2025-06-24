@@ -661,7 +661,50 @@ Diagram termodinamika digunakan untuk menganalisis hasil pengukuran titik jenuh 
   Emagram ([By Daelomin, Copyrighted free use](https://commons.wikimedia.org/w/index.php?curid=6733067))
 
 # 8. Fenomena Optis Atmosfer
+Radiasi Matahari, sebagai gelombang, mengalami berbagai proses ketika perambatannya dipengaruhi oleh atmosfer, Bumi, dan objek-objek di antaranya. Gelombang dapat mengalami penghamburan (scattering), pembiasan (refraction), pemantulan (reflection), dan pelenturan (difraksi).
+* Penghamburan: merupakan proses penyebaran gelombang ke segala arah karena halangan suatu objek. penghamburan utamanya menyebabkan warna langit.
+  
+  (a). Penghamburan Rayleigh merupakan proses yang menjelaskan penghamburan selektif radiasi gelombang pendek oleh atmosfer, utamanya molekul nitrogen dan oksigen. Penghamburan Rayleigh menyebabkan warna langit biru. Saat siang hari, seluruh spektrum cahaya tampak sinar Matahari menembus atmosfer dengan intensitas yang sama, sehingga Matahari terlihat berwarna putih.
+  
+  (b). Ketika sore hari, sinar Matahari menembus atmosfer yang lebih tebal, karena sudut datangnya yang miring. Akibatnya, sinar Matahari yang mencapai permukaan Bumi terdiri dari gelombang dengan spektrum cahaya tampak dengan panjang gelombang panjang, warna kuning dan merah. Proses ini disebut penghamburan Mie.
+  
+* Pembiasan: merupakan proses pembelokan gelombang karena perbedaan kepadatan media perambatan gelombang. Pembiasan sinar Matahari dapat terjadi saat sinar Matahari merambat melalui kristal es, air hujan, dan lapisan udara berbeda kepadatan.
+  
+  (a). Pembiasan karena kristal es membentuk halo dan sun dog. Halo adalah cincin cahaya yang menyertai Matahari atau Bulan. Halo terbentuk oleh awan cirrostratus dari proses pembiasan oleh kristal es kolumnar berukuran kecil. Pembiasan karena kristal es kolumnar berukuran besar dan berorientasi vertikal membentuk tangent arc, cahaya melengkung ke arah luar lingkaran namun menyentuh halo. Sun dog adalah Matahari kembar, biasanya terbentuk di kanan dan kiri Matahari. Sun dog terbentuk karena pembiasan oleh es heksagonal.
+  
+  (b). Pembiasan karena air hujan membentuk pelangi. Sinar Matahari dari ketinggian rendah mengenai titik air pada sudut tertentu sehingga terjadi pemantulan internal, sehingga pelangi terbentuk di arah yang berlawanan dengan Matahari. Gelombang dengan panjang berbeda dibiaskan dengan sudut berbeda, sehingga terjadi pemisahan spektrum warna cahaya tampak.
+  
+  (c). Pembiasan karena kepadatan udara berbeda membentuk hindau (mirage). Hindau adalah bayangan objek di langit atau di tanah yang terlihat dari jarak jauh. Tipenya dibagi menjadi superior, jika terbentuk di atas objek asli, dan inferior, jika terbentuk di bawah objek asli. Terdapat pula jenis hindau berupa kemendang (heat haze) yang terlihat seperti air atau membuat objek bergoyang karena udara berada di atas permukaan panas. Fatamorgana umum digunakan untuk menyebut seluruh fenomena ini, namun, lebih spesifiknya, fatamorgana adalah gabungan fenomena hindau superior dan kemendang, sehingga bayangannya bergoyang dan bentuknya berubah-ubah.
+  
+* Pemantulan: merupakan perubahan arah rambatan gelombang dengan besar sudut datang sama dengan sudut pantul terhadap garis normal (ditarik tegak lurus terhadap permukaan objek). pada es kolumnar horizontal membentuk sun pillar, cahaya memanjang di atas dan bawah Matahari.
+* Pelenturan: merupakan perubahan arah rambat gelombang karena terhalang oleh suatu objek, sehingga gelombang menyebar dan sebagian berbelok ke arah dalam, pada area yang terhalang oleh objek. Kenampakan yang dapat muncul adalah corona, cloud iridescence, glory, dan brocken bow. Corona terbentuk di sekitar Matahari, perbedaan utamanya dengan halo adalah cahayanya yang berbentuk lingkaran, bukan cincin. Cloud iridescence terbentuk karena halangan awan. Glory terbentuk karena halangan pesawat terbang sedangkan brocken bow terbentuk karena halangan objek di darat, seperti gunung, keduanya terbentuk mengelilingi bayang-bayang objek. Kenampakan fenomena hasil pelenturan sinar Matahari umum memiliki warna seperti pelangi karena perbedaan besar pembelokan cahaya berbeda panjang gelombang.
+  
+  ![Kompleks halo.](https://github.com/user-attachments/assets/6dafacfa-97f5-447a-a4e7-796bb2b931de)
+  
+  Ilustrasi Kompleks Halo oleh Awan Tinggi (Cirriform) (Ahrens, 2009)
+
+Fenomena optis atmosfer lain misalnya aurora dan cahaya dari awan ketinggian sangat tinggi. Aurora terbentuk dari pelepasan cahaya oleh molekul gas atmosfer yang menerima energi dari ion yang dilepaskan Matahari. Ion merupakan partikel dengan muatan, dikeluarkan oleh Matahari dan dibelokkan oleh medan magnet Bumi. Medan magnet Bumi masuk dan keluar dari kutub, sehingga aurora terbentuk di sekitar kutub. Aurora borealis terbentuk di sekitar Kutub Utara, sedangkan aurora australis di sekitar Kutub Selatan. Awan ketinggian sangat tinggi dapat terbentuk di stratosfer maupun mesosfer. Updraft yang sangat kuat dapat membawa air dan membentuk es di lapisan stratosfer, menyebabkan awan nacreous, serta senyawa lain seperti asam sitrat dan asam sulfat ke lapisan stratosfer, membentuk awan stratosfer kutub (Polar Stratospheric Cloud/PSC). Awan PSC memiliki karakteristik perusak ozon. Sementara itu, air di lapisan mesosfer dapat berasal dari turbulensi maupun meteor, membentuk awan noctilucent. Kedua jenis awan ini dapat terlihat bersinar ketika Matahari sudah tenggelam lama karena letaknya yang tinggi.
+
+![Aurora.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg/960px-Amundsen-Scott_marsstation_ray_h_edit.jpg)
+
+Aurora ([By Photo by Chris Danals, National Science Foundation, Public Domain](https://commons.wikimedia.org/w/index.php?curid=575690))
+
+![Nacreous.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Polar_stratospheric_cloud_type_2.jpg/960px-Polar_stratospheric_cloud_type_2.jpg)
+
+Nacreous / Polar Stratospheric Cloud ([NASA, Public Domain](https://commons.wikimedia.org/w/index.php?curid=50899))
+
+![Noctilucent.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Noctilucent_clouds%2C_2014-07-08_-_01.jpg/960px-Noctilucent_clouds%2C_2014-07-08_-_01.jpg)
+
+Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=35913781)) 
+
 # 9. Bencana Meteorologis
+Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
+## 9.1. Siklon
+## 9.2. Tornado
+## 9.3. Kekeringan
+## 9.4. Gelombang Panas
+## 9.5. Bencana Meteorologis Lain
+
 # 10. Umpan Balik Sistem Iklim dan Lautan
 # 11. Perubahan Iklim
 ## 11.1. Defininsi
