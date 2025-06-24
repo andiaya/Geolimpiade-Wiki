@@ -661,6 +661,12 @@ Diagram termodinamika digunakan untuk menganalisis hasil pengukuran titik jenuh 
   Emagram ([By Daelomin, Copyrighted free use](https://commons.wikimedia.org/w/index.php?curid=6733067))
 
 # 8. Fenomena Optis Atmosfer
+Radiasi Matahari, sebagai gelombang, mengalami berbagai proses ketika perambatannya dipengaruhi oleh atmosfer, Bumi, dan objek-objek di antaranya. Gelombang dapat mengalami penghamburan (scattering), pembiasan (refraction), pemantulan (reflection), dan pelenturan (difraksi).
+* Penghamburan: merupakan proses perubahan arah rambatan gelombang ke segala arah karena halangan suatu objek. penghamburan utamanya menyebabkan warna langit.\
+  (a). Penghamburan Rayleigh merupakan proses yang menjelaskan penghamburan selektif radiasi gelombang pendek oleh atmosfer, utamanya molekul nitrogen dan oksigen. Penghamburan Rayleigh menyebabkan warna langit biru. Saat siang hari, seluruh spektrum cahaya tampak sinar Matahari menembus atmosfer dengan intensitas yang sama, sehingga Matahari terlihat berwarna putih.\
+  (b). Ketika sore hari, sinar Matahari menembus atmosfer yang lebih tebal, karena sudut datangnya yang miring. Akibatnya, sinar Matahari yang mencapai permukaan Bumi terdiri dari gelombang dengan spektrum cahaya tampak dengan panjang gelombang panjang, warna kuning dan merah. Proses ini disebut penghamburan Mie.
+* Pembiasan: 
+
 # 9. Bencana Meteorologis
 # 10. Umpan Balik Sistem Iklim dan Lautan
 # 11. Perubahan Iklim
