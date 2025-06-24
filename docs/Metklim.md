@@ -608,10 +608,57 @@ Penginderaan jauh adalah pengukuran parameter dengan instrumen yang tidak langsu
 
 ## 7.3. Penyajian Data Meteorologis
 ### 7.3.1. Peta Sinoptik
+Peta cuaca atau peta sinoptik menggambarkan kondisi cuaca di suatu area pada satu waktu. Peta sinoptik dapat menggambarkan berbagai parameter cuaca.
+* Peta analisis cuaca permukaan menggambarkan data yang diukur oleh stasiun pengukuran cuaca. Informasi utama yang ditunjukkan pada peta ini adalah tekanan udara. Tekanan udara ditunjukkan dengan garis isobar, garis yang menghubungkan titik dengan tekanan udara yang sama.
+* Peta cuaca juga dapat digunakan untuk menggambarkan bagian atmosfer dengan tekanan udara yang sama. Peta ini biasanya menggambarkan kondisi atmosfer di ketinggian tinggi, pada ketinggian 700, 500, 300, dan 250 hPa. Informasi utama peta ini adalah angin, ditunjukkan dengan garis yang menghubungkan titik dengan kecepatan angin sama, isotach.
+* Peta isotherm menunjukkan temperatur sebagai informasi utama. Isotherm adalah garis yang menghubungkan titik dengan temperatur yang sama. Peta ini digunakan untuk menganalisis keberadaan front.
+
+Berbagai parameter lain yang digambarkan peta sinoptik menggunakan simbol garis dan simbol titik. Informasi yang digambarkan dengan simbol garis yaitu:
+
+![Simbol garis.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/NWS_weather_fronts.svg/560px-NWS_weather_fronts.svg.png)
+ 	
+(1) Front Dingin, (2) Front Hangat, (3) Front Stasioner, (4) Front Oklusi, (5) Palung Permukaan, (6) Garis Squall, (7) Dry Line, (8) Gelombang Tropis, (9) Palung ([By Hydrometeorological Prediction Center, Camp Springs, MD. Updated with Trowal on 2013-08-28, Public Domain](https://commons.wikimedia.org/w/index.php?curid=1055756))
+
+Simbol titik pada peta sinoptik dinamakan station model. Simbol station model mencakup informasi:
+* Arah dan kecepatan angin: ditunjukkan dengan wind barb. Arah wind barb menunjukkan arah angin, sedangkan benderanya menunjukkan kecepatan angin.
+* Tutupan awan
+* Tekanan udara permukaan: ditunjukkan dalam satuan milibar (mb). Nilai yang ditunjukkan sebesar 3 digit. Terdapat nilai 10 atau 9 di depan angka yang ditunjukkan dan digit terakhir menunjukkan 1 nilai di belakang koma. Misal, nilai 410 berarti nilai tekanan udaranya 1041,0 mb, sedangkan nilai 938 menunjukkan nilai tekanan udara 993,8 mb.
+* Tren perubahan tekanan
+* Temperatur
+* Cuaca
+* Titik jenuh: menunjukkan suhu yang diperlukan pada tekanan konstan agar mencapai kelembapan relatif 100%.
+
+![Station model.](https://www.wpc.ncep.noaa.gov/images/plotstation.gif)
+![Wind barb.](https://www.wpc.ncep.noaa.gov/images/wind_barbs.gif)
+![Tutupan awan.](https://www.wpc.ncep.noaa.gov/images/cloud_cover_new.gif)
+![Tren tekanan.](https://www.wpc.ncep.noaa.gov/images/pressure_trendNEW.gif)
+![Cuaca.](https://www.wpc.ncep.noaa.gov/images/weather_symbols_2008_new.gif)
+
+Variasi Simbol Station Model ([NOAA, 2022](https://www.wpc.ncep.noaa.gov/html/stationplot.shtml#weather))
+
 ### 7.3.2. Diagram Termodinamika
-* Grafik Skew T - Log P
-* Tephigram
-* Stuve Diagram
+Diagram termodinamika digunakan untuk menganalisis hasil pengukuran titik jenuh dan temperatur dari radiosonde. Kedua nilai tersebut diplot pada diagram untuk menganalisis pembentukan awan dan kemungkinan presipitasi. Awan akan terbentuk pada ketinggian dengan nilai temperatur dan dew point berdekatan. Diagram menunjukkan wind barb di tepi kanannya yang menunjukkan arah dan kecepatan angin di interval ketinggian tertentu.
+* Diagram Skew T - Log P: sesuai namanya, grafik ini memiliki sumbu temperatur miring ke kanan(skew t) dan sumbu y tekanan udara dengan nilai logaritmik (log P). Selain itu, diagram ini juga menunjukkan garis adiabatik kering dan basah melengkung. Diagram skew T - log P dapat digunakan untuk  menghitung energi potensial konveksi (CAPE). CAPE dihitung dengan menghitung area antara suhu parsel udara dengan suhu hasil pengukuran.
+  
+  ![Skew T.](https://upload.wikimedia.org/wikipedia/commons/9/96/Annotated_Skew_T_diagram.png)
+  
+  Diagram Skew T - Log P ([By JeanBizHertzberg - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=124649560))
+  
+* Tephigram: memiliki sumbu temperatur miring ke kanan, adiabatik kering miring ke kiri, dan isobar datar sedikit miring ke arah atas. Garis adiabatik basah melengkung. Tephigram juga menunjukkan informasi entropi (&phi;) Tephigram juga dapat digunakan untuk menghitung CAPE.
+  
+  ![Tephigram.](https://tephi.readthedocs.io/en/latest/_images/plotting-2.png)
+  
+  Tephigram ([Hawkins, Tephi Contributors](https://tephi.readthedocs.io/en/latest/index.html)) 
+* Stuve Diagram: memiliki sumbu x isotherm dan sumbu y isobar. Adiabatik basah dan kering memiliki sumbu miring dengan kemiringan berbeda.
+  
+  ![Stuve diagram.](https://upload.wikimedia.org/wikipedia/commons/7/7c/Stuve-diagram.gif)
+  
+  Diagram Stuve ([By Daelomin at en.wikipedia - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=577493))
+* Emagram: berkebalikan dengan skew T-log P, emagram memiliki sumbu x temperatur tegak dan sumpu tekanan udara miring. Diagram ini juga dapat digunakan untuk emnghitung CAPE.
+  
+  ![Emagram.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Emagram.GIF/1024px-Emagram.GIF)
+  
+  Emagram ([By Daelomin, Copyrighted free use](https://commons.wikimedia.org/w/index.php?curid=6733067))
 
 # 8. Fenomena Optis Atmosfer
 # 9. Bencana Meteorologis
