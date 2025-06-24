@@ -691,13 +691,20 @@ Aurora ([By Photo by Chris Danals, National Science Foundation, Public Domain](h
 
 ![Nacreous.](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Polar_stratospheric_cloud_type_2.jpg/960px-Polar_stratospheric_cloud_type_2.jpg)
 
-Nacreous / Polar Stratospheric Cloud
+Nacreous / Polar Stratospheric Cloud ([NASA, Public Domain](https://commons.wikimedia.org/w/index.php?curid=50899))
 
 ![Noctilucent.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Noctilucent_clouds%2C_2014-07-08_-_01.jpg/960px-Noctilucent_clouds%2C_2014-07-08_-_01.jpg)
 
 Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=35913781)) 
 
 # 9. Bencana Meteorologis
+Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
+## 9.1. Siklon
+## 9.2. Tornado
+## 9.3. Kekeringan
+## 9.4. Gelombang Panas
+## 9.5. Bencana Meteorologis Lain
+
 # 10. Umpan Balik Sistem Iklim dan Lautan
 # 11. Perubahan Iklim
 ## 11.1. Defininsi
