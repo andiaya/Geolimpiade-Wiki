@@ -700,6 +700,25 @@ Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.or
 # 9. Bencana Meteorologis
 Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
 ## 9.1. Siklon
+Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
+* Temperatur permukaan laut hangat, lebih dari 26&deg;C, sebagai sumber energi konveksi dan pembentuk pusat tekanan rendah
+* Berada di lintang >4&deg;, sehingga gaya koriolis cukup besar untuk membentuk gerakan memutar
+* Geser angin (windshear) lemah, sehingga updraft dapat membentuk awan vertikal. Geser angin adalah perbedaan arah dan kecepatan angin pada atmosfer beda ketinggian. Geser angin tinggi menghambat pembentukan awan vertikal, karena awan tidak dapat membentuk satu tubuh yang utuh dari permukaan hingga ketinggian tinggi.
+
+![Morfologi Siklon](https://github.com/user-attachments/assets/088b3a5e-80f6-4ef6-828a-c66828385cf8)
+
+Anatomi Siklon ([Terry, 2007](https://doi.org/10.1007/978-0-387-71543-8))
+
+Siklon berkembang dari gabungan berbadai sistem badai. Siklon berkembang melalui tahap-tahap berikut:
+
+(a). Gangguan tropis:
+
+(b). Depresi tropis:
+
+(c). Badai tropis:
+
+(d). Siklon tropis:
+
 ## 9.2. Tornado
 ## 9.3. Kekeringan
 ## 9.4. Gelombang Panas
