@@ -700,7 +700,7 @@ Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.or
 # 9. Bencana Meteorologis
 Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
 ## 9.1. Siklon
-Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
+Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Terdapat beberapa istilah lain yang digunakan untuk menamai siklon, misal taifun di Pasifik Barat, willy-willy di Australia, dan hurricane di Amerika Serikat. Siklon memiliki skala sinoptik, artinya mencakup wilayah yang luas. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
 * Temperatur permukaan laut hangat, lebih dari 26&deg;C, sebagai sumber energi konveksi dan pembentuk pusat tekanan rendah
 * Berada di lintang >4&deg;, sehingga gaya koriolis cukup besar untuk membentuk gerakan memutar
 * Geser angin (windshear) lemah, sehingga updraft dapat membentuk awan vertikal. Geser angin adalah perbedaan arah dan kecepatan angin pada atmosfer beda ketinggian. Geser angin tinggi menghambat pembentukan awan vertikal, karena awan tidak dapat membentuk satu tubuh yang utuh dari permukaan hingga ketinggian tinggi.
@@ -711,13 +711,25 @@ Anatomi Siklon ([Terry, 2007](https://doi.org/10.1007/978-0-387-71543-8))
 
 Siklon berkembang dari gabungan berbadai sistem badai. Siklon berkembang melalui tahap-tahap berikut:
 
-(a). Gangguan tropis:
+(a). Gangguan tropis: proses konveksi yang kuat membentuk beberapa sistem hujan badai (thunderstorm). Updraft yang kuat menyebabkan udara berpindah dari permukaan laut ke atmosfer bagian atas, membentuk tekanan rendah di permukaan. Namun, pada tahap ini, tekanan rendah tersebut belum membentuk satu pusat dengan isobar tertutup. Angin yang terbentuk memiliki kecepatan kurang dari 20 knot.
 
-(b). Depresi tropis:
+(b). Depresi tropis: menandakan sebuah depresi atau pusat tekanan rendah, ditandai dengan satu isobar tertutup. Sistem badai yang ada bergabung dan angin yang terbentuk memiliki kecepatan 20 - 34 knot.
 
-(c). Badai tropis:
+(c). Badai tropis: memiliki 2 isobar tertutup, sehingga terbentuk gerakan memutar angin gradien di antara dua isobar tersebut. Angin yang terbentuk memiliki kecepatan 35 - 64 knot. Pada tahap ini belum terbentuk anatomi mata badai. Otoritas pemantauan siklon memberi nama siklon pada tahap ini. Nama siklon di Indonesia dipilih dari nama bunga sedangkan di Amerika Serikat dan Australia, siklon dinamai dengan nama laki-laki dan perempuan secara bergantian.
 
-(d). Siklon tropis:
+(d). Siklon tropis: memiliki morfologi mata badai. Sistem pusat tekanan udara membentuk 3 isobar tertutup dan angin yang ditimbulkan mencapai kecepatan > 64 knot (>74 mph atau >119 km/h)
+
+![Daur hidup siklon.](https://www.hurricanescience.org/images/hss/Hurricane_Life_Cycle-2.jpg)
+
+Daur Hidup Siklon ([NOAA](https://www.hurricanescience.org/images/hss/Hurricane_Life_Cycle-2.jpg))
+
+Siklon dapat menimbulkan kodisi cuaca hujan ekstrem dan angin kencang. Kondisi cuaca inilah yang menyebabkan bencana seperti banjir, tanah longsor, dan angin yang merusak bangunan. Selain itu, tekanan rendah yang berada di pusat sistem siklon menyebabkan permukaan air laut bertambah ketinggiannya. Ketika siklon tersebut mengenai daratan, akan terbentuk gelombang tinggi yang disebut storm surge.
+
+Daya rusak siklon dapat diperkirakan berdasarkan kecepatan angin menerus (rata-rata dalam kurun waktu tertentu, dalam hal ini 1 menit). Kecepatan angin siklon diklasifikasikan menurut sistem skala Saffir-Simpson menjadi 5 kelas, 1 - 5.
+
+| Massa Udara | Wilayah Asal | Suhu dan Kelembapan Wilayah Asal | Stabilitas Wilayah Asal | Cuaca yang Ditimbulkan |
+| :------------: | :----------- | :----------- | :--------- | :-------- |
+| cA | Kutub | Sangat dingin dan kering (hanya terbentuk pada musm dingin) | Stabil | Cuaca sangat dingin |
 
 ## 9.2. Tornado
 ## 9.3. Kekeringan
