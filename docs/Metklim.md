@@ -736,6 +736,14 @@ Daya rusak siklon dapat diperkirakan berdasarkan kecepatan angin menerus (rata-r
 |    5     |         > 137          |
 
 ## 9.2. Tornado
+Tornado merupakan gerakan siklonik (gerakan memutar) berskala meso. Tornado juga dapat terbentuk dari proses front oklusi seperti siklon. Tornado tipe ini dinamakan supercell tornado. Berbeda dengan siklon, tornado tipe ini terbentuk dari satu sistem hujan badai (supercell thunderstorm) saja. Pembentukan supercell tornado diawali oleh keberadaan geser angin pada sistem hujan badai. Geser angin ini terbentuk karena gerakan angin dari pinggiran sistem hujan badai ke arah updraft di tengah. Geser angin tersebut membentuk gerakan memutar (vorticity) horizontal. Updraft membelokkan gerakan memutar tersebut menjadi vertikal dan gerakan updraft ikut memutar, sehingga membentuk tornado.
+
+![Supercell tornado.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Supercell02.svg/960px-Supercell02.svg.png)
+
+Anatomi Supercell ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4445271))
+
+
+
 ## 9.3. Kekeringan
 ## 9.4. Gelombang Panas
 ## 9.5. Bencana Meteorologis Lain
