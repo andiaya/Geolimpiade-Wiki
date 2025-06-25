@@ -729,23 +729,50 @@ Daya rusak siklon dapat diperkirakan berdasarkan kecepatan angin menerus (rata-r
 
 | Kategori | Kecepatan Angin (knot) |
 | :------: | ---------------------: |
-|    1     |        64 - 82         |
-|    2     |        83 - 95         |
-|    3     |        96 - 112        |
-|    4     |       113 - 136        |
-|    5     |         > 137          |
+|   SS1    |        64 - 82         |
+|   SS2    |        83 - 95         |
+|   SS3    |        96 - 112        |
+|   SS4    |       113 - 136        |
+|   SS5    |         > 137          |
 
 ## 9.2. Tornado
-Tornado merupakan gerakan siklonik (gerakan memutar) berskala meso. Tornado juga dapat terbentuk dari proses front oklusi seperti siklon. Tornado tipe ini dinamakan supercell tornado. Berbeda dengan siklon, tornado tipe ini terbentuk dari satu sistem hujan badai (supercell thunderstorm) saja. Pembentukan supercell tornado diawali oleh keberadaan geser angin pada sistem hujan badai. Geser angin ini terbentuk karena gerakan angin dari pinggiran sistem hujan badai ke arah updraft di tengah. Geser angin tersebut membentuk gerakan memutar (vorticity) horizontal. Updraft membelokkan gerakan memutar tersebut menjadi vertikal dan gerakan updraft ikut memutar, sehingga membentuk tornado.
+Tornado merupakan gerakan siklonik (gerakan memutar) berskala meso. Tornado juga dapat terbentuk dari proses front oklusi seperti siklon. Tornado tipe ini dinamakan supercell tornado. Berbeda dengan siklon, tornado tipe ini terbentuk dari satu sistem hujan badai (supercell thunderstorm) saja. Pembentukan supercell tornado diawali oleh keberadaan geser angin pada sistem hujan badai. Geser angin ini terbentuk karena gerakan angin dari pinggiran sistem hujan badai ke arah updraft di tengah. Geser angin tersebut membentuk gerakan memutar (vorticity) horizontal. Updraft membelokkan gerakan memutar tersebut menjadi vertikal dan gerakan updraft ikut memutar, sehingga membentuk tornado. Tornado yang terbentuk di atas perairan disebut waterspout.
 
 ![Supercell tornado.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Supercell02.svg/960px-Supercell02.svg.png)
 
 Anatomi Supercell ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4445271))
 
+Non-supercell tornado, seringkali dinamakan landspout atau non-tornadic waterspout, terbentuk karena gerakan memutar vertikal akibat keberadaan geser angin horizontal pada lapisan batas Bumi. Geser angin horizontal ini mungkin terbentuk karena perubahan arah dan kecepatan angin akibat halangan atau pertemuan dua atau lebih angin di dekat permukaan. Suatu updraft sistem awan kumulonimbus dapat memperkuat gerakan memutar tersebut dan memperpanjang gerakannya hingga mencapai dasar awan. Fenomena ini memiliki masa hidup sangat singkat, 15 hingga 20 menit.
 
+![Landspout.](https://www.weather.gov/images/cys/SkyWarn/image.png)
+
+Ilustrasi Pembentukan Landspout ([NWS, 2023](https://www.weather.gov/cys/CheyenneLandspout))
+
+Tornado banyak terbentuk di Amerika Serikat di area yang dinamakan Lorong Tornado (Tornado Alley). Lorong Tornado mencakup wilayah di tengah benua Amerika Utara tempat bertemunya 4 massa udara berbeda, sehingga memiliki banyak proses frontal. Selain itu, tornado juga terbentuk di Afrika Selatan, Eropa (kecuali di Pegunungan Alpen), Australia Barat dan Timur, Selandia Baru, Bangladesh dan India Timur, Filipina, serta Amerika Selatan bagian Tenggara (Uruguay dan Argentina). Kerusakan yang disebabkan tornado terjadi karena angin kencang menerbangkan objek serta kerusakan karena tabrakan objek yang terbawa angin. Tingkat kerusakan tornado dipengaruhi oleh intensitasnya. Intensitas tornado diklasifikasikan berdasarkan sistem skala Enhanced Fujita menjadi 6 tingkat, 0 - 5.
+
+| Kategori | Kecepatan Angin (knot) |
+| :------: | ---------------------: |
+|   EF0    |        56 - 74         |
+|   EF1    |        75 - 95         |
+|   EF2    |        96 - 117        |
+|   EF3    |       118 - 143        |
+|   EF4    |       144 - 174        |
+|   EF5    |         > 174          |
 
 ## 9.3. Kekeringan
+Kekeringan adalah kondisi keberadaan air di suatu tempat memiliki jumlah yang lebih rendah dari kondisi normal. Kekeringan dapat ditentukan berdasarkan kondisi meteorologis, pertanian, dan hidrologis. Kekeringan meteorologis merupakan kondisi presipitasi yang lebih rendah dan evapotranspirasi yang lebih tinggi daripada keadaan normal. Ketika kekeringan meteorologis terjadi dalam jangka panjang, maka dapat membentuk kekeringan pertanian.
+
+Kekeringan pertanian adalah kondisi kelembapan tanah dekat permukaan yang tidak mendukung kehidupan dan perkembangan tanaman. Akibatnya, tanaman mengalami water stress, pengurangan biomassa, dan berkurangnya hasil pertanian. Kekeringan pertanian yang berkepanjangan menyebabkan berkurangnya simpanan air tanah, sehingga debit mata air yang mengisi sungai dan danaupun berkurang. Ketika jumlah air yang berada dalam simpanan permukaan berkurang, maka kondisi tersebut disebut kekeringan hidrologis. Kekeringan hidrologis menyebabkan pengurangan lahan basah dan habitat satwa liar.
+
+![Kekeringan.](https://cdn.statcdn.com/Infographic/images/normal/25101.jpeg)
+
+Peta Risiko Kekeringan Dunia ([Buccholz for Statista, 2021](https://www.statista.com/chart/25101/countries-by-drought-risk/))
+
 ## 9.4. Gelombang Panas
+Gelombang panas adalah kondisi panas ekstrem dalam kurun waktu cukup panjang, antara 2 hari hingga beberapa bulan. Gelombang panas memiliki berbagai mekanisme pembentukan, mencakup proses timbulnya massa udara panas dan lembap di dekat permukaan serta penghambatan proses konvektif karena keberadaan massa udara bertekanan tinggi di atmosfer bagian atas. Gelombang panas dapat menjadi bencana karena menyebabkan sengatan panas (heat stroke). Heat stroke terjadi karena kondisi kelembapan yang tinggi dan udara yang statis menyebabkan berkurangnya penguapan keringat. Keringat merupakan mekanisme penting tubuh untuk menjaga keseimbangan (homeostasis) suhu tubuh. Heat stroke menyebabkan rasa pusing, pingsan, hingga kematian.
+
+Dampak 
+
 ## 9.5. Bencana Meteorologis Lain
 
 # 10. Umpan Balik Sistem Iklim dan Lautan
