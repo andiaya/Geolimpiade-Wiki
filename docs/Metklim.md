@@ -727,9 +727,13 @@ Siklon dapat menimbulkan kodisi cuaca hujan ekstrem dan angin kencang. Kondisi c
 
 Daya rusak siklon dapat diperkirakan berdasarkan kecepatan angin menerus (rata-rata dalam kurun waktu tertentu, dalam hal ini 1 menit). Kecepatan angin siklon diklasifikasikan menurut sistem skala Saffir-Simpson menjadi 5 kelas, 1 - 5.
 
-| Massa Udara | Wilayah Asal | Suhu dan Kelembapan Wilayah Asal | Stabilitas Wilayah Asal | Cuaca yang Ditimbulkan |
-| :------------: | :----------- | :----------- | :--------- | :-------- |
-| cA | Kutub | Sangat dingin dan kering (hanya terbentuk pada musm dingin) | Stabil | Cuaca sangat dingin |
+| Kategori | Kecepatan Angin (knot) |
+| :------: | ---------------------: |
+|    1     |        64 - 82         |
+|    2     |        83 - 95         |
+|    3     |        96 - 112        |
+|    4     |       113 - 136        |
+|    5     |         > 137          |
 
 ## 9.2. Tornado
 ## 9.3. Kekeringan
