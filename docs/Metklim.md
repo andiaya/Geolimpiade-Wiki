@@ -354,12 +354,16 @@ Penakar Hujan Tipe Manual, Hellman, dan Tipping Bucket ([Maftukhah, Wijonarko, d
 # 4. Klasifikasi Iklim
 Iklim Bumi dapat dilihat sebagai sebuah sistem yang memiliki input (masukan), proses, dan mengeluarkan output (luaran) tertentu. Input utama sistem iklim adalah radiasi Matahari, beserta dengan input lain dari luar sistem iklim seperti erupsi gunung api dan polusi. Prosesnya mencakup seluruh proses dalam komponen atmosfer, litosfer (tanah), hidrosfer (air), biosfer (makhluk hidup), dan kriosfer (es), meliputi penyerapan dan pemantulan, sirkulasi atmosfer dan lautan, dan mekanisme umpan balik iklim. Luarannya adalah parameter iklim seperti temperatur, kelembapan, angin, dan curah hujan.
 
-Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya. Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik. Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
+Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya. Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik.
+
+## 4.1. Klasifikasi Genetik
+Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
 * Flohn: menggunakan pendekatan proses dinamik/sinoptik atmosfer, diklasifikasikan berdasarkan determinan fisik.
 * Budyko: menggunakan pendekatan neraca energi untuk mengklasifikasikan iklim. Klasifikasinya ditentukan menggunakan indeks kekeringan yang dihitung dari rasio evapotranspirasi potensial terhadap curah hujan.
 * Strahler: klasifikasi kualitatif berdasarkan kombinasi massa udara yang ada di suatu wilayah selama satu tahun.
 
-Sementara itu, klasifikasi empiris menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
+## 4.2. Klasifikasi Empirik
+Klasifikasi empirik menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
 * Mohr: klasifikasi berdasarkan total jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
 * Schmidt-Fergusson: klasifikasi berdasarkan rasio jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
 * Oldeman: klasifikasi berdasarkan jumlah bulan kering (curah hujan < 100 mm) dan jumlah bulan basah berturut-turut (curah hujan > 200 mm) dalam satu tahun. Nilai curah hujan 200 mm adalah nilai umum curah hujan yang dibutuhkan untuk budidaya padi. Metode Oldeman mensyaratkan lama pengukuran 10 tahun.
@@ -403,6 +407,13 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
 
 Tentang klasifikasi Junghuhn\
   Klasifikasi Junghuhn umumnya tidak dimasukkan dalam daftar klasifikasi genetik-empiris. Klasifikasi ini menggunakan ketinggian dari permukaan laut (faktor geografis, genetik) sebagai penentu klasifikasi, namun, pendekatan yang digunakan adalah pendekatan ekosistem, yang perkembangannya disebabkan oleh proses iklim (empirik).
+
+Pembagian Wilayah Menurut Pola Curah Hujan di Indonesia\
+BMKG membagi wilayah Indonesia menjadi 3 zona musim berdasarkan pola hujannya. Zona musim tersebut adalah monsunal (A), ekuatorial (B), dan lokal (C). Zona musim monsunal memiliki satu puncak (unimodal) musim hujan di akhir-awal tahun. Zona musim ekuatorial memiliki curah hujan tinggi sepanjang tahun dengan 2 puncak (bimodal) musim hujan di sekitar bulan April dan Oktober (mengikuti gerakan Matahari melewati ekuator). Zona musim lokal dapat memiliki satu puncak musim hujan di pertengahan tahun atau memiliki curah hujan rendah sepanjang tahun.
+
+![Peta ZOM.](https://github.com/user-attachments/assets/5c8107b7-c3ea-4761-85a3-2bb2fd3c6ab6)
+
+Peta Zona Musim (ZOM) Indonesia ([BMKG, 2020](https://iklim.bmkg.go.id/bmkgadmin/storage/buletin/Buku_ZOM9120_versi_cetak.pdf))
 
 # 5. Gerak Atmosfer
 ## 5.1. Sirkulasi Umum Atmosfer
@@ -795,8 +806,23 @@ Banjir merupakan kondisi tergenangnya wilayah yang umumnya kering. Terdapat 3 je
 * Banjir Fluvial: fluvial berarti terkait dengan sungai. Banjir tipe ini disebut juga banjir limpasan sungai atau banjir kiriman. Banjir fluvial terbentuk di sungai bagian tengah dan hilir, menggenangi bagian dataran banjir dari lembah sungai. Luapan sungai ke dataran banjir merupakan bagian dari proses alami bentanglahan sungai.
 * Banjir Pesisir: terbentuk karena gelombang tinggi, pasang tinggi, dan kenaikan muka air laut. Kenaikan muka air laut dapat disebabkan karena penurunan ketinggian daratan (subsidensi) atau penambahan volume air laut akibat pemanasan global. Banjir pesisir memiliki nama lain yaitu rob.
 
-# 10. Umpan Balik Sistem Iklim dan Lautan
+# 10. Hubungan Sirkulasi Atmosfer dan Samudera
+Seperti halnya udara di atmosfer, air di samudera juga membentuk sirkulasi akibat ketimpangan energi Matahari yang diterima wilayah-wilayah di permukaan Bumi. Setidaknya terdapat 2 sirkulasi samudera yang berinteraksi dengan iklim, yaitu:
+## 10.1. Pusaran Samudera (Ocean Gyre)
+Gyre adalah gerakan memutar. Ocean gyre merupakan arus samudera yang memiliki gerak memutar, ke arah Barat di Ekuator, lalu dibelokkan ke arah kutub, kemudian bergerak ke arah Timur di dekat kutub dan kembali ke Ekuator. Arus air laut tersebut terbentuk dari angin timuran (angin pasat) di dekat Ekuator dan angin baratan yang terbentuk di perbatasan lintang tengah dan lintang kutub. Salah satu karakteristik sirkulasi ini adalah arus ke arah kutub di sisi Barat samudera memiliki kekuatan yang lebih tinggi daripada arus ke arah Ekuator.
+
+Arus ke arah kutub membawa air bersuhu hangat dari Ekuator, dinamakan arus hangat, sedangkan arus ke arah Ekuator membawa air bersuhu dingin, dinamakan arus dingin. Arus hangat yang mengalir di bagian Barat samudera menyebabkan bagian Timur benua memiliki cuaca yang lebih hangat dan lembap daripada bagian Barat benua. Sistem ocean gyre terbentuk di Samudera Atlantik Utara dan Selatan, Samudera Pasifik Utara dan Selatan, serta Samudera Hindia.
+
+![Ocean gyre.](https://rwu.pressbooks.pub/app/uploads/sites/7/2019/05/figure9.1.2-1024x688.png)
+
+Arus Laut dalam Sistem Pusaran Samudera ([NOC, CC BY-NC-SA 2.0, http://www.seos-project.eu/modules/oceancurrents/oceancurrents-c02-p01.html](https://rwu.pressbooks.pub/webboceanography/chapter/9-1-surface-gyres/))
+
+## 10.2. Sirkulasi Termohalin
+
+
 # 11. Perubahan Iklim
 ## 11.1. Defininsi
-## 11.2. Mekanisme Perubahan Iklim
+## 11.2. Mekanisme Pemanasan Global
+## 11.3. Umpan Balik Sistem Iklim
+Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
 ## 11.3. Dampak Perubahan Iklim
