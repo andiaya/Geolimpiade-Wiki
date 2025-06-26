@@ -698,7 +698,7 @@ Nacreous / Polar Stratospheric Cloud ([NASA, Public Domain](https://commons.wiki
 Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=35913781)) 
 
 # 9. Bencana Meteorologis
-Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
+Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi hujan dengan intensitas ekstrem, banjir, tanah longsor, dan angin kencang. Berikut ini merupakan beberapa proses yang menyebabkan bencana tersebut:
 ## 9.1. Siklon
 Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Terdapat beberapa istilah lain yang digunakan untuk menamai siklon, misal taifun di Pasifik Barat, willy-willy di Australia, dan hurricane di Amerika Serikat. Siklon memiliki skala sinoptik, artinya mencakup wilayah yang luas. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
 * Temperatur permukaan laut hangat, lebih dari 26&deg;C, sebagai sumber energi konveksi dan pembentuk pusat tekanan rendah
@@ -789,7 +789,11 @@ Kartogram Jumlah Kejadian Gelombang Panas (2001 - 2017) ([Worldmapper](https://w
 
 Kartogram Jumlah Kematian karena Gelombang Panas (2001 - 2017) ([Worldmapper](https://worldmapper.org/maps/heatwaves-deaths-2001to2017/))
 
-## 9.5. Bencana Meteorologis Lain
+## 9.5. Banjir
+Banjir merupakan kondisi tergenangnya wilayah yang umumnya kering. Terdapat 3 jenis banjir:
+* Banjir Pluvial: pluvial berarti terkait dengan hujan. Banjir tipe ini mencakup banjir genangan akibat drainase yang tidak dapat mengimbangi debit air hujan dan banjir bandang yang terbentuk di lereng-lereng curam. Banjir bandang dicirikan dengan banyaknya kandungan sedimen dan debris yang terbawa oleh aliran air. Banjir bandang juga dapat terjadi pada lembah sungai hulu yang tidak terlalu curam, namun aliran sungai tersebut terhambat oleh longsor yang menutup lembah sungai. Ketika "bendungan alami" yang terbentuk oleh longsor tersebut hancur, maka terbentuk banjir bandang.
+* Banjir Fluvial: fluvial berarti terkait dengan sungai. Banjir tipe ini disebut juga banjir limpasan sungai atau banjir kiriman. Banjir fluvial terbentuk di sungai bagian tengah dan hilir, menggenangi bagian dataran banjir dari lembah sungai. Luapan sungai ke dataran banjir merupakan bagian dari proses alami bentanglahan sungai.
+* Banjir Pesisir: terbentuk karena gelombang tinggi, pasang tinggi, dan kenaikan muka air laut. Kenaikan muka air laut dapat disebabkan karena penurunan ketinggian daratan (subsidensi) atau penambahan volume air laut akibat pemanasan global. Banjir pesisir memiliki nama lain yaitu rob.
 
 # 10. Umpan Balik Sistem Iklim dan Lautan
 # 11. Perubahan Iklim
