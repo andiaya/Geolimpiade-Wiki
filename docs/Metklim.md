@@ -771,7 +771,19 @@ Peta Risiko Kekeringan Dunia ([Buccholz for Statista, 2021](https://www.statista
 ## 9.4. Gelombang Panas
 Gelombang panas adalah kondisi panas ekstrem dalam kurun waktu cukup panjang, antara 2 hari hingga beberapa bulan. Gelombang panas memiliki berbagai mekanisme pembentukan, mencakup proses timbulnya massa udara panas dan lembap di dekat permukaan serta penghambatan proses konvektif karena keberadaan massa udara bertekanan tinggi di atmosfer bagian atas. Gelombang panas dapat menjadi bencana karena menyebabkan sengatan panas (heat stroke). Heat stroke terjadi karena kondisi kelembapan yang tinggi dan udara yang statis menyebabkan berkurangnya penguapan keringat. Keringat merupakan mekanisme penting tubuh untuk menjaga keseimbangan (homeostasis) suhu tubuh. Heat stroke menyebabkan rasa pusing, pingsan, hingga kematian.
 
-Dampak 
+![Heatwave illustration.](https://upload.wikimedia.org/wikipedia/commons/e/ea/Heat_Wave.jpg)
+
+Ilustrasi Kondisi Atmosfer Gelombang Panas ([By U. S. National Weather Service/National Ocean Service, Public Domain](https://commons.wikimedia.org/w/index.php?curid=18826480))
+
+Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa Timur yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
+
+![Heatwave cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalHeatwaves_2001to2017-1200x600.png)
+
+Kartogram Jumlah Kejadian Gelombang Panas (2001 - 2017) ([Worldmapper](https://worldmapper.org/maps/heatwaves-total-2001to2017/))
+
+![Heatwave death cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalDeaths_2001to2017-1200x600.png)
+
+Kartogram Jumlah Kematian karena Gelombang Panas (2001 - 2017) ([Worldmapper](https://worldmapper.org/maps/heatwaves-deaths-2001to2017/))
 
 ## 9.5. Bencana Meteorologis Lain
 
