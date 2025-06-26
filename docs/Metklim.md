@@ -698,9 +698,9 @@ Nacreous / Polar Stratospheric Cloud ([NASA, Public Domain](https://commons.wiki
 Noctilucent ([By Doomych - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=35913781)) 
 
 # 9. Bencana Meteorologis
-Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi:
+Bencana meteorologis adalah kejadian yang mengganggu kehidupan dan penghidupan manusia akibat proses-proses meteorologis. Bencana meteorologis meliputi hujan dengan intensitas ekstrem, banjir, tanah longsor, dan angin kencang. Berikut ini merupakan beberapa proses yang menyebabkan bencana tersebut:
 ## 9.1. Siklon
-Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
+Siklon adalah gerakan massa udara berukuran besar, berputar mengelilingi pusat tekanan rendah yang kuat. Terdapat beberapa istilah lain yang digunakan untuk menamai siklon, misal taifun di Pasifik Barat, willy-willy di Australia, dan hurricane di Amerika Serikat. Siklon memiliki skala sinoptik, artinya mencakup wilayah yang luas. Siklon dapat terbentuk di lintang tengah karena front oklusi dingin, dinamakan siklon ekstratropis. Siklon tropis terbentuk di sekitar ekuator karena proses konveksi yang sangat kuat. Syarat terbentuknya siklon tropis yaitu:
 * Temperatur permukaan laut hangat, lebih dari 26&deg;C, sebagai sumber energi konveksi dan pembentuk pusat tekanan rendah
 * Berada di lintang >4&deg;, sehingga gaya koriolis cukup besar untuk membentuk gerakan memutar
 * Geser angin (windshear) lemah, sehingga updraft dapat membentuk awan vertikal. Geser angin adalah perbedaan arah dan kecepatan angin pada atmosfer beda ketinggian. Geser angin tinggi menghambat pembentukan awan vertikal, karena awan tidak dapat membentuk satu tubuh yang utuh dari permukaan hingga ketinggian tinggi.
@@ -711,18 +711,89 @@ Anatomi Siklon ([Terry, 2007](https://doi.org/10.1007/978-0-387-71543-8))
 
 Siklon berkembang dari gabungan berbadai sistem badai. Siklon berkembang melalui tahap-tahap berikut:
 
-(a). Gangguan tropis:
+(a). Gangguan tropis: proses konveksi yang kuat membentuk beberapa sistem hujan badai (thunderstorm). Updraft yang kuat menyebabkan udara berpindah dari permukaan laut ke atmosfer bagian atas, membentuk tekanan rendah di permukaan. Namun, pada tahap ini, tekanan rendah tersebut belum membentuk satu pusat dengan isobar tertutup. Angin yang terbentuk memiliki kecepatan kurang dari 20 knot.
 
-(b). Depresi tropis:
+(b). Depresi tropis: menandakan sebuah depresi atau pusat tekanan rendah, ditandai dengan satu isobar tertutup. Sistem badai yang ada bergabung dan angin yang terbentuk memiliki kecepatan 20 - 34 knot.
 
-(c). Badai tropis:
+(c). Badai tropis: memiliki 2 isobar tertutup, sehingga terbentuk gerakan memutar angin gradien di antara dua isobar tersebut. Angin yang terbentuk memiliki kecepatan 35 - 64 knot. Pada tahap ini belum terbentuk anatomi mata badai. Otoritas pemantauan siklon memberi nama siklon pada tahap ini. Nama siklon di Indonesia dipilih dari nama bunga sedangkan di Amerika Serikat dan Australia, siklon dinamai dengan nama laki-laki dan perempuan secara bergantian.
 
-(d). Siklon tropis:
+(d). Siklon tropis: memiliki morfologi mata badai. Sistem pusat tekanan udara membentuk 3 isobar tertutup dan angin yang ditimbulkan mencapai kecepatan > 64 knot (>74 mph atau >119 km/h)
+
+![Daur hidup siklon.](https://www.hurricanescience.org/images/hss/Hurricane_Life_Cycle-2.jpg)
+
+Daur Hidup Siklon ([NOAA](https://www.hurricanescience.org/images/hss/Hurricane_Life_Cycle-2.jpg))
+
+Siklon dapat menimbulkan kodisi cuaca hujan ekstrem dan angin kencang. Kondisi cuaca inilah yang menyebabkan bencana seperti banjir, tanah longsor, dan angin yang merusak bangunan. Selain itu, tekanan rendah yang berada di pusat sistem siklon menyebabkan permukaan air laut bertambah ketinggiannya. Ketika siklon tersebut mengenai daratan, akan terbentuk gelombang tinggi yang disebut storm surge.
+
+Daya rusak siklon dapat diperkirakan berdasarkan kecepatan angin menerus (rata-rata dalam kurun waktu tertentu, dalam hal ini 1 menit). Kecepatan angin siklon diklasifikasikan menurut sistem skala Saffir-Simpson menjadi 5 kelas, 1 - 5.
+
+| Kategori | Kecepatan Angin (knot) |
+| :------: | ---------------------: |
+|   SS1    |        64 - 82         |
+|   SS2    |        83 - 95         |
+|   SS3    |        96 - 112        |
+|   SS4    |       113 - 136        |
+|   SS5    |         > 137          |
 
 ## 9.2. Tornado
+Tornado merupakan gerakan siklonik (gerakan memutar) berskala meso. Tornado juga dapat terbentuk dari proses front oklusi seperti siklon. Tornado tipe ini dinamakan supercell tornado. Berbeda dengan siklon, tornado tipe ini terbentuk dari satu sistem hujan badai (supercell thunderstorm) saja. Pembentukan supercell tornado diawali oleh keberadaan geser angin pada sistem hujan badai. Geser angin ini terbentuk karena gerakan angin dari pinggiran sistem hujan badai ke arah updraft di tengah. Geser angin tersebut membentuk gerakan memutar (vorticity) horizontal. Updraft membelokkan gerakan memutar tersebut menjadi vertikal dan gerakan updraft ikut memutar, sehingga membentuk tornado. Tornado yang terbentuk di atas perairan disebut waterspout.
+
+![Supercell tornado.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Supercell02.svg/960px-Supercell02.svg.png)
+
+Anatomi Supercell ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4445271))
+
+![image](https://github.com/user-attachments/assets/d06ae6be-d846-4a2c-9344-19c8da745b28)
+
+Pembentukan Supercell Tornado ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://en.wikipedia.org/wiki/Supercell))
+
+Non-supercell tornado, seringkali dinamakan landspout atau non-tornadic waterspout, terbentuk karena gerakan memutar vertikal akibat keberadaan geser angin horizontal pada lapisan batas Bumi. Geser angin horizontal ini mungkin terbentuk karena perubahan arah dan kecepatan angin akibat halangan atau pertemuan dua atau lebih angin di dekat permukaan. Suatu updraft sistem awan kumulonimbus dapat memperkuat gerakan memutar tersebut dan memperpanjang gerakannya hingga mencapai dasar awan. Fenomena ini memiliki masa hidup sangat singkat, 15 hingga 20 menit.
+
+![Landspout.](https://www.weather.gov/images/cys/SkyWarn/image.png)
+
+Ilustrasi Pembentukan Landspout ([NWS, 2023](https://www.weather.gov/cys/CheyenneLandspout))
+
+Tornado banyak terbentuk di Amerika Serikat di area yang dinamakan Lorong Tornado (Tornado Alley). Lorong Tornado mencakup wilayah di tengah benua Amerika Utara tempat bertemunya 4 massa udara berbeda, sehingga memiliki banyak proses frontal. Selain itu, tornado juga terbentuk di Afrika Selatan, Eropa (kecuali di Pegunungan Alpen), Australia Barat dan Timur, Selandia Baru, Bangladesh dan India Timur, Filipina, serta Amerika Selatan bagian Tenggara (Uruguay dan Argentina). Kerusakan yang disebabkan tornado terjadi karena angin kencang menerbangkan objek serta kerusakan karena tabrakan objek yang terbawa angin. Tingkat kerusakan tornado dipengaruhi oleh intensitasnya. Intensitas tornado diklasifikasikan berdasarkan sistem skala Enhanced Fujita menjadi 6 tingkat, 0 - 5.
+
+| Kategori | Kecepatan Angin (knot) |
+| :------: | ---------------------: |
+|   EF0    |        56 - 74         |
+|   EF1    |        75 - 95         |
+|   EF2    |        96 - 117        |
+|   EF3    |       118 - 143        |
+|   EF4    |       144 - 174        |
+|   EF5    |         > 174          |
+
 ## 9.3. Kekeringan
+Kekeringan adalah kondisi keberadaan air di suatu tempat memiliki jumlah yang lebih rendah dari kondisi normal. Kekeringan dapat ditentukan berdasarkan kondisi meteorologis, pertanian, dan hidrologis. Kekeringan meteorologis merupakan kondisi presipitasi yang lebih rendah dan evapotranspirasi yang lebih tinggi daripada keadaan normal. Ketika kekeringan meteorologis terjadi dalam jangka panjang, maka dapat membentuk kekeringan pertanian.
+
+Kekeringan pertanian adalah kondisi kelembapan tanah dekat permukaan yang tidak mendukung kehidupan dan perkembangan tanaman. Akibatnya, tanaman mengalami water stress, pengurangan biomassa, dan berkurangnya hasil pertanian. Kekeringan pertanian yang berkepanjangan menyebabkan berkurangnya simpanan air tanah, sehingga debit mata air yang mengisi sungai dan danaupun berkurang. Ketika jumlah air yang berada dalam simpanan permukaan berkurang, maka kondisi tersebut disebut kekeringan hidrologis. Kekeringan hidrologis menyebabkan pengurangan lahan basah dan habitat satwa liar.
+
+![Kekeringan.](https://cdn.statcdn.com/Infographic/images/normal/25101.jpeg)
+
+Peta Risiko Kekeringan Dunia ([Buccholz for Statista, 2021](https://www.statista.com/chart/25101/countries-by-drought-risk/))
+
 ## 9.4. Gelombang Panas
-## 9.5. Bencana Meteorologis Lain
+Gelombang panas adalah kondisi panas ekstrem dalam kurun waktu cukup panjang, antara 2 hari hingga beberapa bulan. Gelombang panas memiliki berbagai mekanisme pembentukan, mencakup proses timbulnya massa udara panas dan lembap di dekat permukaan serta penghambatan proses konvektif karena keberadaan massa udara bertekanan tinggi di atmosfer bagian atas. Gelombang panas dapat menjadi bencana karena menyebabkan sengatan panas (heat stroke). Heat stroke terjadi karena kondisi kelembapan yang tinggi dan udara yang statis menyebabkan berkurangnya penguapan keringat. Keringat merupakan mekanisme penting tubuh untuk menjaga keseimbangan (homeostasis) suhu tubuh. Heat stroke menyebabkan rasa pusing, pingsan, hingga kematian.
+
+![Heatwave illustration.](https://upload.wikimedia.org/wikipedia/commons/e/ea/Heat_Wave.jpg)
+
+Ilustrasi Kondisi Atmosfer Gelombang Panas ([By U. S. National Weather Service/National Ocean Service, Public Domain](https://commons.wikimedia.org/w/index.php?curid=18826480))
+
+Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa Timur yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
+
+![Heatwave cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalHeatwaves_2001to2017-1200x600.png)
+
+Kartogram Jumlah Kejadian Gelombang Panas (2001 - 2017) ([Worldmapper](https://worldmapper.org/maps/heatwaves-total-2001to2017/))
+
+![Heatwave death cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalDeaths_2001to2017-1200x600.png)
+
+Kartogram Jumlah Kematian karena Gelombang Panas (2001 - 2017) ([Worldmapper](https://worldmapper.org/maps/heatwaves-deaths-2001to2017/))
+
+## 9.5. Banjir
+Banjir merupakan kondisi tergenangnya wilayah yang umumnya kering. Terdapat 3 jenis banjir:
+* Banjir Pluvial: pluvial berarti terkait dengan hujan. Banjir tipe ini mencakup banjir genangan akibat drainase yang tidak dapat mengimbangi debit air hujan dan banjir bandang yang terbentuk di lereng-lereng curam. Banjir bandang dicirikan dengan banyaknya kandungan sedimen dan debris yang terbawa oleh aliran air. Banjir bandang juga dapat terjadi pada lembah sungai hulu yang tidak terlalu curam, namun aliran sungai tersebut terhambat oleh longsor yang menutup lembah sungai. Ketika "bendungan alami" yang terbentuk oleh longsor tersebut hancur, maka terbentuk banjir bandang.
+* Banjir Fluvial: fluvial berarti terkait dengan sungai. Banjir tipe ini disebut juga banjir limpasan sungai atau banjir kiriman. Banjir fluvial terbentuk di sungai bagian tengah dan hilir, menggenangi bagian dataran banjir dari lembah sungai. Luapan sungai ke dataran banjir merupakan bagian dari proses alami bentanglahan sungai.
+* Banjir Pesisir: terbentuk karena gelombang tinggi, pasang tinggi, dan kenaikan muka air laut. Kenaikan muka air laut dapat disebabkan karena penurunan ketinggian daratan (subsidensi) atau penambahan volume air laut akibat pemanasan global. Banjir pesisir memiliki nama lain yaitu rob.
 
 # 10. Umpan Balik Sistem Iklim dan Lautan
 # 11. Perubahan Iklim
