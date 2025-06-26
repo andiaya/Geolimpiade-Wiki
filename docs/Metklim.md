@@ -742,6 +742,10 @@ Tornado merupakan gerakan siklonik (gerakan memutar) berskala meso. Tornado juga
 
 Anatomi Supercell ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=4445271))
 
+![image](https://github.com/user-attachments/assets/d06ae6be-d846-4a2c-9344-19c8da745b28)
+
+Pembentukan Supercell Tornado ([By Vanessa Ezekowitz, CC BY-SA 3.0](https://en.wikipedia.org/wiki/Supercell))
+
 Non-supercell tornado, seringkali dinamakan landspout atau non-tornadic waterspout, terbentuk karena gerakan memutar vertikal akibat keberadaan geser angin horizontal pada lapisan batas Bumi. Geser angin horizontal ini mungkin terbentuk karena perubahan arah dan kecepatan angin akibat halangan atau pertemuan dua atau lebih angin di dekat permukaan. Suatu updraft sistem awan kumulonimbus dapat memperkuat gerakan memutar tersebut dan memperpanjang gerakannya hingga mencapai dasar awan. Fenomena ini memiliki masa hidup sangat singkat, 15 hingga 20 menit.
 
 ![Landspout.](https://www.weather.gov/images/cys/SkyWarn/image.png)
