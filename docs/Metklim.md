@@ -354,12 +354,16 @@ Penakar Hujan Tipe Manual, Hellman, dan Tipping Bucket ([Maftukhah, Wijonarko, d
 # 4. Klasifikasi Iklim
 Iklim Bumi dapat dilihat sebagai sebuah sistem yang memiliki input (masukan), proses, dan mengeluarkan output (luaran) tertentu. Input utama sistem iklim adalah radiasi Matahari, beserta dengan input lain dari luar sistem iklim seperti erupsi gunung api dan polusi. Prosesnya mencakup seluruh proses dalam komponen atmosfer, litosfer (tanah), hidrosfer (air), biosfer (makhluk hidup), dan kriosfer (es), meliputi penyerapan dan pemantulan, sirkulasi atmosfer dan lautan, dan mekanisme umpan balik iklim. Luarannya adalah parameter iklim seperti temperatur, kelembapan, angin, dan curah hujan.
 
-Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya. Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik. Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
+Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya. Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik.
+
+## 4.1. Klasifikasi Genetik
+Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
 * Flohn: menggunakan pendekatan proses dinamik/sinoptik atmosfer, diklasifikasikan berdasarkan determinan fisik.
 * Budyko: menggunakan pendekatan neraca energi untuk mengklasifikasikan iklim. Klasifikasinya ditentukan menggunakan indeks kekeringan yang dihitung dari rasio evapotranspirasi potensial terhadap curah hujan.
 * Strahler: klasifikasi kualitatif berdasarkan kombinasi massa udara yang ada di suatu wilayah selama satu tahun.
 
-Sementara itu, klasifikasi empiris menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
+## 4.2. Klasifikasi Empirik
+Klasifikasi empirik menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
 * Mohr: klasifikasi berdasarkan total jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
 * Schmidt-Fergusson: klasifikasi berdasarkan rasio jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
 * Oldeman: klasifikasi berdasarkan jumlah bulan kering (curah hujan < 100 mm) dan jumlah bulan basah berturut-turut (curah hujan > 200 mm) dalam satu tahun. Nilai curah hujan 200 mm adalah nilai umum curah hujan yang dibutuhkan untuk budidaya padi. Metode Oldeman mensyaratkan lama pengukuran 10 tahun.
@@ -403,6 +407,13 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
 
 Tentang klasifikasi Junghuhn\
   Klasifikasi Junghuhn umumnya tidak dimasukkan dalam daftar klasifikasi genetik-empiris. Klasifikasi ini menggunakan ketinggian dari permukaan laut (faktor geografis, genetik) sebagai penentu klasifikasi, namun, pendekatan yang digunakan adalah pendekatan ekosistem, yang perkembangannya disebabkan oleh proses iklim (empirik).
+
+Pembagian Wilayah Menurut Pola Curah Hujan di Indonesia\
+BMKG membagi wilayah Indonesia menjadi 3 zona musim berdasarkan pola hujannya. Zona musim tersebut adalah monsunal (A), ekuatorial (B), dan lokal (C). Zona musim monsunal memiliki satu puncak (unimodal) musim hujan di akhir-awal tahun. Zona musim ekuatorial memiliki curah hujan tinggi sepanjang tahun dengan 2 puncak (bimodal) musim hujan di sekitar bulan April dan Oktober (mengikuti gerakan Matahari melewati ekuator). Zona musim lokal dapat memiliki satu puncak musim hujan di pertengahan tahun atau memiliki curah hujan rendah sepanjang tahun.
+
+![Peta ZOM.](https://github.com/user-attachments/assets/5c8107b7-c3ea-4761-85a3-2bb2fd3c6ab6)
+
+Peta Zona Musim (ZOM) Indonesia ([BMKG, 2020](https://iklim.bmkg.go.id/bmkgadmin/storage/buletin/Buku_ZOM9120_versi_cetak.pdf))
 
 # 5. Gerak Atmosfer
 ## 5.1. Sirkulasi Umum Atmosfer
@@ -549,7 +560,7 @@ Peta Massa Udara Dunia ([Public Domain](https://commons.wikimedia.org/w/index.ph
 
 Keterangan: m = maritim, c = kontinental, P = Polar, T = Tropis, E = Ekuatorial
 
-Pertemuan antar massa udara yang memiliki berat jenis berbeda disebut front. Perbedaan berat jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
+Pertemuan antar massa udara yang memiliki massa jenis berbeda disebut front. Perbedaan massa jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
 * Front Hangat: terbentuk ketika massa udara bersuhu hangat bergerak menggantikan massa udara dingin yang meninggalkan suatu wilayah. Front hangat menyebabkan hujan di area luas dan berdurasi lama.
   
   ![Front hangat.](https://github.com/user-attachments/assets/4379a1a2-86d5-497d-9b6e-5cf6db4119b9)
@@ -779,7 +790,7 @@ Gelombang panas adalah kondisi panas ekstrem dalam kurun waktu cukup panjang, an
 
 Ilustrasi Kondisi Atmosfer Gelombang Panas ([By U. S. National Weather Service/National Ocean Service, Public Domain](https://commons.wikimedia.org/w/index.php?curid=18826480))
 
-Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa Timur yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
+Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
 
 ![Heatwave cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalHeatwaves_2001to2017-1200x600.png)
 
@@ -795,8 +806,35 @@ Banjir merupakan kondisi tergenangnya wilayah yang umumnya kering. Terdapat 3 je
 * Banjir Fluvial: fluvial berarti terkait dengan sungai. Banjir tipe ini disebut juga banjir limpasan sungai atau banjir kiriman. Banjir fluvial terbentuk di sungai bagian tengah dan hilir, menggenangi bagian dataran banjir dari lembah sungai. Luapan sungai ke dataran banjir merupakan bagian dari proses alami bentanglahan sungai.
 * Banjir Pesisir: terbentuk karena gelombang tinggi, pasang tinggi, dan kenaikan muka air laut. Kenaikan muka air laut dapat disebabkan karena penurunan ketinggian daratan (subsidensi) atau penambahan volume air laut akibat pemanasan global. Banjir pesisir memiliki nama lain yaitu rob.
 
-# 10. Umpan Balik Sistem Iklim dan Lautan
+# 10. Hubungan Sirkulasi Atmosfer dan Samudera
+Seperti halnya udara di atmosfer, air di samudera juga membentuk sirkulasi akibat ketimpangan energi Matahari yang diterima wilayah-wilayah di permukaan Bumi. Setidaknya terdapat 2 sirkulasi samudera yang berinteraksi dengan iklim, yaitu:
+## 10.1. Pusaran Samudera (Ocean Gyre)
+Gyre adalah gerakan memutar. Ocean gyre merupakan arus samudera yang memiliki gerak memutar, ke arah Barat di Ekuator, lalu dibelokkan ke arah kutub, kemudian bergerak ke arah Timur di dekat kutub dan kembali ke Ekuator. Arus air laut tersebut terbentuk dari angin timuran (angin pasat) di dekat Ekuator dan angin baratan yang terbentuk di perbatasan lintang tengah dan lintang kutub. Salah satu karakteristik sirkulasi ini adalah arus ke arah kutub di sisi Barat samudera memiliki kekuatan yang lebih tinggi daripada arus ke arah Ekuator.
+
+Arus ke arah kutub membawa air bersuhu hangat dari Ekuator, dinamakan arus hangat, sedangkan arus ke arah Ekuator membawa air bersuhu dingin, dinamakan arus dingin. Arus hangat yang mengalir di bagian Barat samudera menyebabkan bagian Timur benua memiliki cuaca yang lebih hangat dan lembap daripada bagian Barat benua. Sistem ocean gyre terbentuk di Samudera Atlantik Utara dan Selatan, Samudera Pasifik Utara dan Selatan, serta Samudera Hindia.
+
+![Ocean gyre.](https://rwu.pressbooks.pub/app/uploads/sites/7/2019/05/figure9.1.2-1024x688.png)
+
+Arus Laut dalam Sistem Pusaran Samudera ([NOC, CC BY-NC-SA 2.0, http://www.seos-project.eu/modules/oceancurrents/oceancurrents-c02-p01.html](https://rwu.pressbooks.pub/webboceanography/chapter/9-1-surface-gyres/))
+
+## 10.2. Sirkulasi Termohalin
+Termo berarti temperatur, haline berarti kadar garam. Sirkulasi termohalin terbentuk karena adanya gradien temperatur dan kadar garam yang mempengaruhi massa jenis air laut di wilayah berbeda. Pendorong utama pembentukan sirkulasi ini terjadi di Samudera Atlantik Utara dan Samudera Antartika.
+
+Distribusi daratan dan lautan di Samudera Atlantik Utara menyebabkan terbentuknya arus hangat yang kuat, yaitu arus teluk (gulf stream). Arus ini merupakan bagian dari sistem ocean gyre, namun juga merupakan proses utama dalam sirkulasi termohalin. Arus ini menyebabkan terbentuknya cuaca yang lembap di Benua Eropa bagian Barat, lebih lembap daripada wilayah lain di lintang tersebut. Suhu air laut yang lebih hangat juga membentuk perbedaan tekanan udara yang lebih tinggi, membentuk angin yang lebih kuat. Angin yang kuat menyebabkan evaporasi yang tinggi. Presipitasi yang rendah di lintang tersebut menyebabkan evaporasi yang lebih tinggi dari presipitasi di Atlantik Utara. Evaporasi dan pendinginan di Atlantik Utara membentuk air yang memiliki kadar garam yang lebih tinggi dan temperatur yang lebih rendah daripada wilayah lautan lain. Air dengan kadar garam yang tinggi dan temperatur yang rendah memiliki massa jenis (densitas) yang tinggi, sehingga air tersebut mengalami penenggelaman atau downwelling. 
+
+Downwelling juga terjadi di Samudera Antartika. Pecahnya es laut (sea ice) dari dataran es Antartika membentuk area laut terbuka di antara es laut dan dataran es, dinamakan polynya. Es laut baru terbentuk di polynya karena angin dan suhu yang dingin di Antartika. Akibatnya, saat air laut berubah menjadi es, garam yang tertinggal menyebabkan air laut di bawah es memiliki salinitas (kadar garam) yang lebih tinggi daripada sebelumnya. Air tersebut memiliki massa jenis yang lebih tinggi, sehingga mengelami downwelling.
+
+Air laut yang tenggelam di Atlantik Utara, dinamakan North Atlantic Deep Water (NADW), mengisi air laut dalam Samudera Atlantik dan Hindia. Sementara itu, air laut yang tenggelam di Antartika, dinamakan Antartic Bottom Water (AABW) mengisi air laut dalam di Samudera Pasifik. Air yang tenggelam tersebut menggantikan air laut dalam yang berusia lebih tua, karena air laut dalam tua tersebut sudah mengalami percampuran, sehingga massa jenisnya lebih rendah daripada air yang baru mengalami penenggelaman. Air laut dalam lama tersebut mengalami gerakan naik atau upwelling.
+
+Arus air laut dalam meninggalkan Samudera Atlantik menyebabkan ketinggian air permukaan yang lebih rendah daripada Samudera Pasifik. Akibatnya, terbentuk arus laut permukaan yang membawa air hangat dari Samudera Pasifik ke Samudera Atlantik. Arus tersebut melewati Indonesia, membentuk arus kuat bernama Arus Lintas Indonesia (Arlindo) atau Indonesian Through Flow (ITF). Arus tersebut kemudian melewati Samudera Hindia, menyebabkan adanya pembalikan arus (overturning) dari Samudera Atlantik. Lalu, arus permukaan tersebut bergerak melalui Selatan Afrika dan menuju Atlantik Utara membentuk satu sirkulasi tertutup. Oleh karena itu, sirkulasi ini juga disebut great ocean conveyor belt dan Meridional Overturning Circulation (MOC).
+
+![Termohalin.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thermohaline_circulation.svg/512px-Thermohaline_circulation.svg.png)
+
+Ilustrasi Sirkulasi Termohalin ([By cmglee, Avsa et al - Conveyor belt.svg, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112110859))
+
 # 11. Perubahan Iklim
 ## 11.1. Defininsi
-## 11.2. Mekanisme Perubahan Iklim
+## 11.2. Mekanisme Pemanasan Global
+## 11.3. Umpan Balik Sistem Iklim
+Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
 ## 11.3. Dampak Perubahan Iklim
