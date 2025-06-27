@@ -7,7 +7,6 @@ toc_sticky: true
 sidebar:
   nav: "docs"
 ---
-# Meteorologi dan Klimatologi
 # 1. Definisi Cuaca dan Iklim
 Cuaca adalah kondisi atmosfer di suatu tempat pada waktu tertentu.
 Iklim adalah rata-rata dan variansi kondisi atmosfer di suatu tempat dalam jangka waktu tertentu (BMKG: 10 Tahun, WMO: 30 Tahun).
@@ -833,8 +832,58 @@ Arus air laut dalam meninggalkan Samudera Atlantik menyebabkan ketinggian air pe
 Ilustrasi Sirkulasi Termohalin ([By cmglee, Avsa et al - Conveyor belt.svg, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112110859))
 
 # 11. Perubahan Iklim
-## 11.1. Defininsi
-## 11.2. Mekanisme Pemanasan Global
-## 11.3. Umpan Balik Sistem Iklim
-Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
+Peubahan iklim adalah perubahan pada parameter iklim di suatu wilayah. Iklim diidentifikasi dari nilai rata-rata dan variabilitas parameter iklim. Misalnya, iklim dalam klasifikasi Oldeman ditentukan berdasarkan curah hujan rata-rata bulanan dan iklim dalam klasifikasi Koppen salah satunya diklasifikasikan berdasarkan temperatur maksimal dan minimal yang dapat dilihat dari nilai variabilitas. Sistem iklim yang saling berhubungan menyebabkan permasalahan perubahan iklim menjadi permasalahan global. Program Lingkungan Persatuan Bangsa-Bangsa (UNEP/United Nations Environmental Program) dan Organisasi Meteorologi Dunia (WMO/World Meteorological Organization) membentuk badan internasional untuk menganalisis perubahan iklim secara ilmiah. Badan tersebut bernama International Panel on Climate Change (IPCC).
+
+IPCC menganalisis perubahan iklim sebagai perubahan pada rata-rata dan variabilitas iklim akibat proses alami maupun proses yang disebabkan oleh manusia (antropogenik). IPCC memberikan hasil analisis tersebut kepada pemerintah negara-negara Dunia. Pemerintah negara-negara Dunia tersebut menegosiasikan perjanjian untuk menghadapi perubahan iklim dalam United Nations Framework Convention on Climate Change (UNFCCC). Konvensi ini bertujuan untuk membatasi perubahan iklim berbahaya yang disebabkan oleh gangguan manusia.
+
+## 11.1. Mekanisme Perubahan Iklim
+Perubahan iklim umumnya ditandai dengan perubahan rata-rata temperatur. Perubahan iklim dapat terjadi secara lokal maupun global. Kandungan gas atmosfer merupakan salah satu faktor yang mempengaruhi iklim, salah satu komponen neraca radiasi Bumi adalah pemantulan radiasi gelombang panjang Bumi dan mencegah pelepasan panas ke luar angkasa. Fenomena tersebut disebut efek rumah kaca dan gas yang menyebabkan fenomena tersebut dinamakan gas rumah kaca. Mekanisme ini merupakan salah satu kontrol temperatur Bumi yang menyebabkan Bumi dapat mendukung kehidupan.
+
+### 11.1.1. Perubahan Iklim Lokal
+Perubahan iklim lokal terjadi karena perubahan tutupan lahan. Fenomena yang banyak terjadi adalah fenomena pulau bahan perkotaan (UHI/Urban Heat Island). Ketika suatu wilayah mengalami perubahan karakteristik morfologis dari karakteristik rural (pedesaan) menjadi karakteristik urban (perkotaan), terdapat berbagai perubahan proses yang berkaitan dengan cuaca dan iklim, berikut merupakan beberapa fenomena yang terjadi. Pertama, perubahan tutupan lahan dari vegetasi menjadi lahan terbangun meningkatkan albedo. Kedua, terdapat tambahan sumber pemanasan permukaan dari kegiatan manusia, seperti panas mesin, pembakaran, dan pompa kalor (heat pump/pendingin udara).
+
+Ketiga, terjadi pengurangan tingkat evapotranspirasi, karena terjadi pengurangan area tanah terbuka, perairan terbuka, dan area dengan tutupan vegetasi. Keempat, pengurangan evapotranspirasi menyebabkan pengurangan tingkat kelembapan, sehingga kalor laten yang ada di atmosfer berkurang, menyebabkan suhu yang lebih tinggi. Kelima, halangan bangunan menyebabkan angin bergerak melalui lorong-lorong angin di antara bangunan, membentuk gerakan turbulensi dan kecepatan angin yang kuat di area tertentu. Keenam, polusi gas rumah kaca lokal menyebabkan terperangkapnya panas di wilayah kota. Berbagai mekanisme tersebut saling mempengaruhi, sehingga membentuk kondisi iklim perkotaan dengan temperatur yang lebih tinggi dari wilayah sekitarnya.
+
+![UHI.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Urban_heat_island.svg/687px-Urban_heat_island.svg.png)
+
+Ilustrasi Pulau Bahang Perkotaan ([By TheNewPhobia - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=5263244))
+
+### 11.1.2. Perubahan Iklim Global
+Bumi mengalami perubahan iklim global berulang kali, seringkali kita kenal sebagai Zaman Es. Dalam Zaman Es tersebut terdapat periode glasial dan interglasial dimana tutupan es di permukaan Bumi mengalami penambahan dan pengurangan. Perubahan iklim global tersebut dipengaruhi oleh beberapa sebab, yaitu perubahan pada komposisi gas rumah kaca, terutama karbondioksida dan metana, di atmosfer, perubahan orbit Bumi terhadap Matahari, perubahan persebaran benua dan samudera, perubahan luaran radiasi Matahari, perubahan orbit Bulan terhadap Bumi, dan kejadian jatuhan meteor atau erupsi gunung api.
+
+Perubahan komposisi atmosfer menyebabkan perubahan pada kekuatan efek rumah kaca. Perubahan orbit Bumi memiliki periode berulang, dinamakan siklus Milankovitch, menyebabkan perubahan jumlah dan distribusi radiasi Matahari yang mencapai permukaan Bumi. Perubahan persebaran benua dan samudera serta perubahan orbit Bulan mempengaruhi sirkulasi laut dan atmosfer. Sementara itu, jatuhan meteor dan erupsi gunung api melepaskan gas rumah kaca, sulfur, dan debu vulkanik yang mempengaruhi neraca energi Bumi.
+
+Perubahan iklim modern utamanya disebabkan karena peningkatan proporsi gas rumah kaca di atmosfer, terutama karbondioksida (CO2), dari emisi kegiatan manusia. Pembakaran bahan bakar fosil melepaskan kembali karbon yang sebelumnya terperangkap di dalam sistem litosfer ketika tumbuhan dan alga masa lalu mati dan tertimbun. Laju pembakaran bahan bakar fosil sangat cepat sehingga dampak lingkungan yang ditimbulkan sulit untuk diprediksi dan ditanggulangi. Hal ini disebabkan karena kompleksitas sistem iklim dan keterkaitan antar komponen sistem iklim yang kuat.
+
+![Grafik temperatur rata-rata.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Global_Temperature_And_Forces_With_Fahrenheit.svg/960px-Global_Temperature_And_Forces_With_Fahrenheit.svg.png)
+
+Grafik Temperatur Dunia Rata-rata ([By Efbrazil - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=113363595))
+
+## 11.2. Umpan Balik Sistem Iklim
+Iklim Bumi berada di suatu kesetimbangan karena komponen sistem iklim berinteraksi dan membentuk umpan balik. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Sehingga, ketika terjadi perubahan pada satu komponen, sistem dapat kembali ke kondisi kesetimbangan.
+
+![Umpan balik.](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/images/climate_feedback_loop.jpg.webp?itok=jur9Oe24)
+
+Ilustrasi Umpan Balik Iklim ([UK Met Office in UCAR, 2025](https://scied.ucar.edu/learning-zone/earth-system/climate-system/feedback-loops-tipping-points))
+
+Pelepasan gas rumah kaca oleh proses antropogenik mungkin menyebabkan perubahan yang cukup besar pada komponen sistem iklim, sehingga kesetimbangannya akan berpindah dari satu rezim ke rezim lainnya. Hal ini disebabkan karena perbandingan kekuatan proses dalam suatu umpan balik tidak lagi seimbang, menyebabkan sistem untuk membentuk kesetimbangan baru. Ketika terjadi perubahan dari satu rezim kesetimbangan ke rezim lain maka dikatakan sistem iklim sudah melewati titik kritis atau titik balik (tipping point).
+
+![Kesetimbangan.](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/images/tippingpoint_CC_rauter.png.webp?itok=-opGrS9G)
+
+Ilustrasi Kesetimbangan Sistem dan Titik Kritis ([Rauter et. al. in UCAR, 2025](https://scied.ucar.edu/learning-zone/earth-system/climate-system/feedback-loops-tipping-points))
+
+Beberapa bentuk umpan balik sistem iklim adalah:
+* Tutupan es: tutupan es membentuk umpan balik positif. Terbentuknya es dalam jumlah besar menyebabkan meningkatnya albedo, sehingga temperatur turun. Kondisi tersebut menyebabkan terbentuknya lebih banyak es. Jika terjadi peningkatan suhu akibat proses lain, akan terjadi pengurangan tutupan es yang mengurangi albedo sehingga meningkatkan temperatur dan mengurangi tutupan es lebih lanjut.
+* Fotosintesis: proses fotosintesis membentuk umpan balik negatif terhadap iklim. Ketika atmosfer memiliki kadar CO2 tinggi, maka vegetasi akan melakukan lebih banyak fotosintesis, mengurangi jumlah CO2. Begitu pula sebaliknya, jika kadar CO2 rendah, maka tingkat fotosintesis juga rendah.
+* Kebakaran hutan: kebakaran hutan membentuk umpan balik positif terhadap iklim. Iklim yang lebih panas dengan CO2 yang lebih tinggi akan menyebabkan banyak kebakaran yang menambah jumlah CO2.
+* Simpanan karbon samudera: karbon dalam bentuk CO2 di atmosfer dan dalam bantuk asam karbonat di lautan membentuk sebuah kesetimbangan. Ketika jumlah CO2 di atmosfer meningkat, maka laut akan melarutkan lebih banyak CO2 tersebut menjadi asam karbonat. Asam karbonat tersebut menjadi bahan dasar makhluk hidup laut untuk membentuk cangkang. Ketika terdapat lebih banyak karbonat, maka pembetukan cangkang akan meningkat, sehingga laut akan melarutkan lebih banyak CO2 untuk menggantikannya, tetapi hanya sampai tahap tertentu. Ketika air laut mencapai keasaman yang tidak dapat ditoleransi makhluk hidup, maka proses penyerapan karbon oleh makhluk hidup tersebut akan berhenti.
+
+![Umpan balik 2.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fig3_Q-climate-CO2-feedbacks_V2.png/960px-Fig3_Q-climate-CO2-feedbacks_V2.png?20250530150202)
+
+Detail Beberapa Mekanisme Umpan Balik Iklim ([By Saavoo - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=166373099))
+
 ## 11.3. Dampak Perubahan Iklim
+
+
+## 11.4. Mitigasi dan Adaptasi Perubahan Iklim
+
