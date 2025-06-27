@@ -849,9 +849,41 @@ Ketiga, terjadi pengurangan tingkat evapotranspirasi, karena terjadi pengurangan
 Ilustrasi Pulau Bahang Perkotaan ([By TheNewPhobia - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=5263244))
 
 ### 11.1.2. Perubahan Iklim Global
-Perubahan iklim modern utamanya disebabkan karena peningkatan proporsi gas rumah kaca di atmosfer, terutama karbondioksida (CO2), dari emisi kegiatan manusia.
+Bumi mengalami perubahan iklim global berulang kali, seringkali kita kenal sebagai Zaman Es. Dalam Zaman Es tersebut terdapat periode glasial dan interglasial dimana tutupan es di permukaan Bumi mengalami penambahan dan pengurangan. Perubahan iklim global tersebut dipengaruhi oleh beberapa sebab, yaitu perubahan pada komposisi gas rumah kaca, terutama karbondioksida dan metana, di atmosfer, perubahan orbit Bumi terhadap Matahari, perubahan persebaran benua dan samudera, perubahan luaran radiasi Matahari, perubahan orbit Bulan terhadap Bumi, dan kejadian jatuhan meteor atau erupsi gunung api.
+
+Perubahan komposisi atmosfer menyebabkan perubahan pada kekuatan efek rumah kaca. Perubahan orbit Bumi memiliki periode berulang, dinamakan siklus Milankovitch, menyebabkan perubahan jumlah dan distribusi radiasi Matahari yang mencapai permukaan Bumi. Perubahan persebaran benua dan samudera serta perubahan orbit Bulan mempengaruhi sirkulasi laut dan atmosfer. Sementara itu, jatuhan meteor dan erupsi gunung api melepaskan gas rumah kaca, sulfur, dan debu vulkanik yang mempengaruhi neraca energi Bumi.
+
+Perubahan iklim modern utamanya disebabkan karena peningkatan proporsi gas rumah kaca di atmosfer, terutama karbondioksida (CO2), dari emisi kegiatan manusia. Pembakaran bahan bakar fosil melepaskan kembali karbon yang sebelumnya terperangkap di dalam sistem litosfer ketika tumbuhan dan alga masa lalu mati dan tertimbun. Laju pembakaran bahan bakar fosil sangat cepat sehingga dampak lingkungan yang ditimbulkan sulit untuk diprediksi dan ditanggulangi. Hal ini disebabkan karena kompleksitas sistem iklim dan keterkaitan antar komponen sistem iklim yang kuat.
+
+![Grafik temperatur rata-rata.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Global_Temperature_And_Forces_With_Fahrenheit.svg/960px-Global_Temperature_And_Forces_With_Fahrenheit.svg.png)
+
+Grafik Temperatur Dunia Rata-rata ([By Efbrazil - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=113363595))
 
 ## 11.2. Umpan Balik Sistem Iklim
-Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
+Iklim Bumi berada di suatu kesetimbangan karena komponen sistem iklim berinteraksi dan membentuk umpan balik. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Sehingga, ketika terjadi perubahan pada satu komponen, sistem dapat kembali ke kondisi kesetimbangan.
+
+![Umpan balik.](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/images/climate_feedback_loop.jpg.webp?itok=jur9Oe24)
+
+Ilustrasi Umpan Balik Iklim ([UK Met Office in UCAR, 2025](https://scied.ucar.edu/learning-zone/earth-system/climate-system/feedback-loops-tipping-points))
+
+Pelepasan gas rumah kaca oleh proses antropogenik mungkin menyebabkan perubahan yang cukup besar pada komponen sistem iklim, sehingga kesetimbangannya akan berpindah dari satu rezim ke rezim lainnya. Hal ini disebabkan karena perbandingan kekuatan proses dalam suatu umpan balik tidak lagi seimbang, menyebabkan sistem untuk membentuk kesetimbangan baru. Ketika terjadi perubahan dari satu rezim kesetimbangan ke rezim lain maka dikatakan sistem iklim sudah melewati titik kritis atau titik balik (tipping point).
+
+![Kesetimbangan.](https://scied.ucar.edu/sites/default/files/styles/extra_large/public/images/tippingpoint_CC_rauter.png.webp?itok=-opGrS9G)
+
+Ilustrasi Kesetimbangan Sistem dan Titik Kritis ([Rauter et. al. in UCAR, 2025](https://scied.ucar.edu/learning-zone/earth-system/climate-system/feedback-loops-tipping-points))
+
+Beberapa bentuk umpan balik sistem iklim adalah:
+* Tutupan es: tutupan es membentuk umpan balik positif. Terbentuknya es dalam jumlah besar menyebabkan meningkatnya albedo, sehingga temperatur turun. Kondisi tersebut menyebabkan terbentuknya lebih banyak es. Jika terjadi peningkatan suhu akibat proses lain, akan terjadi pengurangan tutupan es yang mengurangi albedo sehingga meningkatkan temperatur dan mengurangi tutupan es lebih lanjut.
+* Fotosintesis: proses fotosintesis membentuk umpan balik negatif terhadap iklim. Ketika atmosfer memiliki kadar CO2 tinggi, maka vegetasi akan melakukan lebih banyak fotosintesis, mengurangi jumlah CO2. Begitu pula sebaliknya, jika kadar CO2 rendah, maka tingkat fotosintesis juga rendah.
+* Kebakaran hutan: kebakaran hutan membentuk umpan balik positif terhadap iklim. Iklim yang lebih panas dengan CO2 yang lebih tinggi akan menyebabkan banyak kebakaran yang menambah jumlah CO2.
+* Simpanan karbon samudera: karbon dalam bentuk CO2 di atmosfer dan dalam bantuk asam karbonat di lautan membentuk sebuah kesetimbangan. Ketika jumlah CO2 di atmosfer meningkat, maka laut akan melarutkan lebih banyak CO2 tersebut menjadi asam karbonat. Asam karbonat tersebut menjadi bahan dasar makhluk hidup laut untuk membentuk cangkang. Ketika terdapat lebih banyak karbonat, maka pembetukan cangkang akan meningkat, sehingga laut akan melarutkan lebih banyak CO2 untuk menggantikannya, tetapi hanya sampai tahap tertentu. Ketika air laut mencapai keasaman yang tidak dapat ditoleransi makhluk hidup, maka proses penyerapan karbon oleh makhluk hidup tersebut akan berhenti.
+
+![Umpan balik 2.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fig3_Q-climate-CO2-feedbacks_V2.png/960px-Fig3_Q-climate-CO2-feedbacks_V2.png?20250530150202)
+
+Detail Beberapa Mekanisme Umpan Balik Iklim ([By Saavoo - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=166373099))
 
 ## 11.3. Dampak Perubahan Iklim
+
+
+## 11.4. Mitigasi dan Adaptasi Perubahan Iklim
+
