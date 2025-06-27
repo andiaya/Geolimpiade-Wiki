@@ -837,8 +837,19 @@ Peubahan iklim adalah perubahan pada parameter iklim di suatu wilayah. Iklim dii
 IPCC menganalisis perubahan iklim sebagai perubahan pada rata-rata dan variabilitas iklim akibat proses alami maupun proses yang disebabkan oleh manusia (antropogenik). IPCC memberikan hasil analisis tersebut kepada pemerintah negara-negara Dunia. Pemerintah negara-negara Dunia tersebut menegosiasikan perjanjian untuk menghadapi perubahan iklim dalam United Nations Framework Convention on Climate Change (UNFCCC). Konvensi ini bertujuan untuk membatasi perubahan iklim berbahaya yang disebabkan oleh gangguan manusia.
 
 ## 11.1. Mekanisme Perubahan Iklim
-### 11.1.1. Alami
-### 11.1.2. Antropogenik
+Perubahan iklim umumnya ditandai dengan perubahan rata-rata temperatur. Perubahan iklim dapat terjadi secara lokal maupun global. Kandungan gas atmosfer merupakan salah satu faktor yang mempengaruhi iklim, salah satu komponen neraca radiasi Bumi adalah pemantulan radiasi gelombang panjang Bumi dan mencegah pelepasan panas ke luar angkasa. Fenomena tersebut disebut efek rumah kaca dan gas yang menyebabkan fenomena tersebut dinamakan gas rumah kaca. Mekanisme ini merupakan salah satu kontrol temperatur Bumi yang menyebabkan Bumi dapat mendukung kehidupan.
+
+### 11.1.1. Perubahan Iklim Lokal
+Perubahan iklim lokal terjadi karena perubahan tutupan lahan. Fenomena yang banyak terjadi adalah fenomena pulau bahan perkotaan (UHI/Urban Heat Island). Ketika suatu wilayah mengalami perubahan karakteristik morfologis dari karakteristik rural (pedesaan) menjadi karakteristik urban (perkotaan), terdapat berbagai perubahan proses yang berkaitan dengan cuaca dan iklim, berikut merupakan beberapa fenomena yang terjadi. Pertama, perubahan tutupan lahan dari vegetasi menjadi lahan terbangun meningkatkan albedo. Kedua, terdapat tambahan sumber pemanasan permukaan dari kegiatan manusia, seperti panas mesin, pembakaran, dan pompa kalor (heat pump/pendingin udara).
+
+Ketiga, terjadi pengurangan tingkat evapotranspirasi, karena terjadi pengurangan area tanah terbuka, perairan terbuka, dan area dengan tutupan vegetasi. Keempat, pengurangan evapotranspirasi menyebabkan pengurangan tingkat kelembapan, sehingga kalor laten yang ada di atmosfer berkurang, menyebabkan suhu yang lebih tinggi. Kelima, halangan bangunan menyebabkan angin bergerak melalui lorong-lorong angin di antara bangunan, membentuk gerakan turbulensi dan kecepatan angin yang kuat di area tertentu. Keenam, polusi gas rumah kaca lokal menyebabkan terperangkapnya panas di wilayah kota. Berbagai mekanisme tersebut saling mempengaruhi, sehingga membentuk kondisi iklim perkotaan dengan temperatur yang lebih tinggi dari wilayah sekitarnya.
+
+![UHI.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Urban_heat_island.svg/687px-Urban_heat_island.svg.png)
+
+Ilustrasi Pulau Bahang Perkotaan ([By TheNewPhobia - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=5263244))
+
+## 11.1.2. Perubahan Iklim Global
+
 
 ## 11.2. Umpan Balik Sistem Iklim
 Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
