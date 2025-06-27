@@ -560,7 +560,7 @@ Peta Massa Udara Dunia ([Public Domain](https://commons.wikimedia.org/w/index.ph
 
 Keterangan: m = maritim, c = kontinental, P = Polar, T = Tropis, E = Ekuatorial
 
-Pertemuan antar massa udara yang memiliki berat jenis berbeda disebut front. Perbedaan berat jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
+Pertemuan antar massa udara yang memiliki massa jenis berbeda disebut front. Perbedaan massa jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
 * Front Hangat: terbentuk ketika massa udara bersuhu hangat bergerak menggantikan massa udara dingin yang meninggalkan suatu wilayah. Front hangat menyebabkan hujan di area luas dan berdurasi lama.
   
   ![Front hangat.](https://github.com/user-attachments/assets/4379a1a2-86d5-497d-9b6e-5cf6db4119b9)
@@ -790,7 +790,7 @@ Gelombang panas adalah kondisi panas ekstrem dalam kurun waktu cukup panjang, an
 
 Ilustrasi Kondisi Atmosfer Gelombang Panas ([By U. S. National Weather Service/National Ocean Service, Public Domain](https://commons.wikimedia.org/w/index.php?curid=18826480))
 
-Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa Timur yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
+Karakteristik masyarakat memiliki pengaruh sama besar bahkan lebih besar terhadap dampak gelombang panas dibandingkan intensitas fenomena gelombang panas itu sendiri. Korban gelombang panas sebagian besar berada di kelompok usia produktif akhir, 55 - 64 tahun. Selain itu, karakteristik bangunan juga mempengaruhi mortalitas akibat gelombang panas. Tingkat penggunaan pendingin udara di Eropa yang rendah menyebabkan tingginya jumlah korban akibat gelombang panas di wilayah tersebut.
 
 ![Heatwave cartogram.](https://worldmapper.org/wp-content/uploads/2018/04/HeatWaves_TotalHeatwaves_2001to2017-1200x600.png)
 
@@ -818,7 +818,19 @@ Arus ke arah kutub membawa air bersuhu hangat dari Ekuator, dinamakan arus hanga
 Arus Laut dalam Sistem Pusaran Samudera ([NOC, CC BY-NC-SA 2.0, http://www.seos-project.eu/modules/oceancurrents/oceancurrents-c02-p01.html](https://rwu.pressbooks.pub/webboceanography/chapter/9-1-surface-gyres/))
 
 ## 10.2. Sirkulasi Termohalin
+Termo berarti temperatur, haline berarti kadar garam. Sirkulasi termohalin terbentuk karena adanya gradien temperatur dan kadar garam yang mempengaruhi massa jenis air laut di wilayah berbeda. Pendorong utama pembentukan sirkulasi ini terjadi di Samudera Atlantik Utara dan Samudera Antartika.
 
+Distribusi daratan dan lautan di Samudera Atlantik Utara menyebabkan terbentuknya arus hangat yang kuat, yaitu arus teluk (gulf stream). Arus ini merupakan bagian dari sistem ocean gyre, namun juga merupakan proses utama dalam sirkulasi termohalin. Arus ini menyebabkan terbentuknya cuaca yang lembap di Benua Eropa bagian Barat, lebih lembap daripada wilayah lain di lintang tersebut. Suhu air laut yang lebih hangat juga membentuk perbedaan tekanan udara yang lebih tinggi, membentuk angin yang lebih kuat. Angin yang kuat menyebabkan evaporasi yang tinggi. Presipitasi yang rendah di lintang tersebut menyebabkan evaporasi yang lebih tinggi dari presipitasi di Atlantik Utara. Evaporasi dan pendinginan di Atlantik Utara membentuk air yang memiliki kadar garam yang lebih tinggi dan temperatur yang lebih rendah daripada wilayah lautan lain. Air dengan kadar garam yang tinggi dan temperatur yang rendah memiliki massa jenis (densitas) yang tinggi, sehingga air tersebut mengalami penenggelaman atau downwelling. 
+
+Downwelling juga terjadi di Samudera Antartika. Pecahnya es laut (sea ice) dari dataran es Antartika membentuk area laut terbuka di antara es laut dan dataran es, dinamakan polynya. Es laut baru terbentuk di polynya karena angin dan suhu yang dingin di Antartika. Akibatnya, saat air laut berubah menjadi es, garam yang tertinggal menyebabkan air laut di bawah es memiliki salinitas (kadar garam) yang lebih tinggi daripada sebelumnya. Air tersebut memiliki massa jenis yang lebih tinggi, sehingga mengelami downwelling.
+
+Air laut yang tenggelam di Atlantik Utara, dinamakan North Atlantic Deep Water (NADW), mengisi air laut dalam Samudera Atlantik dan Hindia. Sementara itu, air laut yang tenggelam di Antartika, dinamakan Antartic Bottom Water (AABW) mengisi air laut dalam di Samudera Pasifik. Air yang tenggelam tersebut menggantikan air laut dalam yang berusia lebih tua, karena air laut dalam tua tersebut sudah mengalami percampuran, sehingga massa jenisnya lebih rendah daripada air yang baru mengalami penenggelaman. Air laut dalam lama tersebut mengalami gerakan naik atau upwelling.
+
+Arus air laut dalam meninggalkan Samudera Atlantik menyebabkan ketinggian air permukaan yang lebih rendah daripada Samudera Pasifik. Akibatnya, terbentuk arus laut permukaan yang membawa air hangat dari Samudera Pasifik ke Samudera Atlantik. Arus tersebut melewati Indonesia, membentuk arus kuat bernama Arus Lintas Indonesia (Arlindo) atau Indonesian Through Flow (ITF). Arus tersebut kemudian melewati Samudera Hindia, menyebabkan adanya pembalikan arus (overturning) dari Samudera Atlantik. Lalu, arus permukaan tersebut bergerak melalui Selatan Afrika dan menuju Atlantik Utara membentuk satu sirkulasi tertutup. Oleh karena itu, sirkulasi ini juga disebut great ocean conveyor belt dan Meridional Overturning Circulation (MOC).
+
+![Termohalin.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Thermohaline_circulation.svg/512px-Thermohaline_circulation.svg.png)
+
+Ilustrasi Sirkulasi Termohalin ([By cmglee, Avsa et al - Conveyor belt.svg, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112110859))
 
 # 11. Perubahan Iklim
 ## 11.1. Defininsi
