@@ -848,8 +848,8 @@ Ketiga, terjadi pengurangan tingkat evapotranspirasi, karena terjadi pengurangan
 
 Ilustrasi Pulau Bahang Perkotaan ([By TheNewPhobia - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=5263244))
 
-## 11.1.2. Perubahan Iklim Global
-
+### 11.1.2. Perubahan Iklim Global
+Perubahan iklim modern utamanya disebabkan karena peningkatan proporsi gas rumah kaca di atmosfer, terutama karbondioksida (CO2), dari emisi kegiatan manusia.
 
 ## 11.2. Umpan Balik Sistem Iklim
 Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
