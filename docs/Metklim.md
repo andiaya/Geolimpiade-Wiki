@@ -7,7 +7,6 @@ toc_sticky: true
 sidebar:
   nav: "docs"
 ---
-# Meteorologi dan Klimatologi
 # 1. Definisi Cuaca dan Iklim
 Cuaca adalah kondisi atmosfer di suatu tempat pada waktu tertentu.
 Iklim adalah rata-rata dan variansi kondisi atmosfer di suatu tempat dalam jangka waktu tertentu (BMKG: 10 Tahun, WMO: 30 Tahun).
@@ -833,8 +832,15 @@ Arus air laut dalam meninggalkan Samudera Atlantik menyebabkan ketinggian air pe
 Ilustrasi Sirkulasi Termohalin ([By cmglee, Avsa et al - Conveyor belt.svg, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=112110859))
 
 # 11. Perubahan Iklim
-## 11.1. Defininsi
-## 11.2. Mekanisme Pemanasan Global
-## 11.3. Umpan Balik Sistem Iklim
+Peubahan iklim adalah perubahan pada parameter iklim di suatu wilayah. Iklim diidentifikasi dari nilai rata-rata dan variabilitas parameter iklim. Misalnya, iklim dalam klasifikasi Oldeman ditentukan berdasarkan curah hujan rata-rata bulanan dan iklim dalam klasifikasi Koppen salah satunya diklasifikasikan berdasarkan temperatur maksimal dan minimal yang dapat dilihat dari nilai variabilitas. Sistem iklim yang saling berhubungan menyebabkan permasalahan perubahan iklim menjadi permasalahan global. Program Lingkungan Persatuan Bangsa-Bangsa (UNEP/United Nations Environmental Program) dan Organisasi Meteorologi Dunia (WMO/World Meteorological Organization) membentuk badan internasional untuk menganalisis perubahan iklim secara ilmiah. Badan tersebut bernama International Panel on Climate Change (IPCC).
+
+IPCC menganalisis perubahan iklim sebagai perubahan pada rata-rata dan variabilitas iklim akibat proses alami maupun proses yang disebabkan oleh manusia (antropogenik). IPCC memberikan hasil analisis tersebut kepada pemerintah negara-negara Dunia. Pemerintah negara-negara Dunia tersebut menegosiasikan perjanjian untuk menghadapi perubahan iklim dalam United Nations Framework Convention on Climate Change (UNFCCC). Konvensi ini bertujuan untuk membatasi perubahan iklim berbahaya yang disebabkan oleh gangguan manusia.
+
+## 11.1. Mekanisme Perubahan Iklim
+### 11.1.1. Alami
+### 11.1.2. Antropogenik
+
+## 11.2. Umpan Balik Sistem Iklim
 Komponen sistem iklim berinteraksi dan membentuk umpan balik yang saling mempengaruhi satu sama lain. Umpan balik tersebut ada yang bersifat positif (saling menguatkan) dan negatif (saling melemahkan). Contoh umpan balik sistem iklim antara lain:
+
 ## 11.3. Dampak Perubahan Iklim
