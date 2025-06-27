@@ -883,7 +883,23 @@ Beberapa bentuk umpan balik sistem iklim adalah:
 Detail Beberapa Mekanisme Umpan Balik Iklim ([By Saavoo - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=166373099))
 
 ## 11.3. Dampak Perubahan Iklim
+Peningkatan kadar CO2 di atmosfer akibat kegiatan manusia menyebabkan peningkatan suhu global dan pengasaman samudera. Peningkatan suhu atmosfer mempengaruhi proses cuaca. Suhu yang lebih tinggi berarti energi yang lebih banyak, mendorong proses cuaca yang lebih kuat. Akibatnya, terjadi perubahan pola dan intensitas presipitasi serta peningkatan evapotranspirasi, menyebabkan peningkatan hujan ekstrem dan kekeringan.
 
+Peningkatan suhu juga menyebabkan pergeseran habitat makhluk hidup ke arah lintang lebih tinggi. Makhluk hidup yang sebelumnya dapat hidup di wilayah Tropis tidak lagi dapat hidup di wilayah tersebut karena suhunya terlalu tinggi, begitu pula makhluk hidup di wilayah Subtropis. Perubahan habitat dapat meningkatkan konflik antar spesies dan mengganggu aktivitas pertanian, baik pertanian tanam maupun peternakan.
+
+Terperangkapnya lebih banyak energi dalam atmosfer menyebabkan perubahan pada neraca energi Bumi. Bersamaan dengan pengurangan proses pembentukan es di wilayah kutub, kondisi ini dapat menyebabkan gangguan pada sirkulasi atmosfer dan samudera. Gangguan tersebut dapat berpengaruh pada transport sedimen dan nutrien, menyebabkan perubahan pada ekosistem lautan dan kepulauan. Selain itu, gangguan pada transfer energi juga dapat menyebabkan cuaca yang lebih ekstrem.
+
+Temperatur yang lebih hangat dapat meningkatkan tingkat penyebaran penyakit infeksi karena aktivitas virus dan bakteri yang lebih aktif. Es kutub dan permafrost (es dalam pori tanah) yang meleleh dapat melepaskan parasit purba yang tidak dapat ditangkal oleh sistem imun makhluk hidup modern. Gangguan kesehatan juga dapat disebabkan karena akses terhadap air bersih yang lebih sulit akibat banjir dan kekeringan.
+
+Berbagai bencana akibat iklim dapat membentuk krisis iklim. Perebutan sumber daya air yang semakin langka dapat memicu konflik. Suatu wilayah yang mengalami krisis akan menghasilkan migran. Migran tersebut ketika berpindah dan memasuki suatu daerah untuk mengungsi juga dapat menyebabkan konflik.
+
+Peningkatan kadar CO2 menyebabkan pengasaman samudera. Kondisi asam tersebut tidak dapat ditoleransi alga yang bersimbiosis dengan karang, menyebabkan pemutihan karang (coral bleaching). Akibatnya, karang dapat mengalami kematian dan terjadi kerusakan pada ekosistem laut dangkal.
+
+Pemanasan global dapat meningkatkan suhu air laut melalui 2 mekanisme, menambah volume air laut dari pelelehan es dan meningkatkan volume air laut melalui pemuaian. Dampak dari proses tersebut adalah tenggelamnya wilayah dengan ketinggian rendah dan pulau-pulau kecil. Air laut yang lebih tinggi juga menyebabkan tekanan yang lebih tinggi untuk memasuki sistem air tanah, menyebabkan intrusi. Deskripsi di atas merupakan beberapa dampak yang mungkin terjadi akibat perubahan iklim.
+
+![Dampak Perubahan Iklim](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
+
+Ringkasan Dampak Perubahan Iklim ([IPCC, 2023](https://www.ipcc.ch/report/sixth-assessment-report-cycle/))
 
 ## 11.4. Mitigasi dan Adaptasi Perubahan Iklim
 
