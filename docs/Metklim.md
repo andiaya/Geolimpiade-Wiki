@@ -902,4 +902,35 @@ Pemanasan global dapat meningkatkan suhu air laut melalui 2 mekanisme, menambah 
 Ringkasan Dampak Perubahan Iklim ([IPCC, 2023](https://www.ipcc.ch/report/sixth-assessment-report-cycle/))
 
 ## 11.4. Mitigasi dan Adaptasi Perubahan Iklim
+Mitigasi adalah usaha mencegah terjadinya atau bertambah parahnya perubahan iklim, sedangkan adaptasi adalah usaha mengurangi dampak perubahan iklim yang sudah terjadi. Kronologi usaha global untuk menangani perubahan iklim diawali pembentukan UNFCCC pada Konferensi Tingkat Tinggi Bumi di Rio de Janeiro pada 1992. Selanjutnya, pada 1995 dilakukan konferensi penandatanganan (COP/Conference of Parties) pertama di Berlin, membahas mengenai target emisi. Protokol Kyoto 1997 merupakan hasil pembahasan target emisi tersebut.
 
+Protokol Kyoto di antaranya menyetujui jenis gas yang termasuk gas rumah kaca, pemilihan potensi pemanasan global (GWP/Global Warming Potential) untuk menyamakan ukuran dampak pemanasan global tiap jenis gas, dan menghasilkan konsep mekanisme fleksibel dalam pemenuhan target emisi. Target emisi Protokol Kyoto mencakup 4 gas (karbondioksida (CO2), metana (CH4), dinitrogen monoksida (N2O, nitrous oxide), dan belerang heksafluorida (SF6)) dan 2 kelompok gas (hidrofluorokarbon (HFC) dan perfluorokarbon (PFC)).
+
+| Gas Rumah Kaca | Global Warming Potential |
+| :------------- | :----------------------: |
+| Karbondioksida (CO2) |        1        |
+| Metana (CH4) |        25        |
+| Dinitrogen monoksida (N2O) |        298       |
+| Belerang heksafluorida (SF6) |        22.800        |
+| Hidrofluorokarbon (HFC) |        124 - 14.800       |
+| Perfluorokarbon (PFC) |        7.390 - 12.200        |
+
+Mekanisme fleksibel pemenuhan target emisi terdiri dari 3 konsep, perdagangan emisi, mekanisme pembangunan bersih (CDM/Clean Development Mechanism), dan implementasi bersama (JI/Joint Implementation). Perdangangan emisi adalah mekanisme yang dapat dilakukan ketika kegiatan di suatu negara atau perusahaan tidak dapat mengurangi emisi gas rumah kaca sebesar target yang dibuat untuk membeli kemampuan penyerapan emisi dari negara lain. Instrumen yang digunakan dalam perdagangan karbon adalah kredit karbon. Satu kredit karbon mewakili penyerapan atau penghindaran emisi sebesar 1 metrik ton CO2. Ketika suatu entitas membeli kredit karbon, maka kegiatan tersebut disebut offset karbon.
+
+Mekanisme pembangunan bersih adalah skema yang memungkinkan suatu negara maju membiayai proyek pengurangan emisi di negara berkembang sehingga besar pengurangan emisi yang dilakukan dapat diklaim sebagai usaha pengurangan emisi negara tersebut. Sementara itu, implementasi bersama dilakukan di oleh negara maju di negara maju lain atau negara dalam transisi. Mekanisme ini memungkinkan negara yang sudah tidak memiliki serapan alami karbon seperti hutan dan lahan basah untuk tetap memiliki opsi tersebut dan membiayai negara berkembang yang ingin melakukan konservasi.
+
+![Status saat ini.](https://static.dw.com/image/55041083_7.png)
+
+Status Keberhasilan Usaha Mitigasi Perubahan Iklim Saat Ini ([DW, 2020](https://www.dw.com/en/climate-emissions-paris-agreement/a-55044341))
+
+Namun, usaha yang sudah dilakukan belum dapat mengembalikan kondisi iklim pra-revolusi industri. Telah terjadi pemanasan dan menghasilkan beberapa dampak yang sudah dirasakan saat ini. Oleh sebab itu, dilakukan usaha adaptasi terhadap perubahan iklim. Terdapat beberapa konsep yang perlu diketahui dalam manajemen adaptasi perubahan iklim, yaitu risiko, bahaya, paparan, dan kerentanan.
+
+![Diagram risiko iklim.](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_AI_001.png)
+
+Diagram Hubungan Konsep Risiko, Bahaya, Paparan, dan Kerentanan ([IPCC, 2022](https://www.ipcc.ch/report/ar6/wg2/chapter/annex-i/))
+
+Risiko (risk) adalah potensi dampak negatif terhadap sistem manusia atau lingkungan. Risiko dapat berasal dari dampak perubahan iklim maupun dari usaha mitigasi dan adaptasi. Bahaya (hazard) adalah potensi kejadian alami maupun buatan yang dapat menyebabkan gangguan pada kehidupan dan penghidupan manusia serta gangguan terhadap ekosistem dan sumberdaya lingkungan. Paparan (exposure) adalah keberadaan manusia, penghidupan manusia, ekosistem, atau jasa lingkungan yang mungkin mengalami dampak negatif. Sementara itu, kerentanan (vulnerability) adalah karakteristik objek terpapar yang menyebabkan kemungkinan peningkatan dampak negatif, termasuk sensitivitas dan kerawanan untuk menghasilkan bahaya dan kurangnya kapasitas untuk menghadapi dan beradaptasi terhadap bahaya. Konsep ini digunakan untuk mengetahui respon terhadap perubahan iklim yang paling mungkin dilakukan.
+
+![Mitigasi dan adaptasi iklim](https://www.ipcc.ch/report/ar6/wg2/static/b97ef9d20b82b8a585d6eca20db41a4a/28a89/IPCC_AR6_WGII_FigureSPM4a.webp)
+
+Pilihan Usaha Adaptasi terhadap Perubahan Iklim ([IPCC, 2022](https://www.ipcc.ch/report/sixth-assessment-report-working-group-ii/))
