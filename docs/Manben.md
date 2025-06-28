@@ -36,7 +36,7 @@ Suatu peristiwa, terutama fenomena alam, dapat menjadi bencana ketika intensitas
 Peluang terjadinya fenomena alam dengan intensitas tertentu disebut periode ulang. Contohnya, banjir 100 tahun di suatu sungai memiliki ketinggian minimal 15 m. Artinya, banjir setinggi minimal 15 m memiliki peluang terjadi sekali selama 100 tahun. Pernyataan tersebut bukan berarti banjir setinggi minimal 15 m hanya terjadi 100 tahun sekali, namun dapat pula berarti terdapat satu periode dengan beberapa banjir 15 m dengan periode cukup panjang tanpa banjir dengan ketinggian minimal tersebut.
 
 ## 2.2. Siklus Manajemen Bencana
-Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. 
+Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. Siklus manajemen bencana terdiri dari 2 
 
 # 3. Studi Kasus
 ## 3.1. Erupsi Gunung Api
