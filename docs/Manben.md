@@ -27,9 +27,17 @@ $$R= {{H * V}\over C}$$
 
 R = risiko, H = bahaya, V = kerentanan, C = kapasitas
 
-Usaha pengurangan risiko bencana disebut mitigasi atau penanggulangan bencana. Seluruh lokasi di Bumi memiliki bahaya tertentu, sehingga usaha penanggulangan bencana hanya bisa mengurangi dan tidak bisa menghilangkan ancaman bencana. 
+Usaha pengurangan risiko bencana disebut mitigasi atau penanggulangan bencana. Seluruh lokasi di Bumi memiliki bahaya tertentu, sehingga usaha penanggulangan bencana hanya bisa mengurangi dan tidak bisa menghilangkan ancaman bencana.
+
+Setiap lokasi memiliki kerawanan terhadap bencana tertentu. Kerawanan adalah tingkat intensitas bahaya yang dapat terjadi di suatu lokasi.
+
+Suatu peristiwa, terutama fenomena alam, dapat menjadi bencana ketika intensitasnya melabihi besaran tertentu, sehingga dapat menimbulkan kerusakan. Intensitas fenomena alam, jika dianalisis secara statistik, akan memiliki peluang tertentu akan terjadi. Fenomena alam dengan intensitas rendah memiliki peluang terjadi lebih tinggi daripada fenomena alam dengan intensitas tinggi. Contohnya, gempa berkekuatan kecil lebih sering terjadi daripada gempa berkekuatan besar.
+
+Peluang terjadinya fenomena alam dengan intensitas tertentu disebut periode ulang. Contohnya, banjir 100 tahun di suatu sungai memiliki ketinggian 15 m. Artinya, banjir setinggi 15 m memiliki peluang terjadi sekali selama 100 tahun. Pernyataan tersebut bukan berarti banjir terjadi 100 tahun sekali.
 
 ## 2.2. Siklus Manajemen Bencana
+
+
 # 3. Studi Kasus
 ## 3.1. Erupsi Gunung Api
 ## 3.2. Banjir
