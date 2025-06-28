@@ -59,7 +59,11 @@ Manajemen bencana di Indonesia disebut penanggulangan bencana. Sifat ancaman yan
 *gambar ilustrasi sendiri*
 
 # 3. Studi Kasus
+Suatu fenomena dapat menimbulkan bahaya primer atau langsung dan bahaya sekunder atau tidak langsung.
+
 ## 3.1. Erupsi Gunung Api
+
+
 ## 3.2. Banjir
 ## 3.3. Gempa Bumi
 ## 3.4. Tsunami
