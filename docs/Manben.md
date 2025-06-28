@@ -41,13 +41,19 @@ Kerangka kerja Sendai (Sendai Framework) untuk pengurangan risiko bencana merupa
 
 ## 2.2. Siklus Manajemen Bencana
 Manajemen bencana di Indonesia disebut penanggulangan bencana. Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. Siklus manajemen bencana terdiri dari 2 tahap, pascabencana dan prabencana.
-* Pascabencana\
-  (1) Tanggap darurat bencana: berfokus pada pencarian dan penyelamatan (Search And Rescue/SAR). Menckup kegiatan pengkajian cepat ancaman dan kerusakan, penanggulangan ancaman lanjutan, dan pemenuhan kebutuhan dasar. Tanggap darurat bencana sedang memiliki periode 7 hari dan bencana besar 14 serta dapat diperpanjang.\
-  (2) Rehabilitasi: pengembalian fungsi dasar infrastruktur dan pelayanan masyarakat. Dapat mencakup pendirian sekolah, pasar, layanan pemerintahan, dan layanan kesehatan darurat.\
+* Pascabencana
+  
+  (1) Tanggap darurat bencana: berfokus pada pencarian dan penyelamatan (Search And Rescue/SAR). Menckup kegiatan pengkajian cepat ancaman dan kerusakan, penanggulangan ancaman lanjutan, dan pemenuhan kebutuhan dasar. Tanggap darurat bencana sedang memiliki periode 7 hari dan bencana besar 14 serta dapat diperpanjang.
+  
+  (2) Rehabilitasi: pengembalian fungsi dasar infrastruktur dan pelayanan masyarakat. Dapat mencakup pendirian sekolah, pasar, layanan pemerintahan, dan layanan kesehatan darurat.
+  
   (3) Rekonstruksi: pembangunan kembali seluruh aspek yang mengalami kerusakan karena bencana. Rekonstruksi dapat masuk ke dalam tahap prabencana ketika dilakukan dengan membangun lebih baik.
-* Prabencana\
-  (1) Mitigasi: usaha pengurangan risiko bencana bagi masyarakat dalam kawasan rawan bencana. Meliputi penataan ruang untuk menghindari kawasan kerawanan tinggi, pengaturan pembangunan, dan pendidikan serta pelatihan mengenai kebencanaan.\
+* Prabencana
+  
+  (1) Mitigasi: usaha pengurangan risiko bencana bagi masyarakat dalam kawasan rawan bencana. Meliputi penataan ruang untuk menghindari kawasan kerawanan tinggi, pengaturan pembangunan, dan pendidikan serta pelatihan mengenai kebencanaan.
+  
   (2) Kesiapsiagaan: mencakup penyusunan atau pemasangan serta pengujian rencana penanggulangan, sistem peringatan dini, dan mekanisme tanggap darurat. Selain itu, kesiapsiagaan juga mencakup penyiapan barang dan pasokan pemenuhan kebutuhan dasar dan pemulihan sarana dan prasarana.
+  
   (3) Peringatan dini: dilakukan untuk mempersiapkan tindakan tanggap darurat. Mencakup pengamatan gejala bencana, pengambilan keputusan oleh pihak berwenang, penyebarluasan informasi tentang peringatan bencana, dan pengambilan tindakan oleh masyarakat.
 
 *gambar ilustrasi sendiri*
