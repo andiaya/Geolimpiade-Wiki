@@ -33,10 +33,10 @@ Setiap lokasi memiliki kerawanan terhadap bencana tertentu. Kerawanan adalah tin
 
 Suatu peristiwa, terutama fenomena alam, dapat menjadi bencana ketika intensitasnya melabihi besaran tertentu, sehingga dapat menimbulkan kerusakan. Intensitas fenomena alam, jika dianalisis secara statistik, akan memiliki peluang tertentu akan terjadi. Fenomena alam dengan intensitas rendah memiliki peluang terjadi lebih tinggi daripada fenomena alam dengan intensitas tinggi. Contohnya, gempa berkekuatan kecil lebih sering terjadi daripada gempa berkekuatan besar.
 
-Peluang terjadinya fenomena alam dengan intensitas tertentu disebut periode ulang. Contohnya, banjir 100 tahun di suatu sungai memiliki ketinggian 15 m. Artinya, banjir setinggi 15 m memiliki peluang terjadi sekali selama 100 tahun. Pernyataan tersebut bukan berarti banjir terjadi 100 tahun sekali.
+Peluang terjadinya fenomena alam dengan intensitas tertentu disebut periode ulang. Contohnya, banjir 100 tahun di suatu sungai memiliki ketinggian minimal 15 m. Artinya, banjir setinggi minimal 15 m memiliki peluang terjadi sekali selama 100 tahun. Pernyataan tersebut bukan berarti banjir setinggi minimal 15 m hanya terjadi 100 tahun sekali, namun dapat pula berarti terdapat satu periode dengan beberapa banjir 15 m dengan periode cukup panjang tanpa banjir dengan ketinggian minimal tersebut.
 
 ## 2.2. Siklus Manajemen Bencana
-
+Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. 
 
 # 3. Studi Kasus
 ## 3.1. Erupsi Gunung Api
