@@ -15,3 +15,5 @@ Terima kasih!
 ## Materi Olimpiade Sains Nasional Bidang Geografi
 
 - [1. Iklim dan Perubahan Iklim](/Geolimpiade-Wiki/docs/Metklim/)
+- [2. Kebencanaan dan Manajemen Bencana](/Geolimpiade-Wiki/docs/Manben/)
+
