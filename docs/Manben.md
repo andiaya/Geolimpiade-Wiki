@@ -35,8 +35,15 @@ Suatu peristiwa, terutama fenomena alam, dapat menjadi bencana ketika intensitas
 
 Peluang terjadinya fenomena alam dengan intensitas tertentu disebut periode ulang. Contohnya, banjir 100 tahun di suatu sungai memiliki ketinggian minimal 15 m. Artinya, banjir setinggi minimal 15 m memiliki peluang terjadi sekali selama 100 tahun. Pernyataan tersebut bukan berarti banjir setinggi minimal 15 m hanya terjadi 100 tahun sekali, namun dapat pula berarti terdapat satu periode dengan beberapa banjir 15 m dengan periode cukup panjang tanpa banjir dengan ketinggian minimal tersebut.
 
+Kerangka kerja Sendai (Sendai Framework) untuk pengurangan risiko bencana merupakan dokumen kerangka kerja mitigasi bencana yang diadopsi negara-negara anggota PBB. Dokumen ini berisi langkah-langkah konkret yang dapat digunakan negara untuk melindungi hasil pembangunan dari risiko bencana. Terdapat 4 prioritas dalam dokumen ini, yaitu:
+1. Pemahaman risiko bencana.
+2. Penguatan kepemimpinan untuk manajemen risiko bencana.
+3. Investasi untuk ketangguhan dalam pengurangan risiko bencana.
+4. Peningkatan kesiapsiagaan bencana untuk respon efektif dan untuk membangun kembali lebih baik dalam pemulihan, rehabilitasi, dan rekonstruksi.
+
 ## 2.2. Siklus Manajemen Bencana
-Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. Siklus manajemen bencana terdiri dari 2 
+Sifat ancaman yang memiliki periode ulang menyebabkan manajemen bencana membentuk suatu siklus. Siklus manajemen bencana terdiri dari 2 tahap, prabencana dan pascabencana.
+* Pascabencana
 
 # 3. Studi Kasus
 ## 3.1. Erupsi Gunung Api
