@@ -23,7 +23,7 @@ Manajemen bencana adalah sistem dan pengetahuan yang berfungsi untuk membentuk k
 
 *Risiko memiliki hubungan berbanding lurus dengan bahaya dan kerentanan serta berbanding terbalik dengan kapasitas.*
 
-$${R= {{H * V}\over C}}$$\ /\}\}/
+$${R= {{H * V}\over C}}$$\ 
 R = risiko, H = bahaya, V = kerentanan, C = kapasitas
 
 Seluruh lokasi di Bumi memiliki bahaya tertentu, sehingga usaha penanggulangan bencana hanya bisa mengurangi dan tidak bisa menghilangkan ancaman bencana. Setiap lokasi memiliki kerawanan terhadap bencana tertentu. Kerawanan adalah tingkat intensitas bahaya yang dapat terjadi di suatu lokasi.
