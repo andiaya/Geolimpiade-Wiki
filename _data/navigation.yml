@@ -1,3 +1,5 @@
 docs:
-  - title: "Iklim dan Perubahan Iklim"
+  - title: "1. Iklim dan Perubahan Iklim"
     url: /docs/Metklim
+  - title: "2. Kebencanaan dan Manajemen Bencana"
+    url: /docs/Manben
