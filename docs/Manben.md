@@ -69,3 +69,7 @@ Suatu fenomena dapat menimbulkan bahaya primer atau langsung dan bahaya sekunder
 ## 3.2. Banjir
 ## 3.3. Gempa Bumi
 ## 3.4. Tsunami
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
