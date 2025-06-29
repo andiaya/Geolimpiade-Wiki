@@ -98,9 +98,47 @@ Salah satu faktor paling berpengaruh dalam menyebabkan banjir adalah bentuk dan 
 ## 3.3. Gempa Bumi
 Merupakan getaran yang muncul di badan dan permukaan Bumi karena pelepasan energi yang tiba-tiba. Gempa bumi paling banyak terbentuk karena gerakan lempeng Bumi, namun juga dapat terbentuk karena jatuhan dan ledakan. Ketika proses tektonisme menyebabkan batuan bergeser, batuan akan melengkung hingga kemampuan elastisnya terlampaui. Ketika kemampuan elastis tersebut terlampaui, batuan akan patah, dan energi yang muncul dari kembalinya batuan ke kondisi lurus inilah yang menjadi gempa bumi. Mekanisme ini disebut teori elastic-rebound.
 
+Energi gempa bumi merambat di permukaan dan dalam tubuh Bumi melalui beberapa mekanisme. Perambatan energi gempa bumi dalam tubuh bumi dinamakan gelombang badan (body wave) sedangkan rambatan permukaan dinamakan gelombang permukaan (surface wave).
+* Gelombang badan:
+  
+  (a) Gelombang primer: merambat secara longitudinal, kecepatan paling tinggi
 
+  (b) Gelombang sekunder: merambat secara transversal, tidak dapat melalui medium cair.
+  
+* Gelombang permukaan:
+  
+  (a) Gelombang Rayleigh: gelombang berbentuk memutar.
 
-## 3.4. Tsunami
+  (b) Gelombang Love: gelombang bergetar ke arah mendatar.
+
+Gempa bumi diukur menggunakan 2 skala: Richter dan Mercalli.
+* Skala Richter: skala logaritmik, diukur berdasarkan energi gempa. Disebut juga pengukuran magnitudo gempa. Artinya, nilai skala 6 menunjukkan gempa dengan energi 10 kali lebih besar daripada nilai skala 5.
+* Skala Mercalli: ukuran intensitas dampak gempa bumi. Memiliki nilai 1 - 7, dengan gempa berkekuatan 1 tidak terasa dan 7 menimbulkan kerusakan sangat parah dan gelombang yang hebat. Dikembangkan menjadi Modified Mercalli Intensity (MMI) dengan 12 kategori.
+  
+  | Skala Modified Mercalli | Keterangan |
+  | :------------: | :----------------------|
+  | I | Tidak terasa |
+  | II | Dirasakan sedikit orang, terutama pada gedung tinggi. Benda tergantung bergoyang |
+  | III | Dirasakan sedikit orang, seperti getaran truk lewat |
+  | IV | Dirasakan banyak orang. Piring, jendela, pintu, dinding , dan kendaraan bergetar |
+  | V | Dirasakan hampir semua orang. Sebagian piring dan jendela pecah |
+  | VI | Dirasakan semua orang. Lemari bergerak. Sedikit kerusakan pada bangunan |
+  | VII | Kerusakan bangunan ringan pada bangunan dengan kualitas baik, kerusakan parah pada bangunan dengan kualitas buruk. Dapat dirasakan orang dalam perjalanan di kendaraan |
+  | VIII | Sebagian besar bangunan rusak. Air sumur keruh |
+  | IX | Sebagian besar bangunan rusak parah dan terlepas dari pondasi. Terjadi likuefaksi dan kerusakan pipa bawah tanah |
+  | X | Kerusakan bangunan kayu dengan kualitas baik. Rel kereta bengkok. Longsor di banyak tempat |
+  | XI | Kerusakan pada jembatan. Rekahan pada tanah. Pipa bawah tanah tidak dapat diperbaiki |
+  | XII | Kerusakan total. Gelombang gempa tampak di permukaan. Objek di permukaan tanah terlempar |
+
+Titik terbentuknya gempa bumi disebut episenter, sedangkan titik di permukaan Bumi tepat di atas episenter disebut hiposenter. Intensitas gempa bumi dipengaruhi kedalaman episenter dan jarak dari pusat gempa. Selain itu, kondisi geologis wilayah juga mempengaruhi intensitas gempa.
+
+Wilayah dengan material sedimen dapat mengalami fenomena amplifikasi gelombang gempa bumi. Amplifikasi terjadi ketika material permukaan memiliki elastisitas lebih tinggi daripada material bawah permukaan, sehingga gelombang membentuk amplitudo yang lebih tinggi di permukaan.
+
+Likuefaksi merujuk pada fenomena berubahnya sifat tanah dari menyerupai padatan menjadi menyerupai cairan. Likuefaksi terjadi ketika getaran gempa menyebabkan berkurangnya gaya gesek antar partikel tanah dan terisinya ruang antar partikel tanah oleh air tanah. Akibatnya, tanah tidak dapat menahan beban permukaan. Manifestasi likuefaksi dapat berupa kegagalan pondasi bangunan, aliran tanah, dan keluarnya air dan lumpur ke permukaan tanah membentuk sand boils.
+
+Korban gempa bumi ditimbulkan karena kegagalan bangunan dan kebakaran. Kejadian gempa bumi yang tiba-tiba menjadikan waktu terjadinya gempa bumi sebagai faktor penentu penting jumlah korban gempa. Gempa bumi yang terjadi di malam hari akan menimbulkan korban lebih banyak daripada siang hari, karena masyarakat tidak dapat merespon gempa secara cepat ketika sedang tidur.
+
+Tsunami adalah gelombang laut dengan panjang gelombang panjang dan kecepatan tinggi yang terbentuk karena perpindahan tiba-tiba air laut. Perpindahan ini dapat disebabkan oleh geseran dasar laut saat gempa bumi ataupun longsor, baik dari permukaan maupun di bawah permukaan laut.
 
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
