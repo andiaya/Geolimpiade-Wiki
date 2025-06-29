@@ -66,7 +66,9 @@ Studi kasus akan membahas bahaya dan usaha mitigasi beberapa jenis bencana. Suat
 Usaha mitigasi bencana dapat diklasifikasikan menjadi usaha teknik keras (hard engineering) dan usaha teknik lunak (soft engineering). Hard engineering adalah metode mitigasi yang berupa usaha pembangunan fisik, seperti pembuatan bangunan tahan gempa. Sementara itu, soft engineering adalah metode mitigasi yang tidak berupa usaha pembangunan fisik, seperti pembuatan peraturan kode bangunan tahan gempa.
 
 ## 3.1. Erupsi Gunung Api
-
+Erupsi gunung api adalah proses keluarnya material dari gunung api. Bahaya primer yang dapat muncul dari proses erupsi meliputi di antaranya awan panas, jatuhan material, banjir lahar, dan gas beracun.
+* Awan panas: disebut juga wedhus gembel, aliran piroklastik, nuee ardente, dan Pyroclastic Density Current (PDC). Merupakan gabungan material padat gunung api (piroklastik/tefra) dan gas panas yang bergerak menuruni lereng gunung api dengan kecepatan tinggi. Awan panas dapat terbentuk dari material yang langsung dikeluarkan oleh saat erupsi gunung api, hancurnya lereng atas atau sumbat lava gunung api, dan letusan ke arah samping yang menyebabkan hancurnya tubuh gunung api di sisi tersebut. Awan panas menghancurkan, membakar, dan menimbun seluruh area yang dilewatinya. Awan panas cenderung mengalir mengikuti lembah sungai pada lereng gunung api (barranco).
+* Jatuhan material: material piroklastik dapat terlempar akibat kekuatan erupsi hingga terbawa angin dan tersebar ke area yang luas. 
 
 ## 3.2. Banjir
 ## 3.3. Gempa Bumi
