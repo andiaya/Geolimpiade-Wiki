@@ -8,7 +8,7 @@ sidebar:
   nav: "docs"
 ---
 # 1. Definisi dan Klasifikasi Bencana
-Menurut UU no. 24 Tahun 2007 tentang Penanggulangan Bencana, bencana adalah "peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu kehidupan dan penghidupan masyarakat. Bencana diklasifikasikan menjadi 3: alam, non-alam, dan sosial.
+Menurut UU no. 24 Tahun 2007 tentang Penanggulangan Bencana, bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu kehidupan dan penghidupan masyarakat. Bencana diklasifikasikan menjadi 3, alam, non-alam, dan sosial.
 * Bencana alam disebabkan karena faktor alam, antara lain yaitu gempa bumi, tsunami, gunung meletus, banjir, kekeringan, angin topan, dan tanah langsor.
 * Bencana non-alam disebabkan karena faktor non-alam, meliputi gagal teknologi, gagal modernisasi, epidemi, dan wabah penyakit.
 * Bencana sosial disebabkan oleh manusia, mencakup konflik sosial antarkelompok atau antarkomunitas masyarakat, dan teror.
