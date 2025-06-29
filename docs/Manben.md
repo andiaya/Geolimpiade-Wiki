@@ -61,7 +61,9 @@ Manajemen bencana di Indonesia disebut penanggulangan bencana. Sifat ancaman yan
 *gambar ilustrasi sendiri*
 
 # 3. Studi Kasus
-Suatu fenomena dapat menimbulkan bahaya primer atau langsung dan bahaya sekunder atau tidak langsung.
+Studi kasus akan membahas bahaya dan usaha mitigasi beberapa jenis bencana. Suatu fenomena dapat menimbulkan bahaya primer dan bahaya sekunder. Bahaya primer adalah bahaya yang timbul saat fenomena berlangsung, misalnya getaran tanah yang menimbulkan ambrukan bangunan saat gempa bumi. Sementara itu, bahaya sekunder adalah bahaya yang timbul karena fenomena tersebut, namun terjadi setelah fenomena berlangsung, misalnya kebakaran yang ditimbulkan oleh gempa bumi. 
+
+Usaha mitigasi bencana dapat diklasifikasikan menjadi usaha teknik keras (hard engineering) dan usaha teknik lunak (soft engineering). Hard engineering adalah metode mitigasi yang berupa usaha pembangunan fisik, seperti pembuatan bangunan tahan gempa. Sementara itu, soft engineering adalah metode mitigasi yang tidak berupa usaha pembangunan fisik, seperti pembuatan peraturan kode bangunan tahan gempa.
 
 ## 3.1. Erupsi Gunung Api
 
