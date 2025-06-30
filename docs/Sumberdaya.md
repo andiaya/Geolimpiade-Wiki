@@ -36,7 +36,7 @@ Mineral adalah benda padat, terbentuk secara alami, memiliki struktur kristalin,
 
 Elemen tanah jarang atau logam tanah jarang merupakan 17 unusr kimia yang mencakup 15 lantanida dan skandium serta itrium. Penggunaan elemen tanah jarang utamanya adalah sebagai bahan pembuatan semikonduktor, campuran produk optik, dan magnet.
 
-
+Eksploitasi sumberdaya bahan galian dipengaruhi oleh 
 
 # 3. Sumberdaya Energi
 # 4. Isu Sumberdaya
