@@ -57,9 +57,18 @@ Heavy oil dan tar sand hanya memiliki fraksi berat dari minyak bumi. Cadangan he
 Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi. Siklus hidrologi memiliki simpanan (reservoir) dan aliran (flow). Simpanan di siklus hidrologi di antaranya, danau, gletser, air tanah, dan atmosfer. Sementara itu, aliran di siklus hidrologi meliputi evaporasi, kondensasi, presipitasi, aliran permukaan, dan infiltrasi. Waktu tinggal (residence time) merujuk pada lama molekul air berada di simpanan tertentu. Antartika memiliki waktu tinggal paling lama, 20.000 tahun, air tanah dalam 10.000 tahun, samudera 3.200 tahun, sungai 2-6 bulan, dan atmosfer memiliki waktu tinggal paling singkat dengan rata-rata 9 tahun.
 
 Cadangan sumberdaya air yang dapat langsung digunakan dengan pengolahan minimal adalah air tanah. Cadangan air tanah berada di lapisan batuan atau sedimen dengan porositas tinggi, disebut akuifer. Akuifer memiliki porositas (jumlah pori-pori) dan permeabilitas (kemampuan batuan untuk dilalui air) tinggi. Berdasarkan lokasinya, akuifer dapat diklasifikasikan menjadi 3 jenis:
-* Akuifer bebas (unconfined aquifer): lapisan batuan mengandung air tanah yang tidak berada di antara 2 lapisan kedap air. Air tanah dapat terisi di seluruh permukaannya. Ketika sumur digali mencapai lapisan ini, ketinggian air sumur menunjukkan 
-* Akuifer tertekan (confined aquifer):
-* Akuifer menggantung (perched aquifer):
+* Akuifer bebas (unconfined aquifer): lapisan batuan mengandung air tanah yang tidak berada di antara 2 lapisan kedap air. Air tanah dapat terisi (groundwater recharge) di seluruh permukaannya. Ketika sumur digali mencapai lapisan ini, ketinggian air sumur menunjukkan ketinggian zona jenuh air, disebut juga muka air tanah (water table).
+* Akuifer tertekan (confined aquifer): lapisan batuan mengandung air, diapit lapisan kedap air di atas dan bawahnya. Air tanah terisi pada area lapisan batuan terbuka ke permukaan, umumnya berada di wilayah hulu (lereng atas gunung/bukit). Muka air tanah di wilayah hulu tersebut yang menjadi ketinggian air sumur di seluruh area akuifer, seperti bejana berhubungan. Ketinggian air tersebut disebut permukaan potensiometrik/piezometrik. Jika permukaan tanah berada lebih rendah daripada permukaan potensiometrik, maka akan menyembur keluar sumur, membentuk sumur artesis.
+* Akuifer menggantung (perched aquifer): lapisan batuan mengandung air tanah yang berada di atas lapisan batuan kedap air berukuran kecil. Akibatnya, akuifer yang terbentuk memiliki posisi lebih tinggi daripada wilayah sekitarnya.
+
+Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menjadi akuifer dan kedap air. Terdapat 4 tipe unit batuan berdasarkan karakteristik hidroliknya, yaitu:
+
+| Tipe | Menyimpan Air | Mengalirkan Air | Kemampuan untuk Dieksploitasi Air Tanahnya | Contoh Material |
+| :---: | :-----------: | :-------------: | :----------------------------------------: | :------------- |
+| Akuifer | V | V | V | Pasir, kerikil |
+| Akuiklud | V | X | X | Lempung, batuserpih |
+| Akuitard | V | V | lambat | Lempung |
+| Akuifug | X | X | X | Granit, basalt |
 
 # 3. Sumberdaya Energi
 # 4. Isu Sumberdaya
