@@ -47,11 +47,28 @@ Minyak dan gas bumi terbentuk dari pemecahan rantai hidrokarbon senyawa organik.
 
 Cadangan minyak bumi konvensional terbentuk pada cebakan geologi. Yang dimaksud cebakan geologi adalah lapisan batuan sedimen berpori yang miring dan tertutup lapisan batuan kedap air di semua sisinya. Kondisi ini memungkinkan gas dan minyak untuk bermigrasi ke atas, membentuk cadangan yang terkumpul di suatu tempat. Cebakan minyak dapat terbentuk kerena lipatan antiklin, variasi pada perlapisan batuan berupa unconformity atau pinchout, sesar, atau kubah yang terbentuk karena apungan mineral ringan seperti kubah garam.
 
-Cadangan minyak konvensional yang semakin berkurang menyebabkan harga minyak meningkat. Harga yang tinggi menyebabkan cadangan non-konvensional menjadi ekonomis untuk dieksploitasi. Beberapa bentuk cadangan non-konvensional yaitu shale gas, oil shale, light tight oil, Underground Coal Gasification (UCG), Coalbed Methane (CBM), heavy oil, tar sands, dan gas hydrate.
+Cadangan minyak konvensional yang semakin berkurang menyebabkan harga minyak meningkat. Harga yang tinggi menyebabkan cadangan non-konvensional menjadi ekonomis untuk dieksploitasi. Beberapa bentuk cadangan non-konvensional yaitu shale gas, oil shale, light tight oil, Underground Coal Gasification (UCG), Basin-Centered Gas (BCG), Coalbed Methane (CBM), heavy oil, tar sands, dan gas hydrate.
 
-Shale gas, oil shale, dan light tight oil berada di lapisan batuan dengan porositas rendah, sehingga minyak dan gas tidak dapat bermigrasi ke bagian atas lapisan batuan. Eksploitasi migas pada cadangan ini dilakukan dengan menyuntikkan air dengan tekanan tinggi, sehingga dapat membentuk porositas sekunder berupa retakan pada lapisan batuan. CBM memanfaatkan gas yang terjebak di sekitar cadangan batubara, sedangkan UCG mengubah batubara menjadi gas, sehingga tidak memerlukan penggalian untuk dieksploitasi.
+Shale gas, oil shale, dan light tight oil berada di lapisan batuan dengan porositas rendah, sehingga minyak dan gas tidak dapat bermigrasi ke bagian atas lapisan batuan. Eksploitasi migas pada cadangan ini dilakukan dengan menyuntikkan air dengan tekanan tinggi, sehingga dapat membentuk porositas sekunder berupa retakan pada lapisan batuan. CBM memanfaatkan gas yang terjebak di sekitar cadangan batubara, BCG memanfaatkan gas dengan tekanan tinggi di dasar cekungan, sedangkan UCG mengubah batubara menjadi gas, sehingga tidak memerlukan penggalian untuk dieksploitasi.
 
+Heavy oil dan tar sand hanya memiliki fraksi berat dari minyak bumi. Cadangan heavy oil merupakan batuan sedimen dan berada di bawah tanah sedangkan tar sand merupakan sedimen lepas-lepas dan berada di dekat permukaan. Cadangan gas hydrate merupakan lapisan batuan dengan mineral yang berikatan dengan molekul metana.
 
+## 2.3. Air
+Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi. Siklus hidrologi memiliki simpanan (reservoir) dan aliran (flow). Simpanan di siklus hidrologi di antaranya, danau, gletser, air tanah, dan atmosfer. Sementara itu, aliran di siklus hidrologi meliputi evaporasi, kondensasi, presipitasi, aliran permukaan, dan infiltrasi. Waktu tinggal (residence time) merujuk pada lama molekul air berada di simpanan tertentu. Antartika memiliki waktu tinggal paling lama, 20.000 tahun, air tanah dalam 10.000 tahun, samudera 3.200 tahun, sungai 2-6 bulan, dan atmosfer memiliki waktu tinggal paling singkat dengan rata-rata 9 tahun.
+
+Cadangan sumberdaya air yang dapat langsung digunakan dengan pengolahan minimal adalah air tanah. Cadangan air tanah berada di lapisan batuan atau sedimen dengan porositas tinggi, disebut akuifer. Akuifer memiliki porositas (jumlah pori-pori) dan permeabilitas (kemampuan batuan untuk dilalui air) tinggi. Berdasarkan lokasinya, akuifer dapat diklasifikasikan menjadi 3 jenis:
+* Akuifer bebas (unconfined aquifer): lapisan batuan mengandung air tanah yang tidak berada di antara 2 lapisan kedap air. Air tanah dapat terisi (groundwater recharge) di seluruh permukaannya. Ketika sumur digali mencapai lapisan ini, ketinggian air sumur menunjukkan ketinggian zona jenuh air, disebut juga muka air tanah (water table).
+* Akuifer tertekan (confined aquifer): lapisan batuan mengandung air, diapit lapisan kedap air di atas dan bawahnya. Air tanah terisi pada area lapisan batuan terbuka ke permukaan, umumnya berada di wilayah hulu (lereng atas gunung/bukit). Muka air tanah di wilayah hulu tersebut yang menjadi ketinggian air sumur di seluruh area akuifer, seperti bejana berhubungan. Ketinggian air tersebut disebut permukaan potensiometrik/piezometrik. Jika permukaan tanah berada lebih rendah daripada permukaan potensiometrik, maka akan menyembur keluar sumur, membentuk sumur artesis.
+* Akuifer menggantung (perched aquifer): lapisan batuan mengandung air tanah yang berada di atas lapisan batuan kedap air berukuran kecil. Akibatnya, akuifer yang terbentuk memiliki posisi lebih tinggi daripada wilayah sekitarnya.
+
+Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menjadi akuifer dan kedap air. Terdapat 4 tipe unit batuan berdasarkan karakteristik hidroliknya, yaitu:
+
+| Tipe | Menyimpan Air | Mengalirkan Air | Kemampuan untuk Dieksploitasi Air Tanahnya | Contoh Material |
+| :---: | :-----------: | :-------------: | :----------------------------------------: | :------------- |
+| Akuifer | V | V | V | Pasir, kerikil |
+| Akuiklud | V | X | X | Lempung, batuserpih |
+| Akuitard | V | V | lambat | Lempung |
+| Akuifug | X | X | X | Granit, basalt |
 
 # 3. Sumberdaya Energi
 # 4. Isu Sumberdaya
