@@ -27,7 +27,7 @@ Salah satu peraturan di Indonesia mengenai sumberdaya alam (UU no. 37 Tahun 1967
 * Golongan C: Dapat diusahakan oleh rakyat ataupun badan usaha milik rakyat, misal: batu gamping, marmer, batu sabak pasir.
 
 # 2. Sumberdaya Material
-# 2.1. Sumberdaya Mineral
+## 2.1. Sumberdaya Mineral
 Mineral adalah benda padat, terbentuk secara alami, memiliki struktur kristalin, inorganik, dapat ditunjukkan dengan rumus senyawa kimia. Berikut merupakan tipe mineral yang ditambang:
 * Logam mulia: emas (Au), perak (Ag), platinum (Pt)
 * Logam non-ferro: tembaga (Cu), seng (Zn), timbal (Pb), timah (Sn), alumunium (Al)
@@ -36,7 +36,22 @@ Mineral adalah benda padat, terbentuk secara alami, memiliki struktur kristalin,
 
 Elemen tanah jarang atau logam tanah jarang merupakan 17 unusr kimia yang mencakup 15 lantanida dan skandium serta itrium. Penggunaan elemen tanah jarang utamanya adalah sebagai bahan pembuatan semikonduktor, campuran produk optik, dan magnet.
 
-Eksploitasi sumberdaya bahan galian dipengaruhi oleh 
+Sumberdaya mineral dieksploitasi ketika kegiatan tersebut ekonomis. Faktor yang mempengaruhi hal tersebut di antaranya kadar mineral dalam batuan, jumlah cadangan, bentuk cadangan, letak geografis, jenis pertambangan, dan dampak lingkungan. Batuan dengan kadar mineral tambang yang tinggi disebut bijih.
+
+Satu jenis mineral dapat memiliki lebih dari satu jenis bijih. Kadar mineral minimal sehingga suatu cadangan sehingga cadangan tersebut ekonomis untuk dieksploitasi disebut cut-off grade. Proses pengolahan bijih menjadi mineral bahan baku industri disebut smelter.
+
+Pertambangan dapat dilakukan secara terbuka maupun di bawah tanah. Bentuk pertambangan terbuka meliputi open pit, placer, dan quarry. Bentuk pertambangan di bawah tanah di antaranya pengeboran, terowongan room and pillar, dan block caving.
+
+## 2.2. Minyak dan Gas Bumi Sebagai Sumberdaya Mineral
+Minyak dan gas bumi terbentuk dari pemecahan rantai hidrokarbon senyawa organik. Batuan sedimen yang memerangkap banyak alga akan menghasilkan cebakan minyak kaya minyak, sedangkan batuan yang memerangkap banyak kayu menghasilkan cebakan kaya gas. Minyak dan gas bumi dapat digunakan sebagai bahan baku berbagai material, mulai dari bahan kimia, plastik, hingga aspal. Material tersebut dihasilkan dari berbagai fraksi penyulingan minyak bumi.
+
+Cadangan minyak bumi konvensional terbentuk pada cebakan geologi. Yang dimaksud cebakan geologi adalah lapisan batuan sedimen berpori yang miring dan tertutup lapisan batuan kedap air di semua sisinya. Kondisi ini memungkinkan gas dan minyak untuk bermigrasi ke atas, membentuk cadangan yang terkumpul di suatu tempat. Cebakan minyak dapat terbentuk kerena lipatan antiklin, variasi pada perlapisan batuan berupa unconformity atau pinchout, sesar, atau kubah yang terbentuk karena apungan mineral ringan seperti kubah garam.
+
+Cadangan minyak konvensional yang semakin berkurang menyebabkan harga minyak meningkat. Harga yang tinggi menyebabkan cadangan non-konvensional menjadi ekonomis untuk dieksploitasi. Beberapa bentuk cadangan non-konvensional yaitu shale gas, oil shale, light tight oil, Underground Coal Gasification (UCG), Coalbed Methane (CBM), heavy oil, tar sands, dan gas hydrate.
+
+Shale gas, oil shale, dan light tight oil berada di lapisan batuan dengan porositas rendah, sehingga minyak dan gas tidak dapat bermigrasi ke bagian atas lapisan batuan. Eksploitasi migas pada cadangan ini dilakukan dengan menyuntikkan air dengan tekanan tinggi, sehingga dapat membentuk porositas sekunder berupa retakan pada lapisan batuan. CBM memanfaatkan gas yang terjebak di sekitar cadangan batubara, sedangkan UCG mengubah batubara menjadi gas, sehingga tidak memerlukan penggalian untuk dieksploitasi.
+
+
 
 # 3. Sumberdaya Energi
 # 4. Isu Sumberdaya
