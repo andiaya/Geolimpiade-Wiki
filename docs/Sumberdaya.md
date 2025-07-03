@@ -84,10 +84,12 @@ Wilayah dengan bentanglahan karst memiliki kondisi cadangan sumberdaya air yang 
 
 ## 2.4. Sumberdaya Hutan
 ## 2.5. Sumberdaya Laut
+### 2.5.1. Bentuk Sumberdaya Laut
+### 2.5.2. UNCLOS 1982
 ## 2.6. Sumberdaya Mineral Baru
 Proses desalinasi tidak hanya memisahkan air dengan garam saja, namun, terdapat berbagai mineral lain yang juga tertinggal pada larutan air laut pekat. Larutan air laut pekat ini disebut brine. Pelepasan kembali brine ke laut memerlukan pertimbangan lingkungan, karena kadar mineral yang tinggi. Brine dapat menjadi polutan, sehingga pelepasannya dilakukan jauh di lepas pantai, pada area dengan percampuran air laut tinggi, dan dilepaskan secara perlahan atau dikurangi kepekatannya terlebih dahulu. Mineral pada brine dapat dipisahkan secara keseluruhan untuk digunakan sebagai bahan baku industri. Namun, saat ini belum banyak dilakukan karena belum bersifat ekonomis.
 
-Mineral yang terlarut di air laut dapat pula keluar dari larutan dengan membentuk kristal pada objek yang berada di dasar laut. Molekul yang terlarut perlahan menempel pada pecahan karang dan tulang di dasar laut, membentuk bola-bola mineral bernama nodul polimetalik. Cadangan nodul polimetalik terbesar berada di dasar laut Pasifik bernama Zona Clarion-Clipperton. Izin penambangan nodul polimetalik pertama dikeluarkan pemerintah Amerika Serikat pada awal tahun 2025. Proses penambangan nodul polimetalik dilakukan dengan menyedot nodul dan lumpur dasar samudera yang kemudian dipisahkan di kapal penambang. Lumpur kemudian dibuang ke laut, menyebabkan gangguan ekosistem berupa peningkatan turbiditas (kekeruhan). Selain itu, nodul polimetalik dan lumpur dasar samudera juga menjadi ekosistem makhluk hidup dengan biodiversitas yang belum diteliti secara keseluruhan.
+Mineral yang terlarut di air laut dapat pula keluar dari larutan dengan membentuk kristal pada objek yang berada di dasar laut. Molekul yang terlarut perlahan menempel pada pecahan karang dan tulang di dasar laut, membentuk bola-bola mineral bernama nodul polimetalik. Cadangan nodul polimetalik terbesar berada di dasar Samudera Pasifik bernama Zona Clarion-Clipperton. Izin penambangan nodul polimetalik pertama dikeluarkan pemerintah Amerika Serikat pada awal tahun 2025. Proses penambangan nodul polimetalik dilakukan dengan menyedot nodul dan lumpur dasar samudera yang kemudian dipisahkan di kapal penambang. Lumpur kemudian dibuang ke laut, menyebabkan gangguan ekosistem berupa peningkatan turbiditas (kekeruhan). Selain itu, nodul polimetalik dan lumpur dasar samudera juga menjadi ekosistem makhluk hidup dengan biodiversitas yang belum diteliti secara keseluruhan.
 
 # 3. Sumberdaya Energi
 ## 3.1. Energi Lama
