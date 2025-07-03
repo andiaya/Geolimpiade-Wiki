@@ -17,3 +17,7 @@ Terima kasih!
 - [1. Iklim dan Perubahan Iklim](/Geolimpiade-Wiki/docs/Metklim/)
 - [2. Kebencanaan dan Manajemen Bencana](/Geolimpiade-Wiki/docs/Manben/)
 - [3. Sumberdaya dan Manajemen Sumberdaya](/Geolimpiade-Wiki/docs/Sumberdaya/)
+
+
+![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
+["#ShowYourStripes"](https://showyourstripes.info/s/asia/indonesia/yogyakarta)
