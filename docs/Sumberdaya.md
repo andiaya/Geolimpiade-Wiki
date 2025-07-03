@@ -56,6 +56,8 @@ Heavy oil dan tar sand hanya memiliki fraksi berat dari minyak bumi. Cadangan he
 ## 2.3. Air
 Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi. Siklus hidrologi memiliki simpanan (reservoir) dan aliran (flow). Simpanan di siklus hidrologi di antaranya, danau, gletser, air tanah, dan atmosfer. Sementara itu, aliran di siklus hidrologi meliputi evaporasi, kondensasi, presipitasi, aliran permukaan, dan infiltrasi. Waktu tinggal (residence time) merujuk pada lama molekul air berada di simpanan tertentu. Antartika memiliki waktu tinggal paling lama, 20.000 tahun, air tanah dalam 10.000 tahun, samudera 3.200 tahun, sungai 2-6 bulan, dan atmosfer memiliki waktu tinggal paling singkat dengan rata-rata 9 tahun.
 
+*persentase cadangan*
+
 Pemanfaatan sumberdaya air dipengaruhi oleh kemudahan diperoleh, jumlah cadangan, dan kualitas air. Berdasarkan parameter ini, mata air menjadi sumber air paling ideal. Mata air merupakan lokasi keluarnya airtanah secara alami. Air dari mata air mudah diperoleh karena berada di permukaan tanah, cadangannya dapat bertahan sepanjang tahun atau berfluktuasi tergantung musim, dan kualitas airnya baik karena berada dekat dengan wilayah hulu.
 
 Cadangan air atmosfer memiliki ketersediaan tinggi di kebanyakan tempat di Indonesia. Namun, jumlahnya berfluktuasi dan hanya bisa diandalkan di puncak musim penghujan. Air hujan memerlukan pengolahan untuk memisahkan polusi dari atmosfer serta menambahkan kadar mineral. Cadangan air permukaan mudah diakses dan memiliki jumlah cadangan tinggi. Namun, kendala pemanfaatan cadangan air permukaan adalah kualitas air. Sebelum digunakan, air dari sungai atau danau harus dipisahkan dari sedimen dan dibersihkan dari berbagai polutan, baik biologis maupun kimiawi.
@@ -74,7 +76,21 @@ Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menja
 | Akuitard | V | V | lambat | Lempung |
 | Akuifug | X | X | X | Granit, basalt |
 
+Pemanfaatan air laut sebagai sumberdaya air terhambat kondisi kualitas air. Air laut memiliki kandungan mineral yang sangat tinggi, sehingga memerlukan pengolahan yang ekstensif. Proses utama pengolahan air laut menjadi air untuk dikonsumsi adalah penghilangan mineral garam yang terlarut, disebut proses desalinasi. Desalinasi dapat dilakukan secara distilasi atau menggunakan proses osmosis terbalik (RO/Reverse Osmosis). Proses distilasi menggunakan penguapan air untuk memisahkan air dan garam. Proses ini memerlukan energi yang sangat besar untuk menguapkan air. Desalinasi distilasi modern menggunakan proses bertahap, sehingga panas yang dilepaskan saat kondensasi dapat digunakan kembali untuk menguapkan air laut baru. Terdapat pula inovasi desalinasi distilasi skala besar menggunakan tenaga Matahari.
 
+Desalinasi osmosis terbalik menggunakan membran yang dapat meloloskan air namun menangkap garam untuk memisahkan air dari garam. Pada osmosis normal, air mengalir dari sisi membran dengan kadar garam rendah ke sisi membran dengan kadar garam tinggi. Proses osmosis terbalik menggunakan tekanan tinggi untuk memaksa air keluar dari cairan dengan kadar garam tinggi. Proses ini juga memerlukan energi dengan jumlah besar. Selain itu, membran juga harus diganti setelah periode penggunaan tertentu serta memiliki kemungkinan tersumbat alga dan objek lain yang mungkin ada di air laut.
+
+Wilayah dengan bentanglahan karst memiliki kondisi cadangan sumberdaya air yang unik. Wilayah ini kaya cadangan air, namun sulit untuk diakses. Karakteristik batuan yang mudah terlarut oleh air menyebabkan aliran air yang terbentuk bukan berada di permukaan, melainkan di bawah tanah. Berbeda dengan air tanah pada umumnya, air bawah tanah di wilayah karst membentuk pipa-pipa konduit dan mengalir cepat layaknya sungai permukaan. Salah satu bentuk usaha pemanfaatan air sungai bawah tanah karst adalah dengan membuat bendungan bawah tanah, sehingga air dapat terkumpul dan dipompa hingga ke permukaan.
+
+## 2.4. Sumberdaya Hutan
+## 2.5. Sumberdaya Laut
+## 2.6. Sumberdaya Mineral Baru
+Proses desalinasi tidak hanya memisahkan air dengan garam saja, namun, terdapat berbagai mineral lain yang juga tertinggal pada larutan air laut pekat. Larutan air laut pekat ini disebut brine. Pelepasan kembali brine ke laut memerlukan pertimbangan lingkungan, karena kadar mineral yang tinggi. Brine dapat menjadi polutan, sehingga pelepasannya dilakukan jauh di lepas pantai, pada area dengan percampuran air laut tinggi, dan dilepaskan secara perlahan atau dikurangi kepekatannya terlebih dahulu. Mineral pada brine dapat dipisahkan secara keseluruhan untuk digunakan sebagai bahan baku industri. Namun, saat ini belum banyak dilakukan karena belum bersifat ekonomis.
+
+Mineral yang terlarut di air laut dapat pula keluar dari larutan dengan membentuk kristal pada objek yang berada di dasar laut. Molekul yang terlarut perlahan menempel pada pecahan karang dan tulang di dasar laut, membentuk bola-bola mineral bernama nodul polimetalik. Cadangan nodul polimetalik terbesar berada di dasar laut Pasifik bernama Zona Clarion-Clipperton. Izin penambangan nodul polimetalik pertama dikeluarkan pemerintah Amerika Serikat pada awal tahun 2025. Proses penambangan nodul polimetalik dilakukan dengan menyedot nodul dan lumpur dasar samudera yang kemudian dipisahkan di kapal penambang. Lumpur kemudian dibuang ke laut, menyebabkan gangguan ekosistem berupa peningkatan turbiditas (kekeruhan). Selain itu, nodul polimetalik dan lumpur dasar samudera juga menjadi ekosistem makhluk hidup dengan biodiversitas yang belum diteliti secara keseluruhan.
 
 # 3. Sumberdaya Energi
+## 3.1. Energi Lama
+## 3.2. Energi Baru Terbarukan (EBT)
+
 # 4. Isu Sumberdaya
