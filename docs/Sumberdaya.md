@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f2bcf19-cfe5-45ab-b110-dc3521396177)![image](https://github.com/user-attachments/assets/5dac38ea-e0da-4cc3-85fa-f3c13d4c283b)---
+---
 title: Sumberdaya dan Manajemen Sumberdaya
 permalink: /docs/Sumberdaya/
 layout: single
