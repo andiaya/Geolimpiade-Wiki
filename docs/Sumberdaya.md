@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/2f2bcf19-cfe5-45ab-b110-dc3521396177)![image](https://github.com/user-attachments/assets/5dac38ea-e0da-4cc3-85fa-f3c13d4c283b)---
 title: Sumberdaya dan Manajemen Sumberdaya
 permalink: /docs/Sumberdaya/
 layout: single
@@ -60,12 +60,18 @@ Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi. Siklus hidrolog
 
 Pemanfaatan sumberdaya air dipengaruhi oleh kemudahan diperoleh, jumlah cadangan, dan kualitas air. Berdasarkan parameter ini, mata air menjadi sumber air paling ideal. Mata air merupakan lokasi keluarnya airtanah secara alami. Air dari mata air mudah diperoleh karena berada di permukaan tanah, cadangannya dapat bertahan sepanjang tahun atau berfluktuasi tergantung musim, dan kualitas airnya baik karena berada dekat dengan wilayah hulu.
 
+*ilustrasi mata air in relation to topografi*
+
 Cadangan air atmosfer memiliki ketersediaan tinggi di kebanyakan tempat di Indonesia. Namun, jumlahnya berfluktuasi dan hanya bisa diandalkan di puncak musim penghujan. Air hujan memerlukan pengolahan untuk memisahkan polusi dari atmosfer serta menambahkan kadar mineral. Cadangan air permukaan mudah diakses dan memiliki jumlah cadangan tinggi. Namun, kendala pemanfaatan cadangan air permukaan adalah kualitas air. Sebelum digunakan, air dari sungai atau danau harus dipisahkan dari sedimen dan dibersihkan dari berbagai polutan, baik biologis maupun kimiawi.
+
+*instalasi pengolahan air minum dari air sungai*
 
 Cadangan sumberdaya air yang dapat langsung digunakan dengan pengolahan minimal adalah air tanah. Namun, pengisian ulang air tanah membutuhkan waktu yang sangat panjang. Cadangan air tanah berada di lapisan batuan atau sedimen dengan porositas tinggi, disebut akuifer. Akuifer memiliki porositas (jumlah pori-pori) dan permeabilitas (kemampuan batuan untuk dilalui air) tinggi. Berdasarkan lokasinya, akuifer dapat diklasifikasikan menjadi 3 jenis:
 * Akuifer bebas (unconfined aquifer): lapisan batuan mengandung air tanah yang tidak berada di antara 2 lapisan kedap air. Air tanah dapat terisi (groundwater recharge) di seluruh permukaannya. Ketika sumur digali mencapai lapisan ini, ketinggian air sumur menunjukkan ketinggian zona jenuh air, disebut juga muka air tanah (water table).
 * Akuifer tertekan (confined aquifer): lapisan batuan mengandung air, diapit lapisan kedap air di atas dan bawahnya. Air tanah terisi pada area lapisan batuan terbuka ke permukaan, umumnya berada di wilayah hulu (lereng atas gunung/bukit). Muka air tanah di wilayah hulu tersebut yang menjadi ketinggian air sumur di seluruh area akuifer, seperti bejana berhubungan. Ketinggian air tersebut disebut permukaan potensiometrik/piezometrik. Jika permukaan tanah berada lebih rendah daripada permukaan potensiometrik, maka akan menyembur keluar sumur, membentuk sumur artesis.
 * Akuifer menggantung (perched aquifer): lapisan batuan mengandung air tanah yang berada di atas lapisan batuan kedap air berukuran kecil. Akibatnya, akuifer yang terbentuk memiliki posisi lebih tinggi daripada wilayah sekitarnya.
+
+*ilustrasi tipe akuifer*
 
 Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menjadi akuifer dan kedap air. Terdapat 4 tipe unit batuan berdasarkan karakteristik hidroliknya, yaitu:
 
@@ -78,9 +84,15 @@ Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menja
 
 Pemanfaatan air laut sebagai sumberdaya air terhambat kondisi kualitas air. Air laut memiliki kandungan mineral yang sangat tinggi, sehingga memerlukan pengolahan yang ekstensif. Proses utama pengolahan air laut menjadi air untuk dikonsumsi adalah penghilangan mineral garam yang terlarut, disebut proses desalinasi. Desalinasi dapat dilakukan secara distilasi atau menggunakan proses osmosis terbalik (RO/Reverse Osmosis). Proses distilasi menggunakan penguapan air untuk memisahkan air dan garam. Proses ini memerlukan energi yang sangat besar untuk menguapkan air. Desalinasi distilasi modern menggunakan proses bertahap, sehingga panas yang dilepaskan saat kondensasi dapat digunakan kembali untuk menguapkan air laut baru. Terdapat pula inovasi desalinasi distilasi skala besar menggunakan tenaga Matahari.
 
+*instalasi desalinasi air laut distilasi*
+
 Desalinasi osmosis terbalik menggunakan membran yang dapat meloloskan air namun menangkap garam untuk memisahkan air dari garam. Pada osmosis normal, air mengalir dari sisi membran dengan kadar garam rendah ke sisi membran dengan kadar garam tinggi. Proses osmosis terbalik menggunakan tekanan tinggi untuk memaksa air keluar dari cairan dengan kadar garam tinggi. Proses ini juga memerlukan energi dengan jumlah besar. Selain itu, membran juga harus diganti setelah periode penggunaan tertentu serta memiliki kemungkinan tersumbat alga dan objek lain yang mungkin ada di air laut.
 
+*instalasi desalinasi air laut RO*
+
 Wilayah dengan bentanglahan karst memiliki kondisi cadangan sumberdaya air yang unik. Wilayah ini kaya cadangan air, namun sulit untuk diakses. Karakteristik batuan yang mudah terlarut oleh air menyebabkan aliran air yang terbentuk bukan berada di permukaan, melainkan di bawah tanah. Berbeda dengan air tanah pada umumnya, air bawah tanah di wilayah karst membentuk pipa-pipa konduit dan mengalir cepat layaknya sungai permukaan. Salah satu bentuk usaha pemanfaatan air sungai bawah tanah karst adalah dengan membuat bendungan bawah tanah, sehingga air dapat terkumpul dan dipompa hingga ke permukaan.
+
+*ilustrasi bendungan bawah tanah*
 
 ## 2.4. Sumberdaya Hutan
 ## 2.5. Sumberdaya Laut
@@ -89,10 +101,27 @@ Wilayah dengan bentanglahan karst memiliki kondisi cadangan sumberdaya air yang 
 ## 2.6. Sumberdaya Mineral Baru
 Proses desalinasi tidak hanya memisahkan air dengan garam saja, namun, terdapat berbagai mineral lain yang juga tertinggal pada larutan air laut pekat. Larutan air laut pekat ini disebut brine. Pelepasan kembali brine ke laut memerlukan pertimbangan lingkungan, karena kadar mineral yang tinggi. Brine dapat menjadi polutan, sehingga pelepasannya dilakukan jauh di lepas pantai, pada area dengan percampuran air laut tinggi, dan dilepaskan secara perlahan atau dikurangi kepekatannya terlebih dahulu. Mineral pada brine dapat dipisahkan secara keseluruhan untuk digunakan sebagai bahan baku industri. Namun, saat ini belum banyak dilakukan karena belum bersifat ekonomis.
 
+*desalination brine management*
+
 Mineral yang terlarut di air laut dapat pula keluar dari larutan dengan membentuk kristal pada objek yang berada di dasar laut. Molekul yang terlarut perlahan menempel pada pecahan karang dan tulang di dasar laut, membentuk bola-bola mineral bernama nodul polimetalik. Cadangan nodul polimetalik terbesar berada di dasar Samudera Pasifik bernama Zona Clarion-Clipperton. Izin penambangan nodul polimetalik pertama dikeluarkan pemerintah Amerika Serikat pada awal tahun 2025. Proses penambangan nodul polimetalik dilakukan dengan menyedot nodul dan lumpur dasar samudera yang kemudian dipisahkan di kapal penambang. Lumpur kemudian dibuang ke laut, menyebabkan gangguan ekosistem berupa peningkatan turbiditas (kekeruhan). Selain itu, nodul polimetalik dan lumpur dasar samudera juga menjadi ekosistem makhluk hidup dengan biodiversitas yang belum diteliti secara keseluruhan.
 
+*polymetalic nodule*
+
 # 3. Sumberdaya Energi
+Konsumsi dan produksi listrik
+
+Bentuk lain sumberdaya energi
+
+Duck curve
+
 ## 3.1. Energi Lama
+
+
 ## 3.2. Energi Baru Terbarukan (EBT)
 
+## 3.3. Bauran Energi dan Transisi Energi
+
 # 4. Isu Sumberdaya
+## 4.1. Daya Dukung dan Daya Tampung (Carrying Capacity and Assimilation)
+## 4.2. Penangkapan dan Penyimpanan Karbon (Carbon Capture and Storage /CCS)
+## 4.3. GDP – Emission Decoupling
