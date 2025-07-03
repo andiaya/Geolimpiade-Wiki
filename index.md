@@ -20,4 +20,4 @@ Terima kasih!
 
 
 ![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
-["#ShowYourStripes"](https://showyourstripes.info/s/asia/indonesia/yogyakarta)
+[#ShowYourStripes](https://showyourstripes.info/s/asia/indonesia/yogyakarta)
