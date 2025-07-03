@@ -56,7 +56,11 @@ Heavy oil dan tar sand hanya memiliki fraksi berat dari minyak bumi. Cadangan he
 ## 2.3. Air
 Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi. Siklus hidrologi memiliki simpanan (reservoir) dan aliran (flow). Simpanan di siklus hidrologi di antaranya, danau, gletser, air tanah, dan atmosfer. Sementara itu, aliran di siklus hidrologi meliputi evaporasi, kondensasi, presipitasi, aliran permukaan, dan infiltrasi. Waktu tinggal (residence time) merujuk pada lama molekul air berada di simpanan tertentu. Antartika memiliki waktu tinggal paling lama, 20.000 tahun, air tanah dalam 10.000 tahun, samudera 3.200 tahun, sungai 2-6 bulan, dan atmosfer memiliki waktu tinggal paling singkat dengan rata-rata 9 tahun.
 
-Cadangan sumberdaya air yang dapat langsung digunakan dengan pengolahan minimal adalah air tanah. Cadangan air tanah berada di lapisan batuan atau sedimen dengan porositas tinggi, disebut akuifer. Akuifer memiliki porositas (jumlah pori-pori) dan permeabilitas (kemampuan batuan untuk dilalui air) tinggi. Berdasarkan lokasinya, akuifer dapat diklasifikasikan menjadi 3 jenis:
+Pemanfaatan sumberdaya air dipengaruhi oleh kemudahan diperoleh, jumlah cadangan, dan kualitas air. Berdasarkan parameter ini, mata air menjadi sumber air paling ideal. Mata air merupakan lokasi keluarnya airtanah secara alami. Air dari mata air mudah diperoleh karena berada di permukaan tanah, cadangannya dapat bertahan sepanjang tahun atau berfluktuasi tergantung musim, dan kualitas airnya baik karena berada dekat dengan wilayah hulu.
+
+Cadangan air atmosfer memiliki ketersediaan tinggi di kebanyakan tempat di Indonesia. Namun, jumlahnya berfluktuasi dan hanya bisa diandalkan di puncak musim penghujan. Air hujan memerlukan pengolahan untuk memisahkan polusi dari atmosfer serta menambahkan kadar mineral. Cadangan air permukaan mudah diakses dan memiliki jumlah cadangan tinggi. Namun, kendala pemanfaatan cadangan air permukaan adalah kualitas air. Sebelum digunakan, air dari sungai atau danau harus dipisahkan dari sedimen dan dibersihkan dari berbagai polutan, baik biologis maupun kimiawi.
+
+Cadangan sumberdaya air yang dapat langsung digunakan dengan pengolahan minimal adalah air tanah. Namun, pengisian ulang air tanah membutuhkan waktu yang sangat panjang. Cadangan air tanah berada di lapisan batuan atau sedimen dengan porositas tinggi, disebut akuifer. Akuifer memiliki porositas (jumlah pori-pori) dan permeabilitas (kemampuan batuan untuk dilalui air) tinggi. Berdasarkan lokasinya, akuifer dapat diklasifikasikan menjadi 3 jenis:
 * Akuifer bebas (unconfined aquifer): lapisan batuan mengandung air tanah yang tidak berada di antara 2 lapisan kedap air. Air tanah dapat terisi (groundwater recharge) di seluruh permukaannya. Ketika sumur digali mencapai lapisan ini, ketinggian air sumur menunjukkan ketinggian zona jenuh air, disebut juga muka air tanah (water table).
 * Akuifer tertekan (confined aquifer): lapisan batuan mengandung air, diapit lapisan kedap air di atas dan bawahnya. Air tanah terisi pada area lapisan batuan terbuka ke permukaan, umumnya berada di wilayah hulu (lereng atas gunung/bukit). Muka air tanah di wilayah hulu tersebut yang menjadi ketinggian air sumur di seluruh area akuifer, seperti bejana berhubungan. Ketinggian air tersebut disebut permukaan potensiometrik/piezometrik. Jika permukaan tanah berada lebih rendah daripada permukaan potensiometrik, maka akan menyembur keluar sumur, membentuk sumur artesis.
 * Akuifer menggantung (perched aquifer): lapisan batuan mengandung air tanah yang berada di atas lapisan batuan kedap air berukuran kecil. Akibatnya, akuifer yang terbentuk memiliki posisi lebih tinggi daripada wilayah sekitarnya.
@@ -69,6 +73,8 @@ Secara lebih detail, batuan dan material lain tidak hanya diklasifikasikan menja
 | Akuiklud | V | X | X | Lempung, batuserpih |
 | Akuitard | V | V | lambat | Lempung |
 | Akuifug | X | X | X | Granit, basalt |
+
+
 
 # 3. Sumberdaya Energi
 # 4. Isu Sumberdaya
