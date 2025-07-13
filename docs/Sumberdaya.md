@@ -95,6 +95,10 @@ Wilayah dengan bentanglahan karst memiliki kondisi cadangan sumberdaya air yang 
 *ilustrasi bendungan bawah tanah*
 
 ## 2.4. Sumberdaya Hutan
+Hutan menghasilkan produk hutan berupa produk kayu dan non-kayu. Produk kayu, atau lebih umum disebut produk serat, merupakan hasil hutan paling dominan. Hasil hutan kayu dimanfaatkan sebagai bahan bangunan, dan bahan baku industri, misalnya industri kertas.
+
+Hasil hutan non-kayu (NTFP/Non-Timber Forest Product) merupakan material komoditas yang diperoleh dari hutan tanpa melibatkan penebangan pohon. Hasil hutan ini dapat diperoleh dengan mengumpulkan komoditas yang tumbuh secara alami maupun dengan melakukan pertanian agroforestri. 
+
 ## 2.5. Sumberdaya Laut
 ### 2.5.1. Bentuk Sumberdaya Laut
 ### 2.5.2. UNCLOS 1982
@@ -125,3 +129,4 @@ Duck curve
 ## 4.1. Daya Dukung dan Daya Tampung (Carrying Capacity and Assimilation)
 ## 4.2. Penangkapan dan Penyimpanan Karbon (Carbon Capture and Storage /CCS)
 ## 4.3. GDP – Emission Decoupling
+## 4.4. FOLU (Forestry and Other Land Use)
