@@ -1,4 +1,4 @@
-<img width="637" height="193" alt="image" src="https://github.com/user-attachments/assets/9c8544d1-99ac-42b9-b182-6ee1104b1d5d" />---
+---
 title: Sumberdaya dan Manajemen Sumberdaya
 permalink: /docs/Sumberdaya/
 layout: single
