@@ -91,3 +91,36 @@ Menilai peningkatan kualitas hidup yang lebih holistik, di luar aspek ekonomi.
   d. Galt: perbandingan gaji CEO dengan pekerja median.\
   e. Atkinson: pendapatan rata-rata * (1-Atkinson index) = equality.\
   f. Kuznets: perbandingan pendapatan 20% rumah tangga teratas dan terbawah.
+
+# 5. Model Pembangunan
+Pembangunan dapat dilakukan dengan melakukan intervensi tertentu pada aspek-aspek kehidupan. Tiap model pembangunan menggarisbawahi aspek kehidupan tertentu dan juga memiliki preferensi tertentu mengenai proses pembangunan yang didasarkan pada asumsi tiap model.
+## 5.1. Model Modernisasi
+Model pembangunan ini berasumsi bahwa kemajuan pembangunan ditandai dengan pembentukan institusi demokratik dan pasar bebas. Suatu negara yang mengalami pembangunan akan melalui tahap-tahap linear dari masyarakat tradisional menuju masyarakat modern. Salah satu model utama dalam klasifikasi ini adalah model pembangunan Rostow.
+* Model Pembangunan Rostow\
+Model pembangunan Rostow didasarkan pada sistem ekonomi kapitalis, dimana konsumen dapat menabung dan menginvestasikan kekayaannya. Pembangunan terjadi ketika investasi menghasilkan keuntungan dan sebagiannya diinvestasikan kembali ke ekonomi. Tahap pembangunan negara menurut model Rostow yaitu:
+  1. Masyarakat Tradisional
+  2. Prekondisi Lepas Landas
+  3. Lepas Landas
+  4. Gerak Menuju Kedewasaan
+  5. Konsumsi Massa Tinggi
+
+## 5.2. Model Strukturalis
+Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Negara miskin memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global.
+
+Contoh penerapan model pembangunan ini adalah usaha hilirisasi nikel Indonesia.
+
+### 5.2.a. Model Ketergantungan
+Model pembangunan ini memiliki asumsi yang sama dengan model strukturalis, yaitu struktur perekonomian negara miskin menyebabkan statusnya menjadi negara pinggiran. Namun, model ini menyatakan bahwa negara miskin tidak dapat serta merta melakukan perubahan pada struktur ekonomi negaranya untuk keluar dari status pinggiran. Hal ini disebabkan karena perekonomian negara pusat atau negara kaya bergantung pada keberadaan negara miskin atau negara pinggiran untuk tetap menghasilkan pertumbuhan keuntungan, sehingga negara maju menggunakan pengaruhnya untuk mencegah pembangunan negara pinggiran.
+
+Oleh karena itu, agar negara miskin dapat melakukan pembangunan, maka ia harus mengurangi hubungan dari sistem perekonomian kapitalis global terlebih dahulu. Model ketergantungan adalah model ekonomi yang menjelaskan hubungan yang terdapat pada Teori Sistem Dunia Wallerstein. Pembangunan masih dapat terjadi di negara pinggiran, namun karakteristiknya bergantung pada kondisi pasar global dan berorientasi pada peningkatan efisiensi eksploitasi sumberdaya.
+
+Contoh keberadaan pengaruh hubungan ketergantungan pada usaha pembangunan model strukturalis adalah rendahnya royalti yang harus dibayarkan perusahaan pertambangan dan pengolahan nikel di Indonesia. Iuran tetap memiliki nilai Rp. 30.000 - 60.000 per Ha dan iuran produksi mulai dari 1,5% untuk logam hingga 10% untuk bijih dengan kadar tinggi setelah terjadi jual beli komoditas. Rendahnya royalti tersebut disebabkan karena pertimbangan kompetisi di pasar global. Besarnya kekuatan negosiasi negara pusat dan semi-pinggiran seperti Perancis dan Tiongkok, yang diperoleh dari keberadaan kompetisi ini, menekan potensi pembangunan dan keuntungan yang dapat diperoleh dari eksploitasi dan pengolahan nikel.
+
+## 5.3. Model Pembangunan Endogen
+
+## 5.4. Model Pembangunan Kutub Pertumbuhan dan Pusat Pertumbuhan
+## 5.5. Model Pembangunan Neoklasik
+## 5.6. Model Pembangunan Kebutuhan Dasar
+## 5.7. Model Pasca-Pembangunan
+## 5.8. Model Pembangunan Manusia
+## 5.9. Model Pembangunan Berkelanjutan
