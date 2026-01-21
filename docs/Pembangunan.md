@@ -124,7 +124,7 @@ Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pemban
 Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja dan berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
 
 ## 5.4. Model Pusat Pertumbuhan
-Pusat pertumbuhan menjadi model perantara antara proses pembangunan top-down dan bottom-up. Model ini berasumsi bahwa tiap wilayah memiliki keunikan karakteristik namun juga berasumsi bahwa industri mendapatkan keuntungan dari sistem aglomerasi.
+Pusat pertumbuhan menjadi model perantara antara proses pembangunan top-down dan bottom-up. Model ini berasumsi bahwa tiap wilayah memiliki keunikan karakteristik namun juga berasumsi bahwa industri mendapatkan keuntungan dari sistem aglomerasi. Boudeville menyatakan bahwa 
 
 ## 5.5. Model Pembangunan Neoklasik
 ## 5.6. Model Pembangunan Kebutuhan Dasar
