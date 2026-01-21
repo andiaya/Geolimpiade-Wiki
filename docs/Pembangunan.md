@@ -105,7 +105,9 @@ Model pembangunan Rostow didasarkan pada sistem ekonomi kapitalis, dimana konsum
   5. Konsumsi Massa Tinggi
 
 ## 5.2. Model Strukturalis
-Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Negara miskin memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara.
+Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Polarisasi wilayah-wilayah di Dunia menjadi pusat-pinggiran disebabkan karena terdapat proses polarisasi dalam sistem perekonomian. Suatu industri induk yang memmiliki pengaruh besar pada sektor perekonomian secara keseluruhan memiliki kemampuan untuk mengerahkan gaya sentripetal sehingga menarik modal dan tenaga kerja kepadanya. Oleh karena itu, negara inilah yang menjadi kutub pertumbuhan menurut Perroux.
+
+Negara miskin yang bukan merupakan kutub pertumbuhan memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara.
 
 Contoh penerapan model pembangunan ini adalah usaha hilirisasi nikel Indonesia.
 
@@ -114,16 +116,16 @@ Model pembangunan ini memiliki asumsi yang sama dengan model strukturalis, yaitu
 
 Oleh karena itu, agar negara miskin dapat melakukan pembangunan, maka ia harus mengurangi hubungan dari sistem perekonomian kapitalis global terlebih dahulu. Model ketergantungan adalah model ekonomi yang menjelaskan hubungan yang terdapat pada Teori Sistem Dunia Wallerstein. Pembangunan masih dapat terjadi di negara pinggiran, namun karakteristiknya bergantung pada kondisi pasar global dan berorientasi pada peningkatan efisiensi eksploitasi sumberdaya.
 
-Contoh keberadaan pengaruh hubungan ketergantungan pada usaha pembangunan model strukturalis adalah rendahnya royalti yang harus dibayarkan perusahaan pertambangan dan pengolahan nikel di Indonesia. Iuran tetap memiliki nilai Rp. 30.000 - 60.000 per Ha dan iuran produksi mulai dari 1,5% untuk logam hingga 10% untuk bijih dengan kadar tinggi setelah terjadi jual beli komoditas. Rendahnya royalti tersebut disebabkan karena pertimbangan kompetisi di pasar global. Besarnya kekuatan negosiasi negara pusat dan semi-pinggiran seperti Perancis dan Tiongkok, yang diperoleh dari keberadaan kompetisi ini, menekan potensi pembangunan dan keuntungan yang dapat diperoleh Indonesia dari eksploitasi dan pengolahan nikel.
+Contoh keberadaan pengaruh hubungan ketergantungan pada usaha pembangunan model strukturalis adalah rendahnya royalti yang harus dibayarkan perusahaan pertambangan dan pengolahan nikel di Indonesia. Iuran tetap memiliki nilai Rp. 30.000 - 60.000 per Ha dan iuran produksi mulai dari 1,5% untuk logam hingga 10% untuk bijih dengan kadar tinggi. Rendahnya royalti tersebut disebabkan karena pertimbangan kompetisi di pasar global. Besarnya kekuatan negosiasi negara pusat dan semi-pinggiran seperti Perancis dan Tiongkok, yang diperoleh dari keberadaan kompetisi ini, menekan potensi pembangunan dan keuntungan yang dapat diperoleh Indonesia dari eksploitasi dan pengolahan nikel.
 
 ## 5.3. Model Pembangunan Endogen
 Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pembangunan yang terjadi di tiap wilayah berbeda pula. Pertumbuhan perekonomian nasional didasarkan pada perkembangan kegiatan ekonomi yang menjadi karakteristik masing-masing wilayah subnasional. Pengambilan kebijakan pembangunan dilakukan dari tingkat terendah, atau disebut juga bottom-up, dan bukan dari tingkat nasional (top-down) atau dari investasi asing.
 
 Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja dan berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
 
-Mekanisme pembangunan endogen dapat dijelaskan melalui aspek sumberdaya manusia, inovasi, dan pengalaman produksi. 
+## 5.4. Model Pusat Pertumbuhan
+Pusat pertumbuhan menjadi model perantara antara proses pembangunan top-down dan bottom-up. Model ini berasumsi bahwa tiap wilayah memiliki keunikan karakteristik namun juga berasumsi bahwa industri mendapatkan keuntungan dari sistem aglomerasi.
 
-## 5.4. Model Pembangunan Kutub Pertumbuhan dan Pusat Pertumbuhan
 ## 5.5. Model Pembangunan Neoklasik
 ## 5.6. Model Pembangunan Kebutuhan Dasar
 ## 5.7. Model Pasca-Pembangunan
