@@ -39,7 +39,7 @@ Menilai peningkatan kualitas hidup yang lebih holistik, di luar aspek ekonomi.
   b. Wilayah pinggiran membeli barang jadi dengan harga lebih tinggi daripada barang mentah yang dihasilkannya (akumulasi kekayaan ke wilayah pusat).\
   c. Ketimpangan pembangunan antara wilayah pusat dan pinggiran.
 * Spread effect: efek positif yang menyebar dari wilayah pusat ke wilayah pinggiran. Contoh:\
-  a. Investasi dari hasil kekayaan yang secara optimal diciptakan wilayah pusat.\
+  a. Investasi dari hasil kekayaan yang secara optimal diciptakan wilayah pusat. Dikenal juga dengan istilah trickle-down (Hirschman).\
   b. Peningkatan efisiensi ekstraksi sumber daya alam mewajibkan adanya pembangunan infrastruktur di negara pinggiran.
 ## 3.2. Teori Sistem Dunia Wallerstein
 * Dunia terbagi menjadi negara pusat, negara semi-pinggiran, dan negara pinggiran.
@@ -105,9 +105,9 @@ Model pembangunan Rostow didasarkan pada sistem ekonomi kapitalis, dimana konsum
   5. Konsumsi Massa Tinggi
 
 ## 5.2. Model Strukturalis
-Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Polarisasi wilayah-wilayah di Dunia menjadi pusat-pinggiran disebabkan karena terdapat proses polarisasi dalam sistem perekonomian. Suatu industri induk yang memmiliki pengaruh besar pada sektor perekonomian secara keseluruhan memiliki kemampuan untuk mengerahkan gaya sentripetal sehingga menarik modal dan tenaga kerja kepadanya. Oleh karena itu, negara inilah yang menjadi kutub pertumbuhan menurut Perroux.
+Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Polarisasi wilayah-wilayah di Dunia menjadi pusat-pinggiran disebabkan karena terdapat proses polarisasi dalam sistem perekonomian. Suatu industri induk yang memmiliki pengaruh besar pada sektor perekonomian secara keseluruhan memiliki kemampuan untuk mengerahkan gaya sentripetal sehingga menarik modal dan tenaga kerja kepadanya. Oleh karena itu, negara inilah yang menjadi Kutub Pertumbuhan menurut Perroux.
 
-Negara miskin yang bukan merupakan kutub pertumbuhan memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara.
+Negara miskin yang bukan merupakan kutub pertumbuhan memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara. Kebijakan proteksionis ditujukan untuk memastikan industri nasional baru yang masih berukuran kecil dapat terlindung dari kompetisi dengan industri besar lain yang lebih produktif akibat keekonomian skala. Dalam proses pertumbuhannya, ISI diharapkan menghasilkan sebuah industri propulsif, yang pada saat perkembangannya memang mengakibatkan backwash effect, namun pada perkembangannya diharapkan dapat menghasilkan backwash effect yang semakin terasa di ekonomi negara tersebut. Mekanisme pembangunan ekonomi ini dideskripsikan oleh Boudeville dan dinamakan Pusat Pertumbuhan.
 
 Contoh penerapan model pembangunan ini adalah usaha hilirisasi nikel Indonesia.
 
@@ -123,10 +123,9 @@ Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pemban
 
 Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja dan berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
 
-## 5.4. Model Pusat Pertumbuhan
-Pusat pertumbuhan menjadi model perantara antara proses pembangunan top-down dan bottom-up. Model ini berasumsi bahwa tiap wilayah memiliki keunikan karakteristik namun juga berasumsi bahwa industri mendapatkan keuntungan dari sistem aglomerasi. Boudeville menyatakan bahwa 
-
 ## 5.5. Model Pembangunan Neoklasik
+
+
 ## 5.6. Model Pembangunan Kebutuhan Dasar
 ## 5.7. Model Pasca-Pembangunan
 ## 5.8. Model Pembangunan Manusia
