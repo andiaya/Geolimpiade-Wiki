@@ -94,6 +94,7 @@ Menilai peningkatan kualitas hidup yang lebih holistik, di luar aspek ekonomi.
 
 # 5. Model Pembangunan
 Pembangunan dapat dilakukan dengan melakukan intervensi tertentu pada aspek-aspek kehidupan. Tiap model pembangunan menggarisbawahi aspek kehidupan tertentu dan juga memiliki preferensi tertentu mengenai proses pembangunan yang didasarkan pada asumsi tiap model.
+
 ## 5.1. Model Modernisasi
 Model pembangunan ini berasumsi bahwa kemajuan pembangunan ditandai dengan pembentukan institusi demokratik dan pasar bebas. Suatu negara yang mengalami pembangunan akan melalui tahap-tahap linear dari masyarakat tradisional menuju masyarakat modern. Salah satu model utama dalam klasifikasi ini adalah model pembangunan Rostow.
 * Model Pembangunan Rostow\
@@ -107,7 +108,9 @@ Model pembangunan Rostow didasarkan pada sistem ekonomi kapitalis, dimana konsum
 ## 5.2. Model Strukturalis
 Model pembangunan ini berasumsi bahwa kemajuan suatu negara dipengaruhi oleh struktur ekonomi suatu negara. Polarisasi wilayah-wilayah di Dunia menjadi pusat-pinggiran disebabkan karena terdapat proses polarisasi dalam sistem perekonomian. Suatu industri induk yang memmiliki pengaruh besar pada sektor perekonomian secara keseluruhan memiliki kemampuan untuk mengerahkan gaya sentripetal sehingga menarik modal dan tenaga kerja kepadanya. Oleh karena itu, negara inilah yang menjadi Kutub Pertumbuhan menurut Perroux.
 
-Negara miskin yang bukan merupakan kutub pertumbuhan memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi, yang disebut proses industrialisasi substitusi impor (Import Substitution Industrialization/ISI). Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara. Kebijakan proteksionis ditujukan untuk memastikan industri nasional baru yang masih berukuran kecil dapat terlindung dari kompetisi dengan industri besar lain yang lebih produktif akibat keekonomian skala. Dalam proses pertumbuhannya, ISI diharapkan menghasilkan sebuah industri propulsif, yang pada saat perkembangannya memang mengakibatkan backwash effect, namun pada perkembangannya diharapkan dapat menghasilkan backwash effect yang semakin terasa di ekonomi negara tersebut. Mekanisme pembangunan ekonomi ini dideskripsikan oleh Boudeville dan dinamakan Pusat Pertumbuhan.
+Negara miskin yang bukan merupakan kutub pertumbuhan memiliki ketergantungan pada ekspor, sehingga menempati status negara pinggiran dalam hubungan pusat-pinggiran. Pembangunan ekonomi dapat dicapai jika pemerintah melakukan intervensi pada ekonomi, sehingga mengubah struktur ekonomi dari ketergantungan pada ekspor menjadi industrialisasi. Proes ini disebut industrialisasi substitusi impor (Import Substitution Industrialization/ISI).
+
+Kebijakan ini umumnya diikuti kebijakan proteksionis, yaitu kebijakan yang menguntungkan produk lokal dan mengurangi kompetisi dari pasar global dalam pasar nasional suatu negara. Kebijakan proteksionis ditujukan untuk memastikan industri nasional baru yang masih berukuran kecil dapat terlindung dari kompetisi dengan industri besar lain yang lebih produktif akibat keekonomian skala. Dalam proses pertumbuhannya, ISI diharapkan menghasilkan sebuah industri propulsif, yang pada saat perkembangannya memang mengakibatkan backwash effect, namun pada perkembangannya diharapkan dapat menghasilkan backwash effect yang semakin terasa di ekonomi negara tersebut. Mekanisme pembangunan ekonomi ini dideskripsikan oleh Boudeville dan dinamakan Pusat Pertumbuhan.
 
 Contoh penerapan model pembangunan ini adalah usaha hilirisasi nikel Indonesia.
 
@@ -121,12 +124,20 @@ Contoh keberadaan pengaruh hubungan ketergantungan pada usaha pembangunan model 
 ## 5.3. Model Pembangunan Endogen
 Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pembangunan yang terjadi di tiap wilayah berbeda pula. Pertumbuhan perekonomian nasional didasarkan pada perkembangan kegiatan ekonomi yang menjadi karakteristik masing-masing wilayah subnasional. Pengambilan kebijakan pembangunan dilakukan dari tingkat terendah, atau disebut juga bottom-up, dan bukan dari tingkat nasional (top-down) atau dari investasi asing.
 
-Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja dan berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
+Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja, berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
 
 ## 5.5. Model Pembangunan Neoklasik
-
+Asumsi utama yang digunakan oleh model pembangunan neoklasik adalah pertumbuhan ekonomi didasarkan pada inovasi yang didorong oleh lingkungan pasar bebas. Perkembangan suatu kegiatan ekonomi ditentukan oleh keberhasilan inovasi sehingga ia berhasil mengungguli kompetisinya dalam suatu lingkungan yang menilai suatu produk hanya berdasarkan hukum permintaan dan penawaran. Oleh karena itu, usaha mewujudkan suatu ekonomi pasar bebas menjadi fokus utama model pembangunan ini. Usaha inilah yang diperkenalkan Bank Dunia dan Dana Moneter Internasional (International Monetary Fund) sebagai program penyesuaian struktural (Structural Adjustment Programmes), yang mencakup:
+  1. Pengetatan anggaran pemerintah: pengurangan pengeluaran untuk program-program sosial, seperti jaminan kesehatan, jaminan sosial, subsidi pendidikan, subsidi kebutuhan dasar.
+  2. Privatisasi: penyerahan kontrol seluruh kegiatan ekonomi ke pihak swasta.
+  3. Liberalisasi ekonomi: penghilangan hambatan pada perdagangan, seperti tarif dan kuota atau larangan impor/ekspor. Devaluasi mata uang untuk menjaga daya saing produk ekspor. Penghapusan badan pemasaran yang mengontrol penjualan komoditas tertentu.
+  4. Deregulasi dan efisiensi anggaran: penghapusan peraturan dan pengurangan pengeluaran negara secara keseluruhan.
 
 ## 5.6. Model Pembangunan Kebutuhan Dasar
+Model pembangunan kebutuhan dasar merupakan pendekatan pembangunan yang berorientasi pada peningkatan akses pada konsumsi kebutuhan dasar. Pendekatan ini bertujuan untuk membebaskan seluruh penduduk dari kondisi kemiskinan absolut dengan memastikan akses terhadap sandang (pakaian), pangan (makanan), dan papan (tempat tinggal). Variasi terbaru juga seringkali mencakup kebutuhan akan transportasi, sanitasi, pendidikan, dan layanan kesehatan. Pertumbuhan ekonomi dianggap sebagai konsekuensi alami dari masyarakat yang dapat menabung, melakukan konsumsi, berinvestasi, dan bekerja dengan maksimal karena kebutuhan dasarnya sudah terpenuhi.
+
+### 5.6.a. Model Pembangunan Manusia
+Menurut model pembangunan manusia, pembangunan tidak dapat diwujudkan dengan intervensi pada konsumsi kebutuhan dasar, melainkan juga dalam peningkatan kapabilitas manusia.
+
 ## 5.7. Model Pasca-Pembangunan
-## 5.8. Model Pembangunan Manusia
-## 5.9. Model Pembangunan Berkelanjutan
+## 5.8. Model Pembangunan Berkelanjutan
