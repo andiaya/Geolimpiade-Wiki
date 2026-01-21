@@ -1,5 +1,5 @@
 ---
-title: Sumberdaya dan Manajemen Sumberdaya
+title: Geografi Pembangunan
 permalink: /docs/Pembangunan/
 layout: single
 toc: true
