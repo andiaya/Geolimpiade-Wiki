@@ -137,7 +137,14 @@ Asumsi utama yang digunakan oleh model pembangunan neoklasik adalah pertumbuhan 
 Model pembangunan kebutuhan dasar merupakan pendekatan pembangunan yang berorientasi pada peningkatan akses pada konsumsi kebutuhan dasar. Pendekatan ini bertujuan untuk membebaskan seluruh penduduk dari kondisi kemiskinan absolut dengan memastikan akses terhadap sandang (pakaian), pangan (makanan), dan papan (tempat tinggal). Variasi terbaru juga seringkali mencakup kebutuhan akan transportasi, sanitasi, pendidikan, dan layanan kesehatan. Pertumbuhan ekonomi dianggap sebagai konsekuensi alami dari masyarakat yang dapat menabung, melakukan konsumsi, berinvestasi, dan bekerja dengan maksimal karena kebutuhan dasarnya sudah terpenuhi.
 
 ### 5.6.a. Model Pembangunan Manusia
-Menurut model pembangunan manusia, pembangunan tidak dapat diwujudkan dengan intervensi pada konsumsi kebutuhan dasar, melainkan juga dalam peningkatan kapabilitas manusia.
+Menurut model pembangunan manusia, pembangunan tidak dapat diwujudkan dengan intervensi pada konsumsi kebutuhan dasar, melainkan juga dalam peningkatan kapabilitas manusia. Komponen kapabilitas, menurut Amartya Sen, meliputi:
+  1. Kebebasan nyata yang berdampak pada keunggulan manusia
+  2. Perbedaan individu pada kemampuan mengubah sumberdaya menjadi kegiatan bernilai
+  3. Aktivitas beragam yang membentuk kesejahteraan
+  4. Keseimbangan faktor material dan nonmaterial
+  5. Keadilan kesempatan dalam masyarakat
 
 ## 5.7. Model Pasca-Pembangunan
+
+
 ## 5.8. Model Pembangunan Berkelanjutan
