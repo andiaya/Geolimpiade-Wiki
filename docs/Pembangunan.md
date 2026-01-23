@@ -126,25 +126,32 @@ Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pemban
 
 Terdapat pula variasi model pembangunan endogen dimana kegiatan produksi dalam ekonomi bersifat sosial. Usaha produksi tidak semata-mata berorientasi keuntungan, melainkan menjadi instrumen dengan tujuan-tujuan sosial. Kegiatan ekonomi di sini tidak memaksimalkan efisiensi produksi, sehingga, sebagai contoh, dapat memaksimalkan penyerapan tenaga kerja, berkontribusi pada peningkatan kualitas hidup masyarakat di sekitarnya.
 
-## 5.5. Model Pembangunan Neoklasik
+## 5.3.a. Model Pasca-Pembangunan
+Berbeda dengan model pembangunan endogen, model pasca-pembangunan tidak menekankan pembangunan pada perekonomian. Alih-alih mempunyai satu fokus, model pasca-pembangunan menyatakan bahwa tujuan pembangunan merupakan sesuatu yang spesifik pada wilayah dan budaya tertentu. Sehingga, tujuan-tujuan pembangunan suatu wilayah seharusnya ditentukan sendiri oleh wilayah tersebut. Salah satu bentuk penerapan kerangka pasca-pembangunan adalah indeks kebahagiaan Gross National Happiness (GNH) yang disusun oleh negara Bhutan.
+
+## 5.4. Model Pembangunan Neoklasik
 Asumsi utama yang digunakan oleh model pembangunan neoklasik adalah pertumbuhan ekonomi didasarkan pada inovasi yang didorong oleh lingkungan pasar bebas. Perkembangan suatu kegiatan ekonomi ditentukan oleh keberhasilan inovasi sehingga ia berhasil mengungguli kompetisinya dalam suatu lingkungan yang menilai suatu produk hanya berdasarkan hukum permintaan dan penawaran. Oleh karena itu, usaha mewujudkan suatu ekonomi pasar bebas menjadi fokus utama model pembangunan ini. Usaha inilah yang diperkenalkan Bank Dunia dan Dana Moneter Internasional (International Monetary Fund) sebagai program penyesuaian struktural (Structural Adjustment Programmes), yang mencakup:
   1. Pengetatan anggaran pemerintah: pengurangan pengeluaran untuk program-program sosial, seperti jaminan kesehatan, jaminan sosial, subsidi pendidikan, subsidi kebutuhan dasar.
   2. Privatisasi: penyerahan kontrol seluruh kegiatan ekonomi ke pihak swasta.
   3. Liberalisasi ekonomi: penghilangan hambatan pada perdagangan, seperti tarif dan kuota atau larangan impor/ekspor. Devaluasi mata uang untuk menjaga daya saing produk ekspor. Penghapusan badan pemasaran yang mengontrol penjualan komoditas tertentu.
   4. Deregulasi dan efisiensi anggaran: penghapusan peraturan dan pengurangan pengeluaran negara secara keseluruhan.
 
-## 5.6. Model Pembangunan Kebutuhan Dasar
+## 5.5. Model Pembangunan Kebutuhan Dasar
 Model pembangunan kebutuhan dasar merupakan pendekatan pembangunan yang berorientasi pada peningkatan akses pada konsumsi kebutuhan dasar. Pendekatan ini bertujuan untuk membebaskan seluruh penduduk dari kondisi kemiskinan absolut dengan memastikan akses terhadap sandang (pakaian), pangan (makanan), dan papan (tempat tinggal). Variasi terbaru juga seringkali mencakup kebutuhan akan transportasi, sanitasi, pendidikan, dan layanan kesehatan. Pertumbuhan ekonomi dianggap sebagai konsekuensi alami dari masyarakat yang dapat menabung, melakukan konsumsi, berinvestasi, dan bekerja dengan maksimal karena kebutuhan dasarnya sudah terpenuhi.
 
-### 5.6.a. Model Pembangunan Manusia
-Menurut model pembangunan manusia, pembangunan tidak dapat diwujudkan dengan intervensi pada konsumsi kebutuhan dasar, melainkan juga dalam peningkatan kapabilitas manusia. Komponen kapabilitas, menurut Amartya Sen, meliputi:
-  1. Kebebasan nyata yang berdampak pada keunggulan manusia
-  2. Perbedaan individu pada kemampuan mengubah sumberdaya menjadi kegiatan bernilai
-  3. Aktivitas beragam yang membentuk kesejahteraan
-  4. Keseimbangan faktor material dan nonmaterial
-  5. Keadilan kesempatan dalam masyarakat
+### 5.5.a. Model Pembangunan Manusia
+Menurut model pembangunan manusia, pembangunan tidak dapat diwujudkan dengan intervensi pada konsumsi kebutuhan dasar, melainkan juga dalam peningkatan kapabilitas manusia. Pertumbuhan ekonomi muncul dari pemenuhan kapabilitas manusia. Kapabilitas dapat diartikan sebagai kemampuan untuk hidup dan melakukan hal-hal yang diinginkan dalam hidup. Kemampuan untuk hidup meliputi kebutuhan akan pangan, tempat tinggal, dan kesehatan. Sementara itu, kemampuan melakukan hal-hal yang diinginkan dalam hidup meliputi pekerjaan, pendidikan, menyuarakan pendapat, dan berpartisipadi dalam masyarakat. Menurut UNDP, 6 pilar dasar pembangunan manusia meliputi:
+  1. Keadilan: kesempatan dan akses pada pendidikan dan layanan kesehatan untuk semua
+  2. Keberlanjutan: hak memenuhi kebutuhan dalam jangka panjang dan dengan merata
+  3. Produktivitas: partisipasi penuh dari setiap orang untuk memperoleh pendapatan
+  4. Pemberdayaan: kebebasan tiap orang untuk mempengaruhi pembangunan dan kebijakan yang mempengaruhi hidupnya
+  5. Gotong-royong: partisipasi dan rasa kepemilikan dalam masyarakat untuk membentuk dan mengayakan makna sosial
+  6. Keamanan: kebebasan dan kesempatan pembangunan tanpa ancaman penghilangan
 
-## 5.7. Model Pasca-Pembangunan
+Bentuk penerapan model pembangunan manusia adalah Indeks Pembangunan Manusia (IPM, Human Development Index / HDI). IPM merupakan indeks yang mengkuantifikasi dimensi kemampuan untuk hidup dalam kerangka pembangunan manusia. IPM mencakup dimensi hidup panjang dan sehat, pendidikan, dan kualitas hidup baik.
 
-
-## 5.8. Model Pembangunan Berkelanjutan
+## 5.6. Model Pembangunan Berkelanjutan
+Pembangunan Berkelanjutan didefinisikan dalam Brundtland report sebagai usaha pemenuhan kebutuhan saat ini tanpa mengganggu kesempatan pemenuhan kebutuhan di masa depan. Campbell mengidentifikasi pembangunan berkelanjutan sebagai kesetimbangan aspek keadilan sosial, pertumbuhan ekonomi, dan perlindungan lingkungan. Hubungan antara keadilan sosial, pertumbuhan ekonomi, dan perlindungan lingkungan dimediasi oleh konflik antara pemangku kepentingan di dalamnya. Peran pemerintah adalah melakukan mediasi dalam konflik tersebut. Penjelasan lebih lanjut mengenai konflik tersebut adalah sebagai berikut:
+  1. Konflik kepemilikan: konflik kepemilikan adalah konflik yang terjadi antara keadilan sosial dan pertumbuhan ekonomi. Pemerintah berperan mengurangi dampak kehilangan kepemilikan dengan mengadakan jaminan sosial, sehingga hilangnya kepemilikan oleh masyarakat tidak berpengaruh pada kemampuannya untuk hidup.
+  2. Konflik sumberdaya: konflik sumberdaya merupakan konflik yang terjadi antara pertumbuhan ekonomi dan perlindungan lingkungan. Pemerintah berperan dengan menetapkan dan menegakkan peraturan lingkungan dan manajemen sumberdaya. Perlindungan lingkungan dilakukan dengan memaksimalkan nilai yang diperoleh dari eksploitasi lingkungan, penghitungan dan penanganan eksternalitas (contoh: kerugian dari pencemaran, hilangnya jasa lingkungan), dan penerapan teknologi baru untuk mengurangi dampak lingkungan.
+  3. Konflik pembangunan: konflik pembangunan adalah konflik yang terjadi antara keadilan sosial dan perlindungan lingkungan. Peran pemerintah dalam konflik ini adalah menerapkan keadilan lingkungan. Masyarakat yang menempati suatu ruang dianggap sebagai bagian dari lingkungan di ruang tersebut, sehingga penjagaan kehidupan dan penghidupan merupakan aspek yang tak terpisahkan dari perlindungan lingkungan.
