@@ -101,9 +101,14 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 
 ## 3.3. Identifikasi Batuan
 ### 3.3.1. Identifikasi Batuan Beku
+Batuan beku diidentifikasi berdasarkan warna dan tekstur mineralnya.
 
 ### 3.3.2. Identifikasi Batuan Sedimen
+Batuan sedimen diidentifikasi berdasarkan ukuran sedimennya.
 
 ### 3.3.3. Identifikasi Batuan Metamorf
+Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya.
 
 # 4. Sedimentologi
+Usia batuan.
+Hukum steno.
