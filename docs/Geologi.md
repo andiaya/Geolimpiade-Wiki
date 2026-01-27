@@ -69,18 +69,19 @@ Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai ha
 # 3. Petrografi
 ## 3.1. Mineral
 Mineral memiliki 5 sifat:
-1. berfase padat.
-2. terbentuk secara alami.
-3. bersifat inorganik.
-4. mempunyai struktur kristalin.
-5. dapat disimbolkan dengan satu rumus kimia.\
+  1. berfase padat.
+  2. terbentuk secara alami.
+  3. bersifat inorganik.
+  4. mempunyai struktur kristalin.
+  5. dapat disimbolkan dengan satu rumus kimia.
+
 Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya. Sifat fisik yang digunakan untuk identifikasi mineral yaitu:
-1. warna
-2. belahan
-3. pecahan
-4. massa jenis
-5. kilap
-6. cerat
+  1. warna
+  2. belahan
+  3. pecahan
+  4. massa jenis
+  5. kilap
+  6. cerat
 
 ## 3.2. Siklus Batuan
 - Batuan terbentuk dari gabungan mineral dan/atau material padat non-mineral dengan sifat kaku (rigid).
