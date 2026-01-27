@@ -74,7 +74,7 @@ Mineral memiliki 5 sifat:
 3. bersifat inorganik.
 4. mempunyai struktur kristalin.
 5. dapat disimbolkan dengan satu rumus kimia.
-Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya. Sifat fisik yang digunakan untuk identifikasi mineral yaitu:
+Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya. Sifat fisik yang digunakan untuk identifikasi mineral yaitu:\
 1. warna
 2. belahan
 3. pecahan
