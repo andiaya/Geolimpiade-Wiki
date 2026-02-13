@@ -87,15 +87,30 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 - Batuan terbentuk dari gabungan mineral dan/atau material padat non-mineral dengan sifat kaku (rigid).
 - Material yang membentuk batuan mengalami siklus hidup, sehingga tidak dapat ditentukan titik awal dan akhirnya. Penjelasan mengenai pembentukan batuan umumnya dijelaskan dari tahap:
   1. Pembekuan dan kristalisasi
-  - Pembekuan merujuk pada semua proses pemadatan material dari fase cair menjadi padat. Mencakup pembentuan magma di dalam Bumi maupun pembekuan lava di permukaan Bumi.
+  - Pembekuan merujuk pada semua proses pemadatan material dari fase cair menjadi padat. Mencakup pembekuan magma di dalam Bumi maupun pembekuan lava di permukaan Bumi.
   - Kristalisasi merujuk pada proses pembekuan khusus dimana magma atau lava membentuk struktur kristal, sehingga padatan yang terbentuk disebut mineral.
   - Proses ini membentuk batuan beku (igneous rock).
   2. Pelapukan, erosi, transportasi, dan sedimentasi
+  - Pelapukan adalah rusaknya suatu struktur batuan yang masif menjadi material yang lebih kecil. Pelapukan terjadi tanpa pemindahan lokasi material.
+  - Erosi adalah pelepasan material dari batuan asal dan pemindahan lokasi material ke tempat lain.
+  - Transportasi merujuk pada pemindahan material.
+  - Sedimentasi, atau deposisi, merupakan pengendapan material yang sebelumnya mengalami transportasi.
   - Proses ini membentuk material lepas-lepas yang disebut sedimen.
   3. Lithifikasi (Pembatuan)
+  - Lithifikasi terdiri dari 2 proses, yaitu kompaksi dan sementasi.
+  - Kompaksi adalah pemadatan sedimen, sehingga pori-pori di antara butir sedimen menjadi semakin kecil. Kompaksi terjadi karena tekanan ketika sedimen mengalami penimbunan.
+  - Sementasi adalah penggabungan butir sedimen oleh mineral sehingga membentuk satu batuan yang masif.
+  - Penggabungan butir sedimen terjadi ketika mineral yang terlarut pada air yang terperangkap dalam pori-pori sedimen mengalami presipitasi. Artinya, dalam kurun waktu tertentu, mineral akan keluar dari larutan dan tumbuh pada pori-pori antar sedimen.
+  - Terdapat pula lithifikasi yang sepenuhnya terjadi dari keluarnya mineral dari larutan melalui proses presipitasi, contoh: kristal kuarsa, batu gamping, atau evaporasi, contoh: batugaram.
   - Proses ini membentuk batuan sedimen.
   4. Metamorfisme
   - Proses ini membentuk batuan metamorf.
+  - Metamorfisme adalah proses perubahan sifat batuan tanpa mengalami proses pelelehan.
+  - Metamorfisme terjadi karena suhu dan/atau tekanan tinggi.
+  - Metamorfisme akibat tekanan tinggi disebut juga metamorfisme dinamik. Contoh proses ini terjadi di sesar, membentuk batu breksi kataklastik.
+  - Metamorfisme akibat suhu yang tinggi disebut juga metamorfisme kontak. Contoh proses ini terjadi di sekitar jalur keluar magma (intrusi), membentuk marmer.
+  - Metamorfisme dapat terjadi di area yang luas, disebut metamorfisme regional. Metamorfisme regional disebabkan karena kombinasi suhu dan tekanan tinggi, misalnya pada zona subduksi atau akibat penimbunan dan pelipatan batuan sedimen.
+  - Metamorfisme dapat terjadi pada batuan beku maupun sedimen.
   5. Pelelehan
   - Proses ini membentuk magma.
 
