@@ -22,4 +22,4 @@ Terima kasih!
 
 
 ![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
-[#ShowYourStripes](https://showyourstripes.info/s/asia/indonesia/yogyakarta)
+Grafik ini menunjukkan perubahan suhu Yogyakarta dari tahun 1866 hingga 2024. Informasi lebih lanjut kunjungi laman [#ShowYourStripes](https://showyourstripes.info/faq)
