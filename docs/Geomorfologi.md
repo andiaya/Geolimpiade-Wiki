@@ -13,8 +13,16 @@ sidebar:
 - Tenaga endogen meliputi tektonisme dan vulkanisme.
 - Tenaga eksogen meliputi pelapukan, erosi, deposisi.
 - Pada kejadian yang jarang, permukaan Bumi dapat pula dipengaruhi oleh objek dari luar angkasa (ekstraterestrial), misalnya kawah akibat jatuhan meteor.
+- Bentangalam, Bentanglahan, dan Bentuklahan
+  - Bentangalam (_natural landscape_) tidak merujuk pada konsep geomorfologi, melainkan mendeskripsikan alam yang belum dimodifikasi manusia.
+  - Bentanglahan (_landscape_) : merupakan klasifikasi sekumpulan bentuk-bentuk di permukaan Bumi berdasarkan tenaga pembentuknya.
+  - Bentuklahan (_landform_) : unit bentukan permukaan Bumi yang membentuk suatu bentanglahan.
 
 # 1. Bentanglahan Struktural
+- Bentanglahan struktural dibentuk oleh tenaga tektonik.
+- Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_).
+- 
+
 # 2. Bentanglahan Vulkanik
 # 3. Bentanglahan Fluvial
 # 4. Bentanglahan Marine
