@@ -108,9 +108,8 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
   - Metamorfisme adalah proses perubahan sifat batuan tanpa mengalami proses pelelehan.
   - Metamorfisme terjadi karena suhu dan/atau tekanan tinggi.
   - Metamorfisme akibat tekanan tinggi disebut juga metamorfisme dinamik. Contoh proses ini terjadi di sesar, membentuk batu breksi kataklastik.
-  - Metamorfisme akibat suhu yang tinggi disebut juga metamorfisme kontak. Contoh proses ini terjadi di sekitar jalur keluar magma (intrusi), membentuk marmer.
-  - Metamorfisme dapat terjadi di area yang luas, disebut metamorfisme regional. Metamorfisme regional disebabkan karena kombinasi suhu dan tekanan tinggi, misalnya pada zona subduksi atau akibat penimbunan dan pelipatan batuan sedimen.
-  - Metamorfisme dapat terjadi pada batuan beku maupun sedimen.
+  - Metamorfisme akibat suhu yang tinggi disebut juga metamorfisme kontak. Contoh proses ini terjadi di sekitar jalur keluar magma (intrusi).
+  - Metamorfisme dapat terjadi di area yang luas, disebut metamorfisme regional. Metamorfisme regional disebabkan karena kombinasi suhu dan tekanan tinggi pada zona subduksi.
   5. Pelelehan
   - Proses ini membentuk magma.
 
@@ -118,23 +117,33 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 ### 3.3.1. Identifikasi Batuan Beku
 Batuan beku diidentifikasi berdasarkan warna dan tekstur mineralnya.
 
-Warna yang dimaksud adalah gelap-terangnya. Warna gelap hingga hijau menunjukkan kadar mineral basa yang tinggi. Sementara itu, warna terang menunjukkan kadar mineral asam yang tinggi. Perbedaan mineral pembentuk pada batuan dipengaruhi oleh asal magma. Magma yang berasal dari kedalaman yang dalam, mantel, inti luar, memiliki kadar mineral yang lebih basa, sedangkan magma yang berasal dari kedalaman dangkal atau alirannya terhenti di kedalaman dangkal maka memiliki kadar mineral yang lebih asam.
+Warna yang dimaksud adalah gelap-terangnya. Warna gelap hingga hijau menunjukkan kadar mineral basa yang tinggi. Sementara itu, warna terang menunjukkan kadar mineral asam yang tinggi. Perbedaan mineral pembentuk pada batuan dipengaruhi oleh asal magma. Magma yang berasal dari kedalaman yang dalam, mantel, inti luar, memiliki kadar mineral yang lebih basa, sedangkan magma yang berasal dari kedalaman dangkal atau alirannya lama terhenti di kedalaman dangkal akan memiliki kadar mineral yang lebih asam. Klasifikasi komposisi mineral magma yaitu:
+<img width="1024" height="768" alt="Klasifikasi Komposisi Mineral Magma" src="https://github.com/user-attachments/assets/c558ce12-d389-4276-9209-27e3233f3687" />
 
-Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan. Kristal mineral berukuran besar berarti pembekuan batuan terjadi secara lambat di kedalaman Bumi, sehingga mineral dapat tumbuh membentuk kristal berukuran besar atau bertekstur kasar (faneritik). Sementara itu, pembekuan yang terjadi di dekat permukaan Bumi tidak memiliki waktu yang panjang untuk pertumbuhan kristal, sehingga membentuk kristal berukuran kecil (tidak kasatmata) atau bertekstur halus (afanitik). Batuan beku juga dapat terbentuk tanpa membentuk kristal. Tekstur batuan tanpa kristal dinamakan tekstur gelas. 
+
+Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan. Kristal mineral berukuran besar berarti pembekuan batuan terjadi secara lambat di kedalaman Bumi, sehingga mineral dapat tumbuh membentuk kristal berukuran besar atau bertekstur kasar (faneritik). Sementara itu, pembekuan yang terjadi di dekat permukaan Bumi tidak memiliki waktu yang panjang untuk pertumbuhan kristal, sehingga membentuk kristal berukuran kecil (tidak kasatmata) atau bertekstur halus (afanitik). Batuan beku juga dapat terbentuk tanpa membentuk kristal. Tekstur batuan tanpa kristal dinamakan tekstur gelas.
+
+Klasifikasi batuan beku yaitu:
+<img width="1037" height="557" alt="Klasifikasi Batuan Beku" src="https://github.com/user-attachments/assets/cfcfce4c-2723-4824-9107-7333d1c40229" />
+
 
 ### 3.3.2. Identifikasi Batuan Sedimen
 Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus. Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya. Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
 
 Klasifikasi batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terbentuk dari deposisi mineral dari larutan (batuan sedimen kimiawi) atau dari proses biologis (batuan sedimen biologis). Batuan sedimen kimiawi dan biologis diklasifikasikan berdasarkan jenis mineral pembentuknya.
 
-Klasifikasi batuan sedimen klastik yaitu:
-
-
-Beberapa contoh batuan sedimen kimiawi dan biologis yaitu:
+Klasifikasi batuan sedimen yaitu:
+<img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />
 
 
 ### 3.3.3. Identifikasi Batuan Metamorf
-Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya.
+Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya. Batuan induk (protolith) merupakan sebutan untuk batuan asal yang mengalami proses metamorfisme. Foliasi adalah penyejajaran mineral batuan akibat suhu dan tekanan tinggi.
+
+Batuan metamorf dengan tekstur foliasi umumnya terbentuk akibat metamorfisme regional. Batuan metamorf juga dapat ditemukan tanpa tekstur foliasi, terutama yang terbentuk karena metamorfisme kontak atau metamorfisme dinamik.
+
+Klasifikasi batuan metamorf yang umum yaitu sebagai berikut:
+<img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />
+
 
 # 4. Sedimentologi
 Usia batuan.
