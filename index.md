@@ -18,7 +18,7 @@ Terima kasih!
 - [2. Kebencanaan dan Manajemen Bencana](/Geolimpiade-Wiki/docs/Manben/)
 - [3. Sumberdaya dan Manajemen Sumberdaya](/Geolimpiade-Wiki/docs/Sumberdaya/)
 - [4. Geografi Pembangunan](/Geolimpiade-Wiki/docs/Pembangunan/)
-- [5. Geologi](/Geolimpiade-Wiki/docs/Geologi/)
+- [5.a. Geologi](/Geolimpiade-Wiki/docs/Geologi/)
 
 
 ![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
