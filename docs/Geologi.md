@@ -45,7 +45,7 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
      - Fase zat padat.
      - Bersifat kaku.
 
-<img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />
+<img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />\
 Klasifikasi Struktur Interior Bumi Berdasarkan Sifat Kimiawi (kiri) dan Sifat Fisik (kanan).
 
 # 2. Teori Tektonik Lempeng
