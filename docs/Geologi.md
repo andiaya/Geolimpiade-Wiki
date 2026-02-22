@@ -18,7 +18,9 @@ Klasifikasi interior Bumi menurut sifat kimiawi yaitu sebagai berikut:
   - Berdasarkan kandungannya, kerak Bumi dibagi menjadi kerak benua dan kerak samudera.
   - Kerak benua memiliki kandungan mineral kaya silikat aluminium (sial/Si-Al) sedangkan mineral kerak samudera kaya silikat magnesium (sima/Si-Mg).
   - Perbedaan ini disebabkan karena aluminium dan mineralnya memiliki berat jenis (densitas) dan titik leleh lebih rendah daripada magnesium, sehingga magma yang membentuk kerak benua cenderung mengkristal lebih dekat dengan permukaan Bumi dan batuannya mengapung di atas kerak samudera.
+  - Batas antara lapisan kerak dan mantel dinamakan diskontinuitas Mohorovicic.
   2. Mantel: terbentuk dari mineral dengan massa molekul tinggi (miskin silika)
+  - Batas antara lapisan mantel dan inti dinamakan diskontinuitas Gutenberg.
   3. Inti: terbentuk dari material dominan besi (Fe) dan nikel (Ni)
 
 ## 1.2. Klasifikasi Menurut Sifat Fisik
@@ -38,17 +40,17 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
   4. Inti Luar
      - Fase zat cair.
      - Arus konveksi besi cair membentuk medan magnet Bumi.
+     - Batas antara inti luar dan inti dalam dinamakan diskontinuitas Lehmann.
   5. Inti Dalam
      - Fase zat padat.
      - Bersifat kaku.
 
+<img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />
+Klasifikasi Struktur Interior Bumi Berdasarkan Sifat Kimiawi (kiri) dan Sifat Fisik (kanan).
+
 # 2. Teori Tektonik Lempeng
 Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai hasil penelitian mengenai proses yang terjadi di dalam Bumi dan pengaruhnya pada vulkanisme dan tektonisme. Lempeng Bumi merupakan istilah yang digunakan untuk menjelaskan bagian kerak Bumi yang memiliki arah dan kecepatan gerak yang sama.
 
-## 2.1. Sejarah Teori
-
-
-## 2.2. Teori Tektonik Lempeng
 - Gerakan lempeng Bumi terutama dipicu oleh arus konveksi di Astenosfer.
 - Kecepatan gerak lempeng juga dikontrol oleh gaya berat bagian lempeng yang sedang menunjam (mengalami subduksi).
 - Berdasarkan arah geraknya, pertemuan lempeng Bumi dapat diklasifikasikan menjadi:
@@ -57,14 +59,22 @@ Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai ha
     - Di lokasi ini, kerak Bumi pecah, membentuk rekahan, dan lempeng yang terbentuk dari pecahan tersebut bergerak menjauhi satu sama lain.
     - Magma keluar melalui rekahan tersebut, membentuk kerak samudera baru.
     - Batas lempeng divergen membentuk igir tengah samudera, gunungapi perisai, dan erupsi linear.
+  <img width="1500" height="988" alt="Morfologi Batas Lempeng Divergen" src="https://github.com/user-attachments/assets/b8048f88-3e68-4b8e-9139-ef36d8d5cb3f" />
+
   2. Konvergen
     - Batas lempeng konvergen terbentuk di pertemuan dua lempeng yang saling mendekati satu sama lain.
     - Menurut proses yang terjadi, batas lempeng konvergen dibagi menjadi 2, yaitu:\
       a. Subduksi: terjadi jika salah satu/kedua lempeng yang bertemu terbentuk dari material kerak samudera. Lempeng dengan berat jenis material lebih tinggi (kerak samudera/kerak samudera dengan usia lebih tua) menunjam ke bawah lempeng lain. Proses subduksi membentuk palung dan barisan gunungapi kerucut tinggi (stratovolkanik/gunungapi komposit).\
+      <img width="714" height="340" alt="Morfologi Batas Lempeng Subduksi 1" src="https://github.com/user-attachments/assets/139349b1-ac93-446d-a0d2-1ba264cee5ec" />
+      <img width="1244" height="660" alt="Morfologi Batas Lempeng Subduksi 2" src="https://github.com/user-attachments/assets/9725a676-f620-49e8-a8cf-51c28a02bac2" />
+
       b. Kolisi: terjadi jika kedua lempeng yang bertemu terbentuk dari material kerak benua. Material kerak benua bertabrakan dan terakumulasi ke arah atas. Hal ini disebabkan karena material batuan kerak benua memiliki densitas lebih rendah daripada mantel, sehingga tidak dapat tenggelam masuk ke dalam mantel Bumi. Kolisi membentuk pegunungan tinggi.
+      <img width="714" height="350" alt="Morfologi Batas Lempeng Kolisi" src="https://github.com/user-attachments/assets/65471d92-c406-45dc-b282-aac130f3b9be" />
+
   3. Transform
     - Batas lempeng transform terbentuk pada pertemuan lempeng yang bergerak bergeser antara satu sama lain.
     - Batas lempeng transform ditandai dengan punggungan perbukitan yang terbentuk karena akumulasi material yang menumpuk saat terjadi gerakan bergeser karena batuan tidak dapat membentuk rekahan yang lurus sempurna.
+  <img width="640" height="360" alt="Morfologi batas lempeng transform" src="https://github.com/user-attachments/assets/1e36e7e5-b6c2-4f34-a04b-af409ab4f404" />
 
 # 3. Petrografi
 ## 3.1. Mineral
@@ -77,11 +87,10 @@ Mineral memiliki 5 sifat:
 
 Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya. Sifat fisik yang digunakan untuk identifikasi mineral yaitu:
   1. warna
-  2. belahan
-  3. pecahan
-  4. massa jenis
-  5. kilap
-  6. cerat
+  2. belahan (cleavage) dan pecahan (frature): belahan terbentuk dan digunakan untuk klasifikasi mineral dengan ikatan antar molekul yang lemah pada satu atau beberapa bidang tertentu, sedangkan karakteristik pecahan digunakan ketika mineral memiliki ikatan molekul yang sama kuat ke semua arah.
+  3. massa jenis
+  4. kilap: karakteristik pemantulan cahaya pada mineral.
+  5. cerat: warna mineral dalam bentuk bubuk.
 
 ## 3.2. Siklus Batuan
 - Batuan terbentuk dari gabungan mineral dan/atau material padat non-mineral dengan sifat kaku (rigid).
@@ -126,7 +135,6 @@ Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan. Krist
 Klasifikasi batuan beku yaitu:
 <img width="1037" height="557" alt="Klasifikasi Batuan Beku" src="https://github.com/user-attachments/assets/cfcfce4c-2723-4824-9107-7333d1c40229" />
 
-
 ### 3.3.2. Identifikasi Batuan Sedimen
 Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus. Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya. Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
 
@@ -134,7 +142,6 @@ Klasifikasi batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terben
 
 Klasifikasi batuan sedimen yaitu:
 <img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />
-
 
 ### 3.3.3. Identifikasi Batuan Metamorf
 Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya. Batuan induk (protolith) merupakan sebutan untuk batuan asal yang mengalami proses metamorfisme. Foliasi adalah penyejajaran mineral batuan akibat suhu dan tekanan tinggi.
@@ -144,7 +151,11 @@ Batuan metamorf dengan tekstur foliasi umumnya terbentuk akibat metamorfisme reg
 Klasifikasi batuan metamorf yang umum yaitu sebagai berikut:
 <img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />
 
+# 4. Stratigrafi
+Ilmu terkait deskripsi strata (lapisan) batuan. Stratigrafi digunakan untuk membantu penentuan asal pembentukan, hubungan, dan sebaran lapisan batuan.
 
-# 4. Sedimentologi
-Usia batuan.
-Hukum steno.
+Analisis lapisan (strata) batuan dilakukan berdasarkan hukum stratigrafi Steno. Terdapat 4 hukum Steno, yaitu:
+  1. Superposisi (superposition): lapisan batuan yang lebih muda berada di atas lapisan yang lebih tua.
+  2. Horizontalitas asli (original horizontality): lapisan batuan membentuk lapisan datar (horizontal) saat pembentukannya.
+  3. Hubungan potong memotong (cross-cutting relationship): batuan yang memotong lapisan batuan lain berusia lebih muda daripada batuan yang terpotong.
+  4. Kesinambungan lateral (lateral continuity): lapisan batuan berkesinambungan atau terus menerus berlanjut hingga mencapai halangan tertentu atau terkena erosi setelah terjadi deposisi.
