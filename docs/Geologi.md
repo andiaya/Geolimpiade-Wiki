@@ -118,8 +118,20 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 ### 3.3.1. Identifikasi Batuan Beku
 Batuan beku diidentifikasi berdasarkan warna dan tekstur mineralnya.
 
+Warna yang dimaksud adalah gelap-terangnya. Warna gelap hingga hijau menunjukkan kadar mineral basa yang tinggi. Sementara itu, warna terang menunjukkan kadar mineral asam yang tinggi. Perbedaan mineral pembentuk pada batuan dipengaruhi oleh asal magma. Magma yang berasal dari kedalaman yang dalam, mantel, inti luar, memiliki kadar mineral yang lebih basa, sedangkan magma yang berasal dari kedalaman dangkal atau alirannya terhenti di kedalaman dangkal maka memiliki kadar mineral yang lebih asam.
+
+Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan. Kristal mineral berukuran besar berarti pembekuan batuan terjadi secara lambat di kedalaman Bumi, sehingga mineral dapat tumbuh membentuk kristal berukuran besar atau bertekstur kasar (faneritik). Sementara itu, pembekuan yang terjadi di dekat permukaan Bumi tidak memiliki waktu yang panjang untuk pertumbuhan kristal, sehingga membentuk kristal berukuran kecil (tidak kasatmata) atau bertekstur halus (afanitik). Batuan beku juga dapat terbentuk tanpa membentuk kristal. Tekstur batuan tanpa kristal dinamakan tekstur gelas. 
+
 ### 3.3.2. Identifikasi Batuan Sedimen
-Batuan sedimen diidentifikasi berdasarkan ukuran sedimennya.
+Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus. Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya. Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
+
+Klasifikasi batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terbentuk dari deposisi mineral dari larutan (batuan sedimen kimiawi) atau dari proses biologis (batuan sedimen biologis). Batuan sedimen kimiawi dan biologis diklasifikasikan berdasarkan jenis mineral pembentuknya.
+
+Klasifikasi batuan sedimen klastik yaitu:
+
+
+Beberapa contoh batuan sedimen kimiawi dan biologis yaitu:
+
 
 ### 3.3.3. Identifikasi Batuan Metamorf
 Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya.
