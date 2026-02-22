@@ -15,20 +15,30 @@ sidebar:
 - Pada kejadian yang jarang, permukaan Bumi dapat pula dipengaruhi oleh objek dari luar angkasa (ekstraterestrial), misalnya kawah akibat jatuhan meteor.
 - Bentangalam, Bentanglahan, dan Bentuklahan
   - Bentangalam (_natural landscape_) tidak merujuk pada konsep geomorfologi, melainkan mendeskripsikan alam yang belum dimodifikasi manusia.
-  - Bentanglahan (_landscape_) : merupakan klasifikasi sekumpulan bentuk-bentuk di permukaan Bumi berdasarkan tenaga pembentuknya.
-  - Bentuklahan (_landform_) : unit bentukan permukaan Bumi yang membentuk suatu bentanglahan.
+  - Bentanglahan (_landscape_) : merupakan klasifikasi sekumpulan bentuk-bentuk di permukaan Bumi berdasarkan proses pembentuknya.
+  - Bentuklahan (_landform_) : unit bentukan permukaan Bumi yang membentuk suatu bentanglahan.\
+  Sehingga, kumpulan bentuklahan yang terbentuk dari proses yang sama membentuk satu kategori bentanglahan.
+- Bentanglahan menurut Verstappen dan van Zuidam diklasifikasikan menjadi 10 kategori, yaitu:
 
 # 1. Bentanglahan Struktural
-- Bentanglahan struktural dibentuk oleh tenaga tektonik.
+- Bentanglahan struktural dibentuk oleh proses **tektonisme**, yaitu perubahan bentuk litosfer akibat gerakan di dalam Bumi.
 - Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_).
-- 
 
 # 2. Bentanglahan Vulkanik
+- Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi.
 # 3. Bentanglahan Fluvial
+- Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
 # 4. Bentanglahan Marine
+- Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**.
 # 5. Bentanglahan Solusional
+- Bentanglahan solusional dibentuk dari proses **pelarutan** batuan.
 # 6. Bentanglahan Denudasional
+- Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
 # 7. Bentanglahan Aeolian
+- Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
 # 8. Bentanglahan Glasial
+- Bentanglahan glasial dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **es** (gletser).
 # 9. Bentanglahan Organik
+- Bentanglahan organik dibentuk dari proses yang berkaitan dengan **makhluk hidup**.
 # 10. Bentanglahan Antropogenik
+- Bentanglahan antropogenik dibentuk dari proses yang berkaitan dengan **manusia**.
