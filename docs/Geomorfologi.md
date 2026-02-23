@@ -22,7 +22,11 @@ sidebar:
 
 # 1. Bentanglahan Struktural
 - Bentanglahan struktural dibentuk oleh proses **tektonisme**, yaitu perubahan bentuk litosfer akibat gerakan di dalam Bumi.
-- Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_).
+- Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_). Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
+- Bentuklahan yang membentuk bentanglahan struktural yaitu:\
+    **1. Kekar**\
+    **2. Patahan**\
+    **3. Lipatan**
 
 # 2. Bentanglahan Vulkanik
 - Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi.
