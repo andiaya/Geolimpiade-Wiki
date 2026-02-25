@@ -25,6 +25,8 @@ sidebar:
 - Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_). Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
 - Bentuklahan yang membentuk bentanglahan struktural yaitu:\
     **1. Kekar**\
+        - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
+        - Terdapat 
     **2. Patahan**\
     **3. Lipatan**
 
