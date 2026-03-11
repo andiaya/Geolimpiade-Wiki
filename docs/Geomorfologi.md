@@ -40,11 +40,15 @@ Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebel
 ## 4.1. Proses Geomorfologis Bentanglahan Marine
 Perkembangan bentanglahan marine dipengaruhi oleh 2 proses lautan, arus dan gelombang.
 ### 4.1.1. Arus
-Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. Terdapat 2 jenis arus yang terbentuk di pesisir, arus susur pantai dan arus retas.
-1. Arus Susur Pantai (_Longshore Current_)\
-Arus susur pantai adalah arus yang bergerak menyusuri pantai. Arus ini bergerak paralel dengan garis pantai hingga bertemu halangan topografis atau arus susur pantai lain yang arahnya berlawanan. Arus ini menyebabkan perpindahan material paralel terhadap garis pantai.
+Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. Terdapat 3 jenis arus yang terbentuk di pesisir, arus menuju pantai, arus susur pantai, dan arus retas.
 
-2. Arus Retas (_Rip Current_)\
+1. Arus Menuju Pantai (_Onshore Current_)
+Arus menuju pantai adalah arus yang bergerak tegak lurus menuju ke daratan. Arus ini terbentuk ketika gelombang yang gerakannya tegak lurus terhadap garis pantai pecah. Arus ini menyebabkan transportasi material ke arah darat.
+
+2. Arus Susur Pantai (_Longshore Current_)\
+Arus susur pantai adalah arus yang bergerak menyusuri pantai. Arus ini terbentuk ketika gelombang yang datang memiliki arah miring terhadap garis pantai, sehingga, ketika gelombang pecah, air terdorong ke arah miring terhadap pantai. Arus ini bergerak paralel dengan garis pantai hingga bertemu halangan topografis atau arus susur pantai lain yang arahnya berlawanan. Arus ini menyebabkan perpindahan material paralel terhadap garis pantai.
+
+3. Arus Retas (_Rip Current_)\
 Arus retas bergerak tegak lurus menjauhi garis pantai, membawa material ke arah laut. Arus ini dapat terbentuk ketika terdapat 2 arus susur pantai bertemu atau ketika terdapat aliran air dari sungai menuju ke laut. Arus ini menyebabkan perpindahan material pantai ke arah laut.
 
 # 5. Bentanglahan Solusional
