@@ -40,7 +40,11 @@ Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebel
 ## 4.1. Proses Geomorfologis Bentanglahan Marine
 Perkembangan bentanglahan marine dipengaruhi oleh 2 proses lautan, arus dan gelombang.
 ### 4.1.1. Gelombang
-Gelombang adalah rambatan energi tanpa diikuti rambatan mediumnya. Maksudnya, gelombang laut merupakan rambatan energi melalui medium air laut, namun air laut sebagai medium hanya bergerak ke atas dan ke bawah, tidak mengikuti gerakan energinya. Gelombang laut diklasifikasikan berdasarkan panjang periodenya, sebagai berikut:\
+Gelombang adalah rambatan energi tanpa diikuti rambatan mediumnya. Maksudnya, gelombang laut merupakan rambatan energi melalui medium air laut, namun air laut sebagai medium hanya bergerak ke atas dan ke bawah, tidak mengikuti gerakan energinya. Gelombang laut memiliki anatomi sebagai berikut:\
+<img width="1349" height="657" alt="Anatomi Gelombang Laut" src="https://github.com/user-attachments/assets/a54285be-b03b-4b41-b260-e02bd1a43992" />\
+Anatomi Gelombang Laut. Satu unit gelombang didefinisikan sebagai bagian gelombang dari puncak tertinggi satu ke puncak tertinggi selanjutnya atau dari satu lembah terendah ke lembah terendah selanjutnya atau bagian gelombang yang mencakup satu puncak dan satu lembah. Amplitudo adalah tinggi puncak tertinggi dan sama dengan kedalaman lembah terendah terhadap ketinggian permukaan laut. Panjang gelombang (L) adalah panjang satu unit gelombang pada satu waktu. Periode gelombang (T) adalah waktu yang diperlukan di suatu titik pada rambatan gelombang untuk mengalami satu unit gelombang. Frakuensi gelombang yaitu jumlah unit gelombang yang terbentuk dalam satu satuan waktu (satuan Hz untuk jumlah gelombang dalam 1 detik). Sementara itu, cepat rambat gelombang (C) merupakan pembagian dari panjang dan periode gelombang.
+
+Gelombang laut diklasifikasikan berdasarkan panjang periodenya, sebagai berikut:\
 <img width="1504" height="832" alt="Klasifikasi Gelombang Laut Menurut Periodenya" src="https://github.com/user-attachments/assets/c2ac59f6-ea41-47ff-971e-88f8e7a29569" />
 
 1. Gelombang karena angin:
@@ -50,14 +54,29 @@ Gelombang adalah rambatan energi tanpa diikuti rambatan mediumnya. Maksudnya, ge
 - Ketika interferensi konstruktif membentuk gelombang dengan periode lebih dari 1/10 detik, maka dinamai gelombang angin (_wind wave_).
 - Gelombang angin yang terbentuk di perairan tertutup (seluruh tepinya tertutup halangan) dapat membentuk gelombang stasioner (_standing wave/seiche_). Halangan di seluruh tepi perairan berarti energi gelombang tidak dapat bergerak ke satu arah tertentu, titik terbentuknya pusat dan lembah gelombang tidak berpindah.
 
-2. Gelombang karena gangguan seismik atau longsor:
-- 
+2. Gelombang karena gangguan seismik atau longsor (Tsunami):
+- Gangguan seismik dan longsor dapat menyebabkan perpindahan vertikal air laut ke arah atas.
+- Ketika kolom air yang terangkat ini jatuh kembali, energi yang terbawa akan dilepaskan dalam bentuk gelombang tsunami ke segala arah.
 
-3. Gelombang karena gravitasi:
-- 
+3. Gelombang karena gravitasi (Pasang-Surut):
+- Karena kedekatan jarak Bulan terhadap Bumi, pengaruh gaya gravitasinya cukup untuk mempengaruhi ketinggian permukaan lapisan air yang membentuk lautan.
+- Puncak gelombang terbentuk di permukaan Bumi yang menghadap dan membelakangi Bulan. Pada sisi yang membelakangi Bulan, revolusi Bulan membentuk gaya sentrifugal yang inersianya melebihi kekuatan gravitasi Bulan, membentuk puncak gelombang. Sementara itu, di sisi yang menghadap Bulan, kekuatan gravitasi Bulan lebih tinggi daripada inersia, sehingga membentuk puncak gelombang juga.
+- Gaya sentrifugal yang terbentuk dari revolusi Bulan bergerak ke arah menjauhi Bulan karena sistem revolusi Bulan terhadap Bumi tidak berputar pada pusat Bumi, melainkan agak bergeser ke arah mendekati Bulan. Titik ini bernama barycenter.
+
+<img width="850" height="780" alt="Diagram Benda Bebas Pasang Surut" src="https://github.com/user-attachments/assets/d3a106b2-b0a5-41c3-9e5c-a3019ef1563e" />\
+Diagram Badan Bebas Air Laut yang Dikenai Gravitasi Bulan
+
+<img width="1920" height="1793" alt="Diagram Barycenter Sistem Bumi-Bulan" src="https://github.com/user-attachments/assets/0c30263d-f518-4da6-9eca-1facfe2ccb6f" />\
+Diagram Barycenter Sistem Bumi-Bulan
 
 ### 4.1.2. Arus
-Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. Terdapat 3 jenis arus yang terbentuk di pesisir, arus menuju pantai, arus susur pantai, dan arus retas.
+Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin sirkulasi meridional (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. 
+
+Gelombang laut di laut dalam hanya merambat di permukaan laut tanpa energinya menyentuh dasar laut, sehingga, bisa membentuk gerakan siklik (memutar). Ketika gerakan siklik air laut tersebut terganggu oleh dasar laut, maka sebagian energinya berubah bentuk. Energi yang sebelumnya membentuk cepat rambat gelombang berubah menjadi amplitudo gelombang. Ketika gelombang mencapai ketinggian tertentu, ia akan mencapai kondisi tidak stabil, sehingga pecah. Air tidak lagi bergerak siklik kembali ke bawah, melainkan bergerak meluncur ke arah daratan.\
+<img width="1033" height="663" alt="Diagram Gelombang Dalam, Peralihan, dan Dangkal" src="https://github.com/user-attachments/assets/255444c6-3382-416d-8ebc-02512cdaee00" />\
+Diagram Pembentukan Pecah Gelombang (_Surf_). Dapat diamati bahwa fase gelombang tidak menyentuh dasar laut disebut gelombang dalam, gelombang menyentuh dasar laut disebut gelombang peralihan, dan gelombang pecah disebut gelombang dangkal. C dalam diagram menyimbolkan cepat rambat gelombang (_celerity_), sedangkan L menyimbolkan panjang gelombang.
+
+Terdapat 3 jenis arus yang terbentuk di pesisir: arus menuju pantai, arus susur pantai, dan arus retas.
 
 1. Arus Menuju Pantai (_Onshore Current_)
 Arus menuju pantai adalah arus yang bergerak tegak lurus menuju ke daratan. Arus ini terbentuk ketika gelombang yang gerakannya tegak lurus terhadap garis pantai pecah. Arus ini menyebabkan transportasi material ke arah darat.
