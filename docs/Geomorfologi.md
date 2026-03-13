@@ -92,7 +92,8 @@ Arus susur pantai adalah arus yang bergerak menyusuri pantai. Arus ini terbentuk
 Arus retas bergerak tegak lurus menjauhi garis pantai, membawa material ke arah laut. Arus ini dapat terbentuk ketika terdapat 2 arus susur pantai bertemu atau ketika terdapat aliran air dari sungai menuju ke laut. Arus ini menyebabkan perpindahan material pantai ke arah laut.
 
 ## 4.2. Bentuklahan Bentanglahan Marine
- 1. 
+Pembagian wilayah kepesisiran.
+
 
 # 5. Bentanglahan Solusional
 - Bentanglahan solusional dibentuk dari proses **pelarutan** batuan.
