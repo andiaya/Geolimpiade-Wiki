@@ -69,6 +69,13 @@ Diagram Badan Bebas Air Laut yang Dikenai Gravitasi Bulan
 <img width="1920" height="1793" alt="Diagram Barycenter Sistem Bumi-Bulan" src="https://github.com/user-attachments/assets/0c30263d-f518-4da6-9eca-1facfe2ccb6f" />\
 Diagram Barycenter Sistem Bumi-Bulan
 
+- Ketika Bumi melakukan rotasi, suatu lokasi di Bumi akan melewati 2 area pasang dan 2 area surut dalam waktu 24 jam. Fenomena ini disebut semidiurnal.
+- Pengaruh kemiringan bidang revolusi Bulan terhadap letak lintang suatu lokasi dapat menyebabkan suatu lokasi mengalami 1 pasang dan 1 surut dalam waktu 24 jam. Fenomena ini disebut diurnal.
+- Pengaruh topograrfi lokal dan geometri cekungan samudra, dikombinasikan dengan kemiringan bidang revolusi Bulan, dapat pula menyebabkan pasang surut campuran dominan semidiurnal atau campuran dominan semidiurnal.
+
+## 4.2. Bentuklahan Bentanglahan Marine
+ 1. 
+
 ### 4.1.2. Arus
 Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin sirkulasi meridional (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. 
 
