@@ -73,9 +73,6 @@ Diagram Barycenter Sistem Bumi-Bulan
 - Pengaruh kemiringan bidang revolusi Bulan terhadap letak lintang suatu lokasi dapat menyebabkan suatu lokasi mengalami 1 pasang dan 1 surut dalam waktu 24 jam. Fenomena ini disebut diurnal.
 - Pengaruh topograrfi lokal dan geometri cekungan samudra, dikombinasikan dengan kemiringan bidang revolusi Bulan, dapat pula menyebabkan pasang surut campuran dominan semidiurnal atau campuran dominan semidiurnal.
 
-## 4.2. Bentuklahan Bentanglahan Marine
- 1. 
-
 ### 4.1.2. Arus
 Arus adalah aliran air dalam tubuh lautan. Dalam materi Meteorologi dan Klimatologi, dijelaskan bahwa arus di lautan lepas dapat terbentuk oleh angin sirkulasi meridional (membentuk Gyre) dan perbedaan suhu serta salinitas lautan (membentuk sirkulasi termohalin). Sementara itu, arus yang mempengaruhi bentuklahan pesisir terbentuk ketika gelombang pecah. 
 
@@ -93,6 +90,9 @@ Arus susur pantai adalah arus yang bergerak menyusuri pantai. Arus ini terbentuk
 
 3. Arus Retas (_Rip Current_)\
 Arus retas bergerak tegak lurus menjauhi garis pantai, membawa material ke arah laut. Arus ini dapat terbentuk ketika terdapat 2 arus susur pantai bertemu atau ketika terdapat aliran air dari sungai menuju ke laut. Arus ini menyebabkan perpindahan material pantai ke arah laut.
+
+## 4.2. Bentuklahan Bentanglahan Marine
+ 1. 
 
 # 5. Bentanglahan Solusional
 - Bentanglahan solusional dibentuk dari proses **pelarutan** batuan.
