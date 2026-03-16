@@ -94,6 +94,7 @@ Arus retas bergerak tegak lurus menjauhi garis pantai, membawa material ke arah 
 ## 4.2. Bentuklahan Bentanglahan Marine
 ### 4.2.1. Pembagian Wilayah Kepesisiran
 <img width="1865" height="706" alt="Pembagian Wilayah Kepesisiran" src="https://github.com/user-attachments/assets/2c363303-ac08-4d09-bdc0-035dc5fd7662" />
+
 - Wilayah kepesisiran meliputi wilayah daratan yang masih dipengaruhi proses lautan dan wilayah lautan yang dipengaruhi oleh proses daratan.
 - Wilayah ini mencakup area antara permulaan pecah gelombang hingga sebagian daratan yang memiliki air payau (campuran air tawar dan asin).
   - Dari laut ke darat, wilayah ini terdiri dari zona pecah gelombang dan pantai (_shore_), dibatasi garis pantai (_shoreline_). Garis pantai adalah garis surut terendah.
