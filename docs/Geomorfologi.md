@@ -92,8 +92,24 @@ Arus susur pantai adalah arus yang bergerak menyusuri pantai. Arus ini terbentuk
 Arus retas bergerak tegak lurus menjauhi garis pantai, membawa material ke arah laut. Arus ini dapat terbentuk ketika terdapat 2 arus susur pantai bertemu atau ketika terdapat aliran air dari sungai menuju ke laut. Arus ini menyebabkan perpindahan material pantai ke arah laut.
 
 ## 4.2. Bentuklahan Bentanglahan Marine
-Pembagian wilayah kepesisiran.
+### 4.2.1. Pembagian Wilayah Kepesisiran
+<img width="1865" height="706" alt="Pembagian Wilayah Kepesisiran" src="https://github.com/user-attachments/assets/2c363303-ac08-4d09-bdc0-035dc5fd7662" />
+- Wilayah kepesisiran meliputi wilayah daratan yang masih dipengaruhi proses lautan dan wilayah lautan yang dipengaruhi oleh proses daratan.
+- Wilayah ini mencakup area antara permulaan pecah gelombang hingga sebagian daratan yang memiliki air payau (campuran air tawar dan asin).
+  - Dari laut ke darat, wilayah ini terdiri dari zona pecah gelombang dan pantai (_shore_), dibatasi garis pantai (_shoreline_). Garis pantai adalah garis surut terendah.
+  - Area antara garis pantai dengan garis pesisir (_coastline_) disebut pantai (_shore_). Garis pesisir adalah garis pasang tertinggi.
+  - Pesisir (_coast_) berada di belakang pantai yang masih memiliki material berasal dari lautan.
+  - Wilayah daratan di belakangnya yang masih dipengaruhi air payau dapat membentuk rawa belakang jika tergenang atau dataran aluvial kepesisiran jika kering.
+  - Gisik (_beach_) adalah wilayah dengan material lepas-lepas. Beting (tanggul) dapat terbentuk pada garis pesisir.
+  - Susunan beting gisik berulang dapat terbentuk di wilayah pesisir ketika daratan bertambah luas (pantai maju). Wilayah antara beting gisik dapat membentuk lembah (_swale_) kering maupun tergenang.
 
+### 4.2.2. Beberapa Bentuklahan Marine
+  1. Spit
+  2. Tombolo
+  3. Cliff
+  4. Laguna
+  5. Paparan lumpur
+  6. Paparan terumbu
 
 # 5. Bentanglahan Solusional
 - Bentanglahan solusional dibentuk dari proses **pelarutan** batuan.
