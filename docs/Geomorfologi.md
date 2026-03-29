@@ -136,9 +136,10 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
   Erosi pada bagian samping tanjung dapat membentuk bentukan khas berupa gua laut (_sea cave_), yang dapat membesar dan menembus sisi lain tanjung sehingga membentuk plengkung atau jembatan alami (_natural arch_). Erosi lanjut pada dasar lereng akan menyebabkan bagian atas plengkung tidak stabil, sehingga membentuk daratan terpisah yang disebut tonggak laut (_sea stack_), yang ketika mengalami erosi lebih lanjut akan membentuk _sea stump_.
   
    2. Pesisir Deposisi Lautan (_Marine Deposition Coast_)\
-  Pesisir deposisi laut terbentuk dari material yang berasal dari laut. Pesisir tipe ini membentuk bentuklahan sebagai berikut:\
-  Gisik
-  Bura (_spit_) dan tombolo
+  Pesisir deposisi laut terbentuk dari material yang berasal dari laut. Pesisir yang sedimennya berasal dari laut umumnya dicirikan dengan asal biogenik (pecahan karang dan cangkang), kadar mineral kalsit yang lebih tinggi, atau tidak adanya sumber material dalam jumlah besar dari darat (muara sungai yang memiliki _longshore current_). Pesisir tipe ini membentuk bentuklahan sebagai berikut:\
+  - Gisik\
+  Gisik dari deposisi material 
+  - Bura (_spit_) dan tombolo
   Laguna
   Pulau pelindung
  
