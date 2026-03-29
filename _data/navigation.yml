@@ -5,7 +5,9 @@ docs:
     url: /docs/Manben
   - title: "3. Sumberdaya dan Manajemen Sumberdaya"
     url: /docs/Sumberdaya
-  - title: "4. Geografi Pembangunan"
-    url: /docs/Pembangunan
   - title: "5.a. Geologi"
     url: /docs/Geologi
+  - title: "5.b. Geomorfologi"
+    url: /docs/Geomorfologi
+  - title: "9. Geografi Pembangunan dan Ketimpangan Spasial"
+    url: /docs/Pembangunan
