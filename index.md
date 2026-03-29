@@ -17,8 +17,9 @@ Terima kasih!
 - [1. Iklim dan Perubahan Iklim](/Geolimpiade-Wiki/docs/Metklim/)
 - [2. Kebencanaan dan Manajemen Bencana](/Geolimpiade-Wiki/docs/Manben/)
 - [3. Sumberdaya dan Manajemen Sumberdaya](/Geolimpiade-Wiki/docs/Sumberdaya/)
-- [4. Geografi Pembangunan](/Geolimpiade-Wiki/docs/Pembangunan/)
 - [5.a. Geologi](/Geolimpiade-Wiki/docs/Geologi/)
+- [5.b. Geomorfologi](/Geolimpiade-Wiki/docs/Geomorfologi/)
+- [9. Geografi Pembangunan dan Ketimpangan Spasial](/Geolimpiade-Wiki/docs/Pembangunan/)
 
 
 ![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
