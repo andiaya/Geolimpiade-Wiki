@@ -39,7 +39,7 @@ sidebar:
 
 # 2. Bentanglahan Vulkanik
 - Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
--  Erupsi gunungapi menghasilkan material padat, cair, dan gas.
+- Erupsi gunungapi menghasilkan material padat, cair, dan gas.
   - Padat: material hasil erupsi yang berfase padat disebut piroklastik (piro = api, klastik = batu). Material piroklastik diklasifikasikan berdasarkan ukurannya.
   - Cair: material erupsi berfase cair yaitu lava.
   - Gas: erupsi mengeluarkan gas berupa belerang (solfatara), karbondioksida (mofet), dan uap air (fumarol).
