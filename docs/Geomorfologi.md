@@ -24,14 +24,25 @@ sidebar:
 - Bentanglahan struktural dibentuk oleh proses **tektonisme**, yaitu perubahan bentuk litosfer akibat gerakan di dalam Bumi.
 - Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_). Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
 - Bentuklahan yang membentuk bentanglahan struktural yaitu:\
-    **1. Kekar**\
-        - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
-        - Terdapat 
-    **2. Patahan**\
-    **3. Lipatan**
+  **1. Kekar**
+    - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
+  
+  **2. Patahan**
+    - Patahan adalah pecahan pada batuan dan sudah mengalami pergeseran.
+    - Patahan dapat memiliki pergeseran vertikal (dinamakan _dip-slip fault_) atau pergeseran horizontal (dinamakan _strike-slip fault_). Pergeseran patahan juga dapat terjadi secara kombinasi, dinamakan _oblique fault_.
+    - Dip-slip fault diklasifikasikan menjadi 2 jenis, sesar turun (_normal faults_) dan sesar naik (_reverse faults_). Klasifikasi ini didasarkan pada anatomi dip-slip fault. Dip-slip fault memiliki anatomi footwall, hanging wall, dan gawir (tebing). Bidang patahan sesar memotong batuan, membentuk bagian yang lebar di permukaan tanah (hanging wall) dan bagian yang lebar di bawah permukaan tanah (footwall). Pada sesar turun, gawir terbentuk dari sisi footwall, sedangkan pada sesar naik, gawir terbentuk dari sisi hanging wall.
+      <img width="414" height="250" alt="Sesar Turun dan Sesar Naik" src="https://github.com/user-attachments/assets/01617ac1-c356-4b7c-ade3-b71ae49fa652" />
+    - Strike-slip fault diklasifikasikan menjadi 2 berdasarkan gerakannya, sesar dekstral dan sinistral. Sesar dekstral memiliki gerakan bagian kanan mendekati pengamat, sedangkan sesar sinistral memiliki gerakan bagian kiri mendekati pengamat.\
+      <img width="437" height="200" alt="Sesar sinistral dan dekstral" src="https://github.com/user-attachments/assets/11be77fd-98cf-45e4-a8f0-ebff3ea8db40" />
+  
+  **3. Lipatan**
 
 # 2. Bentanglahan Vulkanik
-- Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi.
+- Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
+-  Erupsi gunungapi menghasilkan material padat, cair, dan gas.
+  - Padat: material hasil erupsi yang berfase padat disebut piroklastik (piro = api, klastik = batu). Material piroklastik diklasifikasikan berdasarkan ukurannya.
+  - Cair: material erupsi berfase cair yaitu lava.
+  - Gas: erupsi mengeluarkan gas berupa belerang (solfatara), karbondioksida (mofet), dan uap air (fumarol).
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
 # 4. Bentanglahan Marine
