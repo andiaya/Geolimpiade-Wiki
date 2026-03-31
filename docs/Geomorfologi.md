@@ -22,7 +22,10 @@ sidebar:
 
 # 1. Bentanglahan Struktural
 - Bentanglahan struktural dibentuk oleh proses **tektonisme**, yaitu perubahan bentuk litosfer akibat gerakan di dalam Bumi.
-- Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_). Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
+- Proses tektonisme dapat diklasifikasikan menjadi epirogenesa (_epeirogeny_) dan orogenesa (_orogeny_).
+- Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Epeiros berarti benua, genesa berarti pembentukan.
+- Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
+- Epirogenesa tidak menyebabkan kerusakan pada lapisan batuan, sedangkan orogenesa menyebabkan lapisan batuan pecah dan terlipat.
 - Bentuklahan yang membentuk bentanglahan struktural yaitu:\
   **1. Kekar**
     - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
@@ -32,10 +35,20 @@ sidebar:
     - Patahan dapat memiliki pergeseran vertikal (dinamakan _dip-slip fault_) atau pergeseran horizontal (dinamakan _strike-slip fault_). Pergeseran patahan juga dapat terjadi secara kombinasi, dinamakan _oblique fault_.
     - Dip-slip fault diklasifikasikan menjadi 2 jenis, sesar turun (_normal faults_) dan sesar naik (_reverse faults_). Klasifikasi ini didasarkan pada anatomi dip-slip fault. Dip-slip fault memiliki anatomi footwall, hanging wall, dan gawir (tebing). Bidang patahan sesar memotong batuan, membentuk bagian yang lebar di permukaan tanah (hanging wall) dan bagian yang lebar di bawah permukaan tanah (footwall). Pada sesar turun, gawir terbentuk dari sisi footwall, sedangkan pada sesar naik, gawir terbentuk dari sisi hanging wall.
       <img width="414" height="250" alt="Sesar Turun dan Sesar Naik" src="https://github.com/user-attachments/assets/01617ac1-c356-4b7c-ade3-b71ae49fa652" />
+    - Patahan dapat terjadi di lokasi yang berdekatan, membentuk dataran rendah dan dataran tinggi yang saling berjajar. Dataran tinggi (_plateau_) dalam konteks ini dinamakan _horst_, sedangkan dataran rendah di antara 2 _horst_ disebut _graben_.
+      <img width="500" height="257" alt="Diagram horst dan graben" src="https://github.com/user-attachments/assets/33303e68-8a0b-41cd-a4a5-20f8051bf78c" />
     - Strike-slip fault diklasifikasikan menjadi 2 berdasarkan gerakannya, sesar dekstral dan sinistral. Sesar dekstral memiliki gerakan bagian kanan mendekati pengamat, sedangkan sesar sinistral memiliki gerakan bagian kiri mendekati pengamat.\
       <img width="437" height="200" alt="Sesar sinistral dan dekstral" src="https://github.com/user-attachments/assets/11be77fd-98cf-45e4-a8f0-ebff3ea8db40" />
+    - Patahan dapat diidentifikasi berdasarkan beberapa karakteristik berikut:
+      - Terdapat perubahan ketinggian tiba-tiba, membentuk tebing/gawir sesar.
+      - Terdapat linearitas/kelurusan (perbukitan memanjang lurus, aliran sungai lurus).
+      - Sungai berbelok tajam mengikuti kelurusan.
+      - Lapisan batuan terpotong. Pada batuan yang bersifat akuifer (menyimpan dan mengalirkan air tanah), lapisan batuan terpotong membentuk mata air. Titik mata air yang muncul juga berjajar linear.
   
   **3. Lipatan**
+    - Batuan dapat terlipat secara linear maupun non-linear.
+    - Lipatan linear ke atas disebut antiklin, sedangkan lipatan linear ke bawah disebut sinklin.
+    - Lipatan non-linear ke atas membentuk struktur kubah, sedangkan lipatan non-linear ke bawah membentuk struktur lembah. Lembah merupakan istilah yang secara umum digunakan untuk menunjukkan wilayah yang lebih rendah dari sekitarnya, dalam konteks lipatan non-linear, struktur lembah dicirikan oleh lapisan batuan yang membentuk pola konsentrik.
 
 # 2. Bentanglahan Vulkanik
 - Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
