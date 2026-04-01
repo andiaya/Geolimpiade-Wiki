@@ -44,12 +44,22 @@ sidebar:
       - Terdapat linearitas/kelurusan (perbukitan memanjang lurus, aliran sungai lurus).
       - Sungai berbelok tajam mengikuti kelurusan.
       - Lapisan batuan terpotong. Pada batuan yang bersifat akuifer (menyimpan dan mengalirkan air tanah), lapisan batuan terpotong membentuk mata air. Titik mata air yang muncul juga berjajar linear.
-  
+    - Bentukan gawir sesar mulanya berbentuk tebing lurus memanjang. Seiring terjadinya proses erosi pada permukaan tebing, muka tebing akan mengalami perubahan bentuk menjadi trapezoid (_trapezoidal facet_). Ketika erosi sudah terjadi dalam waktu lama, muka tebing akan memiliki bentuk segitiga (_triangular facet_). Trapezoidal facet dan triangular facet disebut juga sebagai _truncated spurs_, karena bentuk bukit memanjangnya seperti taji (_spur_) atau gigi taring yang terpotong ujungnya.
+      <img width="727" height="323" alt="fault face development" src="https://github.com/user-attachments/assets/fd5ad1eb-ecd7-4d65-8c59-c9e019fd01c9" />
+
   **3. Lipatan**
     - Batuan dapat terlipat secara linear maupun non-linear.
     - Lipatan linear ke atas disebut antiklin, sedangkan lipatan linear ke bawah disebut sinklin.
     - Lipatan non-linear ke atas membentuk struktur kubah, sedangkan lipatan non-linear ke bawah membentuk struktur lembah. Lembah merupakan istilah yang secara umum digunakan untuk menunjukkan wilayah yang lebih rendah dari sekitarnya, dalam konteks lipatan non-linear, struktur lembah dicirikan oleh lapisan batuan yang membentuk pola konsentrik.
+  
+  **4. Dataran Tinggi (_Plateau_)**
+    - Dataran tinggi dapat terbentuk dari blok batuan yang terangkat akibat gerakan tektonis lempeng yang menekan, menyebabkan sesar di tepi blok batuan.
+    - _Plateau_ dapat mengalami erosi, membentuk dataran tinggi yang lebih sempit, disebut _mesa_, lalu ketika tererosi lanjut lagi akan membentuk _butte_, dan ketika tinggal tersisa bentukan tiang tinggi atau batu jamur, maka disebut _pinnacle_.
+    <img width="305" height="165" alt="Plateau development" src="https://github.com/user-attachments/assets/4d23b802-5b47-4fac-9821-cf75301c0a7b" />
 
+  **5. Permukaan Miring**
+    - Permukaan miring akibat tektonisme diklasifikasikan menjadi 2, _cuesta_ dan _hogback_. Pembeda dari kedua bentukan ini adalah nilai kemiringan lapisan batuan (dip), _cuesta_ memiliki kemiringan <30 &deg; dan _hogback_ memiliki kemiringan >30 &deg;.
+  
 # 2. Bentanglahan Vulkanik
 - Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
 - Erupsi gunungapi menghasilkan material padat, cair, dan gas.
