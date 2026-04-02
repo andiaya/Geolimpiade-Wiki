@@ -66,8 +66,15 @@ sidebar:
   - Padat: material hasil erupsi yang berfase padat disebut piroklastik (piro = api, klastik = batu). Material piroklastik diklasifikasikan berdasarkan ukurannya.
   - Cair: material erupsi berfase cair yaitu lava.
   - Gas: erupsi mengeluarkan gas berupa belerang (solfatara), karbondioksida (mofet), dan uap air (fumarol).
+- Berdasarkan kekuatannya, erupsi gunungapi diklasifikasikan menjadi erupsi efusif dan eksplosif.
+- Erupsi efusif terjadi pada gunungapi yang memiliki magma encer. Magma encer menyebabkan gas dapat terlepas dengan mudah, sehingga tekanan gas yang terbentuk di dalam tubuh gunung api rendah dan magma keluar mengalir.
+- Erupsi eksplosif terjadi pada gunungapi dengan magma kental. Magma kental menyebabkan gas sulit keluar, sehingga tekanan gas yang terbentuk dalam tubuh gunung api tinggi. Tekanan gas tinggi menyebabkan material lava dan batuan terlempar, dan jika tekanannya sangat tinggi, erupsi dapat menyebabkan sebagian badan gunung api runtuh.
+- 
+
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
+- 
+
 # 4. Bentanglahan Marine
 Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebelum memperdalam pemahaman mengenai bentanglahan marine, mari mengenal istilah pembagian wilayah kepesisiran terlebih dahulu.
 
