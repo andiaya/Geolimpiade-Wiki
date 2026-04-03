@@ -70,7 +70,17 @@ sidebar:
 - Berdasarkan kekuatannya, erupsi gunungapi diklasifikasikan menjadi 2, yaitu erupsi efusif dan erupsi eksplosif.
 - Erupsi efusif terjadi pada gunungapi yang memiliki magma encer. Magma encer menyebabkan gas dapat terlepas dengan mudah, sehingga tekanan gas yang terbentuk di dalam tubuh gunung api rendah dan magma keluar mengalir.
 - Erupsi eksplosif terjadi pada gunungapi dengan magma kental. Magma kental menyebabkan gas sulit keluar, sehingga tekanan gas yang terbentuk dalam tubuh gunung api tinggi. Tekanan gas tinggi menyebabkan material lava dan batuan terlempar, dan jika tekanannya sangat tinggi, erupsi dapat menyebabkan sebagian badan gunung api runtuh.
-- Secara lebih detail
+- Secara lebih detail, tipe erupsi dapat diklasifikasikan berdasarkan tekanan gas dan kekentalan magmanya sebagai berikut. Nama berikut ditentukan berdasarkan tipe erupsi dominan, satu gunungapi dapat mengalami beberapa tipe erupsi selama hidupnya.
+  - Tipe Hawaii: memiliki magma encer (basaltik) dan tekanan gas rendah. Lava keluar mengalir dan membentuk pancuran.
+  - Tipe Strombolian: memiliki magma encer (basaltik) dan tekanan gas sedang. Lava keluar dalam letupan-letupan, disertai piroklastik.
+  - Tipe Vulkano: memiliki magma cair-kental dan tekanan gas sedang hingga tinggi. Tekanan gas tinggi disebabkan karena adanya sumbat lava, sumbat lava akan runtuh ketika tekanan gas sudah tinggi. Erupsi tipe volkano melepaskan material piroklastik ke arah atas, membentuk kolom letusan.
+  - Tipe Merapi: memiliki magma kental dan tekanan gas rendah. Pada erupsi tipe merapi juga terdapat pembentukan sumbat lava, namun sumbat lava ini akan runtuh karena tidak stabil (gerakan massa) dan bukan karena tekanan gas yang tinggi. Material erupsi tipe merapi dominan dilepaskan dalam bentuk gerakan massa (seperti longsor) material piroklastik dengan kecepatan tinggi menuruni lereng dan utamanya melalui lembah sungai (baranco) yang dinamakan awan panas (_wedhus gembel, pyroclastic flow, nuee ardente, pyroclastic density current_). Gerakan awan panas tipe merapi ditentukan arah runtuhnya sumbat lava.
+  - Tipe St. Vincent: memiliki magma kental dan tekanan gas sedang. Mekanisme erupsi ini serupa dengan erupsi tipe vulkano, namun, kolom awan letusan yang terbentuk memiliki massa jenis yang tinggi, sehingga ambruk dan bergerak menuruni lereng. Gerakan awan panas erupsi tipe ini tidak ditentukan oleh arah runtuhnya sumbat lava.
+  - Tipe Pelean: memiliki magma kental dan tekanan gas tinggi. Mekanisme letusan gunungapi tipe pelean serupa dengan tipe merapi, namun, sumbat lavanya dapat menahan gas dengan tekanan yang lebih tinggi. Erupsi tipe pelean juga ke arah samping seperti merapi, namun, keruntuhan sumbat lava bukan berupa longsor melainkan berupa ledakan.
+  - Tipe Plinian: memiliki tekanan gas sangat tinggi dan magma relatif cair. Mekanisme letusan plinian serupa dengan pelean, namun, ledakan erupsi plinian mengarah ke atas (vertikal), membentuk kolom letusan yang tinggi. Kolom letusan ini dapat pula ambruk, membentuk aliran awan panas yang tidak ditentukan arah runtuhnya sumbat lava.
+  - Tipe Vesuvius dan Krakatau: memiliki magma kental dan tekanan gas sangat tinggi. Erupsi menyebabkan hancurnya badan gunungapi.
+    <img width="762" height="595" alt="Tipe erupsi gunungapi" src="https://github.com/user-attachments/assets/45271f56-a213-458b-9605-d52fc9aedfe1" />
+
 
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
