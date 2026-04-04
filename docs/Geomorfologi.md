@@ -61,13 +61,20 @@ sidebar:
     - Permukaan miring akibat tektonisme diklasifikasikan menjadi 2, _cuesta_ dan _hogback_. Pembeda dari kedua bentukan ini adalah nilai kemiringan lapisan batuan (dip), _cuesta_ memiliki kemiringan <30 &deg; dan _hogback_ memiliki kemiringan >30 &deg;.
   
 # 2. Bentanglahan Vulkanik
-- Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
+Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
+
+## 2.1. Material Bentanglahan Vulkanik
 - Erupsi gunungapi menghasilkan material padat, cair, dan gas.
-  - Padat: material hasil erupsi yang berfase padat disebut piroklastik (piro = api, klastik = batu). Material piroklastik diklasifikasikan berdasarkan ukurannya.
+  - Padat: material hasil erupsi yang berfase padat disebut **piroklastik** (piro = api, klastik = batu). Material piroklastik diklasifikasikan berdasarkan ukurannya. Deposisi piroklastik pada bentanglahan vulkanik disebut **tephra**.
+    - **Abu** = memiliki ukuran < 2 mm (setara pasir - lempung dalam klasifikasi ukuran sedimen Wentworth).
+    - **Lapilli** = memiliki ukuran 2 - 64 mm (setara kerikil - kerakal). Lapilli yang memiliki struktur berongga (_scoria_) disebut juga cinder.
+    - **Bomb/block** = memiliki ukuran > 64 mm (setara berangkal - bongkah). Bomb memiliki bentuk membulat sedangkan block memiliki tepi runcing.
   - Cair: material erupsi berfase cair yaitu lava.
   - Gas: erupsi mengeluarkan gas berupa belerang (solfatara), karbondioksida (mofet), dan uap air (fumarol).
 - Kekuatan erupsi diukur dengan indeks eksplosivitas gunungapi (Volcanic Explosivity Index/VEI). VEI didasarkan pada volume material yang dilepaskan saat erupsi, ketinggian kolom erupsi, dan durasi erupsi gunungapi.
 - Berdasarkan kekuatannya, erupsi gunungapi diklasifikasikan menjadi 2, yaitu erupsi efusif dan erupsi eksplosif.
+
+## 2.2. Proses Bentanglahan Vulkanik
 - Erupsi efusif terjadi pada gunungapi yang memiliki magma encer. Magma encer menyebabkan gas dapat terlepas dengan mudah, sehingga tekanan gas yang terbentuk di dalam tubuh gunung api rendah dan magma keluar mengalir.
 - Erupsi eksplosif terjadi pada gunungapi dengan magma kental. Magma kental menyebabkan gas sulit keluar, sehingga tekanan gas yang terbentuk dalam tubuh gunung api tinggi. Tekanan gas tinggi menyebabkan material lava dan batuan terlempar, dan jika tekanannya sangat tinggi, erupsi dapat menyebabkan sebagian badan gunung api runtuh.
 - Secara lebih detail, tipe erupsi dapat diklasifikasikan berdasarkan tekanan gas dan kekentalan magmanya sebagai berikut. Nama berikut ditentukan berdasarkan tipe erupsi dominan, satu gunungapi dapat mengalami beberapa tipe erupsi selama hidupnya.
@@ -81,6 +88,23 @@ sidebar:
   - Tipe Vesuvius dan Krakatau: memiliki magma kental dan tekanan gas sangat tinggi. Erupsi menyebabkan hancurnya badan gunungapi.
     <img width="762" height="595" alt="Tipe erupsi gunungapi" src="https://github.com/user-attachments/assets/45271f56-a213-458b-9605-d52fc9aedfe1" />
 
+- Erupsi gunungapi umumnya terjadi dari satu kawah **sentral**. Namun, erupsi tipe hawaii juga dapat terjadi pada retakan memanjang, disebut erupsi **linear**. Erupsi berukuran besar yang menghancurkan badan gunungapi disebut erupsi **areal**.
+- Tipe aliran lava yang terbentuk dari erupsi gunungapi yaitu:
+  - Pahoehoe: aliran lava encer pada lereng landai. Lava membentuk kerak permukaan utuh dengan ujung aliran yang fleksibel, sehingga membentuk bentukan seperti benang (_rope-y_).
+  - 'A'a: aliran lava kental pada lereng curam. Lava membentuk kerak permukaan lapilli dengan banyak rongga, disebut clinker.
+  - Blocky: serupa dengan 'A'a namun keraknya membentuk material block. Material besar disebabkan karena lava memiliki kandungan silika tinggi.
+  - Pillow: bentukan kerak menggembung karena pembekuan sangat cepat akibat erupsi bawah air (_submarine_).
+
+## 2.3. Bentuklahan Bentanglahan Vulkanik
+- Bentuk gunungapi dipengaruhi oleh proses erupsi gunungapi, yaitu:
+  - Gunungapi Perisai (_shield_): terbentuk dari akumulasi aliran lava encer. Membentuk kerucut dengan kemiringan landai pada area yang luas.
+  - Gunungapi Stratokomposit: terbentuk dari tipe erupsi efusif dan eksplosif yang bergantian. Material dari erupsi eksplosif mendeposisikan material dan lava dari erupsi efusif menstabilkan lereng gunungapi. Bentuk gunungapi berupa kerucut tinggi.
+  - Kerucut Cinder: terbentuk dari akumulasi material cinder lepas-lepas. Kerucut berukuran kecil.
+- Bentuklahan vulkanik dapat diklasifikasikan menjadi 2, bentukan **ekstrusif** jika terbentuk di permukaan dan bentukan **intrusif** bila terbentuk di bawah permukaan.
+- Ekstrusif:
+  - .
+- Intrusif:
+  - 
 
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
