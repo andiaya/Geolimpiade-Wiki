@@ -89,11 +89,12 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
     <img width="762" height="595" alt="Tipe erupsi gunungapi" src="https://github.com/user-attachments/assets/45271f56-a213-458b-9605-d52fc9aedfe1" />
 
 - Erupsi gunungapi umumnya terjadi dari satu kawah **sentral**. Namun, erupsi tipe hawaii juga dapat terjadi pada retakan memanjang, disebut erupsi **linear**. Erupsi berukuran besar yang menghancurkan badan gunungapi disebut erupsi **areal**.
-- Tipe aliran lava yang terbentuk dari erupsi gunungapi yaitu:
+- Ketika magma mencapai permukaan, ia akan mengalir sebagai lava. Permukaan aliran lava akan mendingin dan membeku terlebih dahulu, membentuk tipe aliran sebagai berikut:
   - Pahoehoe: aliran lava encer pada lereng landai. Lava membentuk kerak permukaan utuh dengan ujung aliran yang fleksibel, sehingga membentuk bentukan seperti benang (_rope-y_).
   - 'A'a: aliran lava kental pada lereng curam. Lava membentuk kerak permukaan lapilli dengan banyak rongga, disebut clinker.
   - Blocky: serupa dengan 'A'a namun keraknya membentuk material block. Material besar disebabkan karena lava memiliki kandungan silika tinggi.
   - Pillow: bentukan kerak menggembung karena pembekuan sangat cepat akibat erupsi bawah air (_submarine_).
+- Selain disebabkan karena keluarnya magma, erupsi gunungapi dapat pula terjadi akibat interaksi airtanah dengan magma yang membentuk tekanan uap air tinggi. Erupsi tipe ini disebut **erupsi freatik**.
 
 ## 2.3. Bentuklahan Bentanglahan Vulkanik
 - Bentuk gunungapi dipengaruhi oleh proses erupsi gunungapi, yaitu:
@@ -102,7 +103,13 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - Kerucut Cinder: terbentuk dari akumulasi material cinder lepas-lepas. Kerucut berukuran kecil.
 - Bentuklahan vulkanik dapat diklasifikasikan menjadi 2, bentukan **ekstrusif** jika terbentuk di permukaan dan bentukan **intrusif** bila terbentuk di bawah permukaan.
 - Ekstrusif:
-  - .
+  - Kerucut gunungapi (_volcanic cone_): merupakan badan gunungapi, berbentuk kerucut, hasil dari akumulasi material erupsi. Jarak dari pusat letusan dapat memengaruhi bentuklahan kerucut gunungapi karena perbedaan proses yang membentuknya. Perbedaan ini diklasifikasikan sebagai fasies gunungapi sebagai berikut:
+    - Fasies sentral: mencakup wilayah puncak gunungapi. Bentuklahan yang dapat ditemukan di fasies sentral mencakup kawah/kepundan dan kubah lava. Pada gunungapi dengan tekanan gas tinggi, kubah lava dapat memiliki bentukan seperti tiang, karena terdorong tinggi dari kawah, disebut _volcanic spine_.
+    - Fasies proximal: mencakup area lereng atas gunungapi, terbentuk dari batuan hasil lithifikasi piroklastik dan pembekuan lava.
+    - Fasies medial: mencakup area lereng bawah, terbentuk dari material yang mengalami transportasi dari lokasi deposisi awal, misal melalui banjir lahar. Terdapat pula hasil deposisi awan panas.
+    - Fasies distal: terbentuk dari material vulkanik yang sudah mengalami pelapukan, berupa batupasir dan batulanau. Terdapat pula tuf dari deposisi abu vulkanik. Material memiliki sortasi baik. Bentuklahan pada fasies ini dapat disebut dataran fluviovulkanik, karena terbentuk dari proses gabungan sungai dan vulkanik.
+  - Baranco: bentuklahan lembah sungai dalam dan terjal pada kerucut gunungapi.
+  - Medan lava: permukaan yang terbentuk dari pembekuan lava encer. Dapat ditemukan pada lereng kerucut gunungapi.
 - Intrusif:
   - 
 
