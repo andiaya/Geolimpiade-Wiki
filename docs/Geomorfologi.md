@@ -309,52 +309,57 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 - Bentuklahan dalam bentanglahan solusional dibagi menjadi dua tipe berdasarkan kedudukannya, eksokarst apabila berada di permukaan dan endokarst apabila berada di bawah permukaan tanah.
 - Bentuklahan eksokarst yang berukuran besar disebut bentuklahan karst mayor, sedangkan bentuklahan yang kecil disebut bentuklahan karst minor.
   - Mayor:
-    1. Bukit karst
-    2. Kokpit karst
-    3. Ponor
-    4. Dolina, Uvala, Polje
-    5. Lembah Buta
-    6. Menara Karst
-    7. Mogote
+    1. Bukit karst: bukit berbentuk kerucut yang mengalami tingkat erosi lebih rendah daripada wilayah sekitarnya.
+    2. Kokpit karst: lembah yang saling berhubungan di antara bukit karst, membentuk bentukan seperti bintang.
+    3. Ponor: lubang dan saluran tempat masuknya air dari permukaan ke sungai bawah tanah.
+    4. Dolina, Uvala, Polje: Dolina (_sinkhole_) adalah lembah yang terbentuk karena amblesan. Uvala adalah gabungan beberapa dolina, ketika erosi lebih lanjut telah terjadi. Polje adalah lembah berukuran sangat besar, terbentuk dari gabungan proses erosi dan struktural.
+    5. Lembah Buta (_blind valley_): lembah sungai dengan sungai mengalir masuk ke bawah tanah. Ketika seluruh aliran sungai masuk ke bawah tanah, lembah sungai yang ditinggalkan di permukaan disebut lembah kering (_dry valley_).
+    6. Menara Karst: bentukan seperti menara dengan lereng sangat terjal yang terbentuk dari sisa erosi batuan karbonat.
+    7. Mogote: bentukan bukit sisa erosi batuan karbonat yang dikelilingi oleh dataran.
   - Minor:
-    1. Parit Karst
-    2. Karren/Lapies
-    3. Travertine
+    1. Parit Karst: lubang memanjang akibat erosi karst.
+    2. Karren/Lapies: batuan permukaan karst yang berbentuk tidak beraturan akibat erosi.
+    3. Travertine: deposisi mineral karbonat di sekitar mata air. Dapat membentuk kolam-kolam bertingkat.
 - Bentuklahan endokarst merujuk pada ornamen gua (speleothem) yang berada di dalam gua karst, meliputi:
-  1. Stalaktit
-  2. Stalagmit
-  3. Pilar
-  4. Curtain
-  5. Flowstone
-  6. Travertine
+  1. Stalaktit: deposisi mineral karbonat berbentuk kerucut yang menggantung pada gua.
+  2. Stalagmit: deposisi mineral karbonat berbentuk kerucut yang tumbuh dari dasar gua. Biasanya terbentuk di bawah stalaktit karena deposisi mineral dari air yang meneter dari stalaktit.
+  3. Pilar: deposisi mineral karbonat berbentuk tiang, terbentuk ketika stalaktit dan stalagmit tumbuh sehingga menyatu.
+  4. Curtain: deposisi mineral karbonat memanjang, sehingga berbentuk seperti tirai/gorden.
+  5. Flowstone: deposisi mineral karbonat pada permukaan batuan. Terbentuk dari aliran air di permukaan batuan, sehingga deposisi mineral yang terbentuk berbentuk seperti aliran air.
+  6. Travertine: dapat terbentuk pula di dalam gua.
 
 # 6. Bentanglahan Denudasional
 - Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
+
 # 8. Bentanglahan Glasial
 - Bentanglahan glasial dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **es** (gletser).
 - Gletser adalah massa es yang terbentuk dari akumulasi dan pemadatan salju. Gletser mengalir dari puncak gunung ke tempat yang lebih rendah, mengerosi lereng dan membentuk bentuklahan khas glasial.
 - Bentuklahan glasial dapat dibagi menjadi bentuklahan erosional dan depsisional sebagai berikut:
   - Bentuklahan erosional:
-    1. Striasi:
-    2. Lembah berbentuk U:
-    3. Arete
-    4. Cirque
-    5. Horn
-    6. Valley/Cirque Steps
-    7. Lembah Menggantung
-    8. _Truncated Spur_
-    9. _Roche Mountenee_
-    10. _Nunatak_
-    11. Kettle lake
-    12. Tarn
-    13. Paternoster Lake
-    14. Danau Gletser
+    1. Striasi: permukaan batuan yang memiliki kenampakan bergaris. Disebabkan karena abrasi akibat gesekan sedimen yang terbawa gletser dengan batuan dasar yang dilalui gletser.
+    2. Lembah berbentuk U: gletser yang mengalir di lereng gunung membentuk lembah glasial luas dan dalam berbentuk U.
+    3. Arete: ketika lembah berbentuk U di 2 sisi suatu gunung mengerosi sehingga tepiannya bertemu, maka akan terbentuk punggungan gunung dengan puncak yang runcing. Puncak inilah yang disebut arete.
+    4. Cirque: bagian hulu aliran gletser memiliki bentuk seperti mangkok dengan satu sisi terbuka ke arah lembah glasial, karena massanya yang tinggi, sehingga erosi vertikal terjadi secara kuat.
+    5. Horn: ketika cirque dari berbagai sisi suatu gunung bertemu di puncak gunung, terbentuk puncak yang memiliki lereng curam, disebut horn.
+    6. Valley/Cirque Steps: batuan di lereng suatu gunung memiliki titik lemah (misal karena kekar), sehingga lembah yang terbentuk membentuk bentukan seperti tangga karena mengalami erosi lebih cepat daripada bagian lereng lainnya.
+    7. Lembah Menggantung: gletser memiliki anak gletser layaknya sungai dengan anak sungai. Gletser utama dinamai gletser badan (_trunk glacier_), menjadi akumulasi beberapa anak gletser. Lembah gletser badan memiliki kedalaman lebih dalam daripada lembah anak gletser karena massa alirannya yang lebih besar. Akibatnya, ketika gletser meleleh, lembah anak gletser terlihat menggantung di atas lembah gletser badan.
+    8. _Truncated Spur_: arete yang menuju lembah gletser memiliki bentuk seperti tering/taji terpotong.
+    9. _Roche Mountenee_: batuan yang resisten terhadap erosi gletser, sehingga membentuk bukit kecil ketika gletser meleleh.
+    10. _Nunatak_: puncak-puncak bukit yang terlihat di permukaan gletser yang luas.
+    11. Kettle lake: danau yang terbentuk ketika gletser meleleh. Es dari gletser dapat menyusup masuk ke retakan pada batuan dasar aliran gletser. Ketika es tersebut meleleh, volumenya berkurang, sehingga terbentuk danau.
+    12. Tarn: danau yang terbentuk pada cirque ketika gletser meleleh.
+    13. Paternoster Lake: danau-danau berjajar pada lembah bekas erosi gletser, dihubungkan oleh sungai-sungai kecil.
+    14. Danau Gletser: terbentuk pada ujung hilir gletser karena aliran air yang terbendung hasil deposisi glasial.
   - Bentuk Lahan Deposisional:
-    1. Moraine:
-    2. Drumlin
-    3. Esker 
+    1. Moraine: bukit memanjang dengan material tidak tersortasi (till). Moraine dapat terbentuk di tepian gletser sejajar dengan aliran, disebut lateral moraine. Moraine dapat terbentuk di tengah aliran gletser sejajar dengan aliran ketika 2 gletser bergabung, disebut medial moraine. Moraine dapat terbentuk di hilir aliran gletser tegak lurus terhadap aliran, dinamakan terminal moraine/end moraine.
+    2. Drumlin: bukit kecil terbentuk dari material till, terbentuk di dasar aliran gletser dan baru akan nampak ketika gletser meleleh. Memiliki lereng yang curam ke arah hulu dan lereng landai ke arah hilir.
+    3. Kame: bukit berbentuk tidak beraturan akibat deposisi gletser.
+    4. Esker: bukit memanjang berbentuk seperti ular. Terbentuk ketika bagian dasar gletser memiliki suhu yang hagat, sehingga membentuk sungai yang mengalir di dalam gua es. Batuan dasar yang dialiri sungai ini memiliki laju erosi yang lebih lambat daripada laju erosi gletser, sehingga ketika gletser meleleh, tersisa bentukan bukit memanjang.
+    5. Erratic: batu berukuran besar yang berbeda karakteristiknya dengan batuan di sekitarnya.
+    6. Kipas Glasial: deposisi material di ujung gletser, berbentuk seperti kipas. Aliran sungai di atasnya mengalir dengan pola teranyam.
+
 # 9. Bentanglahan Organik
 - Bentanglahan organik dibentuk dari proses yang berkaitan dengan **makhluk hidup**.
 # 10. Bentanglahan Antropogenik
