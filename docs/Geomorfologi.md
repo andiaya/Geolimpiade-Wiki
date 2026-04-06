@@ -334,6 +334,27 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
 # 8. Bentanglahan Glasial
 - Bentanglahan glasial dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **es** (gletser).
+- Gletser adalah massa es yang terbentuk dari akumulasi dan pemadatan salju. Gletser mengalir dari puncak gunung ke tempat yang lebih rendah, mengerosi lereng dan membentuk bentuklahan khas glasial.
+- Bentuklahan glasial dapat dibagi menjadi bentuklahan erosional dan depsisional sebagai berikut:
+  - Bentuklahan erosional:
+    1. Striasi:
+    2. Lembah berbentuk U:
+    3. Arete
+    4. Cirque
+    5. Horn
+    6. Valley/Cirque Steps
+    7. Lembah Menggantung
+    8. _Truncated Spur_
+    9. _Roche Mountenee_
+    10. _Nunatak_
+    11. Kettle lake
+    12. Tarn
+    13. Paternoster Lake
+    14. Danau Gletser
+  - Bentuk Lahan Deposisional:
+    1. Moraine:
+    2. Drumlin
+    3. Esker 
 # 9. Bentanglahan Organik
 - Bentanglahan organik dibentuk dari proses yang berkaitan dengan **makhluk hidup**.
 # 10. Bentanglahan Antropogenik
