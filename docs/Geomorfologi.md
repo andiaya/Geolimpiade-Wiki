@@ -31,11 +31,13 @@ sidebar:
   **1. Kekar**
     - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
     - Kekar dapat diklasifikasikan menjadi 2 tipe utama berdasarkan gaya pembentuknya, kekar gerus dan kekar tarik.
-      - Kekar gerus disebabkan oleh gaya kompresi. Kompresi disebabkan karena tekanan dari setidaknya dua arah misalnya pada bagian dalam lipatan batuan. Kekar gerus dicirikan oleh kumpulan retakan lurus yang saling memotong, disebut himpunan kekar konjugat.
+      - Kekar gerus disebabkan oleh gaya kompresi. Kompresi disebabkan karena tekanan dari setidaknya dua arah misalnya pada bagian dalam lipatan batuan. Kekar gerus dicirikan oleh kumpulan retakan lurus yang saling memotong.
+
         <img width="275" height="183" alt="kekar gerus" src="https://github.com/user-attachments/assets/4ddbef0d-a4fb-4c9b-a80b-e1532d402fae" />
 
       - Kekar tarik disebabkan oleh gaya ektensi. Ekstensi disebabkan oleh tarikan dari setidaknya dua arah, misalnya akibat tarikan pada keseluruhan blok batuan, pendinginan batuan yang menyebabkan volume mengecil, atau hilangnya tekanan dari beban yang menimbun batuan (_exfoliation_). Berdasarkan geometrinya, kekar tarik dapat diklasifikasikan menjadi:
         - Kekar tiang (_columnar joint_): kekar tiang terbentuk saat pembekuan batuan beku. Ketika lava membeku maka volumenya berkurang. Akibatnya, terbentuk gaya tarik dalam tubuh batuan yang membentuk bentukan seperti tiang (_column_).
+
           <img width="259" height="194" alt="kekar tiang" src="https://github.com/user-attachments/assets/d47da4b4-20e2-49f8-8e43-748f29321bf5" />
 
           Kekar Kolom di daerah Perbukitan Selacau-Lagadar. (Foto oleh [Muhammad Malik Arrahiem, 2012](https://malikarrahiem.wordpress.com/2012/05/))
@@ -48,16 +50,20 @@ sidebar:
           Kekar lembar (kiri) dan pelapukan mengulitbawang (kanan), contoh kekar akibat _exfoliation_.
 
         - Kekar non-sistematik: tidak memiliki pola sistematis karena gaya yang membentuknya tidak seragam.
+
           <img width="241" height="209" alt="ilustrasi kekar sistematis dan non-sistematis" src="https://github.com/user-attachments/assets/2b03b7d6-d13f-4346-9e90-165ff91ca688" />
   
   **2. Patahan**
     - Patahan adalah pecahan pada batuan dan sudah mengalami pergeseran.
     - Patahan dapat memiliki pergeseran vertikal (dinamakan _dip-slip fault_) atau pergeseran horizontal (dinamakan _strike-slip fault_). Pergeseran patahan juga dapat terjadi secara kombinasi, dinamakan _oblique fault_.
     - Dip-slip fault diklasifikasikan menjadi 2 jenis, sesar turun (_normal faults_) dan sesar naik (_reverse faults_). Klasifikasi ini didasarkan pada anatomi dip-slip fault. Dip-slip fault memiliki anatomi footwall, hanging wall, dan gawir (tebing). Bidang patahan sesar memotong batuan, membentuk bagian yang lebar di permukaan tanah (hanging wall) dan bagian yang lebar di bawah permukaan tanah (footwall). Pada sesar turun, gawir terbentuk dari sisi footwall, sedangkan pada sesar naik, gawir terbentuk dari sisi hanging wall.
+
       <img width="414" height="250" alt="Sesar Turun dan Sesar Naik" src="https://github.com/user-attachments/assets/01617ac1-c356-4b7c-ade3-b71ae49fa652" />
     - Patahan dapat terjadi di lokasi yang berdekatan, membentuk dataran rendah dan dataran tinggi yang saling berjajar. Dataran tinggi (_plateau_) dalam konteks ini dinamakan _horst_, sedangkan dataran rendah di antara 2 _horst_ disebut _graben_.
+
       <img width="500" height="257" alt="Diagram horst dan graben" src="https://github.com/user-attachments/assets/33303e68-8a0b-41cd-a4a5-20f8051bf78c" />
-    - Strike-slip fault diklasifikasikan menjadi 2 berdasarkan gerakannya, sesar dekstral dan sinistral. Sesar dekstral memiliki gerakan bagian kanan mendekati pengamat, sedangkan sesar sinistral memiliki gerakan bagian kiri mendekati pengamat.\
+    - Strike-slip fault diklasifikasikan menjadi 2 berdasarkan gerakannya, sesar dekstral dan sinistral. Sesar dekstral memiliki gerakan bagian kanan mendekati pengamat, sedangkan sesar sinistral memiliki gerakan bagian kiri mendekati pengamat.
+
       <img width="437" height="200" alt="Sesar sinistral dan dekstral" src="https://github.com/user-attachments/assets/11be77fd-98cf-45e4-a8f0-ebff3ea8db40" />
     - Patahan dapat diidentifikasi berdasarkan beberapa karakteristik berikut:
       - Terdapat perubahan ketinggian tiba-tiba, membentuk tebing/gawir sesar.
@@ -65,12 +71,14 @@ sidebar:
       - Sungai berbelok tajam mengikuti kelurusan.
       - Lapisan batuan terpotong. Pada batuan yang bersifat akuifer (menyimpan dan mengalirkan air tanah), lapisan batuan terpotong membentuk mata air. Titik mata air yang muncul juga berjajar linear.
     - Bentukan gawir sesar mulanya berbentuk tebing lurus memanjang. Seiring terjadinya proses erosi pada permukaan tebing, muka tebing akan mengalami perubahan bentuk menjadi trapezoid (_trapezoidal facet_). Ketika erosi sudah terjadi dalam waktu lama, muka tebing akan memiliki bentuk segitiga (_triangular facet_). Trapezoidal facet dan triangular facet disebut juga sebagai _truncated spurs_, karena bentuk bukit memanjangnya seperti taji (_spur_) atau gigi taring yang terpotong ujungnya.
+
       <img width="727" height="323" alt="fault face development" src="https://github.com/user-attachments/assets/fd5ad1eb-ecd7-4d65-8c59-c9e019fd01c9" />
 
   **3. Lipatan**
     - Batuan dapat terlipat secara linear maupun non-linear.
     - Lipatan linear ke atas disebut antiklin, sedangkan lipatan linear ke bawah disebut sinklin. Batuan di permukaan dapat mengalami lipatan meskipun lapisan di bawahnya membentuk patahan karena sifatnya lebih lunak daripada batuan di bawahnya, lipatan linear tipe ini disebut monoklin.
     - Lipatan non-linear ke atas membentuk struktur kubah, sedangkan lipatan non-linear ke bawah membentuk struktur lembah. Lembah merupakan istilah yang secara umum digunakan untuk menunjukkan wilayah yang lebih rendah dari sekitarnya, dalam konteks lipatan non-linear, struktur lembah dicirikan oleh lapisan batuan yang membentuk pola konsentrik.
+
       <img width="590" height="512" alt="Ilustrasi lipatan" src="https://github.com/user-attachments/assets/54c4a83e-807d-4b7d-80e8-f29082baf227" />
 
       Ilustrasi menunjukkan lipatan. Pusat lipatan disebut sumbu lipatan, sedangkan batuan miring di sisinya disebut sayap lipatan. (a) sinklin, (b) antiklin , (c) monoklin, (d) lipatan antiklin menunjam (sumbu lipatan miring sehingga masuk ke dalam tanah), (e) kubah, (d) lembah lipatan. 
@@ -78,10 +86,12 @@ sidebar:
   **4. Dataran Tinggi (_Plateau_)**
     - Dataran tinggi dapat terbentuk dari blok batuan yang terangkat akibat gerakan tektonis lempeng yang menekan, menyebabkan sesar di tepi blok batuan.
     - _Plateau_ dapat mengalami erosi, membentuk dataran tinggi yang lebih sempit, disebut _mesa_, lalu ketika tererosi lanjut lagi akan membentuk _butte_, dan ketika tinggal tersisa bentukan tiang tinggi atau batu jamur, maka disebut _pinnacle_.
+    
     <img width="305" height="165" alt="Plateau development" src="https://github.com/user-attachments/assets/4d23b802-5b47-4fac-9821-cf75301c0a7b" />
 
   **5. Permukaan Miring**
     - Permukaan miring akibat tektonisme diklasifikasikan menjadi 2, _cuesta_ dan _hogback_. Pembeda dari kedua bentukan ini adalah nilai kemiringan lapisan batuan (dip), _cuesta_ memiliki kemiringan <30 &deg; dan _hogback_ memiliki kemiringan >30 &deg;.
+
       <img width="368" height="137" alt="cuesta & hogback" src="https://github.com/user-attachments/assets/9181c58c-dd3c-4580-82ee-c9287aa2adb7" />
 
   
@@ -111,6 +121,7 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - Tipe Pelean: memiliki magma kental dan tekanan gas tinggi. Mekanisme letusan gunungapi tipe pelean serupa dengan tipe merapi, namun, sumbat lavanya dapat menahan gas dengan tekanan yang lebih tinggi. Erupsi tipe pelean juga ke arah samping seperti merapi, namun, keruntuhan sumbat lava bukan berupa longsor melainkan berupa ledakan.
   - Tipe Plinian: memiliki tekanan gas sangat tinggi dan magma relatif cair. Mekanisme letusan plinian serupa dengan pelean, namun, ledakan erupsi plinian mengarah ke atas (vertikal), membentuk kolom letusan yang tinggi. Kolom letusan ini dapat pula ambruk, membentuk aliran awan panas yang tidak ditentukan arah runtuhnya sumbat lava.
   - Tipe Vesuvius dan Krakatau: memiliki magma kental dan tekanan gas sangat tinggi. Erupsi menyebabkan hancurnya badan gunungapi.
+
     <img width="762" height="595" alt="Tipe erupsi gunungapi" src="https://github.com/user-attachments/assets/45271f56-a213-458b-9605-d52fc9aedfe1" />
 
 - Erupsi gunungapi umumnya terjadi dari satu kawah **sentral**. Namun, erupsi tipe hawaii juga dapat terjadi pada retakan memanjang, disebut erupsi **linear**. Erupsi berukuran besar yang menghancurkan badan gunungapi disebut erupsi **areal**.
@@ -119,6 +130,7 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - 'A'a: aliran lava kental pada lereng curam. Lava membentuk kerak permukaan lapilli dengan banyak rongga, disebut clinker.
   - Blocky: serupa dengan 'A'a namun keraknya membentuk material block. Material besar disebabkan karena lava memiliki kandungan silika tinggi.
   - Pillow: bentukan kerak menggembung karena pembekuan sangat cepat akibat erupsi bawah air (_submarine_).
+
     <img width="712" height="429" alt="tipe aliran lava" src="https://github.com/user-attachments/assets/b55c34a9-7258-407e-aa5a-3556d3d061a9" />
 
 - Selain disebabkan karena keluarnya magma, erupsi gunungapi dapat pula terjadi akibat interaksi airtanah dengan magma yang membentuk tekanan uap air tinggi. Erupsi tipe ini disebut **erupsi freatik**.
