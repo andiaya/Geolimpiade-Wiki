@@ -118,9 +118,23 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - Baranco: bentuklahan lembah sungai dalam dan terjal pada kerucut gunungapi.
   - Medan lava: permukaan yang terbentuk dari pembekuan lava encer. Dapat ditemukan pada lereng kerucut gunungapi.
   - Kerucut parasiter: kerucut gunungapi berukuran kecil yang terbetuk di lereng gunungapi utama. Kerucut parasiter dapat terbentuk akibat erupsi parasiter maupun erupsi eksentrik. Magma erupsi parasiter berasal dari dapur magma yang sama dengan kawah utama, sedangkan erupsi eksentrik memiliki magma yang berasal dari kedalaman yang lebih dalam.
-  - Sabuk mata air: titik-titik mata air terbentuk mengelilingi kerucut gunungapi pada tekuk lereng (_break of slope_). Terbentuk karena perubahan kemiringan perlapisan batuan yang mengandung air tanah. Sabuk mata air dapat di
-- Intrusif:
-  - 
+  - Sabuk mata air: titik-titik mata air terbentuk mengelilingi kerucut gunungapi pada tekuk lereng (_break of slope_), yaitu pada perubahan kemiringan lereng, misal antara lereng tengah dan lereng bawah atau antara lereng bawah dan kaki lereng gunungapi. Terbentuk karena perubahan kemiringan perlapisan batuan yang mengandung air tanah. Pembentukan mata air mensyaratkan adanya lapisan material yang tebal, sehingga dapat membentuk simpanan air tanah. Oleh karena itu, mata air jarang terbentuk di sekitar puncak.
+- Intrusif: batuan beku intrusif disebut juga batuan beku plutonik.
+  - Dike (2, 4): struktur plutonik yang bersifat diskordan (memotong perlapisan batuan sedimen).
+  - Sill(5): struktur plutonik yang bersifat konkordan (terbentuk sejajar dengan perlapisan batuan sedimen) dan datar.
+  - Batholith (3): struktur plutonik masif yang terbentuk dari pembekuan simpanan (reservoir) magma. Apabila batuan batolith mengandung batuan tipe lain, maka batuan yang terkandung tersebut disebut xenolith.
+  - Phacolith (b): struktur plutonik yang terbentuk pada cekungan lipatan sinklin atau pada puncak lipatan antiklin. Bagian sumbu lipatan memiliki tekanan yang rendah, sehingga dapat menjadi lokasi migrasi magma.
+  - Laccolith (1): struktur plutonik yang terbentuk ketika magma tidak menembus suatu lapisan batuan sedimen. Memiliki bentuk cembung ke arah atas dan bagian dasar datar.
+  - Lopolith (7): struktur plutonik berbentuk cekung. Terbentuk dari intrusi bertahap.
+  - Palisade (c): tembok lapisan batuan beku memanjang yang tersingkap di permukaan. Palisade dapat terbentuk dari singkapan dike maupun sill.
+  - Leher vulkanik (_volcanic neck_) (6): struktur plutonik berbentuk tiang, terbentuk dari pembekuan magma di dalam pipa/konduit gunungapi.
+  
+  a. <img width="250" height="268" alt="Ilustrasi struktur intrusi" src="https://github.com/user-attachments/assets/5ff95ebc-7675-4942-8b51-6111355ad24e" />
+  
+  b. <img width="265" height="190" alt="phacolith" src="https://github.com/user-attachments/assets/afe9befb-b5b1-49e0-adb1-fa2fcdb89d86" />
+
+  c. <img width="259" height="194" alt="palisade" src="https://github.com/user-attachments/assets/0bf91ac7-e2e4-44f0-a65b-dc6d23dcedd8" />
+
 
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
