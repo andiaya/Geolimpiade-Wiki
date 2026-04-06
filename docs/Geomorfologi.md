@@ -26,9 +26,16 @@ sidebar:
 - Epirogenesa merupakan gerakan lambat yang terjadi di area yang sangat luas, misal disebabkan oleh kesetimbangan massa jenis mantel dan kerak Bumi. Epeiros berarti benua, genesa berarti pembentukan.
 - Orogenesa merupakan gerakan cepat yang terjadi di area yang sempit, meliputi patahan dan lipatan. Oro berarti pegunungan, genesa berarti pembentukan.
 - Epirogenesa tidak menyebabkan kerusakan pada lapisan batuan, sedangkan orogenesa menyebabkan lapisan batuan pecah dan terlipat.
+- Proses tektonisme membentuk 2 jenis gaya pada lapisan batuan, kompresi (tekanan) dan ekstensi (tarikan). Gaya tersebut yang menyebabkan perubahan pada lapisan batuan permukaan Bumi yang membentuk bentanglahan struktural.
 - Bentuklahan yang membentuk bentanglahan struktural yaitu:\
   **1. Kekar**
     - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
+    - Kekar dapat diklasifikasikan menjadi 2 tipe utama berdasarkan gaya pembentuknya, kekar gerus dan kekar tarik.
+      - Kekar gerus disebabkan oleh gaya kompresi. Kompresi disebabkan karena tekanan dari setidaknya dua arah misalnya pada bagian dalam lipatan batuan. Kekar gerus dicirikan oleh kumpulan retakan lurus yang saling memotong, disebut himpunan kekar konjugat.
+      - Kekar tarik disebabkan oleh gaya ektensi. Ekstensi disebabkan oleh tarikan dari setidaknya dua arah, misalnya akibat tarikan pada keseluruhan blok batuan, pendinginan batuan yang menyebabkan volume mengecil, atau hilangnya tekanan dari beban yang menimbun batuan (_exfoliation_). Berdasarkan geometrinya, kekar tarik dapat diklasifikasikan menjadi:
+        - Kekar tiang (_columnar joint_): kekar tiang terbentuk saat pembekuan batuan beku. Ketika lava membeku maka volumenya berkurang. Akibatnya, terbentuk gaya tarik dalam tubuh batuan yang membentuk bentukan seperti tiang (_column_).
+        - Kekar sistematik: kekar yang memiliki pola sistematis. Membentuk pecahan lurus yang jarak dan orientasinya seragam satu sama lain. Terjadi pada batuan yang mengalami gaya seragam, misalnya pada bagian luar lipatan. Kekar sistematik juga dapat disebabkan oleh penghilangan beban batuan, misalnya kekar lembar (_sheet joints_) yang terbentuk pada permukaan batuan beku intrusif.
+        - Kekar non-sistematik: tidak memiliki pola sistematis karena gaya yang membentuknya tidak seragam.
   
   **2. Patahan**
     - Patahan adalah pecahan pada batuan dan sudah mengalami pergeseran.
@@ -110,6 +117,8 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
     - Fasies distal: terbentuk dari material vulkanik yang sudah mengalami pelapukan, berupa batupasir dan batulanau. Terdapat pula tuf dari deposisi abu vulkanik. Material memiliki sortasi baik. Bentuklahan pada fasies ini dapat disebut dataran fluviovulkanik, karena terbentuk dari proses gabungan sungai dan vulkanik.
   - Baranco: bentuklahan lembah sungai dalam dan terjal pada kerucut gunungapi.
   - Medan lava: permukaan yang terbentuk dari pembekuan lava encer. Dapat ditemukan pada lereng kerucut gunungapi.
+  - Kerucut parasiter: kerucut gunungapi berukuran kecil yang terbetuk di lereng gunungapi utama. Kerucut parasiter dapat terbentuk akibat erupsi parasiter maupun erupsi eksentrik. Magma erupsi parasiter berasal dari dapur magma yang sama dengan kawah utama, sedangkan erupsi eksentrik memiliki magma yang berasal dari kedalaman yang lebih dalam.
+  - Sabuk mata air: titik-titik mata air terbentuk mengelilingi kerucut gunungapi pada tekuk lereng (_break of slope_). Terbentuk karena perubahan kemiringan perlapisan batuan yang mengandung air tanah. Sabuk mata air dapat di
 - Intrusif:
   - 
 
