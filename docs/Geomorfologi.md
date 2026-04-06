@@ -278,6 +278,44 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 
 # 5. Bentanglahan Solusional
 - Bentanglahan solusional dibentuk dari proses **pelarutan** batuan.
+
+## 5.1. Pembentukan Bentanglahan Solusional
+- Bentanglahan solusional, disebut juga bentanglahan karst, terbentuk di wilayah dengan ciri-ciri sebagai berikut:
+  1. Terbentuk dari batuan mudah larut (batugaram, batugamping kalsit, batugamping dolomit) yang tersingkap di permukaan (tertutup sedimen/tanah tipis), bersifat masif (membentuk satu massa batuan utuh yang luas dan dalam), berlapis, dan memiliki kekar.
+  2. Memiliki iklim dengan curah hujan tinggi.
+  3. Memiliki arus air tanah rendah.
+- Bentanglahan karst terbentuk dari proses karstifikasi, yaitu pelarutan mineral karbonat (kalsit dan dolomit) oleh air hujan dengan kandungan asam karbonat. Kandungan asam karbonat dalam air hujan berasal dari karbon dioksida di atmosfer yang terlarut.
+- Perkembangan bentanglahan solusional/karst terjadi sebagai berikut:
+  1. Batuan karbonat terbentuk dari deposisi mineral karbonat di dasar laut. Blok batuan tersebut terangkat ke atas permukaan air melalui proses tektonisme. Proses ini menyebabkan batuan memiliki banyak kekar.
+  2. Kekar pada batuan membentuk titik lemah, sehingga terjadi erosi pelarutan yang lebih intensif daripada wilayah sekitarnya. Proses ini membentuk variasi tinggian (bukit) dan rendahan (lembah) pada bentanglahan karst.
+  3. Air hujan masuk melalui saluran (konduit) yang terbentuk pada kekar. Sifat batuan yang berlapis menyebabkan air hujan tidak dapat menembus langsung melewati keseluruhan lapisan batuan. Akibatnya, terbentuk gua horizontal dan dapat membentuk sungai bawah tanah dalam gua tersebut.
+  4. Air hujan yang jatuh pada bentanglahan karst sebagian mengalami infiltrasi ke dalam tanah dan perkolasi ke dalam batuan. Batugamping tidak memiliki pori, sehingga bersifat kedap air (tidak memiliki porositas primer). Namun proses tektonisme menyebabkan terbentuknya banyak retakan (diaklas) pada batuan, sehingga batuan memiliki kemampuan menyimpan dan menyalurkan air (memiliki porositas sekunder).
+  5. Air yang tersimpan dalam retakan batuan perlahan mengalir ke bawah hingga mencapai rongga gua. Air tersebut menetes perlahan, membentuk ornamen gua ketika mineral yang terlarut mengalami presipitasi. Mekanisme ini juga yang menyebabkan sungai bawah tanah yang terbentuk dalam gua bentanglahan karst dapat mengalir sepanjang tahun.
+- Pola aliran sungai pada bentanglahan solusional disebut pola aliran multibasinal. Hal ini disebabkan karena sungai permukaan memiliki banyak (multi) lembah (basin). Sungai permukaan mengalir masuk dan keluar dari bawah tanah, membentuk lembah sungai yang terpisah.
+
+## 5.2. Bentuklahan dalam Bentanglahan Solusional
+- Bentuklahan dalam bentanglahan solusional dibagi menjadi dua tipe berdasarkan kedudukannya, eksokarst apabila berada di permukaan dan endokarst apabila berada di bawah permukaan tanah.
+- Bentuklahan eksokarst yang berukuran besar disebut bentuklahan karst mayor, sedangkan bentuklahan yang kecil disebut bentuklahan karst minor.
+  - Mayor:
+    1. Bukit karst
+    2. Kokpit karst
+    3. Ponor
+    4. Dolina, Uvala, Polje
+    5. Lembah Buta
+    6. Menara Karst
+    7. Mogote
+  - Minor:
+    1. Parit Karst
+    2. Karren/Lapies
+    3. Travertine
+- Bentuklahan endokarst merujuk pada ornamen gua (speleothem) yang berada di dalam gua karst, meliputi:
+  1. Stalaktit
+  2. Stalagmit
+  3. Pilar
+  4. Curtain
+  5. Flowstone
+  6. Travertine
+
 # 6. Bentanglahan Denudasional
 - Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
 # 7. Bentanglahan Aeolian
