@@ -32,10 +32,23 @@ sidebar:
     - Kekar adalah pecahan pada batuan dan belum mengalami pergeseran.
     - Kekar dapat diklasifikasikan menjadi 2 tipe utama berdasarkan gaya pembentuknya, kekar gerus dan kekar tarik.
       - Kekar gerus disebabkan oleh gaya kompresi. Kompresi disebabkan karena tekanan dari setidaknya dua arah misalnya pada bagian dalam lipatan batuan. Kekar gerus dicirikan oleh kumpulan retakan lurus yang saling memotong, disebut himpunan kekar konjugat.
+        <img width="275" height="183" alt="kekar gerus" src="https://github.com/user-attachments/assets/4ddbef0d-a4fb-4c9b-a80b-e1532d402fae" />
+
       - Kekar tarik disebabkan oleh gaya ektensi. Ekstensi disebabkan oleh tarikan dari setidaknya dua arah, misalnya akibat tarikan pada keseluruhan blok batuan, pendinginan batuan yang menyebabkan volume mengecil, atau hilangnya tekanan dari beban yang menimbun batuan (_exfoliation_). Berdasarkan geometrinya, kekar tarik dapat diklasifikasikan menjadi:
         - Kekar tiang (_columnar joint_): kekar tiang terbentuk saat pembekuan batuan beku. Ketika lava membeku maka volumenya berkurang. Akibatnya, terbentuk gaya tarik dalam tubuh batuan yang membentuk bentukan seperti tiang (_column_).
+          <img width="259" height="194" alt="kekar tiang" src="https://github.com/user-attachments/assets/d47da4b4-20e2-49f8-8e43-748f29321bf5" />
+
+          Kekar Kolom di daerah Perbukitan Selacau-Lagadar. (Foto oleh [Muhammad Malik Arrahiem, 2012](https://malikarrahiem.wordpress.com/2012/05/))
+
         - Kekar sistematik: kekar yang memiliki pola sistematis. Membentuk pecahan lurus yang jarak dan orientasinya seragam satu sama lain. Terjadi pada batuan yang mengalami gaya seragam, misalnya pada bagian luar lipatan. Kekar sistematik juga dapat disebabkan oleh penghilangan beban batuan, misalnya kekar lembar (_sheet joints_) yang terbentuk pada permukaan batuan beku intrusif.
+
+          <img width="259" height="194" alt="kekar lembar" src="https://github.com/user-attachments/assets/3fb7c8ce-6551-4b52-a7da-df2d457c3a5f" />
+          <img width="275" height="183" alt="pelapukan mengulitbawang" src="https://github.com/user-attachments/assets/3cb4c776-bf65-46a5-9c0c-77850c61ad4c" />
+
+          Kekar lembar (kiri) dan pelapukan mengulitbawang (kanan), contoh kekar akibat _exfoliation_.
+
         - Kekar non-sistematik: tidak memiliki pola sistematis karena gaya yang membentuknya tidak seragam.
+          <img width="241" height="209" alt="ilustrasi kekar sistematis dan non-sistematis" src="https://github.com/user-attachments/assets/2b03b7d6-d13f-4346-9e90-165ff91ca688" />
   
   **2. Patahan**
     - Patahan adalah pecahan pada batuan dan sudah mengalami pergeseran.
@@ -56,8 +69,11 @@ sidebar:
 
   **3. Lipatan**
     - Batuan dapat terlipat secara linear maupun non-linear.
-    - Lipatan linear ke atas disebut antiklin, sedangkan lipatan linear ke bawah disebut sinklin.
+    - Lipatan linear ke atas disebut antiklin, sedangkan lipatan linear ke bawah disebut sinklin. Batuan di permukaan dapat mengalami lipatan meskipun lapisan di bawahnya membentuk patahan karena sifatnya lebih lunak daripada batuan di bawahnya, lipatan linear tipe ini disebut monoklin.
     - Lipatan non-linear ke atas membentuk struktur kubah, sedangkan lipatan non-linear ke bawah membentuk struktur lembah. Lembah merupakan istilah yang secara umum digunakan untuk menunjukkan wilayah yang lebih rendah dari sekitarnya, dalam konteks lipatan non-linear, struktur lembah dicirikan oleh lapisan batuan yang membentuk pola konsentrik.
+      <img width="590" height="512" alt="Ilustrasi lipatan" src="https://github.com/user-attachments/assets/54c4a83e-807d-4b7d-80e8-f29082baf227" />
+
+      Ilustrasi menunjukkan lipatan. Pusat lipatan disebut sumbu lipatan, sedangkan batuan miring di sisinya disebut sayap lipatan. (a) sinklin, (b) antiklin , (c) monoklin, (d) lipatan antiklin menunjam (sumbu lipatan miring sehingga masuk ke dalam tanah), (e) kubah, (d) lembah lipatan. 
   
   **4. Dataran Tinggi (_Plateau_)**
     - Dataran tinggi dapat terbentuk dari blok batuan yang terangkat akibat gerakan tektonis lempeng yang menekan, menyebabkan sesar di tepi blok batuan.
@@ -66,6 +82,8 @@ sidebar:
 
   **5. Permukaan Miring**
     - Permukaan miring akibat tektonisme diklasifikasikan menjadi 2, _cuesta_ dan _hogback_. Pembeda dari kedua bentukan ini adalah nilai kemiringan lapisan batuan (dip), _cuesta_ memiliki kemiringan <30 &deg; dan _hogback_ memiliki kemiringan >30 &deg;.
+      <img width="368" height="137" alt="cuesta & hogback" src="https://github.com/user-attachments/assets/9181c58c-dd3c-4580-82ee-c9287aa2adb7" />
+
   
 # 2. Bentanglahan Vulkanik
 Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma ke permukaan Bumi. Proses ini disebut juga erupsi gunungapi.
@@ -101,6 +119,8 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - 'A'a: aliran lava kental pada lereng curam. Lava membentuk kerak permukaan lapilli dengan banyak rongga, disebut clinker.
   - Blocky: serupa dengan 'A'a namun keraknya membentuk material block. Material besar disebabkan karena lava memiliki kandungan silika tinggi.
   - Pillow: bentukan kerak menggembung karena pembekuan sangat cepat akibat erupsi bawah air (_submarine_).
+    <img width="712" height="429" alt="tipe aliran lava" src="https://github.com/user-attachments/assets/b55c34a9-7258-407e-aa5a-3556d3d061a9" />
+
 - Selain disebabkan karena keluarnya magma, erupsi gunungapi dapat pula terjadi akibat interaksi airtanah dengan magma yang membentuk tekanan uap air tinggi. Erupsi tipe ini disebut **erupsi freatik**.
 
 ## 2.3. Bentuklahan Bentanglahan Vulkanik
