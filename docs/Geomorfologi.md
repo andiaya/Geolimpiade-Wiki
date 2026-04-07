@@ -170,7 +170,6 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
 
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
-- 
 
 # 4. Bentanglahan Marine
 Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebelum memperdalam pemahaman mengenai bentanglahan marine, mari mengenal istilah pembagian wilayah kepesisiran terlebih dahulu.
@@ -335,21 +334,27 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
 - Bentanglahan aeolian terbentuk di wilayah dengan ciri-ciri sebagai berikut:
-  1. memiliki suplai material lepas-lepas yang melimpah.
-  2. memiliki angin dengan kekuatan yang cukup.
-  3. memiliki musim kering (kemarau) yang tegas (benar-benar kering tidak ada hujan).
-  4. memiliki sedikit vegetasi.
+  1. memiliki suplai material lepas-lepas yang melimpah. Material lepas-lepas inilah yang menyebabkan erosi ketika menabrak batuan-batuan di gurun dalam proses yang disebut abrasi. Material lepas-lepas juga dapat membentuk deposisi aeolian.
+  2. memiliki angin dengan kekuatan yang cukup, sehingga dapat membawa material.
+  3. memiliki musim kering (kemarau) yang tegas (benar-benar kering tidak ada hujan), sehingga material dapat terbawa angin.
+  4. memiliki sedikit vegetasi, sehingga tidak menghalangi gerakan angin, namun juga cukup banyak untuk menghasilkan variasi bentuklahan, misalnya sebagai pemicu deposisi gumuk pasir.
 - Bentuklahan dalam bentanglahan aeolian dapat diklasifikasikan menjadi 2, bentuklahan erosional dan bentuklahan deposisional.
 - Bentuklahan erosional:
-  a. Yardang
-  b. Zeugen / Mushroom Rock
-  c. Desert Pavement
-  d. Blowout / Deflation Hollows
-  e. Ventifacts
-- Bentuklahan deposisional:
-  a. Gumuk pasir (_Sand dunes_)
-  b. Loess
-  c. Ripple marks
+  a. Yardang: bukit batuan dengan lereng curam berbentuk memanjang sejajar dengan arah angin. Yardang terbentuk pada wilayah gurun dengan angin dominan satu arah, membawa banyak material, dan memiliki batuan dasar yang lunak seperti batuserpih atau batupasir.\
+  b. Zeugen / Mushroom Rock: Zeugen merupakan dataran tinggi sempit sedangkan batu jamur berbentuk seperti tiang. Keduanya terbentuk karena lapisan batuan yang berada di bagian bawah lebih mudah mengalami erosi daripada lapisan di bagian atas. Akibatnya, terbentuk bentukan tinggian sempit dengan erosi dominan di bagian bawah.\
+  c. Desert Pavement (hamada): permukaan dataran gurun yang terbentuk dari kerikil yang tersusun rapi. Susunan kerikil ini terbentuk karena material yang lebih halus tererosi dan terbawa angin ke tempat lain.\
+  d. Blowout / Deflation Hollows: lembah kecil yang terbentuk ketika angin berhembus kuat di permukaan gurun. Terbentuk pada material lepas-lepas, misal, pada padang pasir.\
+  e. Ventifacts: goresan pada permukaan batuan gurun yang terbentuk karena tabrakan (abrasi) oleh material yang terbawa angin.\
+  f. Sailing stone: batu besar yang bergerak di lembah gurun. Batuan yang terlapuk dari suatu tebing dapat bergerak jauh dari lokasi asalnya ketika terjadi hujan pada cuaca dengan suhu dingin. Lapisan es tipis yang terdapat pada permukaan genangan air di lembah gurun dapat berperan seperti layar kapal, mendorong batuan berukuran besar jauh dari lokasi asalnya dan meninggalkan jejak bergeser di lantai gurun.
+- Bentuklahan deposisional: 
+  a. Gumuk pasir (_Sand dunes_): merupakan bukit yang terbentuk dari pasir yang terbawa angin. Lokasi gumuk pasir selalu bergeser mengikuti angin. Berdasarkan geometrinya, gumuk pasir diklasifikasikan menjadi:
+    1. Linear / Longitudinal / Seif
+    2. Transversal
+    3. Parabolik
+    4. Barchan
+    5. Bintang
+  b. Loess: dataran deposisi material berukuran lanau/debu dan lempung/liat.\
+  c. Ripple marks: riak-riak kecil tegak lurus terhadap arah angin pada permukaan material lepas-lepas di gurun, terbentuk karena turbulensi aliran angin yang menyebabkan gerakan material melompat-lompat. Seperti gumuk pasir, ripple marks juga bergerak mengikuti arah angin.
   
 
 # 8. Bentanglahan Glasial
@@ -381,5 +386,6 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 
 # 9. Bentanglahan Organik
 - Bentanglahan organik dibentuk dari proses yang berkaitan dengan **makhluk hidup**.
+
 # 10. Bentanglahan Antropogenik
 - Bentanglahan antropogenik dibentuk dari proses yang berkaitan dengan **manusia**.
