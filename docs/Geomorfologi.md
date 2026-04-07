@@ -255,7 +255,7 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
   Delta diklasifikasikan oleh Galloway (1975) berdasarkan tenaga utama pembentuknya. Delta yang terbentuk karena tenaga sungai yang dominan memiliki bentuk memanjang ke laut dan memiliki banyak percabangan (distributary), dinamakan delta elongate. Delta yang terbentuk karena gelombang yang dominan tidak memiliki distributary, memiliki bentuk segitiga ke arah laut dengan titik terjauh pada muara sungai, dinamakan delta cuspate. Delta lobate terbentuk ketika tenaga sungai dan gelombang sama-sama dominan, membentuk delta yang membulat dengan banyak distributary. Delta yang terbentuk karena tenaga dominan pasang-surut memiliki banyak bentukan pulau kecil, dinamakan delta estuarine.
   
   3. Pesisir Vulkanik (_Volcanic Coast_)\
-  Pantai vulkanik terbentuk dari deposisi langsung material hasil letusan gunungapi.
+  Pesisir vulkanik terbentuk dari deposisi langsung material hasil letusan gunungapi.
   4. Pesisir Struktural (_Structurally-shaped Coast_)\
   Pesisir struktural terbentuk dari gawir sesar. Pesisir ini disebut memiliki tebing sejati (_true cliff_), artinya, bentukan tebing aktif mengalami erosi.
 
@@ -271,21 +271,28 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
   Pada tanjung (_headland_), gelombang dapat bergerak datang dari arah samping karena adanya refraksi gelombang. Dasar laut di depan tanjung memiliki kedalaman (batimetri) yang lebih dangkal daripada wilayah sekitarnya, sehingga gelombang mengalami pelambatan lebih dahulu. Akibatnya, energi gelombang terkonsentrasi ke arah tanjung yang memiliki cepat rambat gelombang lebih rendah. Sementara itu, wilayah teluk mengalami energi gelombang yang lebih kecil.
     <img width="964" height="575" alt="Ilustrasi headland erosion landform" src="https://github.com/user-attachments/assets/940ec37f-eabe-4a12-aff9-ec22a4a840d1" />
 
-  Erosi pada bagian samping tanjung dapat membentuk bentukan khas berupa gua laut (_sea cave_), yang dapat membesar dan menembus sisi lain tanjung sehingga membentuk plengkung atau jembatan alami (_natural arch_). Erosi lanjut pada dasar lereng akan menyebabkan bagian atas plengkung tidak stabil, sehingga membentuk daratan terpisah yang disebut tonggak laut (_sea stack_), yang ketika mengalami erosi lebih lanjut akan membentuk _sea stump_.
+  Kekuatan gelombang dapat menyebabkan retakan pada batuan tebing mengalami perbesaran ukuran, sehingga membentuk gua laut (_sea cave_), yang dapat membesar dan menembus sisi lain tanjung sehingga membentuk plengkung atau jembatan alami (_natural arch_). Erosi lanjut pada dasar lereng akan menyebabkan bagian atas plengkung tidak stabil, sehingga membentuk daratan terpisah yang disebut tonggak laut (_sea stack_), yang ketika mengalami erosi lebih lanjut akan membentuk _sea stump_.
   
    2. Pesisir Deposisi Lautan (_Marine Deposition Coast_)\
   Pesisir deposisi laut terbentuk dari material yang berasal dari laut. Pesisir yang sedimennya berasal dari laut umumnya dicirikan dengan asal biogenik (pecahan karang dan cangkang), kadar mineral kalsit yang lebih tinggi, atau tidak adanya sumber material dalam jumlah besar dari darat (muara sungai yang memiliki _longshore current_). Pesisir tipe ini membentuk bentuklahan sebagai berikut:\
   - Gisik\
-  Gisik dari deposisi material 
-  - Bura (_spit_) dan tombolo
-  Laguna
-  Pulau pelindung
+    Gisik dari deposisi material yang berasal dari laut. Umumnya dicirikan dari materialnya yang berawarna putih, karena terbentuk dari mineral kalsit yang berasal dari terumbu karang dan cangkang hewan laut.
+  - Bura (_spit_) dan tombolo\
+    Bura atau spit merupakan bentukan gisik memanjang ke arah laut. Gisik ini dapat terbentuk ketika terdapat arus susur pantai pada pantai yang berbelok. Arus susur pantai tetap mengalir seperti arahnya semula, tidak mengikuti belokan pantai, sehingga material yang terbawa terdeposisi memanjang ke arah laut. Tombolo merupakan spit yang menghubungkan daratan utama dengan pulau kecil.
+  - Pulau pelindung\
+    Merupakan kenampakan pulau memanjang yang terbentuk dari material gisik. Pulau pelindung dapat terbentuk dari deposisi arus susur pantai yang tidak mengalir menempel pada garis pantai, misalnya di bagian depan suatu teluk.
+  - Laguna\
+    Merupakan badan air asin atau payau (campuran antara air laut asin dan air tawar) yang terpotong dari lautan, misalnya oleh pulau pelindung atau spit.
  
    3. Pesisir yang Dibentuk oleh Organisme (_Coast Built By Organism_)\
   Organisme membentuk bentuklahan pesisir khas sebagai berikut:\
-  _Fringing reef_
-  _Barrier reef_
-  _Atoll_
+  - _Fringing reef_\
+    Merupakan bentuklahan batu karang yang terbentuk dari proses terumbu karang yang tumbuh di tepian dan menempel pada daratan. Terumbu karang terbentuk dari simbiosis polip dan alga. Hewan polip membentuk cangkang dari mineral kalsit dan memberikan perlindungan terhadap alga. Alga melakukan fotosintesis dan menyediakan makanan untuk polip. _Fringing reef_ tumbuh di perairan dangkal pada tepian daratan. Kemampuan tumbuhnya dipengaruhi oleh suhu perairan, sedimen dan arus laut. Terumbu karang hanya dapat tumbuh di perairan hangat di sekitar ekuator. Air laut yang mengandung banyak sedimen mengurangi jumlah sinar matahari yang mencapai dasar laut. Akibatnya, menghambat proses fotosintesis alga dan menghambat perkembangan terumbu karang. Arus laut berpengaruh pada transportasi sedimen dan distribusi air laut hangat dan air laut dingin.
+  - _Barrier reef_\
+    Merupakan perkembangan dari bentuklahan _fringing reef_ berupa batu karang yang terpisah dari daratan utama. Ketika daratan mengalami subsidensi (penurunan ketinggian permukaan daratan) akibat pengaruh tenaga endogen, mengalami erosi, atau ketika permukaan air laut mengalami kenaikan, terumbu karang dapat terus bertumbuh ke atas untuk memperoleh cahaya matahari, sedangkan permukaan daratan terus tenggelam. Akibatnya, bentukan batu karang yang terbentuk terpisah dari daratan utama.
+  - _Atoll_\
+    Bentuk lanjut dari evolusi bentuklahan batu karang. Ketika daratan utama, umumnya pulau vulkanik, sudah mengalami erosi dan subsidensi sehingga sepenuhnya tenggelam ke dasar laut, maka bentuklahan yang tersisa hanyalah pulau karang berbentuk lingkaran yang disebut atoll.
+    
     <img width="1125" height="1795" alt="bentuklahan terumbu" src="https://github.com/user-attachments/assets/a2856863-d0ca-415b-b5fc-bde44b78dbfc" />
 
 # 5. Bentanglahan Solusional
@@ -332,6 +339,23 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 - Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
+- Bentanglahan aeolian terbentuk di wilayah dengan ciri-ciri sebagai berikut:
+  1. memiliki suplai material lepas-lepas yang melimpah.
+  2. memiliki angin dengan kekuatan yang cukup.
+  3. memiliki musim kering (kemarau) yang tegas (benar-benar kering tidak ada hujan).
+  4. memiliki sedikit vegetasi.
+- Bentuklahan dalam bentanglahan aeolian dapat diklasifikasikan menjadi 2, bentuklahan erosional dan bentuklahan deposisional.
+- Bentuklahan erosional:
+  a. Yardang
+  b. Zeugen / Mushroom Rock
+  c. Desert Pavement
+  d. Blowout / Deflation Hollows
+  e. Ventifacts
+- Bentuklahan deposisional:
+  a. Gumuk pasir (_Sand dunes_)
+  b. Loess
+  c. Ripple marks
+  
 
 # 8. Bentanglahan Glasial
 - Bentanglahan glasial dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **es** (gletser).
