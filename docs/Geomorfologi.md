@@ -352,7 +352,7 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
     2. Transversal
     3. Parabolik
     4. Barchan
-    5. Bintang
+    5. Bintang\
   b. Loess: dataran deposisi material berukuran lanau/debu dan lempung/liat.\
   c. Ripple marks: riak-riak kecil tegak lurus terhadap arah angin pada permukaan material lepas-lepas di gurun, terbentuk karena turbulensi aliran angin yang menyebabkan gerakan material melompat-lompat. Seperti gumuk pasir, ripple marks juga bergerak mengikuti arah angin.
   
