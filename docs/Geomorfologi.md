@@ -330,6 +330,37 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 
 # 6. Bentanglahan Denudasional
 - Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
+- Bentanglahan denudasional merupakan ubahan dari bentanglahan lain sehingga bentukan akibat gaya pembentukan awalnya sudah tidak nampak.
+
+## 6.1. Proses Bentanglahan Denudasional
+- Pelapukan adalah kerusakan pada struktur batuan tanpa adanya perpundahan material. Pelapukan dapat terjadi secara mekanis, kimiawi, maupun biologis. Pelapukan mekanis disebabkan gaya tekanan atau tarikan pada batuan atau pelarutan mineral pada air. Pelapukan kimiawi terjadi karena reaksi mineral batuan dengan unsur lain, misalnya oksidasi (reaksi unsur besi dengan oksigen sehingga membentuk karat). Pelapukan biologis dapat terjadi secara mekanis, misal akar tanaman memecah batuan atau hewan menyebabkan pecahan pada batuan, maupun secara kimiawi, misal tanaman melepaskan zat asam pada tanah.
+- Erosi adalah kerusakan struktur batuan disertai perpindahan material. Erosi dapat disebabkan langsung oleh agen erosi, misalnya air membawa material batuan. Selain itu, material yang terbawa oleh agen erosi dapat menyebabkan kerusakan pada batuan lain ketika menabrak, proses ini disebut abrasi. Air yang bergerak dapat memerangkan udara dalam retakan batuan dan menyebabkan tekanan tinggi yang memperlebar retakan tersebut, proses ini disebut _hydraulic action_. Air dapat masuk ke dalam retakan batuan dan ketika membeku, air akan bertambah volumenya dan mencongkel batuan terasebut, proses ini disebut _ice wedging_.
+- Gerakan massa (_mass movement_) merupakan gerakan material menuruni lereng akibat pengaruh gaya gravitasi. Proses ini disebabkan karena gaya gravitasi, namun dapat dipicu oleh berkurangnya stabilitas material karena pemotongan lereng (lereng dipotong sehingga meningkat kemiringannya), pembebanan lereng, maupun peningkatan kadar air dalam batuan. Gerakan massa diklasifikasikan berdasarkan kandungan air, tipe gerakan, dan kecepatan gerakannya. Klasifikasi tersebut yaitu:
+<img width="259" height="194" alt="Segitiga Klasifikasi Gerakan Massa" src="https://github.com/user-attachments/assets/4a6242e9-e3a1-4a6e-80fc-770b89610aab" />\
+Segitiga klasifikasi gerakan massa menunjukkan klasifikasi gerakan massa berdasarkan indikator kandungan air dalam material, tipe gerakan, dan kecepatan geraknya. Tipe gerakan heave berarti gerakan lambat dan sedikit menuruni lereng, sedangkan slide berarti gerakan cepat dan jauh menuruni lereng.
+  1. Soil creep (rambatan tanah): gerakan lambat material tanah pada lereng. Gerakan soil creep sangat lambat sehingga tidak dapat diamati langsung. Pengamatan soil creep dilakukan secara tidak langsung, misalnya melihat kemiringan atau pergeseran struktur maupun kerusakan pada bangunan.
+  2. Talus creep (rambatan talus): talus adalah material berbagai ukuran yang berada di lereng bawah suatu tebing. Material talus memiliki sortasi buruk, artinya material berukuran besar hingga kecil bercampur, tidak membentuk susunan lapisan tertentu. Talus umumnya terbentuk dari longsor pada lereng/tebing di atasnya. Talus memiliki porositas yang sangat tinggi sehingga materialnya lebih kering daripada tanah. Rambatan talus memiliki gerakan lebih cepat daripada rambatan tanah.
+  3. Rockslide (longsor batu): material kering berupa pecahan batuan atau blok batuan meluncur menuruni lereng dengan kecepatan tinggi.
+  4. Landslide (longsor tanah): material tanah lembap hingga basah bergerak dengan kecepatan tinggi menuruni lereng.
+  5. Solifluksi: gerakan badan tanah cukup cepat karena keberadaan kandungan air tanah yang tinggi pada tanah. Tanah membentuk bentukan seperti gelambir di permukaan.
+  6. Earthflow: gerakan aliran tanah dengan kandungan air tinggi.
+  7. Mudflow: gerakan aliran lumpur dengan kandungan air sangat tinggi, banjir bandang dengan kandungan tanah tinggi.
+- Terdapat pula variasi pada material, misalnya mudflow dan debris flow memiliki kadar air sangat tinggi, namun material yang terbawa mudflow adalah tanah, sedangkan material yang terbawa debris flow adalah pecahan-pecahan batuan dan vegetasi.
+- Variasi pada tipe gerakan material juga dapat digunakan untuk mengklasifikasikan gerakan massa, yaitu:
+  1. fall: material jatuh secara vertikal.
+  2. topple: material ambruk.
+  3. slide: material meluncur pada satu bidang pada lereng.
+  4. slump: material meluncur pada lereng bagian atas dan berbelok serta bergerak secara rotasional (memutar) di bagian bawah lereng.
+  5. flow: material mengalir dengan kandungan air yang tinggi.
+  <img width="550" height="731" alt="klasifikasi gerakan massa detail" src="https://github.com/user-attachments/assets/5f70448c-2dae-4116-a517-b043b2aae134" />
+
+## 6.2. Bentuklahan dalam Bentanglahan Denudasional
+- Bentuklahan dalam bentanglahan denudasional meliputi:
+  1. Bentukan hasil erosi. Erosi membentuk bentukan yang berkembang sebagai berikut:
+     - Pedestal: terbentuk akibat adanya permukaan tanah yang tertutup oleh batuan atau keriki. Kerikil melindungi material lepas-lepas pada permukaan tanah dari erosi percik, yaitu erosi yang terjadi ke
+     - Erosi alur
+     - Erosi parit
+  3. 
 
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
@@ -340,20 +371,30 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
   4. memiliki sedikit vegetasi, sehingga tidak menghalangi gerakan angin, namun juga cukup banyak untuk menghasilkan variasi bentuklahan, misalnya sebagai pemicu deposisi gumuk pasir.
 - Bentuklahan dalam bentanglahan aeolian dapat diklasifikasikan menjadi 2, bentuklahan erosional dan bentuklahan deposisional.
 - Bentuklahan erosional:
-  a. Yardang: bukit batuan dengan lereng curam berbentuk memanjang sejajar dengan arah angin. Yardang terbentuk pada wilayah gurun dengan angin dominan satu arah, membawa banyak material, dan memiliki batuan dasar yang lunak seperti batuserpih atau batupasir.\
-  b. Zeugen / Mushroom Rock: Zeugen merupakan dataran tinggi sempit sedangkan batu jamur berbentuk seperti tiang. Keduanya terbentuk karena lapisan batuan yang berada di bagian bawah lebih mudah mengalami erosi daripada lapisan di bagian atas. Akibatnya, terbentuk bentukan tinggian sempit dengan erosi dominan di bagian bawah.\
-  c. Desert Pavement (hamada): permukaan dataran gurun yang terbentuk dari kerikil yang tersusun rapi. Susunan kerikil ini terbentuk karena material yang lebih halus tererosi dan terbawa angin ke tempat lain.\
-  d. Blowout / Deflation Hollows: lembah kecil yang terbentuk ketika angin berhembus kuat di permukaan gurun. Terbentuk pada material lepas-lepas, misal, pada padang pasir.\
-  e. Ventifacts: goresan pada permukaan batuan gurun yang terbentuk karena tabrakan (abrasi) oleh material yang terbawa angin.\
+  
+  a. Yardang: bukit batuan dengan lereng curam berbentuk memanjang sejajar dengan arah angin. Yardang terbentuk pada wilayah gurun dengan angin dominan satu arah, membawa banyak material, dan memiliki batuan dasar yang lunak seperti batuserpih atau batupasir.
+  
+  b. Zeugen / Mushroom Rock: Zeugen merupakan dataran tinggi sempit sedangkan batu jamur berbentuk seperti tiang. Keduanya terbentuk karena lapisan batuan yang berada di bagian bawah lebih mudah mengalami erosi daripada lapisan di bagian atas. Akibatnya, terbentuk bentukan tinggian sempit dengan erosi dominan di bagian bawah.
+  
+  c. Desert Pavement (hamada): permukaan dataran gurun yang terbentuk dari kerikil yang tersusun rapi. Susunan kerikil ini terbentuk karena material yang lebih halus tererosi dan terbawa angin ke tempat lain.
+  
+  d. Blowout / Deflation Hollows: lembah kecil yang terbentuk ketika angin berhembus kuat di permukaan gurun. Terbentuk pada material lepas-lepas, misal, pada padang pasir.
+  
+  e. Ventifacts: goresan pada permukaan batuan gurun yang terbentuk karena tabrakan (abrasi) oleh material yang terbawa angin.
+  
   f. Sailing stone: batu besar yang bergerak di lembah gurun. Batuan yang terlapuk dari suatu tebing dapat bergerak jauh dari lokasi asalnya ketika terjadi hujan pada cuaca dengan suhu dingin. Lapisan es tipis yang terdapat pada permukaan genangan air di lembah gurun dapat berperan seperti layar kapal, mendorong batuan berukuran besar jauh dari lokasi asalnya dan meninggalkan jejak bergeser di lantai gurun.
-- Bentuklahan deposisional: 
+  
+- Bentuklahan deposisional:
+  
   a. Gumuk pasir (_Sand dunes_): merupakan bukit yang terbentuk dari pasir yang terbawa angin. Lokasi gumuk pasir selalu bergeser mengikuti angin. Berdasarkan geometrinya, gumuk pasir diklasifikasikan menjadi:
-    1. Linear / Longitudinal / Seif
-    2. Transversal
-    3. Parabolik
-    4. Barchan
-    5. Bintang\
-  b. Loess: dataran deposisi material berukuran lanau/debu dan lempung/liat.\
+    1. Linear / Longitudinal / Seif: bukit pasir memanjang searah dengan arah angin. Gumuk seif memiliki bentuk memanjang dan sedikit berkelok.
+    2. Transversal: bukit pasir memanjang yang berbentuk tegak lurus terhadap arah angin.
+    3. Parabolik: bukit pasir berbentuk cekung (lentikular) dengan sayap (tepi memanjang) menuju arah angin.
+    4. Barchan: bukit pasir lentikular dengan sayap membelakangi arah angin.
+    5. Bintang: bukit pasir dengan banyak sayap karena terbentuk dari angin dengan arah yang beragam.
+  
+  b. Loess: dataran deposisi material berukuran lanau/debu dan lempung/liat.
+  
   c. Ripple marks: riak-riak kecil tegak lurus terhadap arah angin pada permukaan material lepas-lepas di gurun, terbentuk karena turbulensi aliran angin yang menyebabkan gerakan material melompat-lompat. Seperti gumuk pasir, ripple marks juga bergerak mengikuti arah angin.
   
 
