@@ -337,6 +337,7 @@ Pesisir primer terbentuk karena tenaga dari daratan. Pesisir ini disebut juga pe
 
 # 6. Bentanglahan Denudasional
 - Bentanglahan denudasional dibentuk dari proses **pelapukan, erosi, dan gerakan massa yang intensif**.
+
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.
 - Bentanglahan aeolian terbentuk di wilayah dengan ciri-ciri sebagai berikut:
