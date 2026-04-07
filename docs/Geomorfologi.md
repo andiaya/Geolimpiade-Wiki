@@ -361,9 +361,11 @@ Segitiga klasifikasi gerakan massa menunjukkan klasifikasi gerakan massa berdasa
      - Erosi alur: Lembaran aliran air saat hujan lama kelamaan akan mengelompok pada satu alur kecil berukuran kurang dari 20 cm, dinamakan alur erosi (_erosion rill_).
      - Erosi parit: Alur-alur erosi bergabung menjadi aliran yang lebih besar, hingga kedalaman puluhan meter, disebut parit erosi (_erosion gully_). Parit erosi dapat berupa lembah-lembah sungai di bagian hulu yang aliran airnya bersifat efemeral ataupun musiman.
   2. Inselberg - Pediment - Bajada - Playa: Bentukan sisa denudasi dataran tinggi, perbukitan, dan pegunungan pada iklim kering disebut juga dengan istilah inselberg. Tebing di tepiannya mengalami gerakan massa yang terus menerus berlangsung, menyebabkan terbentuknya akumulasi material hasil gerakan massa di kaki lereng tebingnya. Material ini terbagi menjadi 2 lereng, lereng atas dengan material yang lebih kasar, disebut pediment. Gabungan banyak pediment dari inselberg yang berdekatan disebut pediplain. Lereng bawah dengan material lebih halus, jika dilihat dari atas berbentuk kipas, terbentuk karena deposisi material yang terbawa aliran air dari pediment, lereng bawah ini disebut Bajada. Dataran yang berada di antara inselberg, umumnya membentuk danau garam, disebut playa.
+
      <img width="609" height="408" alt="denudasi iklim kering" src="https://github.com/user-attachments/assets/b7781805-7abc-479b-aa73-ac2b82db6267" />
 
   3. Peneplain: dataran tinggi, perbukitan, dan pegunungan pada iklim basah akan mengalami erosi yang didominasi proses sungai. Lama kelamaan, perbedaan tinggian dan rendahan (amplitudo topografi) pada permukaan Bumi tersebut akan berkurang sehingga membentuk dataran. Dataran ini disebut peneplain.
+
      <img width="720" height="351" alt="image" src="https://github.com/user-attachments/assets/4ff86259-3114-4bcb-9ddf-af3a13966ed4" />
 
   4. Tanah rusak (_badland_): merujuk pada topografi yang memiliki banyak kenampakan hasil proses denudasi (longsor, parit, lembah sungai) yang saling berdekatan satu sama lain dan memiliki pola yang sangat rapat. Bentuklahan ini meemiliki lapisan tanah permukaan yang tipis atau tidak ada.
