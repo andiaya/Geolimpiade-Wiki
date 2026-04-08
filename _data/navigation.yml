@@ -11,5 +11,9 @@ docs:
     url: /docs/Geologi
   - title: "5.b. Geomorfologi"
     url: /docs/Geomorfologi
+  - title: "6. Geografi Pertanian dan Permasalahan Pangan"
+    url: /docs/Pertanian
+  - title: "7. Kependudukan dan Dinamika Penduduk"
+    url: /docs/Kependudukan
   - title: "9. Geografi Pembangunan dan Ketimpangan Spasial"
     url: /docs/Pembangunan
