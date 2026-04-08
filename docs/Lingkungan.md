@@ -9,8 +9,18 @@ sidebar:
 ---
 # 1. Sistem Ekologi
 ## 1.1. Hierarki Organisasi Makhluk Hidup
+
+<img width="618" height="800" alt="Hierarki Organisasi Makhluk Hidup" src="https://github.com/user-attachments/assets/d21f908e-f400-4474-a6f8-03809b586caa" />
+
 ## 1.2. Bioma dan Ekozone
+
+<img width="602" height="408" alt="Bioma dan Ekozone" src="https://github.com/user-attachments/assets/8fcf4a7a-11a2-4945-811a-64b01ccea262" />
+
 ## 1.3. Hubungan Antar Makhluk Hidup
+
+<img width="1107" height="779" alt="Interaksi Antar Makhluk Hidup" src="https://github.com/user-attachments/assets/53d1ecca-1cb2-4ff1-b663-0173723e4e82" />
+
+<img width="2506" height="1138" alt="Niche" src="https://github.com/user-attachments/assets/f8de256b-1676-4bc9-9130-933f6c62e119" />
 
 # 2. Siklus Biogeokimia
 ## 2.1. Siklus Air
@@ -41,6 +51,17 @@ sidebar:
 
 # 4. Suksesi
 
+<img width="640" height="360" alt="Suksesi" src="https://github.com/user-attachments/assets/936e0a1c-ea95-456e-b515-025e4637ebe1" />
+
 # 5. Pembangunan Berkelanjutan
 ## 5.1. Konsep Pembangunan Berkelanjutan
+
+<img width="850" height="646" alt="Segitiga Pembangunan Berkelanjutan" src="https://github.com/user-attachments/assets/66a744af-8589-4c4a-81f3-7b15bbd94fc2" />
+
 ## 5.2. Jasa Lingkungan
+
+<img width="717" height="874" alt="image" src="https://github.com/user-attachments/assets/89c96e0a-1f2e-49ab-8469-8471812a73d9" />
+
+<img width="717" height="539" alt="image" src="https://github.com/user-attachments/assets/1bcb2d59-a69c-4c9c-be64-a28fa12f0ba0" />
+
+
