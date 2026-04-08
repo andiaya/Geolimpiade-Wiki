@@ -49,58 +49,58 @@ Pertanian adalah kegiatan budidaya makhluk hidup untuk memenuhi kebutuhan manusi
 - Teori titik awal domestikasi tanaman dikembangkan oleh Nikolai Vavilov. Peta persebaran pusat awal domestikasi Vavilov yaitu sebagai berikut:
   <img width="960" height="589" alt="Pusat Awal Domestikasi" src="https://github.com/user-attachments/assets/6138cdcf-468b-491e-84d0-4e7089e91ef0" />
 
-### 2.2.1. Amerika Tengah
-- Serealia dan Kacang-kacangan: jagung, kacang merah, kacang lima, kacang tepari, kacang kratok, bayam biji
-- Tanaman Labu-labuan: labu malabar, labu musim dingin, labu siam
-- Tanaman Serat: kapas upland, kapas bourbon, henequen (sisal)
-- Lain-lain: ubi jalar, ararut, cabai, pepaya, jambu biji, jambu mete, ceri hitam liar, kaktus cochineal, tomat ceri, kakao
-
-### 2.2.2. Amerika Selatan
-- Serealia dan Kacang-kacangan: jagung berpati, kacang lima, kacang merah, kacang tanah, kacang Brazil
-- Umbi-umbian: canna, kentang, singkong
-- Tanaman Sayuran: pepino, tomat, ground cherry, labu, cabai
-- Tanaman Serat: kapas Mesir
-- Buah-buahan dan Lain-lain: kakao, bunga passion, jambu biji, heilborn, pohon kina, tembakau, sirsak, koka, stroberi Chili, pohon karet, nanas, jambu mete, Erva-mate, markisa ungu.
-
-### 2.2.3. Mediterania
-- Serealia dan Kacang-kacangan: gandum durum, emmer, gandum Polandia, spelt, oat Mediterania, oat pasir, rumput kenari, kacang rumput, kacang polong, lupin
-- Tanaman Pakan Ternak: semanggi Mesir, semanggi putih, semanggi merah, serradella
-- Tanaman Minyak dan Serat: rami, lobak, sesawi hitam, zaitun
-- Sayuran: bit kebun, kubis, lobak, selada, asparagus, seledri, sawi putih, parsnip, rhubarb
-- Tanaman Minyak Atsiri dan Rempah: jintan, adas manis, timi, pepermin, sage, hop
-
-### 2.2.4. Timur Tengah (Termasuk Bulan Sabit Subur/_Fertile Cresent_)
-- Serealia dan Kacang-kacangan: gandum einkorn, gandum durum, gandum poulard, gandum biasa, gandum oriental, gandum Persia, jelai dua baris, gandum hitam, oat Mediterania, oat biasa, lentil, lupin
-- Tanaman Pakan Ternak: alfalfa, semanggi Persia, fenugreek, vetch, vetch berbulu
-- Buah-buahan: ara, delima, apel, pir, quince, ceri, hawthorn
-
-### 2.2.5. Abisinia (Ethiopia dan Sekitarnya)
-- Serealia dan Kacang-kacangan: gandum keras Abisinia, gandum poulard, emmer, gandum Polandia, jelai, sorgum biji-bijian, milet mutiara, milet Afrika, kacang tunggak, rami, teff
-- Lain-lain: wijen, jarak, selada air, kopi, okra, mur, nila, enset
-
-### 2.2.6. Asia Tengah
-- Serealia dan Kacang-kacangan: gandum biasa, gandum klub, gandum shot, kacang polong, lentil, kacang babi, kacang arab, kacang hijau, sesawi, rami, wijen
-- Tanaman Serat: rami, kapas
-- Sayuran: bawang merah, bawang putih, bayam, wortel
-- Buah-buahan: pistachio, pir, almond, anggur, apel
-
-### 2.2.7. India
-- Serealia dan Kacang-kacangan: kacang arab, kacang gude, kacang urd, kacang hijau, kacang padi, kacang tunggak
-- Sayuran dan Umbi-umbian: terong, mentimun, lobak, talas, ubi
-- Buah-buahan: mangga, jeruk keprok, sitrun, asam jawa
-- Tanaman Gula, Minyak, dan Serat: tebu, kelapa, wijen, kesumba, kapas pohon, kapas oriental, yute, crotalaria, kenaf
-- Rempah, Stimulan, Pewarna, dan Lain-lain: rami, lada hitam, gum arab, cendana, nila, pohon kayu manis, croton, bambu, kunyit
-
-#### 2.2.7.a. Siam-Malaya-Jawa
-- Serealia dan Kacang-kacangan: jali, kacang beludru
-- Buah-buahan: jeruk bali, pisang, sukun, manggis
-- Tanaman Minyak, Gula, Rempah, dan Serat: kemiri, kelapa, tebu, cengkeh, pala, lada hitam, serat manila
-
-### 2.2.8. Tiongkok
-- Serealia dan Kacang-kacangan: padi, milet sapu, milet Italia, milet Jepang, sorgum, soba, jelai tanpa sekam, kedelai, kacang azuki, kacang beludru
-- Akar, Umbi, dan Sayuran: ubi Cina, lobak, sawi putih, bawang merah, mentimun
-- Buah-buahan dan Kacang-kacangan: pir, apel Cina, persik, aprikot, ceri, kenari, leci, jeruk
-- Tanaman Gula, Obat, dan Serat: tebu, opium poppy, ginseng, kamper, rami
+  ### 2.2.1. Amerika Tengah
+  - Serealia dan Kacang-kacangan: jagung, kacang merah, kacang lima, kacang tepari, kacang kratok, bayam biji
+  - Tanaman Labu-labuan: labu malabar, labu musim dingin, labu siam
+  - Tanaman Serat: kapas upland, kapas bourbon, henequen (sisal)
+  - Lain-lain: ubi jalar, ararut, cabai, pepaya, jambu biji, jambu mete, ceri hitam liar, kaktus cochineal, tomat ceri, kakao
+  
+  ### 2.2.2. Amerika Selatan
+  - Serealia dan Kacang-kacangan: jagung berpati, kacang lima, kacang merah, kacang tanah, kacang Brazil
+  - Umbi-umbian: canna, kentang, singkong
+  - Tanaman Sayuran: pepino, tomat, ground cherry, labu, cabai
+  - Tanaman Serat: kapas Mesir
+  - Buah-buahan dan Lain-lain: kakao, bunga passion, jambu biji, heilborn, pohon kina, tembakau, sirsak, koka, stroberi Chili, pohon karet, nanas, jambu mete, Erva-mate, markisa ungu.
+  
+  ### 2.2.3. Mediterania
+  - Serealia dan Kacang-kacangan: gandum durum, emmer, gandum Polandia, spelt, oat Mediterania, oat pasir, rumput kenari, kacang rumput, kacang polong, lupin
+  - Tanaman Pakan Ternak: semanggi Mesir, semanggi putih, semanggi merah, serradella
+  - Tanaman Minyak dan Serat: rami, lobak, sesawi hitam, zaitun
+  - Sayuran: bit kebun, kubis, lobak, selada, asparagus, seledri, sawi putih, parsnip, rhubarb
+  - Tanaman Minyak Atsiri dan Rempah: jintan, adas manis, timi, pepermin, sage, hop
+  
+  ### 2.2.4. Timur Tengah (Termasuk Bulan Sabit Subur/_Fertile Cresent_)
+  - Serealia dan Kacang-kacangan: gandum einkorn, gandum durum, gandum poulard, gandum biasa, gandum oriental, gandum Persia, jelai dua baris, gandum hitam, oat Mediterania, oat biasa, lentil, lupin
+  - Tanaman Pakan Ternak: alfalfa, semanggi Persia, fenugreek, vetch, vetch berbulu
+  - Buah-buahan: ara, delima, apel, pir, quince, ceri, hawthorn
+  
+  ### 2.2.5. Abisinia (Ethiopia dan Sekitarnya)
+  - Serealia dan Kacang-kacangan: gandum keras Abisinia, gandum poulard, emmer, gandum Polandia, jelai, sorgum biji-bijian, milet mutiara, milet Afrika, kacang tunggak, rami, teff
+  - Lain-lain: wijen, jarak, selada air, kopi, okra, mur, nila, enset
+  
+  ### 2.2.6. Asia Tengah
+  - Serealia dan Kacang-kacangan: gandum biasa, gandum klub, gandum shot, kacang polong, lentil, kacang babi, kacang arab, kacang hijau, sesawi, rami, wijen
+  - Tanaman Serat: rami, kapas
+  - Sayuran: bawang merah, bawang putih, bayam, wortel
+  - Buah-buahan: pistachio, pir, almond, anggur, apel
+  
+  ### 2.2.7. India
+  - Serealia dan Kacang-kacangan: kacang arab, kacang gude, kacang urd, kacang hijau, kacang padi, kacang tunggak
+  - Sayuran dan Umbi-umbian: terong, mentimun, lobak, talas, ubi
+  - Buah-buahan: mangga, jeruk keprok, sitrun, asam jawa
+  - Tanaman Gula, Minyak, dan Serat: tebu, kelapa, wijen, kesumba, kapas pohon, kapas oriental, yute, crotalaria, kenaf
+  - Rempah, Stimulan, Pewarna, dan Lain-lain: rami, lada hitam, gum arab, cendana, nila, pohon kayu manis, croton, bambu, kunyit
+  
+  #### 2.2.7.a. Siam-Malaya-Jawa
+  - Serealia dan Kacang-kacangan: jali, kacang beludru
+  - Buah-buahan: jeruk bali, pisang, sukun, manggis
+  - Tanaman Minyak, Gula, Rempah, dan Serat: kemiri, kelapa, tebu, cengkeh, pala, lada hitam, serat manila
+  
+  ### 2.2.8. Tiongkok
+  - Serealia dan Kacang-kacangan: padi, milet sapu, milet Italia, milet Jepang, sorgum, soba, jelai tanpa sekam, kedelai, kacang azuki, kacang beludru
+  - Akar, Umbi, dan Sayuran: ubi Cina, lobak, sawi putih, bawang merah, mentimun
+  - Buah-buahan dan Kacang-kacangan: pir, apel Cina, persik, aprikot, ceri, kenari, leci, jeruk
+  - Tanaman Gula, Obat, dan Serat: tebu, opium poppy, ginseng, kamper, rami
 
 - Pusat domestikasi hewan di antaranya:
   - Asia Barat Daya (Bulan Sabit Subur) (11.000 - 9.000 tahun yang lalu): Kambing, Domba, Sapi Eropa, Babi, Kucing
