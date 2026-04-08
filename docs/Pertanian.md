@@ -110,6 +110,6 @@ Pertanian adalah kegiatan budidaya makhluk hidup untuk memenuhi kebutuhan manusi
   - Afrika (7.000 - 5.000 tahun yang lalu): Keledai, Sapi Afrika.
 
 # 3. Permasalahan Pangan
-- Kerawanan Pangan merujuk pada
-- Malnutrisi adalah
-- Obesitas merupakan
+- Kerawanan Pangan
+- Malnutrisi
+- Obesitas
