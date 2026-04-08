@@ -1,5 +1,5 @@
 ---
-title: Kependudukan dan Perubahan Penduduk
+title: Kependudukan dan Dinamika Penduduk
 permalink: /docs/Kependudukan/
 layout: single
 toc: true
@@ -73,10 +73,13 @@ sidebar:
 # 2. Teori Kependudukan
 ## 2.1. Transisi Demografi
 - Transisi demografi menyatakan bahwa suatu populasi akan mengalami tahap-tahap transisi dari kondisi jumlah kelahiran dan kematian tinggi ke kondisi jumlah kelahiran dan kematian rendah.
-- 
+  <img width="2364" height="1875" alt="Transisi Demografi" src="https://github.com/user-attachments/assets/97bb8c7d-bf44-47e2-ad36-d0e2bb6da3cd" />
 
 ## 2.2. Transisi Epidemiologi
 - Transisi epidemiologi menyatakan bahwa penyebab kematian di suatu populasi akan berubah dari didominasi penyakit menular menjadi didominasi penyakit degeneratif.
+  <img width="734" height="531" alt="Transisi Epidemiologi 1" src="https://github.com/user-attachments/assets/160a59ad-01bd-499b-8613-bd5751afe59b" />
+
+  <img width="673" height="473" alt="Transisi Epidemiologi 2" src="https://github.com/user-attachments/assets/478209fc-9697-461a-95c2-c9f2c4890bac" />
 
 ## 2.3. Teori Migrasi
 - Teori migrasi mencakup teori yang menjelaskan faktor penyebab migrasi dan teori yang menjelaskan mekanisme migrasi.
