@@ -35,7 +35,7 @@ sidebar:
     - Untuk mengilustrasikan perbedaan antara ketiga laju tersebut, kita akan menggunakan kasus sebagai berikut:\
       Suatu kota memiliki penduduk awal 500 penduduk. Laju pertumbuhan penduduknya adalah 5%. Jumlah penduduk kota tersebut setelah 10 tahun yaitu:\
       Menurut rumus aritmatik: $$Pt= P0 ( 1 + r \cdot t) = 500 + 500 \cdot 0,05 \cdot 10 = 500 + 25 = 525$$\
-      Menurut rumus geometrik: $$Pt= P0 \cdot ( 1 + r )^t = 500 \cdot ( 1 + 0,05)^10 = 814$$\
+      Menurut rumus geometrik: $$Pt= P0 \cdot ( 1 + r )^t = 500 \cdot ( 1 + 0,05)^{10} = 814$$\
       Menurut rumus eksponensial: $$Pt= P0 \cdot e^{r \cdot t} = 500 \cdot e^{0,05 \cdot 10} = 824$$
     - Dapat diamati bahwa rumus pertumbuhan geometrik dan eksponensial menghasilkan nilai jumlah penduduk yang serupa. Rumus tersebut lebih mewakili kondisi di dunia nyata karena jumlah pertambahan penduduk tidak akan memiliki jumlah yang sama ketika penduduk totalnya meningkat, melainkan mengikuti peningkatan jumlah penduduk tersebut. Hasil perhitungan rumus geometrik dan eksponensial baru akan menghasilkan nilai yang jauh berbeda ketika periode perhitungan perkiraan jumlah penduduk (proyeksi jumlah penduduk) menjadi sangat lama.
     - Apabila soal meminta melakukan proyeksi jumlah penduduk dan tidak disebutkan metode yang harus digunakan, maka gunakan rumus geometrik.
@@ -62,11 +62,36 @@ sidebar:
     - Migrasi Seumur Hidup (_Lifetime Migration_): seorang migran didefinisikan sebagai seseorang yang pernah melakukan perubahan tempat tinggal, baik yang saat ini tinggal di daerah kelahirannya maupun di luar daerah kelahirannya. Angka migrasi seumur hidup menunjukkan persentase migran seumur hidup terhadap jumlah populasi total daerah tersebut.
 
 ## 1.2. Pengukuran Indikator Demografi
+- Registrasi: pencatatan penduduk, dilakukan saat suatu proses demografi terjadi oleh direktorat pencatatan sipil. Misal, pencatatan kelahiran, pencatatan kematian, pencatatan perubahan alamat dalam Kartu Tanda Penduduk.
+- Survei: perhitungan indikator menurut populasi sampel, yaitu populasi yang dianggap bisa mewakili populasi total. Penentuan sampel dilakukan dengan metode statistik.
+  - Survei dilakukan Badan Pusat Statistik (Badan Pusat Statistik) dengan tujuan mendapatkan data antara 2 sensus atau mendetailkan indikator, misalnya, SUPAS (Survei Penduduk Antar Sensus), SUTAS (Survei Pertanian Antar Sensus), Susenas (Survei Sosial Ekonomi Nasional), Sakernas (Survei Angkatan Kerja Nasional).
+  - Selain BPS, lembaga lain juga melakukan survei rutin, misalnya Survei Kesehatan Indonesia oleh Kementerian Kesehatan.
+- Sensus: pengukuran indikator dari setiap individu populasi.
+  - Sensus rutin yang dilakukan oleh BPS memiliki periode 10 tahun, meliputi Sensus Penduduk (di tahun berakhiran 0), Sensus Pertanian (di tahun berakhiran 3), dan Sensus Ekonomi (di tahun berakhiran 6).
+  - Sensus dapat dilakukan dengan metode _householder_ (penduduk mengisi sendiri kuesioner) maupun _canvasser_ (seorang petugas survei mendatangi penduduk di tempat tinggalnya dan mengisi kuesioner berdasarkan wawancara). Sensus Penduduk tahun 2020 dilakukan dengan metode gabungan, penduduk dapat mengisi kuesioner daring dan terdapat pula petugas yang melakukan wawancara.
 
 # 2. Teori Kependudukan
 ## 2.1. Transisi Demografi
+- Transisi demografi menyatakan bahwa suatu populasi akan mengalami tahap-tahap transisi dari kondisi jumlah kelahiran dan kematian tinggi ke kondisi jumlah kelahiran dan kematian rendah.
+- 
+
 ## 2.2. Transisi Epidemiologi
+- Transisi epidemiologi menyatakan bahwa penyebab kematian di suatu populasi akan berubah dari didominasi penyakit menular menjadi didominasi penyakit degeneratif.
+
 ## 2.3. Teori Migrasi
+- Teori migrasi mencakup teori yang menjelaskan faktor penyebab migrasi dan teori yang menjelaskan mekanisme migrasi.
+- Migrasi adalah perpindahan (mobilitas) penduduk dengan tujuan menetap. Mobilitas penduduk tanpa tujuan menetap dapat berupa:
+  - Komutasi: mobilitas harian, umumnya untuk tujuan bekerja.
+  - Sirkulasi: mobilitas mingguan hingga musiman, berkaitan dengan tujuan kembali ke daerah asal.
+### 2.3.1. Teori Migrasi Everett S. Lee
+### 2.3.2. Teori Migrasi Ravenstein
+### 2.3.3. Model Transisi Migrasi Zelinsky
+### 2.3.4. Teori Migrasi Neoklasik
+### 2.3.5. Migrasi Ekonomi
+### 2.3.6. Migrasi Rantai
+### 2.3.7. Migrasi Terpaksa
+### 2.3.8. Transnasionalisme
+### 2.3.9. Teori Sistem Dunia
 
 # 3. Permasalahan Kependudukan
 ## 3.1. Replacement Rate
