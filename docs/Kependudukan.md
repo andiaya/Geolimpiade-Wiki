@@ -15,9 +15,10 @@ sidebar:
   - Struktur penduduk menurut kelompok umur dan jenis kelamin dapat ditunjukkan dengan sederhana menggunakan grafik yang disebut piramida penduduk. Piramida penduduk menunjukkan jumlah atau persentase penduduk di suatu lokasi, menurut kelompok umur dan jenis kelaminnya, pada tahun tertentu.
   - Grafik piramida penduduk menunjukkan jumlah atau persentase penduduk laki-laki pada sumbu x di sebelah kiri dan perempuan pada sumbu x di sebelah kanan. Sementara itu, sumbu y menunjukkan nilai kelompok umur.
   - Distribusi menurut lokasinya dapat dilakukan dengan perbandingan jumlah penduduk yang berada di tiap wilayah atau kepadatan penduduknya. Kepadatan penduduk dapat didefinisikan menurut 3 kondisi:
-  - Kepadatan penduduk kasar: perbandingan jumlah penduduk total terhadap luas wilayah total.
-  - Kepadatan penduduk fisiografis: perbandingan jumlah penduduk total terhadap luas lahan pertanian.
-  - Kepadatan penduduk agraris: perbandingan jumlah penduduk petani terhadap luas lahan pertanian.
+    - Kepadatan penduduk kasar: perbandingan jumlah penduduk total terhadap luas wilayah total.
+    - Kepadatan penduduk fisiografis: perbandingan jumlah penduduk total terhadap luas lahan pertanian.
+    - Kepadatan penduduk agraris: perbandingan jumlah penduduk petani terhadap luas lahan pertanian.
+  - Rasio ketergantungan menunjukkan jumlah penduduk usia non-produktif (0-14 dan 65+ tahun) yang ditanggung oleh tiap 100 penduduk usia produktif (15-64 tahun).
 - Proses kependudukan meliputi proses alami, kelahiran dan kematian, serta proses migrasi. Indikator proses kependudukan meliputi:
   - Jumlah Pertumbuhan Penduduk: perubahan jumlah populasi di suatu wilayah dari satu waktu ke waktu yang lain.
     - Pertumbuhan penduduk alami dihitung dari jumlah kelahiran dikurangi jumlah kematian.
@@ -86,16 +87,75 @@ sidebar:
 - Migrasi adalah perpindahan (mobilitas) penduduk dengan tujuan menetap. Mobilitas penduduk tanpa tujuan menetap dapat berupa:
   - Komutasi: mobilitas harian, umumnya untuk tujuan bekerja.
   - Sirkulasi: mobilitas mingguan hingga musiman, berkaitan dengan tujuan kembali ke daerah asal.
+
 ### 2.3.1. Teori Migrasi Everett S. Lee
+- Migrasi merupakan keputusan yang diambil secara individu.
+- Setiap daerah, baik daerah asal maupun tujuan migran memiliki faktor positif dan negatif. Faktor positif disebut faktor penarik (_pull factor_) sedangkan faktor negatif disebut faktor pendorong (_push factor_).
+- Seseorang memutuskan untuk melakukan migrasi apabila faktor pendorong daerah asal lebih kuat dari faktor penariknya, serta faktor penarik daerah tujuan lebih kuat daripada faktor pendorongnya.
+- Ketika melakukan migrasi, seorang migran akan menemui halangan antara dan kesempatan antara. Halangan antara adalah penghalang migrasi, baik berupa faktor fisik, ekonomi, maupun birokratis. Sementara itu, kesempatan antara adalah adanya faktor penarik yang kuat pada daerah yang dilalui migrasi, sehingga seorang migran memutuskan untuk menetap dan tidak melanjutkan migrasi.
+
 ### 2.3.2. Teori Migrasi Ravenstein
+- Model Gravitasi (The Gravity Model): Interaksi spasial (termasuk migrasi) berbanding lurus dengan ukuran populasi dan berbanding terbalik dengan jarak. Artinya, kota besar akan menarik lebih banyak migran dari desa terdekat dibandingkan dari desa yang sangat jauh. Migran cenderung memilih kota besar terdekat.
+- Migrasi Bertahap (Step Migration): Ini adalah konsekuensi dari Hukum Jarak Pendek. Seorang petani tidak langsung pindah dari desa terpencil di Wonosobo ke Jakarta. Alurnya: Desa $\rightarrow$ Kecamatan $\rightarrow$ Kota Kabupaten $\rightarrow$ Kota Semarang (Ibu Kota Provinsi) $\rightarrow$ Barulah ke Jakarta. Setiap perpindahan adalah satu "anak tangga" dalam proses urbanisasi.
+- Arus Balik (Counter-Stream): Untuk setiap 100 orang yang pindah dari Jawa ke Kalimantan (Transmigrasi), akan ada sejumlah kecil (misal 10-20 orang) yang kembali ke Jawa karena gagal beradaptasi, rindu kampung halaman, atau pensiun.
+- Motif Ekonomi: beban pajak yang berat, kelaparan, dan kurangnya lapangan kerja adalah pendorong yang jauh lebih kuat daripada sentimen emosional daerah asal.
+- Bias Perkotaan: Penduduk desa memiliki mobilitas lebih tinggi daripada penduduk kota. Orang kota sudah "nyaman" dengan fasilitas; orang desa harus bergerak untuk bertahan hidup.
+- Bias Gender: Pada abad ke-19, pria mendominasi migrasi jarak jauh untuk pekerjaan kasar. Saat ini di Indonesia dan dunia, perempuan mendominasi migrasi internal (pindah ke kota untuk bekerja di pabrik garmen atau sebagai Pekerja Rumah Tangga) dan migrasi internasional (Tenaga Kerja Wanita/TKW ke Hong Kong, Singapura, Timur Tengah).
+
 ### 2.3.3. Model Transisi Migrasi Zelinsky
-### 2.3.4. Teori Migrasi Neoklasik
-### 2.3.5. Migrasi Ekonomi
-### 2.3.6. Migrasi Rantai
+- Migrasi mengikuti tahapan transisi demografi sebagai berikut:
+  1. Masyarakat mobilitas rendah, hanya nomaden musiman (berpindah mengikuti sumber air dan hewan buruan).
+  2. Emigrasi Internasional Massal & Urbanisasi Eksplosif.
+  3. Emigrasi keluar negeri melambat, tetapi Migrasi Desa-Kota masih sangat tinggi.
+  4. Net In-Migration (Lebih banyak yang masuk) & Suburbanisasi.
+
+### 2.3.4. Teori Migrasi Neoklasik Todaro
+- Tingkat Makro: Migrasi adalah mekanisme penyeimbang penawaran dan permintaan tenaga kerja antar wilayah. Daerah dengan upah rendah (surplus tenaga kerja) akan "mengekspor" penduduknya ke daerah dengan upah tinggi (kekurangan tenaga kerja). Secara teori, jika semua orang bebas bergerak, upah di seluruh negeri akan menjadi sama (equilibrium).
+- Tingkat Mikro: Individu bertindak sebagai Homo Economicus yang menghitung Analisis Biaya-Manfaat (Cost-Benefit Analysis).
+- Kekurangan teori Todaro adalah tidak mempertimbangkan faktor ketidakpastian dan keberadaan atau hilangnya jaringan sosial.
+
+### 2.3.5. Migrasi Ekonomi Stark
+- Keputusan migrasi adalah strategi kolektif keluarga besar, bukan ambisi pribadi semata.
+- Diversifikasi Risiko (Risk Diversification): daerah tujuan migrasi dipilih berdasarkan kemampuannya untuk mengurangi risiko ekonomi keluarga.
+- Deprivasi Relatif (Relative Deprivation): Orang tidak pindah karena mereka miskin absolut (tidak bisa makan). Mereka pindah karena merasa miskin dibandingkan tetangganya.
+
+### 2.3.6. Migrasi Rantai Massey
+- Migrasi dapat tetap terjadi meskipun penyebab awal migrasi berupa faktor ekonomi sudah hilang.
+- Migran awal, disebut perintis, mengambil risiko lebih besar berupa ketidakpastian di daerah tujuan karena keberadaan faktor ekonomi.
+- Migran selanjutnya tetap memilih untuk datang ke daerah tujuan meskipun sudah tidak terdapat faktor ekonomi karena keberadaan modal sosial di daerah tujuan, misal berupa informasi, pekerjaan, dan tempat tinggal.
+
 ### 2.3.7. Migrasi Terpaksa
+- Migrasi yang terjadi karena adanya ancaman terhadap nyawa, bukan bersifat sukarela seperti jika didasarkan faktor ekonomi. Pada migrasi terpaksa, _push factor_ merupakan faktor dominan.
+- Pengungsi (_refugee_) vs. pencari suaka (_asylum seeker_): pengungsi sudah memiliki status resmi di negara tujuan atau UNHCR, sedangkan pencari suaka belum memiliki status tersebut. Mereka dilindungi hukum internasional (Prinsip Non-Refoulement: tidak boleh dipulangkan paksa ke tempat bahaya).
+- Pengungsi internal (_Internally Displaced Person_/IDP) merupakan sebutan untuk migran terpaksa yang tidak meninggalkan negara asalnya.
+
 ### 2.3.8. Transnasionalisme
-### 2.3.9. Teori Sistem Dunia
+- Ruang Sosial Transnasional: Migran tidak hidup sepenuhnya di negara tujuan dan tidak sepenuhnya di negara asal. Mereka hidup di "ruang antara". Hal ini melengkapi pemahaman mengenai konsep asimilasi migran.
+- Kewarganegaraan Ganda & Politik Jarak Jauh: Banyak negara (termasuk diaspora tertentu) melobi agar bisa memiliki Dual Citizenship atau setidaknya hak pilih jarak jauh.
+- Dampak Budaya: Alih-alih Asimilasi total ke budaya negara tujuan, mereka mempertahankan budaya lokal tetapi juga mengadopsi sedikit budaya setempat (Akulturasi) tanpa kehilangan jati diri.
+
+### 2.3.9. Teori Sistem Dunia Wallerstein
+- Tiap daerah di dalam negara dan tiap negara di dunia tersusun dalam suatu hierarki menurut perannya dalam sistem ekonomi kapitalisme.
+- Daerah atau negara berada pada tingkatan daerah Inti dan daerah Pinggiran. Daerah Inti menjadi lokasi akumulasi kekayaan dari hasil eksploitasi sumber daya alam dan tenaga kerja di daerah pinggiran.
+- Salah satu mekanismenya misalnya adalah daerah Inti memperoleh keuntungan paling besar dari rantai pasok suatu barang karena mengolah bahan mentah menjadi barang jadi. Mekanisme lainnya adalah daerah Inti sebagai tempat tinggal pemilik usaha mendapatkan keuntungan usaha tanpa melakukan pekerjaan untuk menciptakan produk usaha tersebut.
+- Daerah Inti juga menarik sumber daya manusia dengan kualitas tinggi ke arah pusat, menyebabkan fenomena _brain drain_ di daerah Pinggiran.
+- Daerah Pinggiran memperoleh sebagian kecil dari keuntungan ekonomi yang diperoleh melalui remitansi (uang yang dikirim migran ke negara asalnya) dan investasi untuk eksploitasi sumberdaya lebih lanjut.
+- Pola migrasi ekonomi Dunia dapat diamati mengikuti pola di atas, Amerika Serikat menjadi negara tujuan migrasi terbanyak di Dunia. Pola lainnya adalah pola ikatan historis kolonialisme, misalnya Indonesia ke Belanda, Vietnam ke Perancis, dan India/Pakistan ke Kerajaan Bersatu (the United Kingdom).
 
 # 3. Permasalahan Kependudukan
-## 3.1. Replacement Rate
+## 3.1. Penuaan Populasi
+- Merupakan kondisi populasi dengan persentase penduduk tua tinggi.
+- Dapat menimbulkan meningkatnya rasio ketergantungan sehingga mengurangi pertumbuhan ekonomi. Hasil kerja yang dilakukan tiap pekerja produktif digunakan untuk memberikan pelayanan kesehatan dan ekonomi penduduk usia non-produktif dan tidak digunakan untuk investasi kembali ke ekonomi.
+- Terjadi di Jepang (~29% penduduk berusia 65+), Italia (~24%), Finlandia, Portugal, Yunani.
+- Menaikkan usia pensiun (Jepang menaikkan ke 65+, mendorong bekerja hingga 70+), mendorong imigrasi tenaga kerja muda, kebijakan pronatalis, otomatisasi dan robotika untuk menggantikan tenaga kerja manusia (strategi utama Jepang).
+
 ## 3.2. Bonus Demografi
+- Bonus demografi adalah jendela peluang ekonomi yang terjadi ketika proporsi penduduk usia produktif (15–64 tahun) mencapai puncaknya, sementara proporsi penduduk usia non-produktif (anak-anak dan lansia) berada di titik terendah.
+- Biasanya ditandai angka ketergantungan sekitar 45.
+- Negara berkembang di Asia, Afrika, dan Amerika Latin saat ini sedang atau akan mengalami bonus demografi.
+- Bonus dapat diperoleh apabila populasi produktif dapat melakukan kerja produktif dalam ekonomi negara, dapat diwujudkan dengan:
+  1. Investasi Sumber Daya Manusia: Pendidikan berkualitas, pelatihan vokasi, dan kesehatan yang baik.
+  2. Penciptaan Lapangan Kerja: Ekonomi harus tumbuh cukup cepat untuk menyerap gelombang angkatan kerja muda.
+  3. Tata Kelola yang Baik: Stabilitas politik, iklim investasi yang kondusif, dan pemberantasan korupsi.
+  4. Pemberdayaan Perempuan: Akses perempuan ke pendidikan dan pekerjaan terbukti menurunkan fertilitas dan meningkatkan produktivitas.
+- Jendela bonus demografi Indonesia diperkirakan akan tetap menguntungkan hingga 2028–2031 sebelum rasio ketergantungan mulai naik seiring bertambahnya populasi lansia.
