@@ -20,6 +20,8 @@ Terima kasih!
 - [4. Geografi Lingkungan dan Pembangunan Berkelanjutan](/Geolimpiade-Wiki/docs/Lingkungan/)
 - [5.a. Geologi](/Geolimpiade-Wiki/docs/Geologi/)
 - [5.b. Geomorfologi](/Geolimpiade-Wiki/docs/Geomorfologi/)
+- [6. Geografi Pertanian dan Permasalahan Pangan](/Geolimpiade-Wiki/docs/Pertanian/)
+- [7. Kependudukan dan Dinamika Penduduk](/Geolimpiade-Wiki/docs/Penduduk/)
 - [9. Geografi Pembangunan dan Ketimpangan Spasial](/Geolimpiade-Wiki/docs/Pembangunan/)
 
 
