@@ -17,11 +17,22 @@ Geografi pembangunan menganalisis proses dan hasil pembangunan berdasarkan 3 pen
 * Produk Domestik Bruto: Nilai ekonomi yang dihasilkan di dalam suatu wilayah pada waktu tertentu
 * Produk Nasional Bruto: Nilai ekonomi yang dihasilkan warga dari suatu wilayah di dalam maupun di luar wilayah tersebut pada waktu tertentu
 * Pendapatan Nasional Bruto: Pendapatan yang diperoleh warga dari suatu wilayah di dalam maupun di luar wilayah tersebut pada jangka waktu tertentu
+* Paritas Daya Beli (_Purchasing Power Parity_/PPP): konversi yang menyesuaikan nilai tukar untuk mencerminkan daya beli aktual dari berbagai mata uang, menyamakan biaya sekeranjang barang dan jasa standar di berbagai negara.
+  * PPP dihitung dengan membandingkan harga sampel barang kebutuhan dasar yang dipilih di tiap negara.
+  * PPP dapat digunakan untuk mengkonversi PDB dll. agar lebih mewakili bagaimana nilai indikator tersebut dapat diubah menjadi kemampuan memenuhi kebutuhan sehari-hari masyarakat.
+  * Fenomena perbedaan daya beli dapat diamati dalam perbedaan harga beberapa produk komersial, misalnya perbedaan harga Big Mac di tiap negara (Big Mac Index) dan perbandingan harga Ipad di tiap negara (Ipad Index).
 ## 2.2. Indeks Komposit
 Menilai peningkatan kualitas hidup yang lebih holistik, di luar aspek ekonomi.
-* Indeks Pembangunan Manusia
+* Indeks Pembangunan Manusia\
+  <img width="1123" height="462" alt="Dimensi IPM" src="https://github.com/user-attachments/assets/4a0abca0-1487-4070-b9aa-ed80835febdd" />\
+  <img width="689" height="950" alt="Perhitungan IPM" src="https://github.com/user-attachments/assets/7f2b39d1-62d6-4d1f-a034-bcbe64528233" />
+
 * Indeks Kebahagiaan
+  <img width="1194" height="662" alt="Indeks kebahagiaan" src="https://github.com/user-attachments/assets/113fc292-e02d-4ae9-a960-4bde28b0984e" />
+
 * Indeks Kemiskinan Multidimensi
+  <img width="1000" height="746" alt="Indeks Kemiskinan Multidimensi" src="https://github.com/user-attachments/assets/98925a75-9d70-4051-925b-4410be67a0b8" />
+
 * Indeks Kesetaraan Gender
 * Happy Planet Index
 * dll.
