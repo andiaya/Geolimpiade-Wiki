@@ -7,9 +7,11 @@ sidebar:
 ---
 
 Laman ini berisi rangkuman catatan pembinaan Olimpiade Sains Nasional (OSN) mata pelajaran geografi.
-Struktur materi dibuat mengikuti [silabus](https://drive.google.com/file/d/1tBj9nleYnwq0j5ntj_TchGaZcpF2ozLo/view) yang diterbitkan oleh Direktorat SMA Kemendikdasmen ditambah beberapa materi yang tidak tercakup dalam silabus namun keluar dalam soal OSN sebelumnya.
-Blog ini saya buat untuk memberi catatan saya tempat lain yang lebih bermanfaat daripada mengendap di binder materi OSN saya.
-Blog ini bersifat rangkuman catatan pembinaan, sehingga saya tidak akan menyebutkan sitasi seperti yang umumnya dilakukan. Ini karena tidak memungkinkan memadankan semua yang disampaikan dalam kelas dengan sumber utama. Saya akan mengecek kembali beberapa informasi sebelum saya pindahkan ke blog ini dan sumber-sumber tersebut akan saya cantumkan di dalam ataupun di bawah laman materi beserta buku-buku rujukan yang umumnya digunakan untuk materi tersebut.
+Struktur materi dibuat mengikuti [silabus](https://drive.google.com/file/d/1tBj9nleYnwq0j5ntj_TchGaZcpF2ozLo/view) yang diterbitkan oleh Direktorat SMA Kemendikdasmen.
+
+Blog ini saya buat untuk memberi catatan saya tempat lain yang lebih bermanfaat daripada mengendap di binder materi OSN.
+Blog ini bersifat rangkuman catatan pembinaan, sehingga saya tidak akan menyebutkan sitasi seperti yang umumnya dilakukan. Ini karena tidak memungkinkan memadankan semua yang disampaikan dalam kelas dengan sumber utama.
+
 Terima kasih!
 
 ## Materi Olimpiade Sains Nasional Bidang Geografi
@@ -22,7 +24,12 @@ Terima kasih!
 - [5.b. Geomorfologi](/Geolimpiade-Wiki/docs/Geomorfologi/)
 - [6. Geografi Pertanian dan Permasalahan Pangan](/Geolimpiade-Wiki/docs/Pertanian/)
 - [7. Kependudukan dan Dinamika Penduduk](/Geolimpiade-Wiki/docs/Penduduk/)
+- [8. Geografi Ekonomi dan Globalisasi](/Geolimpiade-Wiki/docs/Ekonomi/)
 - [9. Geografi Pembangunan dan Ketimpangan Spasial](/Geolimpiade-Wiki/docs/Pembangunan/)
+- [10. Geografi Kota, Peremajaan Kota, dan Perencanaan Kota](/Geolimpiade-Wiki/docs/Kota/)
+- [11. Pariwisata dan Manajemen Pariwisata](/Geolimpiade-Wiki/docs/Pariwisata/)
+- [12. Geografi Budaya dan Identitas Spasial](/Geolimpiade-Wiki/docs/Budaya/)
+- [13. Perpetaan dan Interpretasi Informasi Spasial](/Geolimpiade-Wiki/docs/Peta/)
 
 
 ![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
