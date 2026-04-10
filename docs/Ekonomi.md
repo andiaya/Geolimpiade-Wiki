@@ -82,6 +82,12 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
 
 # 3. Mengenal Sistem Ekonomi
 ## 3.1. Sistem Ekonomi Kapitalisme
+- Hak Kepemilikan Privat: hak memiliki dan mentransfer kepemilikan aset tangible (berwujud: tanah dsb.) dan intangible (tak berwujud: saham dsb.)
+- Motif Kaeuntungan: pendorong kegiatan ekonomi.
+- Kompetisi Pasar: kompetisi dengan menawarkan produk lebih baik.
+- Mekanisme Pasar: harga ditentukan penawaran dan permintaan.
+- Kebebasan Memilih: kebebasan memilih oleh konsumen untuk memilih produk, pekerja untuk memilih pekerjaan.
+- Intervensi Pemerintah Terbatas: pada kapitalis murni (_laissez-faire_) pemerintah hanya melindungi hak kepemilikan privat.
 ## 3.2. Sistem Ekonomi Sosialisme
 ## 3.3. Sistem Ekonomi Syariah
 ## 3.4. Sistem Ekonomi Negara Kesejahteraan
