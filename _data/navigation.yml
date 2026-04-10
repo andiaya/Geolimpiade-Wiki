@@ -15,5 +15,15 @@ docs:
     url: /docs/Pertanian
   - title: "7. Kependudukan dan Dinamika Penduduk"
     url: /docs/Kependudukan
+  - title: "8. Geografi Ekonomi dan Globalisasi"
+    url: /docs/Ekonomi
   - title: "9. Geografi Pembangunan dan Ketimpangan Spasial"
     url: /docs/Pembangunan
+  - title: "10. Geografi Kota, Peremajaan Kota, dan Perencanaan Kota"
+    url: /docs/Kota
+  - title: "11. Pariwisata dan Manajemen Pariwisata"
+    url: /docs/Pariwisata
+  - title: "12. Geografi Budaya dan Identitas Regional"
+    url: /docs/Budaya
+  - title: "13. Perpetaan dan Interpretasi Informasi Geospasial"
+    url: /docs/Peta
