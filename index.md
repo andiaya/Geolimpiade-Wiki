@@ -12,7 +12,7 @@ Struktur materi dibuat mengikuti [silabus](https://drive.google.com/file/d/1tBj9
 Blog ini saya buat untuk memberi catatan saya tempat lain yang lebih bermanfaat daripada mengendap di binder materi OSN.
 Blog ini bersifat rangkuman catatan pembinaan, sehingga saya tidak akan menyebutkan sitasi seperti yang umumnya dilakukan. Ini karena tidak memungkinkan memadankan semua yang disampaikan dalam kelas dengan sumber utama.
 
-Perbaikan, saran, dan pertanyaan dapat dikirim ke alamat surel [andiaya.geowiki@gmail.com](andiaya.geowiki@gmail.com).
+Perbaikan, saran, dan pertanyaan dapat dikirim ke alamat surel [andiaya.geowiki@gmail.com](mailto:andiaya.geowiki@gmail.com).
 
 Terima kasih!
 
