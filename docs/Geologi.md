@@ -38,6 +38,7 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
      - Fase zat padat.
      - Bersifat lentur/plastis. Material dapat bergerak dan membentuk arus konveksi.
      - Sifat plastis disebabkan karena suhu tinggi.
+     - Batas antara astenosfer dan mesosfer disebut diskontinuitas Repetti.
   3. Mesosfer
      - Fase zat padat.
      - Bersifat kaku (rigid).
@@ -51,32 +52,48 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
      - Bersifat kaku.
 
 # 2. Teori Tektonik Lempeng
-Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai hasil penelitian mengenai proses yang terjadi di dalam Bumi dan pengaruhnya pada vulkanisme dan tektonisme. Lempeng Bumi merupakan istilah yang digunakan untuk menjelaskan bagian kerak Bumi yang memiliki arah dan kecepatan gerak yang sama.
-
+Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai hasil penelitian mengenai proses yang terjadi di dalam Bumi dan pengaruhnya pada vulkanisme dan tektonisme.
+- Lempeng Bumi merupakan istilah yang digunakan untuk menjelaskan bagian kerak Bumi yang memiliki arah dan kecepatan gerak yang sama.
 - Gerakan lempeng Bumi terutama dipicu oleh arus konveksi di Astenosfer.
-- Kecepatan gerak lempeng juga dikontrol oleh gaya berat bagian lempeng yang sedang menunjam (mengalami subduksi).
+- Kecepatan gerak lempeng juga dikontrol oleh gaya berat bagian lempeng yang sedang menunjam (mengalami subduksi). Blok batuan yang bergerak turun ke dalam Astenosfer menarik blok batuan di belakangnya. Sehingga, kecepatan gerakan lempeng bisa lebih tinggi daripada gerakan Astenosfer.
 - Berdasarkan arah geraknya, pertemuan lempeng Bumi dapat diklasifikasikan menjadi:
-  1. Divergen
-    - Batas lempeng divergen terbentuk pada lokasi arus naik konvergensi Mantel (Astenosfer) Bumi.
-    - Di lokasi ini, kerak Bumi pecah, membentuk rekahan, dan lempeng yang terbentuk dari pecahan tersebut bergerak menjauhi satu sama lain.
-    - Magma keluar melalui rekahan tersebut, membentuk kerak samudera baru.
+
+  **1. Divergen**
+    - Batas lempeng divergen terbentuk pada lokasi arus naik konvergensi Mantel (Astenosfer) Bumi, lempeng bergerak menjauhi satu sama lain.
+    - Di lokasi ini, kerak Bumi pecah, membentuk rekahan, dan magma keluar membentuk batuan kerak Bumi baru.
+    - Meskipun material di Astenosfer bersifat padat, ketika keluar dari rekahan akan menjadi magma karena tekanannya berkurang (mengalami pelelehan dekompresi).
+    - Batuan yang terbentuk pada lokasi ini memiliki karakteristik batuan kerak samudra, Si-Mg, karena berasal dari material dengan densitas (berat jenis) tinggi dan miskin silika (bersifat basa) di Astenosfer.
     - Batas lempeng divergen membentuk igir tengah samudera, gunungapi perisai, dan erupsi linear.
-  <img width="1500" height="988" alt="Morfologi Batas Lempeng Divergen" src="https://github.com/user-attachments/assets/b8048f88-3e68-4b8e-9139-ef36d8d5cb3f" />
-
-  2. Konvergen
+      <img width="1500" height="988" alt="Morfologi Batas Lempeng Divergen" src="https://github.com/user-attachments/assets/b8048f88-3e68-4b8e-9139-ef36d8d5cb3f" />\
+      Gambar paling atas menunjukkan fase awal gerakan lempeng divergen. Magma bergerak ke atas di Astenosfer menyebabkan kerak Bumi terangkat dan membentuk lembah retakan (_rift valley_). Lama kelamaan, lembah akan bertambah lebar sehingga terisi air laut (gambar tengah) dan ketika proses sudah mencapai tahap dewasa, akan membentuk samudera dengan pematang tengah samudera di bagian tengahnya (gambar bawah).
+  
+  **2. Konvergen**
     - Batas lempeng konvergen terbentuk di pertemuan dua lempeng yang saling mendekati satu sama lain.
-    - Menurut proses yang terjadi, batas lempeng konvergen dibagi menjadi 2, yaitu:\
-      a. Subduksi: terjadi jika salah satu/kedua lempeng yang bertemu terbentuk dari material kerak samudera. Lempeng dengan berat jenis material lebih tinggi (kerak samudera/kerak samudera dengan usia lebih tua) menunjam ke bawah lempeng lain. Proses subduksi membentuk palung dan barisan gunungapi kerucut tinggi (stratovolkanik/gunungapi komposit).\
-      <img width="714" height="340" alt="Morfologi Batas Lempeng Subduksi 1" src="https://github.com/user-attachments/assets/139349b1-ac93-446d-a0d2-1ba264cee5ec" />
-      <img width="1244" height="660" alt="Morfologi Batas Lempeng Subduksi 2" src="https://github.com/user-attachments/assets/9725a676-f620-49e8-a8cf-51c28a02bac2" />
+    - Menurut proses yang terjadi, batas lempeng konvergen dibagi menjadi 2, yaitu:
+      
+      **a. Subduksi:**
+      - Terjadi jika salah satu atau kedua lempeng yang bertemu terbentuk dari material kerak samudera.
+      - Lempeng dengan densitas lebih tinggi (kerak samudera atau kerak samudera dengan usia lebih tua) menunjam ke bawah lempeng lain.
+      - Lempeng yang menunjam batuannya meleleh sebagian (_partial melting_) karena batuannya mengandung air. Air menyebabkan penurunan titik leleh batuan, membuat batuan meleleh di suhu relatif dingin di Astenosfer atas.
+      - Karena magma pada zona subduksi terbentuk dari batuan permukaan, maka magmanya bersifat intermediet, mengandung lebih banyak silika daripada material yang langsung keluar dari Astenosfer. Sifat magma juga dapat menjadi lebih asam jika bergerak melalui lapisan batuan asam.
+      - Proses subduksi membentuk palung dan barisan gunungapi kerucut tinggi (stratovolkanik/gunungapi komposit).\
+      <img width="714" height="340" alt="Morfologi Batas Lempeng Subduksi 1" src="https://github.com/user-attachments/assets/139349b1-ac93-446d-a0d2-1ba264cee5ec" />\
+      Kerak samudera berusia lebih tua (kanan) menunjam ke bawah kerak samudera berusia lebih muda (kiri). Zona subduksi ditandai lembah dalam di samudera, disebut palung (_trench_). Bagian antara busur gunungapi (_volcanic arc_) dengan palung disebut Lembah Busur Depan (_forearc basin_). Sementara itu, bagian di busur gunungapi ke kiri disebut Lembah Busur Belakang (_Backarc Basin_).\
+      <img width="1244" height="660" alt="Morfologi Batas Lempeng Subduksi 2" src="https://github.com/user-attachments/assets/9725a676-f620-49e8-a8cf-51c28a02bac2" />\
+      Kerak samudera yang densitasnya lebih tinggi (kiri) menunjam di bawah kerak benua (kanan). Pada subduksi kerak samudera-kerak benua, terdapat bentukan Prisma Akresi (_accretionary wedge_), yang terbentuk dari akumulasi hasil erosi batuan kerak benua yang memiliki densitas rendah, sehingga tidak dapat terbawa menunjam oleh subduksi.
 
-      b. Kolisi: terjadi jika kedua lempeng yang bertemu terbentuk dari material kerak benua. Material kerak benua bertabrakan dan terakumulasi ke arah atas. Hal ini disebabkan karena material batuan kerak benua memiliki densitas lebih rendah daripada mantel, sehingga tidak dapat tenggelam masuk ke dalam mantel Bumi. Kolisi membentuk pegunungan tinggi.
-      <img width="714" height="350" alt="Morfologi Batas Lempeng Kolisi" src="https://github.com/user-attachments/assets/65471d92-c406-45dc-b282-aac130f3b9be" />
-
-  3. Transform
+      **b. Kolisi:**
+      - Terjadi jika kedua lempeng yang bertemu terbentuk dari material kerak benua.
+      - Material kerak benua bertabrakan dan terakumulasi ke arah atas. Hal ini disebabkan karena material batuan kerak benua memiliki densitas rendah sehingga tidak dapat tenggelam masuk ke dalam mantel Bumi.
+      - Kolisi membentuk pegunungan tinggi.
+      <img width="714" height="350" alt="Morfologi Batas Lempeng Kolisi" src="https://github.com/user-attachments/assets/65471d92-c406-45dc-b282-aac130f3b9be" />\
+      Bagian atas kerak yang memiliki densitas rendah materialnya terkakumulasi sehingga membentuk pegunungan tinggi. Proses ini membentuk banyak sesar dari blok-blok batuan yang proses pengangkatannya tidak seragam.      
+      
+  **3. Transform**
     - Batas lempeng transform terbentuk pada pertemuan lempeng yang bergerak bergeser antara satu sama lain.
     - Batas lempeng transform ditandai dengan punggungan perbukitan yang terbentuk karena akumulasi material yang menumpuk saat terjadi gerakan bergeser karena batuan tidak dapat membentuk rekahan yang lurus sempurna.
-  <img width="640" height="360" alt="Morfologi batas lempeng transform" src="https://github.com/user-attachments/assets/1e36e7e5-b6c2-4f34-a04b-af409ab4f404" />
+      <img width="640" height="360" alt="Morfologi batas lempeng transform" src="https://github.com/user-attachments/assets/1e36e7e5-b6c2-4f34-a04b-af409ab4f404" />\
+      Batas lempeng transform membentuk punggungan atau barisan perbukitan ketinggian rendah dari akumulasi material ketika sesar mengalami gerakan.
 
 # 3. Petrografi
 ## 3.1. Mineral
