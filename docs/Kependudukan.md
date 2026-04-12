@@ -86,7 +86,7 @@ sidebar:
 
 ## 2.2. Transisi Epidemiologi
 - Transisi epidemiologi menyatakan bahwa penyebab kematian di suatu populasi akan berubah dari didominasi penyakit menular menjadi didominasi penyakit degeneratif. Transisi epidemiologi terjadi bersamaan dengan transisi demografi.\
-  <img width="734" height="531" alt="Transisi Epidemiologi 1" src="https://github.com/user-attachments/assets/160a59ad-01bd-499b-8613-bd5751afe59b" />
+  <img width="634" height="431" alt="Transisi Epidemiologi 1" src="https://github.com/user-attachments/assets/160a59ad-01bd-499b-8613-bd5751afe59b" />
 
   <img width="673" height="473" alt="Transisi Epidemiologi 2" src="https://github.com/user-attachments/assets/478209fc-9697-461a-95c2-c9f2c4890bac" />
 
@@ -105,7 +105,7 @@ sidebar:
 - Migrasi merupakan keputusan yang diambil secara individu.
 - Setiap daerah, baik daerah asal maupun tujuan migran memiliki faktor positif dan negatif. Faktor positif disebut faktor penarik (_pull factor_) sedangkan faktor negatif disebut faktor pendorong (_push factor_).
 - Seseorang memutuskan untuk melakukan migrasi apabila faktor pendorong daerah asal lebih kuat dari faktor penariknya, serta faktor penarik daerah tujuan lebih kuat daripada faktor pendorongnya.
-- Ketika melakukan migrasi, seorang migran akan menemui halangan antara dan kesempatan antara. Halangan antara adalah penghalang migrasi, baik berupa faktor fisik, ekonomi, maupun birokratis. Sementara itu, kesempatan antara adalah adanya faktor penarik yang kuat pada daerah yang dilalui migrasi, sehingga seorang migran memutuskan untuk menetap dan tidak melanjutkan migrasi.
+- Ketika melakukan migrasi, seorang migran akan menemui halangan antara dan kesempatan antara. Halangan antara adalah penghalang migrasi, baik berupa faktor fisik, ekonomi, maupun birokratis. Sementara itu, kesempatan antara adalah adanya faktor penarik yang kuat pada daerah yang dilalui migrasi, sehingga seorang migran memutuskan untuk menetap dan tidak melanjutkan migrasi.\
   <img width="337" height="149" alt="Lee" src="https://github.com/user-attachments/assets/b6933abe-8ca5-40b2-b9a8-3e43ca482d87" />
 
 ### 2.3.2. Teori Migrasi Ravenstein
@@ -122,12 +122,12 @@ sidebar:
   2. Emigrasi Internasional Massal & Urbanisasi Eksplosif.
   3. Emigrasi keluar negeri melambat, tetapi Migrasi Desa-Kota masih sangat tinggi.
   4. Net In-Migration (Lebih banyak yang masuk) & Suburbanisasi.
-  <img width="768" height="576" alt="Zelinsky" src="https://github.com/user-attachments/assets/e3488372-e129-4c95-8eab-31717458dce5" />
+     <img width="768" height="576" alt="Zelinsky" src="https://github.com/user-attachments/assets/e3488372-e129-4c95-8eab-31717458dce5" />
 
 ### 2.3.4. Teori Migrasi Neoklasik Todaro
 - Tingkat Makro: Migrasi adalah mekanisme penyeimbang penawaran dan permintaan tenaga kerja antar wilayah. Daerah dengan upah rendah (surplus tenaga kerja) akan "mengekspor" penduduknya ke daerah dengan upah tinggi (kekurangan tenaga kerja). Secara teori, jika semua orang bebas bergerak, upah di seluruh negeri akan menjadi sama (equilibrium).
 - Tingkat Mikro: Individu bertindak sebagai Homo Economicus yang menghitung Analisis Biaya-Manfaat (Cost-Benefit Analysis).
-- Kekurangan teori Todaro adalah tidak mempertimbangkan faktor ketidakpastian dan keberadaan atau hilangnya jaringan sosial.
+- Kekurangan teori Todaro adalah tidak mempertimbangkan faktor ketidakpastian dan keberadaan atau hilangnya jaringan sosial.\
   <img width="466" height="358" alt="Todaro" src="https://github.com/user-attachments/assets/228408c2-f8d5-4144-9070-f4ce4b6b4d64" />
 
 ### 2.3.5. Migrasi Ekonomi Stark
