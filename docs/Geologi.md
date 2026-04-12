@@ -8,20 +8,25 @@ sidebar:
   nav: "docs"
 ---
 # 1. Struktur Interior Bumi
-Pembentukan Bumi terjadi ketika gas yang dilepaskan Matahari saat pembentukannya membentuk cincin dan memadat membentuk benda langit dalam tata surya. Molekul dalam gas yang memiliki massa tinggi berkumpul dan memadat dekat dengan Matahari, membentuk planet berbatu (terestrial). Sementara itu, molekul yang memiliki massa rendah berkumpul di bagian luar, jauh dari Matahari, membentuk planet gas (jovial).
-Pemisahan molekul menurut massanya juga terjadi pada pembentukan Bumi. Molekul dengan massa tinggi seperti besi (Fe) dan nikel (Ni) berkumpul di dekat pusat Bumi. Sementara itu, molekul penyusun Bumi berangsur-angsur berkurang massanya hingga akhirnya lapisan terluar tersusun atas atmosfer dengan molekul bermassa rendah, nitrogen (N).
-Setelah Bumi terbentuk, bagian luar Bumi mendingin, membentuk lapisan padat dan rigid. Lapisan dalam Bumi memiliki energi panas karena sisa energi pembentukan dan sifat radioaktif batuan.
+- Pembentukan Bumi terjadi ketika gas yang dilepaskan Matahari saat pembentukannya membentuk cincin dan memadat membentuk benda langit dalam tata surya.
+- Molekul dalam gas yang memiliki massa tinggi berkumpul dan memadat dekat dengan Matahari, membentuk planet berbatu (terestrial). Sementara itu, molekul yang memiliki massa rendah berkumpul di bagian luar, jauh dari Matahari, membentuk planet gas (jovial).
+- Pemisahan molekul menurut massanya juga terjadi pada pembentukan Bumi. Molekul dengan massa tinggi seperti besi (Fe) dan nikel (Ni) berkumpul di dekat pusat Bumi. Sementara itu, molekul penyusun Bumi berangsur-angsur berkurang massanya hingga akhirnya lapisan terluar tersusun atas atmosfer dengan molekul bermassa rendah, nitrogen (N).
+- Setelah Bumi terbentuk, bagian luar Bumi mendingin, membentuk lapisan padat dan rigid.
+- Lapisan dalam Bumi memiliki energi panas dari sisa energi saat pembentukan Bumi dan energi dari radioaktivitas batuan.
+- Lapisan interior Bumi dapat diklasifikasikan menurut 2 karakteristik: sifat kimiawi dan sifat fisiknya.
+<img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />\
+Klasifikasi Struktur Interior Bumi Berdasarkan Sifat Kimiawi (kiri) dan Sifat Fisik (kanan).
 
 ## 1.1. Klasifikasi Menurut Sifat Kimiawi
 Klasifikasi interior Bumi menurut sifat kimiawi yaitu sebagai berikut:
-  1. Kerak: terbentuk dari mineral dengan massa molekul rendah (kaya silika)
+  1. Kerak (_Crust_): terbentuk dari mineral dengan massa molekul rendah (kaya silika)
   - Berdasarkan kandungannya, kerak Bumi dibagi menjadi kerak benua dan kerak samudera.
   - Kerak benua memiliki kandungan mineral kaya silikat aluminium (sial/Si-Al) sedangkan mineral kerak samudera kaya silikat magnesium (sima/Si-Mg).
   - Perbedaan ini disebabkan karena aluminium dan mineralnya memiliki berat jenis (densitas) dan titik leleh lebih rendah daripada magnesium, sehingga magma yang membentuk kerak benua cenderung mengkristal lebih dekat dengan permukaan Bumi dan batuannya mengapung di atas kerak samudera.
   - Batas antara lapisan kerak dan mantel dinamakan diskontinuitas Mohorovicic.
-  2. Mantel: terbentuk dari mineral dengan massa molekul tinggi (miskin silika)
+  2. Mantel (_Mantle_): terbentuk dari mineral dengan massa molekul tinggi (miskin silika)
   - Batas antara lapisan mantel dan inti dinamakan diskontinuitas Gutenberg.
-  3. Inti: terbentuk dari material dominan besi (Fe) dan nikel (Ni)
+  3. Inti (_Core_): terbentuk dari material dominan besi (Fe) dan nikel (Ni)
 
 ## 1.2. Klasifikasi Menurut Sifat Fisik
 Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi interior Bumi menurut sifat fisiknya yaitu sebagai berikut:
@@ -37,16 +42,13 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
      - Fase zat padat.
      - Bersifat kaku (rigid).
      - Meskipun suhu tinggi, memiliki sifat kaku disebabkan karena tekanan tinggi.
-  4. Inti Luar
+  4. Inti Luar (_Outer Core_)
      - Fase zat cair.
      - Arus konveksi besi cair membentuk medan magnet Bumi.
      - Batas antara inti luar dan inti dalam dinamakan diskontinuitas Lehmann.
-  5. Inti Dalam
+  5. Inti Dalam (_Inner Core_)
      - Fase zat padat.
      - Bersifat kaku.
-
-<img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />\
-Klasifikasi Struktur Interior Bumi Berdasarkan Sifat Kimiawi (kiri) dan Sifat Fisik (kanan).
 
 # 2. Teori Tektonik Lempeng
 Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai hasil penelitian mengenai proses yang terjadi di dalam Bumi dan pengaruhnya pada vulkanisme dan tektonisme. Lempeng Bumi merupakan istilah yang digunakan untuk menjelaskan bagian kerak Bumi yang memiliki arah dan kecepatan gerak yang sama.
