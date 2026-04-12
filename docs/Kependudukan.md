@@ -91,9 +91,9 @@ sidebar:
   <img width="673" height="473" alt="Transisi Epidemiologi 2" src="https://github.com/user-attachments/assets/478209fc-9697-461a-95c2-c9f2c4890bac" />
 
   1. Tahap Pra-transisi menunjukkan masyarakat yang memiliki tingkat kematian tinggi karena penyakit menular. Hal ini di antaranya disebabkan karena kondisi sanitasi dan gizi masyarakat yang buruk.
-  2. Tahap transisi awal menunjukkan masyarakat yang tingkat kematian karena penyakit menularnya turun dan penyakit degeneratif mulai naik. Hal ini disebabkan karena perbaikan kualitas sanitasi dan gizi serta peningkatan usaha preventif seperti vaksinasi.
+  2. Tahap transisi awal menunjukkan masyarakat yang tingkat kematian karena penyakit menularnya turun dan penyakit degeneratif akibat gaya hidup seperti penyakit jantung, diabetes, kanker mulai naik. Hal ini disebabkan karena perbaikan kualitas sanitasi dan gizi serta peningkatan usaha preventif seperti vaksinasi.
   3. Tahap transisi akhir menunjukkan masyarakat yang tingkat kematian karena penyakit degeneratifnya melebihi penyakit menular. Hal ini disebabkan karena kematian bayi dan kematian muda karena penyakit menular berkurang, sehingga terdapat waktu yang cukup untuk tubuh seseorang membentuk penyakit degeneratif. Alasan lain yaitu perubahan gaya hidup menjadi sedenter (diam, tidak banyak beraktifitas fisik) dan konsumsi kalori yang berlebihan.
-  4. Tahap pasca transisi menunjukkan masyarakat dengan kualitas layanan kesehatan dapat memperpanjang usia harapan hidup hingga usia tua, sehingga kebanyakan kematian terjadi karena komplikasi usia tua dan penyakit akibat gaya hidup seperti penyakit jantung, diabetes, kanker. Dapat muncul pula infeksi baru, misalnya karena muncul bakteri tahan antibiotik.
+  4. Tahap pasca transisi menunjukkan masyarakat dengan kualitas layanan kesehatan dapat memperpanjang usia harapan hidup hingga usia tua, sehingga kebanyakan kematian terjadi karena komplikasi usia tua dan penyakit degeneratif. Dapat muncul pula infeksi baru, misalnya karena muncul bakteri tahan antibiotik.
 
 ## 2.3. Teori Migrasi
 - Teori migrasi mencakup teori yang menjelaskan faktor penyebab migrasi dan teori yang menjelaskan mekanisme migrasi.
@@ -106,6 +106,7 @@ sidebar:
 - Setiap daerah, baik daerah asal maupun tujuan migran memiliki faktor positif dan negatif. Faktor positif disebut faktor penarik (_pull factor_) sedangkan faktor negatif disebut faktor pendorong (_push factor_).
 - Seseorang memutuskan untuk melakukan migrasi apabila faktor pendorong daerah asal lebih kuat dari faktor penariknya, serta faktor penarik daerah tujuan lebih kuat daripada faktor pendorongnya.
 - Ketika melakukan migrasi, seorang migran akan menemui halangan antara dan kesempatan antara. Halangan antara adalah penghalang migrasi, baik berupa faktor fisik, ekonomi, maupun birokratis. Sementara itu, kesempatan antara adalah adanya faktor penarik yang kuat pada daerah yang dilalui migrasi, sehingga seorang migran memutuskan untuk menetap dan tidak melanjutkan migrasi.
+  <img width="337" height="149" alt="Lee" src="https://github.com/user-attachments/assets/b6933abe-8ca5-40b2-b9a8-3e43ca482d87" />
 
 ### 2.3.2. Teori Migrasi Ravenstein
 - Model Gravitasi (The Gravity Model): Interaksi spasial (termasuk migrasi) berbanding lurus dengan ukuran populasi dan berbanding terbalik dengan jarak. Artinya, kota besar akan menarik lebih banyak migran dari desa terdekat dibandingkan dari desa yang sangat jauh. Migran cenderung memilih kota besar terdekat.
@@ -121,11 +122,13 @@ sidebar:
   2. Emigrasi Internasional Massal & Urbanisasi Eksplosif.
   3. Emigrasi keluar negeri melambat, tetapi Migrasi Desa-Kota masih sangat tinggi.
   4. Net In-Migration (Lebih banyak yang masuk) & Suburbanisasi.
+  <img width="768" height="576" alt="Zelinsky" src="https://github.com/user-attachments/assets/e3488372-e129-4c95-8eab-31717458dce5" />
 
 ### 2.3.4. Teori Migrasi Neoklasik Todaro
 - Tingkat Makro: Migrasi adalah mekanisme penyeimbang penawaran dan permintaan tenaga kerja antar wilayah. Daerah dengan upah rendah (surplus tenaga kerja) akan "mengekspor" penduduknya ke daerah dengan upah tinggi (kekurangan tenaga kerja). Secara teori, jika semua orang bebas bergerak, upah di seluruh negeri akan menjadi sama (equilibrium).
 - Tingkat Mikro: Individu bertindak sebagai Homo Economicus yang menghitung Analisis Biaya-Manfaat (Cost-Benefit Analysis).
 - Kekurangan teori Todaro adalah tidak mempertimbangkan faktor ketidakpastian dan keberadaan atau hilangnya jaringan sosial.
+  <img width="466" height="358" alt="Todaro" src="https://github.com/user-attachments/assets/228408c2-f8d5-4144-9070-f4ce4b6b4d64" />
 
 ### 2.3.5. Migrasi Ekonomi Stark
 - Keputusan migrasi adalah strategi kolektif keluarga besar, bukan ambisi pribadi semata.
@@ -154,6 +157,8 @@ sidebar:
 - Daerah Inti juga menarik sumber daya manusia dengan kualitas tinggi ke arah pusat, menyebabkan fenomena _brain drain_ di daerah Pinggiran.
 - Daerah Pinggiran memperoleh sebagian kecil dari keuntungan ekonomi yang diperoleh melalui remitansi (uang yang dikirim migran ke negara asalnya) dan investasi untuk eksploitasi sumberdaya lebih lanjut.
 - Pola migrasi ekonomi Dunia dapat diamati mengikuti pola di atas, Amerika Serikat menjadi negara tujuan migrasi terbanyak di Dunia. Pola lainnya adalah pola ikatan historis kolonialisme, misalnya Indonesia ke Belanda, Vietnam ke Perancis, dan India/Pakistan ke Kerajaan Bersatu (the United Kingdom).
+  <img width="500" height="500" alt="Wallerstein" src="https://github.com/user-attachments/assets/f8634133-46ad-49f7-91c7-d1aba1f6f54c" />
+
 
 # 3. Permasalahan Kependudukan
 ## 3.1. Penuaan Populasi
