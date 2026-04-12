@@ -134,12 +134,14 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
   - Pembekuan merujuk pada semua proses pemadatan material dari fase cair menjadi padat. Mencakup pembekuan magma di dalam Bumi maupun pembekuan lava di permukaan Bumi.
   - Kristalisasi merujuk pada proses pembekuan khusus dimana magma atau lava membentuk struktur kristal, sehingga padatan yang terbentuk disebut mineral.
   - Proses ini membentuk batuan beku (_igneous rock_).
+    
   **2. Pelapukan, erosi, transportasi, dan sedimentasi**
   - Pelapukan adalah rusaknya suatu struktur batuan yang masif menjadi material yang lebih kecil. Pelapukan terjadi tanpa pemindahan lokasi material.
   - Erosi adalah pelepasan material dari batuan asal dan pemindahan lokasi material ke tempat lain.
   - Transportasi merujuk pada pemindahan material.
   - Sedimentasi, atau deposisi, merupakan pengendapan material yang sebelumnya mengalami transportasi.
   - Proses ini membentuk material lepas-lepas yang disebut sedimen.
+    
   **3. Lithifikasi (Pembatuan)**
   - Lithifikasi terdiri dari 2 proses, yaitu kompaksi dan sementasi.
   - Kompaksi adalah pemadatan sedimen, sehingga pori-pori di antara butir sedimen menjadi semakin kecil. Kompaksi terjadi karena tekanan ketika sedimen mengalami penimbunan.
@@ -147,6 +149,7 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
   - Penggabungan butir sedimen terjadi ketika mineral yang terlarut pada air yang terperangkap dalam pori-pori sedimen mengalami presipitasi. Artinya, dalam kurun waktu tertentu, mineral akan keluar dari larutan dan tumbuh pada pori-pori antar sedimen.
   - Terdapat pula lithifikasi yang sepenuhnya terjadi dari keluarnya mineral dari larutan melalui proses presipitasi, contoh: kristal kuarsa, batu gamping, atau evaporasi, contoh: batugaram.
   - Proses ini membentuk batuan sedimen.
+    
   **4. Metamorfisme**
   - Proses ini membentuk batuan metamorf.
   - Metamorfisme adalah proses perubahan sifat batuan tanpa mengalami proses pelelehan.
@@ -154,6 +157,7 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
   - Metamorfisme akibat tekanan tinggi disebut juga metamorfisme dinamik. Contoh proses ini terjadi di sesar, membentuk batu breksi kataklastik.
   - Metamorfisme akibat suhu yang tinggi disebut juga metamorfisme kontak. Contoh proses ini terjadi di sekitar jalur keluar magma (intrusi).
   - Metamorfisme dapat terjadi di area yang luas, disebut metamorfisme regional. Metamorfisme regional disebabkan karena kombinasi suhu dan tekanan tinggi pada zona subduksi.
+    
   **5. Pelelehan**
   - Proses ini membentuk magma.
 
@@ -168,7 +172,7 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
      - Urutan mineral berdasarkan suhu titik beku/titik leleh disebut Deret Reaksi Bowen.
      - Mineral basa memiliki titik beku lebih tinggi daripada mineral asam.
        <img width="833" height="486" alt="Deret Bowen" src="https://github.com/user-attachments/assets/e0a4658a-ef72-4058-8218-d72cb5e57c5f" />\
-       Deret Bowen memiliki 2 sisi, deret kontinyu di bagian kiri dan deret diskontinyu di bagian kanan.
+       Deret Bowen memiliki 2 sisi, deret kontinyu di bagian kanan dan deret diskontinyu di bagian kiri.
   2. Asimilasi: pertukaran mineral antara magma cair dan batuan padat di sekitarnya.
   3. Percampuran magma (_magma mingling/magma mixing_): magma yang lama berada di dapur magma (simpanan/reservoir magma bagian dari gunungapi) bercampur dengan magma baru dari Astenosfer.
 - Klasifikasi komposisi mineral magma yaitu:
