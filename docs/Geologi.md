@@ -98,58 +98,80 @@ Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai ha
 - Perubahan pada pola konveksi mantel menyebabkan suatu batas lempeng dapat mengalami perubahan tipe. Ketika gerakan divergen maka samudera akan terbentuk dan ketika gerakan konvergen maka luas samudera akan berkurang hingga akhirnya hilang. Gerakan ini dideskripsikan dalam Siklus Wilson.
   <img width="772" height="593" alt="Siklus Wilson" src="https://github.com/user-attachments/assets/f15685cc-b21b-425d-80fa-eec1306b22b6" />
 - Siklus Wilson memiliki 6 tahap, A hingga F, dengan 3 tahap pertama dibentuk gerakan lempeng divergen, selanjutnya dibentuk gerakan konvergen subduksi, dan pada 2 tahap terakhir gerakan lempeng berupa konvergen kolisi.
+- Terdapat 7 lempeng utama dunia, ditunjukkan pada peta berikut:
+  <img width="839" height="568" alt="Peta Lempeng Dunia" src="https://github.com/user-attachments/assets/5a4207cd-f91f-4b0d-b9ff-837c4384d04a" />
 
 # 3. Petrografi
 ## 3.1. Mineral
-Mineral memiliki 5 sifat:
-  1. berfase padat.
-  2. terbentuk secara alami.
-  3. bersifat inorganik.
-  4. mempunyai struktur kristalin.
-  5. dapat disimbolkan dengan satu rumus kimia.
+Suatu benda dapat disebut mineral apabila memiliki 5 sifat berikut ini:
+  1. Berfase padat.
+  2. Terbentuk secara alami.
+  3. Bersifat inorganik: tidak terbentuk dari senyawa karbon dan hidrogen.
+  4. Mempunyai struktur kristalin: atom tersusun membentuk pola dengan geometri tertentu yang berulang. Terdapat 7 sistem kristal, yaitu isometrik (cubic), tetragonal, orthorombik, monoklinik, triclinic, heksagonal, dan trigonal (rhombohedral).
+     <img width="572" height="760" alt="7 sistem kristal" src="https://github.com/user-attachments/assets/06d760f6-9fd9-49e5-b3f9-dd068edd4837" />
+
+  5. Memiliki komposisi kimia yang tetap: dapat dituliskan sebagai suatu rumus senyawa kimia.
 
 Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya. Sifat fisik yang digunakan untuk identifikasi mineral yaitu:
-  1. warna
-  2. belahan (cleavage) dan pecahan (frature): belahan terbentuk dan digunakan untuk klasifikasi mineral dengan ikatan antar molekul yang lemah pada satu atau beberapa bidang tertentu, sedangkan karakteristik pecahan digunakan ketika mineral memiliki ikatan molekul yang sama kuat ke semua arah.
-  3. massa jenis
-  4. kilap: karakteristik pemantulan cahaya pada mineral.
-  5. cerat: warna mineral dalam bentuk bubuk.
+  1. Warna
+  2. Belahan (_cleavage_) dan Pecahan (_frature_): belahan terbentuk dan digunakan untuk klasifikasi mineral dengan ikatan antar molekul yang lemah pada satu atau beberapa bidang tertentu. Sementara itu, pecahan digunakan ketika mineral memiliki ikatan molekul yang sama kuat ke semua arah.
+  3. Massa Jenis: massa per volume.
+  4. Kilap (_luster_): karakteristik pemantulan cahaya pada mineral. Kilap mineral dibagi menjadi kilap logam dan non-logam. Kilap non-logam meliputi kilap berlian (_adamantine_), kilap kaca (_vitreous_), kilap lemak (_greasy/dull_), kilap tanah (_earthy/dull_), kilap resin, kilap permata (_pearly_), dan kilap sutra.\
+     <img width="699" height="537" alt="Kilap mineral" src="https://github.com/user-attachments/assets/2f520bb4-d731-4b95-b7d9-cb67582d0a80" />
+
+  5. Cerat (_streak_): warna mineral dalam bentuk bubuk.
+
+Mineral dapat diklasifikasikan berdasarkan tingkat kekerasannya menggunakan skala Mohs. Mohs mengklasifikasikan kekerasan mineral secara relatif antara satu sama lain sebagai berikut:\
+<img width="500" height="357" alt="Mohs" src="https://github.com/user-attachments/assets/d434d1b3-3b21-4873-be46-5494e90f0478" />\
+Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pembanding. Misal, mineral lunak berwarna putih apabila rusak digores kuku maka ia adalah talc atau gipsum, sedangkan apabila kuku rusak maka ia adalah kalsit.
 
 ## 3.2. Siklus Batuan
 - Batuan terbentuk dari gabungan mineral dan/atau material padat non-mineral dengan sifat kaku (rigid).
 - Material yang membentuk batuan mengalami siklus hidup, sehingga tidak dapat ditentukan titik awal dan akhirnya. Penjelasan mengenai pembentukan batuan umumnya dijelaskan dari tahap:
-  1. Pembekuan dan kristalisasi
+  <img width="705" height="382" alt="Siklus Batuan" src="https://github.com/user-attachments/assets/eec8a8da-a74f-4c2c-9ad1-5ad455c088ab" />
+
+  **1. Pembekuan dan kristalisasi**
   - Pembekuan merujuk pada semua proses pemadatan material dari fase cair menjadi padat. Mencakup pembekuan magma di dalam Bumi maupun pembekuan lava di permukaan Bumi.
   - Kristalisasi merujuk pada proses pembekuan khusus dimana magma atau lava membentuk struktur kristal, sehingga padatan yang terbentuk disebut mineral.
-  - Proses ini membentuk batuan beku (igneous rock).
-  2. Pelapukan, erosi, transportasi, dan sedimentasi
+  - Proses ini membentuk batuan beku (_igneous rock_).
+  **2. Pelapukan, erosi, transportasi, dan sedimentasi**
   - Pelapukan adalah rusaknya suatu struktur batuan yang masif menjadi material yang lebih kecil. Pelapukan terjadi tanpa pemindahan lokasi material.
   - Erosi adalah pelepasan material dari batuan asal dan pemindahan lokasi material ke tempat lain.
   - Transportasi merujuk pada pemindahan material.
   - Sedimentasi, atau deposisi, merupakan pengendapan material yang sebelumnya mengalami transportasi.
   - Proses ini membentuk material lepas-lepas yang disebut sedimen.
-  3. Lithifikasi (Pembatuan)
+  **3. Lithifikasi (Pembatuan)**
   - Lithifikasi terdiri dari 2 proses, yaitu kompaksi dan sementasi.
   - Kompaksi adalah pemadatan sedimen, sehingga pori-pori di antara butir sedimen menjadi semakin kecil. Kompaksi terjadi karena tekanan ketika sedimen mengalami penimbunan.
   - Sementasi adalah penggabungan butir sedimen oleh mineral sehingga membentuk satu batuan yang masif.
   - Penggabungan butir sedimen terjadi ketika mineral yang terlarut pada air yang terperangkap dalam pori-pori sedimen mengalami presipitasi. Artinya, dalam kurun waktu tertentu, mineral akan keluar dari larutan dan tumbuh pada pori-pori antar sedimen.
   - Terdapat pula lithifikasi yang sepenuhnya terjadi dari keluarnya mineral dari larutan melalui proses presipitasi, contoh: kristal kuarsa, batu gamping, atau evaporasi, contoh: batugaram.
   - Proses ini membentuk batuan sedimen.
-  4. Metamorfisme
+  **4. Metamorfisme**
   - Proses ini membentuk batuan metamorf.
   - Metamorfisme adalah proses perubahan sifat batuan tanpa mengalami proses pelelehan.
   - Metamorfisme terjadi karena suhu dan/atau tekanan tinggi.
   - Metamorfisme akibat tekanan tinggi disebut juga metamorfisme dinamik. Contoh proses ini terjadi di sesar, membentuk batu breksi kataklastik.
   - Metamorfisme akibat suhu yang tinggi disebut juga metamorfisme kontak. Contoh proses ini terjadi di sekitar jalur keluar magma (intrusi).
   - Metamorfisme dapat terjadi di area yang luas, disebut metamorfisme regional. Metamorfisme regional disebabkan karena kombinasi suhu dan tekanan tinggi pada zona subduksi.
-  5. Pelelehan
+  **5. Pelelehan**
   - Proses ini membentuk magma.
 
 ## 3.3. Identifikasi Batuan
 ### 3.3.1. Identifikasi Batuan Beku
-Batuan beku diidentifikasi berdasarkan warna dan tekstur mineralnya.
-
-Warna yang dimaksud adalah gelap-terangnya. Warna gelap hingga hijau menunjukkan kadar mineral basa yang tinggi. Sementara itu, warna terang menunjukkan kadar mineral asam yang tinggi. Perbedaan mineral pembentuk pada batuan dipengaruhi oleh asal magma. Magma yang berasal dari kedalaman yang dalam, mantel, inti luar, memiliki kadar mineral yang lebih basa, sedangkan magma yang berasal dari kedalaman dangkal atau alirannya lama terhenti di kedalaman dangkal akan memiliki kadar mineral yang lebih asam. Klasifikasi komposisi mineral magma yaitu:
+- Batuan beku diidentifikasi berdasarkan warna dan tekstur mineralnya.
+- Warna yang dimaksud adalah gelap-terangnya. Warna gelap hingga hijau menunjukkan kadar mineral basa yang tinggi. Sementara itu, warna terang menunjukkan kadar mineral asam yang tinggi.
+- Perbedaan mineral pembentuk pada batuan dipengaruhi oleh asal magma.
+- Magma yang berasal dari kedalaman yang dalam, mantel, inti luar, memiliki kadar mineral yang lebih basa, sedangkan magma yang berasal dari kedalaman dangkal atau alirannya lama terhenti di kedalaman dangkal akan memiliki kadar mineral yang lebih asam.
+- Sifat magma dapat berubah dalam perjalanannya ke permukaan Bumi. Proses ini disebut diferensiasi magma. Magma dapat terdiferensiasi melalui mekanisme:
+  1. Kristalisasi fraksional (_fractional crystallization_): kristalisasi sebagian mineral dengan titik leleh tinggi, mineral tersebut mengkristal terlebih dahulu dalam proses pendinginan.
+     - Urutan mineral berdasarkan suhu titik beku/titik leleh disebut Deret Reaksi Bowen.
+     - Mineral basa memiliki titik beku lebih tinggi daripada mineral asam.
+       <img width="833" height="486" alt="Deret Bowen" src="https://github.com/user-attachments/assets/e0a4658a-ef72-4058-8218-d72cb5e57c5f" />\
+       Deret Bowen memiliki 2 sisi, deret kontinyu di bagian kiri dan deret diskontinyu di bagian kanan.
+  2. Asimilasi: pertukaran mineral antara magma cair dan batuan padat di sekitarnya.
+  3. Percampuran magma (_magma mingling/magma mixing_): magma yang lama berada di dapur magma (simpanan/reservoir magma bagian dari gunungapi) bercampur dengan magma baru dari Astenosfer.
+- Klasifikasi komposisi mineral magma yaitu:
 <img width="1024" height="768" alt="Klasifikasi Komposisi Mineral Magma" src="https://github.com/user-attachments/assets/c558ce12-d389-4276-9209-27e3233f3687" />
 
 
