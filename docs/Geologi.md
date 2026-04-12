@@ -116,7 +116,7 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
   1. Warna
   2. Belahan (_cleavage_) dan Pecahan (_frature_): belahan terbentuk dan digunakan untuk klasifikasi mineral dengan ikatan antar molekul yang lemah pada satu atau beberapa bidang tertentu. Sementara itu, pecahan digunakan ketika mineral memiliki ikatan molekul yang sama kuat ke semua arah.
   3. Massa Jenis: massa per volume.
-  4. Kilap (_luster_): karakteristik pemantulan cahaya pada mineral. Kilap mineral dibagi menjadi kilap logam dan non-logam. Kilap non-logam meliputi kilap berlian (_adamantine_), kilap kaca (_vitreous_), kilap lemak (_greasy/dull_), kilap tanah (_earthy/dull_), kilap resin, kilap permata (_pearly_), dan kilap sutra.\
+  4. Kilap (_luster_): karakteristik pemantulan cahaya pada mineral. Kilap mineral dibagi menjadi kilap logam dan non-logam. Kilap non-logam meliputi kilap berlian (_adamantine_), kilap kaca (_vitreous_), kilap lemak (_greasy/waxy_), kilap tanah (_earthy/dull_), kilap resin, kilap permata (_pearly_), dan kilap sutra.\
      <img width="699" height="537" alt="Kilap mineral" src="https://github.com/user-attachments/assets/2f520bb4-d731-4b95-b7d9-cb67582d0a80" />
 
   5. Cerat (_streak_): warna mineral dalam bentuk bubuk.
@@ -172,17 +172,24 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
      - Urutan mineral berdasarkan suhu titik beku/titik leleh disebut Deret Reaksi Bowen.
      - Mineral basa memiliki titik beku lebih tinggi daripada mineral asam.
        <img width="833" height="486" alt="Deret Bowen" src="https://github.com/user-attachments/assets/e0a4658a-ef72-4058-8218-d72cb5e57c5f" />\
-       Deret Bowen memiliki 2 sisi, deret kontinyu di bagian kanan dan deret diskontinyu di bagian kiri.
+       Deret Bowen memiliki 2 sisi, deret kontinyu di bagian kanan dan deret diskontinyu di bagian kiri. Deret kontinyu menunjukkan spektrum penurunan kadar kalsium dan peningkatan kadar sodium dalam mineral plagioklas feldspar ((Ca,Na)(Al,Si)₄O₈). Anortit feldspar memiliki metal kalsium (Ca) dan tidak memiliki sodium (Na), sebaliknya albit feldspar memiliki sodium (Na) dan tidak memiliki kalsium (Ca). Deret diskontinyu memiliki senyawa kimia yang sama sekali berbeda di tiap mineralnya. Mineral kuarsa (_quartz_, SiO₂) memiliki titik leleh paling rendah.
   2. Asimilasi: pertukaran mineral antara magma cair dan batuan padat di sekitarnya.
   3. Percampuran magma (_magma mingling/magma mixing_): magma yang lama berada di dapur magma (simpanan/reservoir magma bagian dari gunungapi) bercampur dengan magma baru dari Astenosfer.
-- Klasifikasi komposisi mineral magma yaitu:
-<img width="1024" height="768" alt="Klasifikasi Komposisi Mineral Magma" src="https://github.com/user-attachments/assets/c558ce12-d389-4276-9209-27e3233f3687" />
+- Klasifikasi komposisi magma berdasarkan mineral yang dibentuk yaitu:\
+  <img width="1024" height="768" alt="Klasifikasi Komposisi Mineral Magma" src="https://github.com/user-attachments/assets/c558ce12-d389-4276-9209-27e3233f3687" />
+  - Diagram menunjukkan komposisi magma berdasarkan mineral yang dibentuk.
+  - Komposisi asam disebut juga magma felsik atau granitik, intermediet disebut juga andesitik, basa disebut juga basaltik atau mafik, dan ultrabasa disebut juga ultramafik.
+  - Bagian tengah diagram menunjukkan persentase mineral yang terkandung dalam tiap klasifikasi, misalnya komposisi paling asam mengandung 20% kuarsa, 60% potasium feldspar, dan 20% plagioklas feldspar dan muskovit.
+  - Semakin basa komposisi magma, kandungan silika, potasium, dan sodiumnya semakin rendah, sedangkan kandungan besi, magnesium, dan kalsium, serta suhu titik lelehnya semakin tinggi. 
 
-
-Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan. Kristal mineral berukuran besar berarti pembekuan batuan terjadi secara lambat di kedalaman Bumi, sehingga mineral dapat tumbuh membentuk kristal berukuran besar atau bertekstur kasar (faneritik). Sementara itu, pembekuan yang terjadi di dekat permukaan Bumi tidak memiliki waktu yang panjang untuk pertumbuhan kristal, sehingga membentuk kristal berukuran kecil (tidak kasatmata) atau bertekstur halus (afanitik). Batuan beku juga dapat terbentuk tanpa membentuk kristal. Tekstur batuan tanpa kristal dinamakan tekstur gelas.
-
-Klasifikasi batuan beku yaitu:
-<img width="1037" height="557" alt="Klasifikasi Batuan Beku" src="https://github.com/user-attachments/assets/cfcfce4c-2723-4824-9107-7333d1c40229" />
+- Tekstur yang dimaksud adalah ukuran kristal mineral yang membentuk batuan.
+- Kristal mineral berukuran besar berarti pembekuan batuan terjadi secara lambat di kedalaman Bumi, sehingga mineral dapat tumbuh membentuk kristal berukuran besar atau bertekstur kasar (faneritik).
+- Sementara itu, pembekuan yang terjadi di dekat permukaan Bumi tidak memiliki waktu yang panjang untuk pertumbuhan kristal, sehingga membentuk kristal berukuran kecil (tidak kasatmata) atau bertekstur halus (afanitik).
+- Batuan beku juga dapat terbentuk tanpa membentuk kristal. Tekstur batuan tanpa kristal dinamakan tekstur gelas.
+- Klasifikasi batuan beku yaitu:\
+  <img width="1037" height="557" alt="Klasifikasi Batuan Beku" src="https://github.com/user-attachments/assets/cfcfce4c-2723-4824-9107-7333d1c40229" />
+  - Nama batuan ditunjukkan pada baris 3 - 6 diagram.
+  - Cara membaca diagram misalnya, terdapat batuan sedimen dengan warna terang dan tekstur afanitik, maka lihat kolom komposisi kedua (granitik) dan baris keempat (fine-grained), nama batuan beku tersebut adalah riolit (_rhyolite_).
 
 ### 3.3.2. Identifikasi Batuan Sedimen
 Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus. Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya. Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
