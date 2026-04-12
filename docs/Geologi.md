@@ -95,6 +95,10 @@ Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai ha
       <img width="640" height="360" alt="Morfologi batas lempeng transform" src="https://github.com/user-attachments/assets/1e36e7e5-b6c2-4f34-a04b-af409ab4f404" />\
       Batas lempeng transform membentuk punggungan atau barisan perbukitan ketinggian rendah dari akumulasi material ketika sesar mengalami gerakan.
 
+- Perubahan pada pola konveksi mantel menyebabkan suatu batas lempeng dapat mengalami perubahan tipe. Ketika gerakan divergen maka samudera akan terbentuk dan ketika gerakan konvergen maka luas samudera akan berkurang hingga akhirnya hilang. Gerakan ini dideskripsikan dalam Siklus Wilson.
+  <img width="772" height="593" alt="Siklus Wilson" src="https://github.com/user-attachments/assets/f15685cc-b21b-425d-80fa-eec1306b22b6" />
+- Siklus Wilson memiliki 6 tahap, A hingga F, dengan 3 tahap pertama dibentuk gerakan lempeng divergen, selanjutnya dibentuk gerakan konvergen subduksi, dan pada 2 tahap terakhir gerakan lempeng berupa konvergen kolisi.
+
 # 3. Petrografi
 ## 3.1. Mineral
 Mineral memiliki 5 sifat:
