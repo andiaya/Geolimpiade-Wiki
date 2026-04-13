@@ -39,16 +39,34 @@ sidebar:
   - Tipe bidang proyeksi menentukan lokasi di bola Bumi yang bertampalan dengan bidang proyeksi.
   - Lokasi yang bertampalan dengan bidang proyeksi memiliki distorsi paling rendah.
   - Tipe bidang proyeksi yaitu:
-    1. Silinder : bertampalan dengan bola Bumi pada keliling terpanjang Bumi.
-    2. Kerucut : bertampalan dengan bola Bumi pada keliling Bumi yang bukan merupakan keliling terpanjang.
-    3. Planar: bertampalan dengan bola Bumi pada 1 titik.
+    1. Silinder (_Cylindrical_): bertampalan dengan bola Bumi pada keliling terpanjang Bumi.
+    2. Kerucut (_Conical_): bertampalan dengan bola Bumi pada keliling Bumi yang bukan merupakan keliling terpanjang.
+    3. Planar (_Azimuthal_): bertampalan dengan bola Bumi pada 1 titik. Peta hanya bisa menggambarkan satu belahan Bumi.
+       - Tipe proyeksi azimuthal dapat diklasifikasikan menjadi 3 jenis berdasarkan penempatan titik hilang perspektifnya (_vanishing point_). Klasifikasi tersebut yaitu:
+         1. Gnomonik: memiliki titik hilang di pusat Bumi. Seluruh garis lurus jika digambarkan pada globe juga terlihat lurus pada peta gnomonik.
+         2. Stereografik: memiliki titik hilang di sisi Bumi berlawanan. Proyeksi Stereografik mempertahankan bentuk kenampakan di permukaan Bumi dengan mempertahankan sudut.
+         3. Orthografik: memiliki titik hilang di jarak tak hingga. Peta nampak seperti kenampakan globe dari sisi samping.
+    
+    <img width="316" height="159" alt="tipe bidang proyeksi" src="https://github.com/user-attachments/assets/38a4640b-b15f-400a-8ae2-f2188c3341e9" />\
+    Urut dari kiri ke kanan bidang proyeksi silinder, kerucut, dan planar
+    
+    <img width="286" height="176" alt="tipe proyeksi azimuthal" src="https://github.com/user-attachments/assets/99739b72-165c-45c1-a394-9ebd28b54ea6" />\
+    Urut dari kiri ke kanan tipe proyeksi azimuthal gnomonik, stereografik, dan orthografik
 
-## 2.2. Sumber Pencahayaan
-## 2.3. Karakteristik Proyeksi Peta
+  - Orientasi bidang proyeksi terhadap bola Bumi juga mempengaruhi area Bumi yang bertampalan. Orientasi bidang proyeksi tersebut yaitu:
+    1. Normal: bidang proyeksi memiliki orientasi tegak terhadap bola Bumi. Bidang silinder akan bertampalan di ekuator, bidang kerucut bertampalan di lintang sedang, dan bidang planar bertampalan di satu titik di ekuator.
+    2. Transverse: bidang proyeksi berorientasi rebah terhadap bola Bumi. Bidang silinder bertampalan di garis meridian dan antimeridian dan seterusnya.
+    3. Oblique: bidang proyeksi berorientasi miring terhadap bola Bumi. Bidang silinder bertampalan memotong 2 garis lintang sedang dan seterusnya.\
+    <img width="384" height="131" alt="image" src="https://github.com/user-attachments/assets/247d3f42-bcac-4dc1-ae7f-fbdc172a38a3" />\
+    Urut dari kiri ke kanan bidang proyeksi normal, transverse, dan oblique
+  
+  ## 2.2. Karakteristik Proyeksi Peta
+  - Proyeksi menyebabkan distorsi atau perubahan dari bentuk asli permukaan Bumi dengan yang ditunjukkan pada peta.
 
 # 3. Sistem Koordinat
 
 # 4. Membaca dan Menginterpretasi Peta
+- Arah
 - Jarak
 - Kemiringan
 - Volume
