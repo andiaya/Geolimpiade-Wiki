@@ -8,7 +8,10 @@ sidebar:
   nav: "docs"
 ---
 # 1. Peta
-- Definisi
+- Peta adalah gambaran permukaan Bumi menggunakan simbol pada bidang datar dan digambar berdasarkan skala.
+  - Menggunakan simbol artinya menggunakan bentuk-bentuk geometris untuk mewakili kenampakan di Bumi sebenarnya.
+  - Pada bidang datar maksudnya digambar pada media 2 dimensi. Perubahan geometris dari bidang 3 dimensi ke 2 dimensi memerlukan adanya proyeksi matematis.
+  - Penggambaran berdasarkan skala artinya peta mempertahankan proporsi dunia nyata, hanya nilainya saja yang dibuat  
 - Tipe
 - Unsur Peta
 # 2. Proyeksi Peta
