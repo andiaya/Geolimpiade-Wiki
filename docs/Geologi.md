@@ -192,26 +192,30 @@ Skala Mohs dapat membantu identifikasi sidik cepat lapangan menggunakan benda pe
   - Cara membaca diagram misalnya, terdapat batuan sedimen dengan warna terang dan tekstur afanitik, maka lihat kolom komposisi kedua (granitik) dan baris keempat (fine-grained), nama batuan beku tersebut adalah riolit (_rhyolite_).
 
 ### 3.3.2. Identifikasi Batuan Sedimen
-Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus. Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya. Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
-
-Klasifikasi batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terbentuk dari deposisi mineral dari larutan (batuan sedimen kimiawi) atau dari proses biologis (batuan sedimen biologis). Batuan sedimen kimiawi dan biologis diklasifikasikan berdasarkan jenis mineral pembentuknya.
-
-Klasifikasi batuan sedimen yaitu:
-<img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />
+- Batuan sedimen yang terbentuk dari pecahan batuan lain disebut batuan sedimen klastik atau batuan sedimen detritus.
+  - Batuan sedimen yang terbentuk dari pecahan batuan berbagai jenis diklasifikasikan berdasarkan ukuran sedimen pembentuknya.
+  - Ukuran sedimen diklasifikasikan berdasarkan klasifikasi skala Wentworth sebagai berikut:
+    <img width="875" height="264" alt="image" src="https://github.com/user-attachments/assets/e82b1bab-b047-43ad-967f-3aef14182f9f" />
+  - Sementara itu, batuan sedimen klastik yang berasal dari sedimen khas seperti cangkang kerang memiliki nama khusus.
+  - Klasifikasi batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terbentuk dari deposisi mineral dari larutan (batuan sedimen kimiawi) atau dari proses biologis (batuan sedimen biologis).
+  - Batuan sedimen kimiawi dan biologis diklasifikasikan berdasarkan jenis mineral pembentuknya.
+- Klasifikasi batuan sedimen yaitu:\
+  <img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />
 
 ### 3.3.3. Identifikasi Batuan Metamorf
-Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya. Batuan induk (protolith) merupakan sebutan untuk batuan asal yang mengalami proses metamorfisme. Foliasi adalah penyejajaran mineral batuan akibat suhu dan tekanan tinggi.
-
-Batuan metamorf dengan tekstur foliasi umumnya terbentuk akibat metamorfisme regional. Batuan metamorf juga dapat ditemukan tanpa tekstur foliasi, terutama yang terbentuk karena metamorfisme kontak atau metamorfisme dinamik.
-
-Klasifikasi batuan metamorf yang umum yaitu sebagai berikut:
-<img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />
+- Batuan metamorf diidentifikasi berdasarkan batuan induknya dan derajat foliasinya.
+  - Batuan induk (_protolith_) merupakan sebutan untuk batuan asal yang mengalami proses metamorfisme.
+  - Foliasi adalah penyejajaran mineral batuan akibat suhu dan tekanan tinggi.
+- Batuan metamorf dengan tekstur foliasi umumnya terbentuk akibat metamorfisme regional.
+- Batuan metamorf juga dapat ditemukan tanpa tekstur foliasi, terutama yang terbentuk karena metamorfisme kontak atau metamorfisme dinamik.
+- Klasifikasi batuan metamorf yang umum yaitu sebagai berikut:\
+  <img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />
 
 # 4. Stratigrafi
-Ilmu terkait deskripsi strata (lapisan) batuan. Stratigrafi digunakan untuk membantu penentuan asal pembentukan, hubungan, dan sebaran lapisan batuan.
-
-Analisis lapisan (strata) batuan dilakukan berdasarkan hukum stratigrafi Steno. Terdapat 4 hukum Steno, yaitu:
+- Ilmu terkait deskripsi strata (lapisan) batuan. Stratigrafi digunakan untuk membantu penentuan asal pembentukan, hubungan, dan sebaran lapisan batuan.
+- Analisis lapisan (strata) batuan dilakukan berdasarkan hukum stratigrafi Steno. Terdapat 4 hukum Steno, yaitu:
   1. Superposisi (superposition): lapisan batuan yang lebih muda berada di atas lapisan yang lebih tua.
   2. Horizontalitas asli (original horizontality): lapisan batuan membentuk lapisan datar (horizontal) saat pembentukannya.
   3. Hubungan potong memotong (cross-cutting relationship): batuan yang memotong lapisan batuan lain berusia lebih muda daripada batuan yang terpotong.
   4. Kesinambungan lateral (lateral continuity): lapisan batuan berkesinambungan atau terus menerus berlanjut hingga mencapai halangan tertentu atau terkena erosi setelah terjadi deposisi.
+<img width="990" height="610" alt="Hukum Steno" src="https://github.com/user-attachments/assets/fbdcf03a-d558-4ecb-adbc-e35f51d0de0a" />
