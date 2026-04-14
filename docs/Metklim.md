@@ -130,79 +130,84 @@ Apa yang dimaksud kondisi atmosfer?
 	Barograf ([By Daderot - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=29312386))
 
 ## 3.2. Radiasi Matahari
-Radiasi yang datang dari Matahari seringkali disebut insolasi (Incoming Solar Radiation -> Insolation). Bumi memiliki bentuk bulat, sehingga sinar Matahari datang dengan sudut miring di dekat Kutub Bumi. Hal tersebut menyebabkan energi yang sama mengenai daerah yang lebih luas di dekat Kutub (lintang tinggi) daripada di ekuator (khatulistiwa, lintang rendah). Akibatnya, energi yang diterima di satu area di lintang tinggi (dekat kutub) lebih rendah daripada energi di area dengan luas yang sama di lintang rendah (khatulistiwa/ekuator).\
-![Sudut datang radiasi Matahari](https://github.com/user-attachments/assets/77cdc312-3b32-4478-a277-6f7f0eacb3cc)
+- Radiasi yang datang dari Matahari seringkali disebut insolasi (_Incoming Solar Radiation_ -> Insolation).
+- Bumi memiliki bentuk bulat, sehingga sinar Matahari datang dengan sudut miring di dekat Kutub Bumi. Hal tersebut menyebabkan energi yang sama mengenai daerah yang lebih luas di dekat Kutub (lintang tinggi) daripada di ekuator (khatulistiwa, lintang rendah).
+- Akibatnya, energi yang diterima di satu area di lintang tinggi (dekat kutub) lebih rendah daripada energi di area dengan luas yang sama di lintang rendah (khatulistiwa/ekuator).\
+	![Sudut datang radiasi Matahari](https://github.com/user-attachments/assets/77cdc312-3b32-4478-a277-6f7f0eacb3cc)\
+	Perbandingan Sudut Datang dan Kerapatan Energi di Lintang Tinggi dan Lintang Rendah (Ahrens, 2009)
 
-Perbandingan Sudut Datang dan Kerapatan Energi di Lintang Tinggi dan Lintang Rendah (Ahrens, 2009)
+	<img width="1390" height="761" alt="image" src="https://github.com/user-attachments/assets/1be05135-a152-4977-9bdf-6520f69109a3" />\
+	Perbandingan Kerapatan Energi Matahari pada Luas Permukaan Bumi yang Sama di Berbagai Lintang.
 
-Insolasi diserap, dipantulkan, dan dihamburkan oleh atmosfer, awan, dan permukaan Bumi. Pada neraca energi Bumi, 30% insolasi dilepaskan kembali oleh sistem Bumi melalui hamburan dan pantulan dalam bentuk aslinya, gelombang pendek. Perbandingan nilai pantulan terhadap energi datang disebut albedo. Benda yang berwarna terang dan bertekstur halus memiliki albedo tinggi, begitu pula sebaliknya. Energi dari insolasi yang lain sebesar 70% diserap oleh sistem Bumi yang kemudian dilepaskan melalui radiasi gelombang panjang, termasuk inframerah termal.\
-![Reflect and scatter balance.](https://github.com/user-attachments/assets/f9ed66f9-a9a1-48af-b252-6b2662847e89)
+- Insolasi diserap, dipantulkan, dan dihamburkan oleh atmosfer, awan, dan permukaan Bumi. Seluruh energi yang masuk ke sistem Bumi akan memiliki jumlah yang sama dengan energi yang keluar. Kondisi ini disebut neraca energi.
+- Pada neraca energi Bumi, 30% insolasi dilepaskan kembali oleh sistem Bumi melalui hamburan dan pantulan dalam bentuk aslinya, gelombang pendek.
+- Perbandingan nilai pantulan terhadap energi datang disebut **albedo**.
+- Benda yang berwarna terang dan bertekstur halus memiliki albedo tinggi, begitu pula sebaliknya.
+- Energi dari insolasi yang lain sebesar 70% diserap oleh sistem Bumi yang kemudian dilepaskan melalui radiasi gelombang panjang.\
+	![Reflect and scatter balance.](https://github.com/user-attachments/assets/f9ed66f9-a9a1-48af-b252-6b2662847e89)\
+	Insolasi (Radiasi Gelombang Pendek) dalam Neraca Energi (Energy Balance) Bumi (Ahrens, 2009)
 
-Insolasi (Radiasi Gelombang Pendek) dalam Neraca Energi (Energy Balance) Bumi (Ahrens, 2009)
+	![Absorp balance.](https://github.com/user-attachments/assets/37b73e44-ae10-4c2d-a648-254405135ab7)\
+	Radiasi Gelombang Panjang Bumi dalam Neraca Energi Bumi (Ahrens, 2009)
 
-![Absorp balance.](https://github.com/user-attachments/assets/37b73e44-ae10-4c2d-a648-254405135ab7)
+	![Radiasi matahari dan Bumi.](https://www.researchgate.net/profile/Bassim-Hashim/publication/340006026/figure/fig1/AS:870515577192449@1584558495641/Figure-1-2-Comparison-of-the-intensity-of-solar-and-radiation-emitted-by-the-earth-5_W640.jpg)\
+	Spektrum Radiasi Matahari dan Bumi ([Hashim, 2016](https://www.researchgate.net/profile/Bassim-Hashim/publication/340006026/figure/fig1/AS:870515577192449@1584558495641/Figure-1-2-Comparison-of-the-intensity-of-solar-and-radiation-emitted-by-the-earth-5_W640.jpg))
 
-Radiasi Gelombang Panjang Bumi dalam Neraca Energi Bumi (Ahrens, 2009)
+- Parameter yang diukur dari radiasi Matahari yaitu lama penyinaran dan intensitas penyinaran.
+- Lama penyinaran Matahari ditunjukkan dengan satuan jam.
+- Intensitas penyinaran ditunjukkan dengan satuan Kalori/meter2 atau Watt/meter2.
+- Instrumen pengukuran radiasi Matahari adalah sebagai berikut:
+	- Campbell-Stokes Sunshine Recorder\
+ 	  Campbell-Stokes merekam lama penyinaran Matahari. Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias. Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias. Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis. Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek. Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang. Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari. Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.
 
-![Radiasi matahari dan Bumi.](https://www.researchgate.net/profile/Bassim-Hashim/publication/340006026/figure/fig1/AS:870515577192449@1584558495641/Figure-1-2-Comparison-of-the-intensity-of-solar-and-radiation-emitted-by-the-earth-5_W640.jpg)
+ 	![Campbell-stokes.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Campbell-Stokes_recorder.jpg/1280px-Campbell-Stokes_recorder.jpg?20160322083124)\
+  	Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
 
-Spektrum Radiasi Matahari dan Bumi ([Hashim, 2016](https://www.researchgate.net/profile/Bassim-Hashim/publication/340006026/figure/fig1/AS:870515577192449@1584558495641/Figure-1-2-Comparison-of-the-intensity-of-solar-and-radiation-emitted-by-the-earth-5_W640.jpg))
+	- Gunn-Bellani Radiation Integrator\
+   		Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari. Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam. Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air. Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
 
-Parameter yang diukur dari radiasi Matahari dapat berupa lama penyinaran maupun intensitas penyinaran. Lama penyinaran Matahari ditunjukkan dengan satuan jam, sedangkan intensitas penyinaran ditunjukkan dengan satuan Kalori/meter2 atau Watt/meter2. Instrumen pengukuran radiasi Matahari adalah sebagai berikut:
-* Campbell-Stokes Sunshine Recorder\
-  Campbell-Stokes merekam lama penyinaran Matahari. Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias. Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias. Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis. Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek. Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang. Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari. Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.
-
-  ![Campbell-stokes.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Campbell-Stokes_recorder.jpg/1280px-Campbell-Stokes_recorder.jpg?20160322083124)
-
-  Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
-  
-* Gunn-Bellani Radiation Integrator\
-  Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari. Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam. Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air. Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
-
-  ![Gunn-Bellani.](https://upload.wikimedia.org/wikipedia/commons/6/69/Lucim%C3%A8tre_Bellani.jpg?20170426072243)
-
+  ![Gunn-Bellani.](https://upload.wikimedia.org/wikipedia/commons/6/69/Lucim%C3%A8tre_Bellani.jpg?20170426072243)\
   Gunn-Bellani Radiation Integrator ([By Bachelot Pierre J-P, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=58320312))
   
-* Pyranometer\
-  Pyranometer juga merupakan salah satu tipe aktinometer. Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2. Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik. Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.
+	- Pyranometer\
+		Pyranometer juga merupakan salah satu tipe aktinometer. Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2. Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik. Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.
 
-  ![Pyranometer](https://upload.wikimedia.org/wikipedia/commons/5/53/Hukseflux_radiometer_sr11_photo.jpg?20090814130014)
-
+  ![Pyranometer](https://upload.wikimedia.org/wikipedia/commons/5/53/Hukseflux_radiometer_sr11_photo.jpg?20090814130014)\
   Pyranometer ([By Hukseflux - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=7559356))
 
 ## 3.3. Temperatur Udara
-Temperatur atau suhu udara adalah rata-rata energi kinetik yang dimiliki molekul udara. Energi kinetik tersebut diperoleh dari radiasi Matahari. Radiasi yang datang dari Matahari seringkali disebut insolasi (Incoming Solar Radiation -> Insolation). Suhu udara Bumi tidak seragam karena pemanasan yang terjadi pada atmosfer tidak merata. Variasi pemanasan ini disebabkan karena:
+- Temperatur atau suhu udara adalah rata-rata energi kinetik yang dimiliki molekul udara.
+- Suhu udara Bumi tidak seragam karena pemanasan yang terjadi pada atmosfer tidak merata. Variasi pemanasan ini disebabkan karena:
+	1. Pengaruh sudut datang radiasi Matahari\
+		Kerapatan energi radiasi Matahari yang diperoleh lintang rendah dan rintang tinggi berbeda, menyebabkan perbedaan pemanasan atmosfer.
+	2. Perbedaan daratan dan lautan\
+		Distribusi daratan dan lautan menyebabkan perbedaan pemanasan udara yang terjadi karena 4 faktor:
+		- Evaporasi\
+  			Air menyerap energi Matahari untuk berubah dari fase cair menjadi fase gas (evaporasi). Energi ini disebut kalor laten, karena tidak menyebabkan kenaikan suhu udara. Sebaliknya, energi yang digunakan untuk memanaskan udara disebut kalor sensibel. Lautan mengalami evaporasi yang lebih tinggi daripada daratan, sehingga lebih banyak energi terserap oleh air untuk berubah menjadi gas. Hal ini menyebabkan pemanasan udara di atas laut lebih rendah. Sebaliknya, ketika tidak terjadi pemanasan, lautan memiliki lebih banyak energi tersimpan dalam bentuk kalor laten yang dapat berubah menjadi kalor sensibel (kenaikan suhu udara) ketika uap air mengalami kondensasi.
+		- Transparansi permukaan\
+  			Daratan lebih efektif dalam memanaskan udara karena energi Matahari hanya mengenai permukaannya saja. Ketika insolasi mengenai permukaan tanah, energi radiasi tersebut diserap oleh tanah sehingga mengalami peningkatan suhu. Tanah yang panas tersebut melepaskan panasnya dengan konduksi ke lapisan tanah di bawahnya dan udara di atasnya. Tanah juga melepaskan radiasi gelombang panjang yang disebut inframerah termal. Inilah yang menyebabkan pemanasan udara. Jika kita bandingkan dengan lautan, air laut bersifat transparan, sehingga tidak seluruh energi radiasi Matahari diubah menjadi panas di permukaan laut. Sebagian terus merambat masuk ke kedalaman. Ketika energi itu diubah menjadi panas oleh air di bawah permukaan, kalor yang terbentuk terserap menjadi kalor lautan. Hal ini menyebabkan pemanasan udara yang lebih rendah oleh lautan.
+    	- Kalor jenis\
+			Kalor jenis adalah jumlah energi yang dibutuhkan untuk meningkatkan suhu suatu benda sebesar 1&deg;C. Air memiliki kalor jenis lebih tinggi daripada kebanyakan senyawa alami di Bumi, termasuk daratan dan penutupnya. Hal tersebut menyebabkan lebih banyak energi Matahari yang dikonversi menjadi panas di daratan daripada di lautan, sehingga pemanasan udara yang terjadi lebih tinggi.
+		- Percampuran dan sirkulasi\
+  			Lautan dapat mentransfer energi yang diperoleh melalui konveksi atau aliran, sedangkan daratan tidak bisa mengalir. Konveksi inilah yang menjadi pemicu sirkulasi lautan baik lokal maupun global. Proses ini menyebabkan lebih sedikit energi yang kembali dilepaskan lautan untuk memanaskan udara. Keempat faktor ini menyebabkan perubahan suhu udara di darat, baik pemanasan maupun pendinginan, lebih cepat daripada perubahan suhu di atas lautan.
 
-a. Pengaruh sudut datang radiasi Matahari\
-Kerapatan energi radiasi Matahari yang diperoleh lintang rendah dan rintang tinggi berbeda, menyebabkan perbedaan pemanasan atmosfer.
+			![Ilustrasi insolasi darat laut.](https://github.com/user-attachments/assets/2c4b48cb-b9ad-4951-8d3f-88ddc4b80a3f)\
+			Ilustrasi Perbedaan Respon Daratan dan Lautan terhadap Insolasi ([Wiseman, 2019](https://people.brandonu.ca/wiseman/files/Topic4TempAtmCircClimate-4.pdf))
 
-b. Perbedaan daratan dan lautan\
-Distribusi daratan dan lautan menyebabkan perbedaan pemanasan udara yang terjadi karena 4 faktor:
-* Evaporasi\
-  Air menyerap energi Matahari untuk berubah dari fase cair menjadi fase gas (evaporasi). Energi ini disebut kalor laten, karena tidak menyebabkan kenaikan suhu udara. Sebaliknya, energi yang digunakan untuk memanaskan udara disebut kalor sensibel. Lautan mengalami evaporasi yang lebih tinggi daripada daratan, sehingga lebih banyak energi terserap oleh air untuk berubah menjadi gas. Hal ini menyebabkan pemanasan udara di atas laut lebih rendah. Sebaliknya, ketika tidak terjadi pemanasan, lautan memiliki lebih banyak energi tersimpan dalam bentuk kalor laten yang dapat berubah menjadi kalor sensibel (kenaikan suhu udara) ketika uap air mengalami kondensasi.
-* Transparansi permukaan\
-  Daratan lebih efektif dalam memanaskan udara karena energi Matahari hanya mengenai permukaannya saja. Ketika insolasi mengenai permukaan tanah, energi radiasi tersebut diserap oleh tanah sehingga mengalami peningkatan suhu. Tanah yang panas tersebut melepaskan panasnya dengan konduksi ke lapisan tanah di bawahnya dan udara di atasnya. Tanah juga melepaskan radiasi gelombang panjang yang disebut inframerah termal. Inilah yang menyebabkan pemanasan udara. Jika kita bandingkan dengan lautan, air laut bersifat transparan, sehingga tidak seluruh energi radiasi Matahari diubah menjadi panas di permukaan laut. Sebagian terus merambat masuk ke kedalaman. Ketika energi itu diubah menjadi panas oleh air di bawah permukaan, kalor yang terbentuk terserap menjadi kalor lautan. Hal ini menyebabkan pemanasan udara yang lebih rendah oleh lautan.
-* Kalor jenis\
-  Kalor jenis adalah jumlah energi yang dibutuhkan untuk meningkatkan suhu suatu benda sebesar 1&deg;C. Air memiliki kalor jenis lebih tinggi daripada kebanyakan senyawa alami di Bumi, termasuk daratan dan penutupnya. Hal tersebut menyebabkan lebih banyak energi Matahari yang dikonversi menjadi panas di daratan daripada di lautan, sehingga pemanasan udara yang terjadi lebih tinggi.
-* Percampuran dan sirkulasi\
-  Lautan dapat mentransfer energi yang diperoleh melalui konveksi atau aliran, sedangkan daratan tidak bisa mengalir. Konveksi inilah yang menjadi pemicu sirkulasi lautan baik lokal maupun global. Proses ini menyebabkan lebih sedikit energi yang kembali dilepaskan lautan untuk memanaskan udara. Keempat faktor ini menyebabkan perubahan suhu udara di darat, baik pemanasan maupun pendinginan, lebih cepat daripada perubahan suhu di atas lautan.
+	3. Penyerapan, penghamburan, dan pemantulan radiasi Matahari\
+		Temperatur udara dipengaruhi oleh radiasi gelombang panjang yang terbentuk dari pemancaran radiasi gelombang pendek Matahari setelah mengalami penyerapan. Semakin tinggi penyerapan oleh permukaan Bumi, semakin banyak energi yang dikonversi menjadi inframerah termal, meningkatkan pemanasan terhadap udara. Sebaliknya, semakin tinggi penghamburan dan pemantulan radiasi gelombang pendek Matahari oleh awan, atmosfer, dan permukaan Bumi, maka semakin rendah konversi dan pemanasan terhadap udara.
 
-![Ilustrasi insolasi darat laut.](https://github.com/user-attachments/assets/2c4b48cb-b9ad-4951-8d3f-88ddc4b80a3f)
+- Temperatur udara umumnya diukur dalam 2 satuan, derajat Celcius (&deg;C) dan derajat Farenheit (&deg;F). Konversi antara keduanya dapat dilakukan menggunakan rumus berikut ini:\
+	C = 5/9 (F – 32) \
+	F = 9/5 C + 32
 
-Ilustrasi Perbedaan Respon Daratan dan Lautan terhadap Insolasi ([Wiseman, 2019](https://people.brandonu.ca/wiseman/files/Topic4TempAtmCircClimate-4.pdf))
+- Instrumen pengukuran suhu adalah termometer. Parameter suhu yang diukur adalah suhu tertinggi (maksimal) dan terendah (minimal) harian. Pengukuran tersebut dilakukan dengan termometer suhu maksimum dan minimum.
+- Termometer maksimum memiliki leher dengan diameter sempit, sehingga ketika air raksa di dalamnya memuai karena panas, ujung kolom akan menunjukkan nilai suhu tertinggi, dan ketika suhu turun, kolom air raksa tersebut akan tetap berada di ketinggian yang sama karena air raksa yang menyusut karena dingin tidak dapat melewati leher gelas yang sempit.
+- Termometer minimum memiliki indeks penanda dalam pipa termometernya yang memungkinkan indeks bergerak turun ketika suhu turun, namun tidak ikut naik ketika suhu naik.
+- Termometer maksimum-minimum diletakkan dalam sangkar stevenson, seperti rumah burung berwarna putih dengan kisi-kisi, untuk mencegah pemanasan langsung Matahari dan angin mempengaruhi hasil pengukuran.
 
-c. Penyerapan, penghamburan, dan pemantulan radiasi Matahari\
-Temperatur udara dipengaruhi oleh radiasi gelombang panjang yang terbentuk dari pemancaran radiasi gelombang pendek Matahari setelah mengalami penyerapan. Semakin tinggi penyerapan oleh permukaan Bumi, semakin banyak energi yang dikonversi menjadi inframerah termal, meningkatkan pemanasan terhadap udara. Sebaliknya, semakin tinggi penghamburan dan pemantulan radiasi gelombang pendek Matahari oleh awan, atmosfer, dan permukaan Bumi, maka semakin rendah konversi dan pemanasan terhadap udara.
-
-Temperatur udara umumnya diukur dalam 2 satuan, derajat Celcius (&deg;C) dan derajat Farenheit (&deg;F). Konversi antara keduanya dapat dilakukan menggunakan rumus berikut ini:\
-C = 5/9 (F – 32) \
-F = 9/5 C + 32
-
-Instrumen pengukuran suhu adalah termometer. Parameter suhu yang diukur adalah suhu tertinggi (maksimal) dan terendah (minimal) harian. Pengukuran tersebut dilakukan dengan termometer suhu maksimum dan minimum. Termometer maksimum memiliki leher dengan diameter sempit, sehingga ketika air raksa di dalamnya memuai karena panas, ujung kolom akan menunjukkan nilai suhu tertinggi, dan ketika suhu turun, kolom air raksa tersebut akan tetap berada di ketinggian yang sama. Termometer minimum memiliki indeks penanda dalam pipa termometernya yang memungkinkan indeks bergerak turun ketika suhu turun, namun tidak ikut naik ketika suhu naik. Termometer maksimum-minimum diletakkan dalam sangkar stevenson, seperti rumah burung berwarna putih dengan kisi-kisi, untuk mencegah pemanasan langsung Matahari dan angin mempengaruhi hasil pengukuran.
-
-![Termometer maksimum-minimum.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2012-06-26_Maximum_and_Minimum_Thermometers_in_a_Cotton_Region_Shelter.JPG/960px-2012-06-26_Maximum_and_Minimum_Thermometers_in_a_Cotton_Region_Shelter.JPG)
-
-Termometer Maksimum (bawah) dan Termometer Minimum (atas) ([By Famartin - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=29055832))
+	![Termometer maksimum-minimum.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2012-06-26_Maximum_and_Minimum_Thermometers_in_a_Cotton_Region_Shelter.JPG/960px-2012-06-26_Maximum_and_Minimum_Thermometers_in_a_Cotton_Region_Shelter.JPG)\
+	Termometer Maksimum (bawah) dan Termometer Minimum (atas) ([By Famartin - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=29055832))
 
 ## 3.4. Kecepatan dan Arah Angin
 Angin adalah udara yang bergerak. Gerakan udara disebabkan karena adanya gradien (perbedaan) tekanan udara. Sehingga, gaya yang menyebabkan angin disebut gaya gradien tekanan. Perbedaan tekanan udara ini utamanya disebabkan karena perbedaaan temperatur di dua lokasi. Temperatur hangat menyebabkan udara menjadi ringan, sehingga akan bergerak ke atas. Akibatnya, tekanan rendah terbentuk pada area tersebut, menyebabkan udara di sekitarnya bergerak mengisi.
