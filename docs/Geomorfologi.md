@@ -171,6 +171,81 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
 # 3. Bentanglahan Fluvial
 - Bentanglahan fluvial dibentuk dari proses **mengalirnya air di permukaan Bumi** (proses fluviatil).
 
+## 3.1. Proses Geomorfologis Bentanglahan Fluvial
+- Proses yang membentuk bentuklahan dalam bentanglahan fluvial meliputi erosi, transportasi, dan deposisi oleh air di permukaan Bumi.
+  - Erosi adalah perusakan dan pemindahan material oleh agen erosi, dalam hal ini air.
+  - Transportasi adalah pemindahan material. Transportasi sungai dapat diklasifikasikan menjadi:
+    1. Sedimen terlarut (_dissolved load_): mineral yang terlarut dalam air.
+    2. Sedimen melayang (_suspended load_): material berukuran debu dan lumpur. Sedimen melayang menyebabkan air keruh.
+    3. Sedimen dasar sungai (_bed load_): material berukuran pasir dan lebih besar. Sedimen dasar sungai dapat bergerak melalui proses:
+       - Saltasi: gerakan melompat-lompat. Gerakan material berukuran pasir hingga kerikil.
+       - Rolling: gerakan menggelinding sedimen berukuran besar dengan permukaan membulat.
+       - Traksi: gerakan bergeser sedimen berukuran besar dengan permukaan datar.
+         <img width="864" height="652" alt="Bed load" src="https://github.com/user-attachments/assets/d78cefb2-add2-4e8c-9dcd-1922c2062cae" />
+  - Deposisi adalah pengendapan material. Seringkali disebut juga sedimentasi.
+- Kontrol proses tersebut adalah kecepatan aliran air.
+  - Kecepatan aliran tinggi akan menyebabkan erosi, kecepatan sedang menyebabkan transportasi, dan kecepatan aliran rendah menyebabkan deposisi.
+  - Ukuran material menentukan kecepatan aliran yang diperlukan untuk menyebabkan proses tertentu.
+  - Grafik yang menunjukkan hubungan ukuran material, kecepatan aliran, dan proses yang terjadi disebut **Kurva Hjulstrom**.
+    <img width="904" height="678" alt="Kurva Hjulstrom" src="https://github.com/user-attachments/assets/ae958586-9e30-4f46-8d63-76776f436e68" />\
+    Kurva Hjulstom. Amati bahwa debu/lanau (_silt_) dan lempung (_clay_) tidak mengalami deposisi meskipun kecepatannya sangat rendah. Hal ini disebabkan karena ukurannya yang sangat kecil sehingga gaya apungnya lebih tinggi daripada gaya gravitasi.
+- Erosi menggerus bentuklahan tinggi dan mengisi bentuklahan rendah. Proses gerusan bentuklahan tinggi disebut degradasi sedangkan pengisian bentuklahan rendah disebut agradasi.
+- Bentanglahan fluvial dibagi menjadi 3 zona berdasarkan tingkat kedewasaan erosinya.
+  - Kedewasaan erosi ditentukan berdasarkan orientasi erosi yang terjadi.
+  - Erosi berusia muda dominan menggerus ke arah bawah.
+    - Hal ini disebabkan karena pada bentanglahan yang baru terbentuk, misalnya ketika pengangkatan atau erupsi gunung api baru terjadi, kemiringan lerengnya akan sangat curam.
+    - Lereng yang curam menyebabkan air mengalir dengan kecepatan tinggi, sehingga dapat mengerosi material berbagai ukuran dengan kuat.
+  - Erosi berusia tua dominan menggerus ke samping.
+    - Gerusan ke samping disebabkan karena inersia dari aliran air yang berbelok.
+- Ukuran maksimal material yang dapat ditransportasikan sungai disebut kompetensi sungai. Kompetensi sungai dikontrol oleh kecepatan aliran.
+- Berat sedimen maksimal yang dapat ditransportasikan sungai disebut kapasitas sungai. Kapasitas sungai dikontrol oleh debit aliran.
+- 3 zona bentanglahan fluvial berdasarkan perkembangan kedewasaan erosinya yaitu:
+  <img width="646" height="364" alt="proses sungai" src="https://github.com/user-attachments/assets/605db6e6-7e48-4c8f-a135-78792f73a871" />\
+  <img width="700" height="426" alt="material sungai" src="https://github.com/user-attachments/assets/5e60b60d-ef2e-4f31-889b-8081766e6ecd" />
+  1. Zona Sungai Stadia Muda (Zona Hulu):
+     - Lereng curam menyebabkan proses dominan yaitu erosi. Erosi berorientasi ke bawah. Proses ini membentuk lembah yang dalam (berbentuk seperti huruf V).
+     - Material yang terdapat di lembah sungai baru mengalami erosi, kecepatan aliran sungai tinggi. Hal ini menyebabkan material sungai berukuran besar dan memiliki tepian runcing (_angular, bad roundness_). Kompetensi sungai tinggi.
+     - Material berukuran besar dan kecil bercampur, disebut juga memiliki sortasi material buruk.
+  2. Zona Sungai Stadia Dewasa (Zona Tengah):
+     - Lereng yang lebih landai menyebabkan proses dominan transportasi. Erosi berorientasi seimbang antara vertikal (ke bawah) dan lateral (ke samping).
+     - Lembah sungai berukuran lebih lebar daripada zona hulu, berbentuk seperti huruf U.
+     - Mulai nampak deposisi di tepi aliran sungai (gosong tepi/_point bar_) dan di tengah sungai (gosong tengah/_channel bar_).
+     - Mulai nampak kelokan sungai (meander).
+     - Kecepatan aliran yang lebih lambat daripada hulu menyebabkan material berukuran besar mengalami deposisi.
+     - Material mengalami erosi saat dalam proses transportasi, sehingga tepi materialnya membulat.
+  3. Zona Sungai Stadia Tua:
+     - Lereng sangat landai menyebabkan proses dominan deposisi. Erosi yang terjadi berorientasi lateral (ke samping) karena aliran air yang berkelok.
+     - Lembah sungai berukuran sangat lebar, berbentuk seperti huruf U dengan dasar lebar.
+     - Terdapat banyak bentukan deposisi di tepi aliran.
+     - Aliran sungai membentuk meander kompleks.
+     - Kecepatan aliran sangat lambat menyebabkan material yang tertransportasi sungai berukuran kecil. Kompetensi sungai rendah.
+     - Namun, debit sungai yang besar dapat mentransportasi material dengan jumlah besar. Kapasitas sungai tinggi.
+     - Material berbentuk bulat (_well rounded_), ukurannya seragam (sortasi baik).
+- Roundness vs. sphericity\
+  <img width="450" height="138" alt="roundness sphericity" src="https://github.com/user-attachments/assets/0aa61671-a1b5-4aaf-aeaf-56c2f6dd4db5" />
+
+## 3.2. Bentuklahan Bentanglahan Fluvial
+- Bentuklahan di Zona Hulu
+  1. Lembah berbentuk V: disebabkan karena erosi vertikal.
+  2. Taji mengunci (_interlocking spurs_): bentanglahan fluvial berbeda dengan bentanglahan lain seperti bentanglahan struktural dan glasial. Air tidak dapat mengerosi menembus halangan topografi, sehingga lembah yang terbentuk berkelok mengelilinginya.\
+     <img width="330" height="476" alt="Bentuklahan hulu" src="https://github.com/user-attachments/assets/9873b6e1-4354-4e97-9508-07619ab12a9f" />
+
+- Bentuklahan di Zona Tengah dan Hilir
+  1. Dataran Banjir (_floodplain_): lembah hasil erosi sungai, terisi oleh material deposisi material aluvial (material hasil transportasi sungai).
+  2. Saluran sungai (_river channel_): lembah berukuran kecil di dalam dataran banjir yang dilalui air sungai.
+  3. Tanggul alami (_natural levee_): tanggul atau tinggian kecil pada tepi saluran sungai. Proses pembentukan tanggul alami yaitu sebagai berikut:\
+     <img width="456" height="592" alt="natural levee" src="https://github.com/user-attachments/assets/453df3a5-e38c-40c4-9da1-6f522a6448e9" />\
+     Ketika banjir terjadi, air meluap lebih tinggi dari tepi saluran sungai dan luas aliran sungai meningkat secara drastis. Akibatnya, kecepatan aliran berkurang dengan drastis dan kapasitas sungai juga berkurang drastis, material yang terbawa sungai cepat mengalami deposisi dekat dengan tepi saluran sungai.
+  4. Rawa Belakang (_backswamp_): rawa yang terbentuk pada dataran banjir. Air terperangkap dan tidak dapat memasuki sungai karena terhalang tanggul alami.
+  5. Yazoo stream: anak sungai yang akan memasuki sungai utama terhalang tanggul alami, sehingga mengalir sejajar dengan sungai utama.
+  6. Meander: kelokan sungai.\
+     <img width="300" height="392" alt="sinous dan meander" src="https://github.com/user-attachments/assets/c8831921-8f99-43f3-a125-093ca7fa5e51" />\
+
+      <img width="300" height="392" alt="pembentukan meander" src="https://github.com/user-attachments/assets/f15a09a1-adcb-47be-8bd9-dee3c56a18fc" />
+
+  <img width="750" height="332" alt="image" src="https://github.com/user-attachments/assets/026a0d51-6b98-497e-9aa5-e288c64eff84" />
+
+
 # 4. Bentanglahan Marine
 Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebelum memperdalam pemahaman mengenai bentanglahan marine, mari mengenal istilah pembagian wilayah kepesisiran terlebih dahulu.
 
@@ -440,6 +515,10 @@ Segitiga klasifikasi gerakan massa menunjukkan klasifikasi gerakan massa berdasa
 
 # 9. Bentanglahan Organik
 - Bentanglahan organik dibentuk dari proses yang berkaitan dengan **makhluk hidup**.
+- Mencakup bentukan-bentukan kecil yang sering termasuk dalam bentanglahan lain, seperti dataran terumbu karang dan mangrove pada bentanglahan marine.
+- Bentanglahan organik jarang keluar dalam soal OSN.
 
 # 10. Bentanglahan Antropogenik
 - Bentanglahan antropogenik dibentuk dari proses yang berkaitan dengan **manusia**.
+- Proses manusia yang mempengaruhi bentuklahan adalah kegiatan penggalian, pemotongan lereng (_cut and fill_, memotong lereng atas dan menimbun lereng bawah), dan pengisian cekungan.
+- Bentanglahan organik jarang keluar dalam soal OSN.
