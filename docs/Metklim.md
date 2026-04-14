@@ -85,27 +85,23 @@ Apa yang dimaksud kondisi atmosfer?
 
 - Berdasarkan fungsinya, terdapat dua bagian atmosfer yang memiliki fungsi tambahan, ozonosfer dan ionosfer.
 	1. Ozonosfer\
-	Konsentrasi ozon tertinggi di atmosfer berada di ketinggian 25 km. Lapisan ozon ini terbentuk dari interaksi radiasi ultraviolet Matahari dengan molekul oksigen atmosfer.
-	 Radiasi ultraviolet menyebabkan fotolisis atau terpecahnya O2 menjadi 2 oksigen radikal (O), kemudian, oksigen radikal ini berikatan dengan O2 lain sehingga menjadi ozon (O3) dengan melepaskan energinya ke molekul udara lain.
-	 Ozon yang sudah terbentuk kemudian menyerap radiasi ultraviolet kembali menjadi O2 dan O dan melepaskan energi dalam bentuk panas. Inilah mekanisme pemanasan lapisan stratosfer dan mesosfer dan penyerapan radiasi ultraviolet Matahari.
+	Konsentrasi ozon tertinggi di atmosfer berada di ketinggian 25 km. Lapisan ozon ini terbentuk dari interaksi radiasi ultraviolet Matahari dengan molekul oksigen atmosfer. Radiasi ultraviolet menyebabkan fotolisis atau terpecahnya O2 menjadi 2 oksigen radikal (O), kemudian, oksigen radikal ini berikatan dengan O2 lain sehingga menjadi ozon (O3) dengan melepaskan energinya ke molekul udara lain. Ozon yang sudah terbentuk kemudian menyerap radiasi ultraviolet kembali menjadi O2 dan O dan melepaskan energi dalam bentuk panas. Inilah mekanisme pemanasan lapisan stratosfer dan mesosfer dan penyerapan radiasi ultraviolet Matahari.
 	
 	2. Ionosfer\
 	Radiasi ultraviolet, sinar X, dan gelombang pendek lain dari Matahari juga mengenai dan memecah molekul gas di lapisan lebih tinggi dari stratosfer (> 50 km). Ketika itu terjadi, elektron bebas dapat terlepas dari atom gas dalam proses yang disebut ionisasi. Pada lapisan atmosfer tinggi tersebut, molekul udara menjadi sangat jarang, sehingga elektron bebas tidak langsung bertemu atau ditangkap atom atmosfer lain. Keberadaan elektron bebas inilah yang menjadi ciri lapisan ionosfer.
 		- Ionosfer memiliki lapisan yang dibedakan berdasarkan jumlah elektron bebas, sebagai berikut:
 
 			a. Lapisan D\
-			Lapisan D berada di ketinggian 48 - 90 km. Di ketinggian paling rendah, lapisan D memiliki kerapatan udara yang masih cukup tinggi, sehingga memiliki jumlah elektron bebas yang paling rendah.
-			 Lapisan D hanya terbentuk di siang hari saat radiasi yang diterima Bumi memiliki kekuatan yang cukup untuk menembus ke dalam atmosfer. Proses ditangkapnya elektron yang sering terjadi di lapisan ini menyerap energi dari gelombang radio.
+			Lapisan D berada di ketinggian 48 - 90 km. Di ketinggian paling rendah, lapisan D memiliki kerapatan udara yang masih cukup tinggi, sehingga memiliki jumlah elektron bebas yang paling rendah. Lapisan D hanya terbentuk di siang hari saat radiasi yang diterima Bumi memiliki kekuatan yang cukup untuk menembus ke dalam atmosfer. Proses ditangkapnya elektron yang sering terjadi di lapisan ini menyerap energi dari gelombang radio.
 			
 			b. Lapisan E\
 			Lapisan E berada di ketinggian 90 - 150 km. Lapisan ini memantulkan gelombang radio frekuensi sedang (0,5 - 1,5 MHz).
 			
 			c. Lapisan F\
-			Lapisan F memiliki 2 bagian, F1 dan F2. Lapisan F1 berada di ketinggian 150 - 220 km, sedangkan lapisan F2 berada di ketinggian 220 - 800 km. Lapisan F1 bergabung dengan lapisan F2 di malam hari, sehingga seluruh lapisan F memiliki kaarakteristik
-			 seperti lapisan F2. Lapisan ini memantulkan gelombang radio frekuensi tinggi (3 - 30 MHz).
+			Lapisan F memiliki 2 bagian, F1 dan F2. Lapisan F1 berada di ketinggian 150 - 220 km, sedangkan lapisan F2 berada di ketinggian 220 - 800 km. Lapisan F1 bergabung dengan lapisan F2 di malam hari, sehingga seluruh lapisan F memiliki kaarakteristik seperti lapisan F2. Lapisan ini memantulkan gelombang radio frekuensi tinggi (3 - 30 MHz).
 
 - Berikut ini ilustrasi yang merangkum diskusi kita mengenai struktur atmosfer.\
-  ![Diagram Struktur Atmosfer.](https://www.researchgate.net/profile/Gustav-Wulf/publication/313115401/figure/fig2/AS:669502903693322@1536633339531/An-overview-of-the-different-parts-of-the-atmosphere-The-layers-named-on-the-far-right_W640.jpg)\
+  <img width="640" height="734" alt="Lapisa Atmosfer" src="https://github.com/user-attachments/assets/f03fae1a-db57-41fc-b78f-735521be94e4" />\
   Diagram Struktur Atmosfer (Urbano dalam [Wulf, 2009](https://www.researchgate.net/publication/313115401_Beamforming_and_timing_design_issues_for_a_large_aperture_array_radar_applied_to_atmospheric_research))
 
 - Mengenai Eksosfer\
@@ -113,24 +109,25 @@ Apa yang dimaksud kondisi atmosfer?
 
 # 3. Unsur Cuaca
 ## 3.1. Tekanan Udara
-Tekanan udara adalah gaya yang dirasakan dari berat kolom udara yang ada di atas lokasi pengukuran. Tekanan udara berkurang secara eksponensial seiring bertambahnya ketinggian. Satuan internasional untuk tekanan adalah Paskal (Pa). Standar tekanan udara di permukaan laut adalah sebesar 1 atm = 1013,25 mb = 1013,25 hPa = 29,92 inHg = 76 cmHg = 760 mmHg.\
-![Tekanan udara vertikal.](https://github.com/user-attachments/assets/b13f0d8d-2d2c-47d6-9015-5aa623cc8ae5)
+- Meskipun gas tidak terlihat, gas juga merupakan benda yang mempunyai massa. Ketika benda bermassa berinteraksi dengan gravitasi Bumi, maka akan menyebabkan gaya berat.
+- Tekanan udara adalah gaya yang dirasakan dari berat kolom udara yang ada di atas lokasi pengukuran.
+- Tekanan udara berkurang secara eksponensial seiring bertambahnya ketinggian, hal ini disebabkan karena kerapatan udara juga berkurang secara eksponensial.
+- Satuan internasional untuk tekanan adalah Paskal (Pa). Standar tekanan udara di permukaan laut adalah sebesar 1 atm = 1013,25 mb = 1013,25 hPa = 29,92 inHg = 76 cmHg = 760 mmHg.\
+	![Tekanan udara vertikal.](https://github.com/user-attachments/assets/b13f0d8d-2d2c-47d6-9015-5aa623cc8ae5)\
+	Perubahan Tenakan Udara Seiring Ketinggian (Ahrens, 2009)
 
-Perubahan Tenakan Udara Seiring Ketinggian (Ahrens, 2009)
+- Tekanan udara diukur dengan barometer.
+- Barometer tradisional menggunakan air raksa (Hg) dan satuan pengukurannya menggunakan mmHg. Nilai ini menunjukkan seberapa tinggi air raksa terdorong ke dalam tabung kedap udara.
+- Barometer yang saat ini umum digunakan adalah barometer aneroid, menggunakan tekanan atmosfer pada pegas yang dikalibrasi untuk menunjukkan tekanan udara.
+- Barometer yang dapat mencatat secara otomatis hasil pengukurannya pada kertas grafik, maka dinamakan barograf (akhiran -graf juga digunakan di berbagai alat lain yang mencatat secara otomatis pada kertas grafik).\
+	<img width="254" height="198" alt="Barometer Merkuri" src="https://github.com/user-attachments/assets/5d263280-d545-43d9-bdef-0b71815277dc" />\
+	Barometer Merkuri
 
-Tekanan udara diukur dengan barometer. Barometer tradisional menggunakan air raksa (Hg) dan satuan pengukurannya menggunakan mmHg. Nilai ini menunjukkan seberapa tinggi air raksa terdorong ke dalam tabung kedap udara. Barometer yang saat ini umum digunakan adalah barometer aneroid, menggunakan tekanan atmosfer pada pegas yang dikalibrasi untuk menunjukkan tekanan udara. Ketika barometer dapat mencatat secara otomatis hasil pengukurannya pada kertas grafik, maka dinamakan barograf (akhiran -graf digunakan di berbagai alat lain).
+	<img width="374" height="363" alt="Barometer Aneroid" src="https://github.com/user-attachments/assets/24b192e8-aa64-4fd5-a07e-5f990f4f493d" />\
+	Barometer Aneroid; Perhatikan keterangan ikon cuaca kecil di bawah label nilai tekanan udara
 
-![Barometer merkuri.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Mercury_barometer_-_Pariser_Maasz_-_Germany_-_19th_century.jpg/320px-Mercury_barometer_-_Pariser_Maasz_-_Germany_-_19th_century.jpg?20200531112659)
-
-Barometer Merkuri ([By Franz van Duns - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=90823443))
-
-![Barometer aneroid.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Barometer%2C_aneroid_%28AM_70061-7%29.jpg/1024px-Barometer%2C_aneroid_%28AM_70061-7%29.jpg?20180119165727)
-
-Barometer Aneroid; Perhatikan keterangan badai (stormy) pada tekanan rendah hingga sangat kering (very dry) pada tekanan tinggi ([By Auckland Museum, CC BY 4.0](https://commons.wikimedia.org/w/index.php?curid=65651136))
-
-![Barograf.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barometer_and_unknown_device_-_Bayernhof_Museum_-_DSC06317.JPG/1920px-Barometer_and_unknown_device_-_Bayernhof_Museum_-_DSC06317.JPG?20131031111339)
-
-Barograf ([By Daderot - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=29312386))
+	![Barograf.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barometer_and_unknown_device_-_Bayernhof_Museum_-_DSC06317.JPG/1920px-Barometer_and_unknown_device_-_Bayernhof_Museum_-_DSC06317.JPG?20131031111339)\
+	Barograf ([By Daderot - Own work, CC0](https://commons.wikimedia.org/w/index.php?curid=29312386))
 
 ## 3.2. Radiasi Matahari
 Radiasi yang datang dari Matahari seringkali disebut insolasi (Incoming Solar Radiation -> Insolation). Bumi memiliki bentuk bulat, sehingga sinar Matahari datang dengan sudut miring di dekat Kutub Bumi. Hal tersebut menyebabkan energi yang sama mengenai daerah yang lebih luas di dekat Kutub (lintang tinggi) daripada di ekuator (khatulistiwa, lintang rendah). Akibatnya, energi yang diterima di satu area di lintang tinggi (dekat kutub) lebih rendah daripada energi di area dengan luas yang sama di lintang rendah (khatulistiwa/ekuator).\
