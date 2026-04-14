@@ -210,41 +210,45 @@ Apa yang dimaksud kondisi atmosfer?
 	Termometer Maksimum (bawah) dan Termometer Minimum (atas) ([By Famartin - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=29055832))
 
 ## 3.4. Kecepatan dan Arah Angin
-Angin adalah udara yang bergerak. Gerakan udara disebabkan karena adanya gradien (perbedaan) tekanan udara. Sehingga, gaya yang menyebabkan angin disebut gaya gradien tekanan. Perbedaan tekanan udara ini utamanya disebabkan karena perbedaaan temperatur di dua lokasi. Temperatur hangat menyebabkan udara menjadi ringan, sehingga akan bergerak ke atas. Akibatnya, tekanan rendah terbentuk pada area tersebut, menyebabkan udara di sekitarnya bergerak mengisi.
+- Angin adalah udara yang bergerak. Gerakan udara disebabkan karena adanya gradien (perbedaan) tekanan udara. Sehingga, gaya yang menyebabkan angin disebut **gaya gradien tekanan** (_pressure gradient force_, PGT).
+- Perbedaan tekanan udara ini utamanya disebabkan karena perbedaaan temperatur udara. Temperatur hangat menyebabkan udara menjadi ringan, sehingga akan bergerak ke atas. Akibatnya, tekanan rendah terbentuk pada area tersebut, menyebabkan udara di sekitarnya bergerak mengisi.
+- Suhu udara dingin menyebabkan udara memiliki densitas berat karena volumenya menyusut. Akibatnya, udara bergerak turun dan mendorong udara di bawahnya ke tempat lain, membentuk tekanan tinggi.
 
-Gaya lain yang mempengaruhi gerak angin yaitu gaya gesek dan gaya koriolis.
-* Gaya Gesek\
-  Gaya gesek mengurangi kecepatan angin pada pertemuan atmosfer dan permukaan Bumi serta pertemuan dua bagian atmosfer dengan kecepatan dan arah angin yang berbeda. Gaya gesek permukaan Bumi membentuk lapisan atmosfer yang memiliki karakteristik aliran yang berbeda dengan aliran atmosfer bebas. Lapisan ini dinamakan planetary boundary layer (lapisan batas planet).\
-![PBL.](https://upload.wikimedia.org/wikipedia/commons/5/5f/PBLimage.jpg)
+- Gaya lain yang mempengaruhi gerak angin yaitu gaya gesek dan gaya koriolis.
+	- Gaya Gesek\
+ 		Gaya gesek mengurangi kecepatan angin pada pertemuan atmosfer dan permukaan Bumi serta pertemuan dua bagian atmosfer dengan kecepatan dan arah angin yang berbeda. Gaya gesek permukaan Bumi membentuk lapisan atmosfer yang memiliki karakteristik aliran yang berbeda dengan aliran atmosfer bebas. Lapisan ini dinamakan planetary boundary layer (lapisan batas planet).\
+		![PBL.](https://upload.wikimedia.org/wikipedia/commons/5/5f/PBLimage.jpg)\
+		Ilustrasi Lapisan Batas Planet Bumi
 
-   Ilustrasi Lapisan Batas Planet Bumi
-* Gaya Koriolis\
-  Gaya koriolis adalah gaya semu yang muncul akibat rotasi Bumi. Pada belahan Bumi Utara (sebelah utara ekuator), gaya koriolis membelokkan angin ke kanan, sedangkan di belahan Bumi Selatan, gaya koriolis membelokkan angin ke kiri.\
-  ![Ilustrasi gaya koriolis.](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)
+	- Gaya Koriolis\
+ 		Gaya koriolis adalah gaya semu yang muncul akibat rotasi Bumi. Pada belahan Bumi Utara (sebelah utara ekuator), gaya koriolis membelokkan angin ke kanan, sedangkan di belahan Bumi Selatan, gaya koriolis membelokkan angin ke kiri.\
+ 		![Ilustrasi gaya koriolis.](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)\
+   		Ilustrasi Gaya Koriolis ([By Hubi - German Wikipedia, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=1008114))
 
-  Ilustrasi Gaya Koriolis ([By Hubi - German Wikipedia, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=1008114))
+- Kecepatan angin ditunjukkan dengan satuan kecepatan (meter/detik, mph, km/h) atau dengan Skala Beaufort. Skala Beaufort memiliki 13 klasifikasi dari 0 hingga 12, sebagai berikut:\
+	![Ilustrasi skala beaufort.](https://github.com/user-attachments/assets/82ade245-381c-4b7f-a908-14d4c9b4c6a7)\
+	Ilustrasi Skala Beaufort ([By luvyabuvya on Flickr](https://www.flickr.com/photos/56616291@N05/8660720972))
 
-Kecepatan angin ditunjukkan dengan satuan kecepatan (meter/detik, mph, km/h) atau dengan Skala Beaufort. Skala Beaufort memiliki 13 klasifikasi dari 0 hingga 12, sebagai berikut:\
-![Ilustrasi skala beaufort.](https://github.com/user-attachments/assets/82ade245-381c-4b7f-a908-14d4c9b4c6a7)
+- Arah angin ditunjukkan dengan arah kompas berdasarkan arah datangnya.
+- Arah kompas yang digunakan umumnya nilai azimuth (derajat) dan arah mata angin.
+- Pengukuran kecepatan angin dilakukan menggunakan anemometer, sedangkan pengukuran arah angin menggunakan windvane.
+- Terdapat pula instrumen windsock yang dapat menunjukkan arah dan kecepatan sekaligus secara kasar.
+	- Tiap perubahan warna pada windsock menunjukkan nilai 3 knot, sehingga misal terdapat 2 bagian tegang, maka angin yang berhembus memiliki kecepatan 6 knot.
 
-Ilustrasi Skala Beaufort ([By luvyabuvya on Flickr](https://www.flickr.com/photos/56616291@N05/8660720972))
+	![Anemometer.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Anemometer_weather_station_clip.gif/330px-Anemometer_weather_station_clip.gif)\
+	Anemometer dan Wind Vane ([By Supportstorm, Public Domain](https://commons.wikimedia.org/wiki/File:Anemometer_weather_station_clip.gif))
 
-Arah angin ditunjukkan dengan arah kompas berdasarkan arah datangnya. Arah kompas yang digunakan umumnya nilai azimuth (derajat) dan arah mata angin. Pengukuran kecepatan angin dilakukan menggunakan anemometer, sedangkan pengukuran arah angin menggunakan windvane. Terdapat pula instrumen windsock yang dapat menunjukkan arah dan kecepatan sekaligus secara kasar. Tiap perubahan warna pada windsock menunjukkan nilai 3 knot, sehingga misal terdapat 2 bagian tegang, maka angin yang berhembus memiliki kecepatan 6 knot.
+	![Windsock.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Windsock_Hodenhagen_Aerodrome_2013.jpg/330px-Windsock_Hodenhagen_Aerodrome_2013.jpg)\
+	Windsock ([By Olaf Oliviero Riemer, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=25853363))
 
-![Anemometer.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Anemometer_weather_station_clip.gif/330px-Anemometer_weather_station_clip.gif)
+	- Hasil pengukuran ini dapat ditunjukkan dalam grafik yang disebut _wind rose_ (mawar angin).
+	- Wind rose memiliki bentuk grafik batang yang disusun melingkar.
+ 		- Tinggi grafik batang menunjukkan frekuensi
+   		- Warna atau arsiran menunjukkan kelompok kecepatan angin
+     	- Arah grafik bertambah tinggi menunjukkan arah datangnya angin (atas = utara, dan seterusnya).
 
-Anemometer dan Wind Vane ([By Supportstorm, Public Domain](https://commons.wikimedia.org/wiki/File:Anemometer_weather_station_clip.gif))
-
-![Windsock.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Windsock_Hodenhagen_Aerodrome_2013.jpg/330px-Windsock_Hodenhagen_Aerodrome_2013.jpg)
-
-Windsock ([By Olaf Oliviero Riemer, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=25853363))
-
-
-Hasil pengukuran ini dapat ditunjukkan dalam grafik yang disebut wind rose. Wind rose memiliki bentuk grafik batang yang disusun melingkar. Tinggi grafik batang menunjukkan frekuensi, warna atau arsiran menunjukkan kelompok kecepatan angin, dan arah pemanjangan grafik menunjukkan arah datangnya angin.
-
-![Windrose.](https://upload.wikimedia.org/wikipedia/commons/7/70/Wind_rose_plot.jpg?20090501201734)
-
-Windrose ([By BREEZE Software - http://www.breeze-software.com/, CC BY-SA 3.0,](https://commons.wikimedia.org/w/index.php?curid=6673695))
+		![Windrose.](https://upload.wikimedia.org/wikipedia/commons/7/70/Wind_rose_plot.jpg?20090501201734)\
+		Windrose ([By BREEZE Software - http://www.breeze-software.com/, CC BY-SA 3.0,](https://commons.wikimedia.org/w/index.php?curid=6673695))
 
 ## 3.5. Kelembapan Udara
 Kelembapan udara memiliki setidaknya 4 definisi menurut parameter yang diukur, sebagai berikut:
