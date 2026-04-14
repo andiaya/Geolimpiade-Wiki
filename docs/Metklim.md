@@ -630,7 +630,7 @@ Ilustrasi MJO ([By Fiona Martin, Public Domain](https://commons.wikimedia.org/w/
 | mT | Samudera dekat Ekuator | Hangat dan lembap sepanjang tahun | Umumnya tidak stabil | Presipitasi dan kabut adveksi di musim dingin, panas dan lembap serta hujan badai di musim panas |
 | mE | Samudera Ekuator | Hangat dan lembap sepanjang tahun | Tidak stabil | Presipitasi, hujan badai |
 
-![Massa udara.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Air_masses.svg/800px-Air_masses.svg.png)\
+<img width="960" height="441" alt="massa udara" src="https://github.com/user-attachments/assets/7b8822ff-4f54-4d29-9fca-43c157516b20" />\
 Peta Massa Udara Dunia ([Public Domain](https://commons.wikimedia.org/w/index.php?curid=12526643))
 
 Keterangan: m = maritim, c = kontinental, P = Polar, T = Tropis, E = Ekuatorial
@@ -648,26 +648,31 @@ Keterangan: m = maritim, c = kontinental, P = Polar, T = Tropis, E = Ekuatorial
      Ilustrasi Front Oklusi Dingin (kiri) dan Hangat (kanan) (Ahrens, 2009)
 
 # 7. Observasi Meteorologi dan Penyajian Data
-## 7.1. Observasi dengan Alat-alat Konvensional
-Instrumen pengukuran parameter meteorologis sudah banyak dijelaskan dalam Bab 3. Unsur Cuaca. Umumnya, alat-alat tersebut dipasang pada area tertentu di tempat terbuka dan dibatasi pagar, dinamakan taman alat. Taman alat terbebas dari halangan dengan sudut 10&deg; ke atas cakrawala untuk memastikan pengukuran yang akurat. Terdapat beberapa instrumen lain yang tidak termasuk dalam pembahasan unsur cuaca di atas, misalnya panci evaporimeter, lysimeter, dan termometer tanah.
-* Evaporimeter: berbentuk panci, dilengkapi termometer apung dan anemometer. Instrumen ini digunakan untuk mengukur evaporasi.
-* Lysimeter: terdiri dari tanah berumput yang berada di atas timbangan, bagian pertemuan kolom tanah dan timbangan memiliki permukaan miring yang mengalirkan air tanah ke wadah air di bawah tanah. Lysimeter digunakan untuk mengukur evapotranspirasi.
-* Termometer tanah: berupa satu set termometer yang dipasang di kedalaman 0, 2, 5, 10, 20, 50, dan 100 cm dengan kondisi permukaan tanah gundul dan berumput. Nilai suhu tanah digunakan dalam kegiatan pertanian.
-  
-  ![Lysimeter, evaporimeter, termometer tanah.](https://github.com/user-attachments/assets/dc5be09a-ad24-43ab-ac85-8fa961e232f1)
 
+## 7.1. Observasi dengan Alat-alat Konvensional
+- Instrumen pengukuran parameter meteorologis sudah banyak dijelaskan dalam Bab 3. Unsur Cuaca.
+- Umumnya, alat-alat tersebut dipasang pada area tertentu di tempat terbuka dan dibatasi pagar, dinamakan taman alat.
+	- Taman alat terbebas dari halangan dengan sudut 10&deg; ke atas cakrawala untuk memastikan pengukuran yang akurat.
+	- Terdapat beberapa instrumen lain yang tidak termasuk dalam pembahasan unsur cuaca di atas, misalnya panci evaporimeter, lysimeter, dan termometer tanah.
+ 		- Evaporimeter: berbentuk panci, dilengkapi termometer apung dan anemometer. Instrumen ini digunakan untuk mengukur evaporasi.
+   		- Lysimeter: terdiri dari tanah berumput yang berada di atas timbangan, bagian pertemuan kolom tanah dan timbangan memiliki permukaan miring yang mengalirkan air tanah ke wadah air di bawah tanah. Lysimeter digunakan untuk mengukur evapotranspirasi.
+     	- Termometer tanah: berupa satu set termometer yang dipasang di kedalaman 0, 2, 5, 10, 20, 50, dan 100 cm dengan kondisi permukaan tanah gundul dan berumput. Nilai suhu tanah digunakan dalam kegiatan pertanian.\
+  ![Lysimeter, evaporimeter, termometer tanah.](https://github.com/user-attachments/assets/dc5be09a-ad24-43ab-ac85-8fa961e232f1)\
   Ilustrasi Lysimeter, Evaporimeter, dan Termometer Tanah ([Voortman & Witte](10.5194/hess-19-3787-2015), [Peter in s](https://commons.wikimedia.org/w/index.php?curid=75270193), [Delince](https://commons.wikimedia.org/w/index.php?curid=19849916))
 
-Miniaturisasi dan otomasi proses pengukuran menjadikan berbagai instrumen di taman alat dapat digabungkan menjadi satu alat yang dapat mengukur dan mencatat data secara otomatis. Alat ini disebut Automatic Weather Station (AWS). AWS umumnya mencakup instrumen pengukuran angin, curah hujan, intensitas radiasi Matahari, temperatur, dan kelembapan. AWS dapat ditenagai melalui panel surya dan mengirimkan data melalui jaringan seluler, sehingga dapat dipantau dari jarak jauh.
-
-![AWS.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/AWS%28Automatic_Weather_station%29.JPG/500px-AWS%28Automatic_Weather_station%29.JPG?20120610181303)
-
+- Miniaturisasi dan otomasi proses pengukuran menjadikan berbagai instrumen di taman alat dapat digabungkan menjadi satu alat yang dapat mengukur dan mencatat data secara otomatis.
+- Alat ini disebut Automatic Weather Station (AWS).
+	- AWS umumnya mencakup instrumen pengukuran angin, curah hujan, intensitas radiasi Matahari, temperatur, dan kelembapan.
+	- AWS dapat ditenagai melalui panel surya dan mengirimkan data melalui jaringan seluler, sehingga dapat dipantau dari jarak jauh.\
+![AWS.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/AWS%28Automatic_Weather_station%29.JPG/500px-AWS%28Automatic_Weather_station%29.JPG?20120610181303)\
 Automatic Weather Station ([Delince](https://commons.wikimedia.org/w/index.php?curid=19849915))
 
-Pengukuran langsung parameter atmosfer di atmosfer bagian atas dapat dilakukan menggunakan instrumen radiosonde. Radiosonde merupakan instrumen pengukur temperatur, tekanan udara, kelembapan relatif, angin, radiasi Matahari, dan posisi berukuran kecil dan dapat mengirimkan hasil pengukuran tersebut secara berkala melalui gelombang radio. Radiosonde umumnya dipasang pada wahana balon cuaca, namun juga dapat dipasang pada roket suborbital maupun layang-layang. Beberapa radiosonde juga digunakan dengan cara dijatuhkan dari pesawat, sehingga dinamakan dropsonde. Dropsonde banyak digunakan dalam penerbangan pemantauan badai.
-
-![Radiosonde](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D_10.jpg/960px-%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D_10.jpg)
-
+- Pengukuran langsung parameter atmosfer di atmosfer bagian atas dapat dilakukan menggunakan instrumen radiosonde.
+	- Radiosonde merupakan instrumen pengukur temperatur, tekanan udara, kelembapan relatif, angin, radiasi Matahari, dan posisi berukuran kecil dan dapat mengirimkan hasil pengukuran tersebut secara berkala melalui gelombang radio.
+	- Radiosonde umumnya dipasang pada wahana balon cuaca, namun juga dapat dipasang pada roket suborbital maupun layang-layang.
+	- Beberapa radiosonde juga digunakan dengan cara dijatuhkan dari pesawat, sehingga dinamakan dropsonde.
+	- Dropsonde banyak digunakan dalam penerbangan pemantauan badai.\
+![Radiosonde](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D_10.jpg/960px-%D7%9E%D7%9B%D7%A9%D7%99%D7%A8%D7%99%D7%9D_%D7%9E%D7%98%D7%90%D7%95%D7%A8%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%99%D7%9D_10.jpg)\
 Balon Cuaca dengan Radiosonde ([Elidan1942](https://commons.wikimedia.org/w/index.php?curid=65123369))
 
 ## 7.2. Observasi dengan Penginderaan Jauh
