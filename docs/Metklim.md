@@ -158,20 +158,15 @@ Apa yang dimaksud kondisi atmosfer?
 - Intensitas penyinaran ditunjukkan dengan satuan Kalori/meter2 atau Watt/meter2.
 - Instrumen pengukuran radiasi Matahari adalah sebagai berikut:
 	- Campbell-Stokes Sunshine Recorder\
- 	  Campbell-Stokes merekam lama penyinaran Matahari. Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias. Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias. Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis. Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek. Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang. Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari. Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.
-
+ 	  Campbell-Stokes merekam lama penyinaran Matahari. Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias. Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias. Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis. Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek. Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang. Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari. Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.\
  	![Campbell-stokes.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Campbell-Stokes_recorder.jpg/1280px-Campbell-Stokes_recorder.jpg?20160322083124)\
   	Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
-
 	- Gunn-Bellani Radiation Integrator\
-   		Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari. Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam. Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air. Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
-
+   		Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari. Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam. Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air. Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.\
   ![Gunn-Bellani.](https://upload.wikimedia.org/wikipedia/commons/6/69/Lucim%C3%A8tre_Bellani.jpg?20170426072243)\
   Gunn-Bellani Radiation Integrator ([By Bachelot Pierre J-P, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=58320312))
-  
 	- Pyranometer\
-		Pyranometer juga merupakan salah satu tipe aktinometer. Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2. Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik. Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.
-
+		Pyranometer juga merupakan salah satu tipe aktinometer. Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2. Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik. Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.\
   ![Pyranometer](https://upload.wikimedia.org/wikipedia/commons/5/53/Hukseflux_radiometer_sr11_photo.jpg?20090814130014)\
   Pyranometer ([By Hukseflux - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=7559356))
 
@@ -251,89 +246,93 @@ Apa yang dimaksud kondisi atmosfer?
 		Windrose ([By BREEZE Software - http://www.breeze-software.com/, CC BY-SA 3.0,](https://commons.wikimedia.org/w/index.php?curid=6673695))
 
 ## 3.5. Kelembapan Udara
-Kelembapan udara memiliki setidaknya 4 definisi menurut parameter yang diukur, sebagai berikut:
+- Kelembapan udara memiliki setidaknya 4 definisi menurut parameter yang diukur, sebagai berikut:\
+	a. Kelembapan Absolut: menunjukkan perbandingan massa uap air terhadap volume udara lengas (udara kering + uap air). Memiliki satuan desimal.\
+	b. Kelembapan Relatif: menunjukkan rasio kelembapan absolut terhadap nilai jenuh udara. Nilai jenuh udara adalah kelembapan absolut maksimal suatu parsel udara, yaitu massa maksimal uap air yang dapat dikandung atmosfer. Nilai jenuh udara dipengaruhi oleh temperatur. Memiliki satuan persen.\
+	c. Kelembapan Spesifik: menunjukkan perbandingan massa uap air di udara terhadap massa udara total. Memiliki satuan desimal.\
+	d. Mixing Ratio: menunjukkan rasio massa uap air terhadap massa udara kering. Memiliki satuan desimal.
 
-a. Kelembapan Absolut: menunjukkan perbandingan massa uap air terhadap volume udara lengas (udara kering + uap air). Memiliki satuan desimal.\
-b. Kelembapan Relatif: menunjukkan rasio kelembapan absolut terhadap nilai jenuh udara. Nilai jenuh udara adalah kelembapan absolut maksimal suatu parsel udara, yaitu massa maksimal uap air yang dapat dikandung atmosfer. Nilai jenuh udara dipengaruhi oleh temperatur. Memiliki satuan persen.\
-c. Kelembapan Spesifik: menunjukkan perbandingan massa uap air di udara terhadap massa udara total. Memiliki satuan desimal.\
-d. Mixing Ratio: menunjukkan rasio massa uap air terhadap massa udara kering. Memiliki satuan desimal.
+- Kelembapan udara yang umumnya diukur dalam pengukuran meteorologis adalah kelembapan relatif. Nilai kelembapan relatif menunjukkan kejenuhan uap air di atmosfer.
+- Pengukuran parameter ini dilakukan menggunakan **higrometer**.
+- Salah satu tipe higrometer, **psikrometer**, memiliki dua komponen, yaitu termometer bola kering dan bola basah.
+	- Termometer bola kering adalah termometer biasa, sedangkan termometer bola basah pada ujung termometernya diliputi kain kasa lembap.
+ 	- Hasil pengukuran termometer bola kering menunjukkan suhu udara saat pengukuran, sedangkan pengukuran termometer bola basah menunjukkan suhu yang lebih rendah karena energi di udara telah digunakan dalam penguapan.
+  	- Semakin tinggi penguapan maka semakin jauh atmosfer dari kondisi jenuh dan semakin rendah pula kelembapan relatifnya.
+  	- Nilai kelembapan relatif dapat diperoleh dengan memasukkan suhu bola kering dan bola basah pada tabel atau grafik psikrometrik.
+  	- Psikrometer juga diletakkan dalam sangkar Stevenson.
 
-Kelembapan udara yang umumnya diukur dalam pengukuran meteorologis adalah kelembapan relatif. Nilai kelembapan relatif menunjukkan kejenuhan uap air di atmosfer. Pengukuran parameter ini dilakukan menggunakan higrometer. Salah satu tipe higrometer, psikrometer, memiliki dua komponen, yaitu termometer bola kering dan bola basah. Termometer bola kering adalah termometer biasa, sedangkan termometer bola basah pada ujung termometernya diliputi kain kasa lembap. Hasil pengukuran termometer bola kering menunjukkan suhu udara saat pengukuran, sedangkan pengukuran termometer bola basah menunjukkan suhu setelah mengalami pengurangan karena energinya digunakan dalam penguapan. Semakin tinggi penguapan maka semakin jauh atmosfer dari kondisi jenuh, karena atmosfer masih dapat menampung banyak uap air. Nilai kelembapan relatif dapat diperoleh dengan memasukkan suhu bola kering dan bola basah pada tabel atau grafik psikrometrik. Instrumen ini juga diletakkan dalam sangkar Stevenson.
+		![Termometer Bola Kering-Bola Basah.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg/250px-Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg)\
+		Termometer Bola Basah (kanan) dan Termometer Bola Kering (kiri) ([By Internet Archive Book Images on Flickr, No restrictions](https://commons.wikimedia.org/w/index.php?curid=43191844))
 
-![Termometer Bola Kering-Bola Basah.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg/250px-Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg)
-
-Termometer Bola Basah (kanan) dan Termometer Bola Kering (kiri) ([By Internet Archive Book Images on Flickr, No restrictions](https://commons.wikimedia.org/w/index.php?curid=43191844))
-
-![Diagram Psikrometrik.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Psychrometric_chart.png/1280px-Psychrometric_chart.png?20120502153806)
-
-Grafik Psikrometrik; temperatur bola kering ditunjukkan dengan garis tegak, temperatur bola basah garis miring berwarna biru, dan kelembapan relatif garis melengkung berwarna merah ([By ArthurOgawa, Public Domain](https://commons.wikimedia.org/w/index.php?curid=19296789))
+		![Diagram Psikrometrik.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Psychrometric_chart.png/1280px-Psychrometric_chart.png?20120502153806)\
+		Grafik Psikrometrik; temperatur bola kering ditunjukkan dengan garis tegak, temperatur bola basah garis miring berwarna biru, dan kelembapan relatif garis melengkung berwarna merah ([By ArthurOgawa, Public Domain](https://commons.wikimedia.org/w/index.php?curid=19296789))
 
 ## 3.6. Tutupan Awan
-Awan adalah titik-titik air atau es yang tersuspensi di atmosfer. Titik awan ini terbentuk dari kondensasi uap air pada inti kondensasi awan. Inti kondensasi awan adalah partikulat yang tersuspensi di atmosfer (aerosol) dengan ukuran rata-rata 0.2 μm dan memiliki sifat higroskopik. Sifat higroskopik adalah sifat menarik dan menahan air. Sifat ini dapat ditemukan pada material yang menyerap air (absorpsi), maupun mengikat air pada permukaannya (adsorpsi). Inti kondensasi dapat terbentuk dari garam yang terlempar dari ombak pecah, debu, letusan gunung api, maupun jelaga dari asap pembakaran. Ketika udara memiliki kelembapan relatif mendekati 100%, kondisinya disebut jenuh. Pada kondisi jenuh inilah kondensasi terjadi.
+- Awan adalah titik-titik air atau es yang tersuspensi di atmosfer.
+- Titik awan ini terbentuk dari kondensasi uap air pada inti kondensasi awan.
+	- Inti kondensasi awan adalah partikulat yang tersuspensi di atmosfer (aerosol) dengan ukuran rata-rata 0.2 μm dan memiliki sifat higroskopik.
+	- Sifat higroskopik adalah sifat menarik dan menahan air. Sifat ini dapat ditemukan pada material yang menyerap air (absorpsi), maupun mengikat air pada permukaannya (adsorpsi).
+ 	- Inti kondensasi dapat terbentuk dari garam yang terlempar dari ombak pecah, debu, letusan gunung api, maupun jelaga dari asap pembakaran.
+  - Ketika udara memiliki kelembapan relatif mendekati 100%, kondisinya disebut jenuh. Pada kondisi jenuh inilah kondensasi terjadi.
 
-Peningkatan kelembapan relatif pada parsel udara yang terjadi sebelum kondensasi terjadi karena adanya ketidakstabilan atmosfer. Kondisi atmosfer tidak stabil adalah kondisi atmosfer dengan kecenderungan atau tendensi udara di lapisan bawah untuk bergerak naik. Untuk memahami stabilitas atmosfer, kita harus mengetahui bahwa terdapat 3 nilai penurunan suhu udara seiring penambahan ketinggian. Pertama, environmental lapse rate, yaitu penurunan suhu udara lingkungan. Kedua, dry adiabatic lapse rate, yaitu penurunan suhu parsel udara yang mengalami pengangkatan karena pengurangan tekanan udara sebelum mengalami kondisi jenuh dan terjadi kondensasi. Ketiga, wet adiabatic lapse rate, yaitu penurunan suhu parsel udara yang mengalami pengangkatan karena pengurangan tekanan udara setelah mengalami kondisi jenuh dan terjadi kondensasi. Terdapat 3 kondisi kestabilan atmosfer, yaitu:
+- Suatu bagian atmosfer dapat mengalami gerakan karena dipanaskan permukaan Bumi atau mengalami pendinginan. Bagian udara yang bergerak ini disebut **parsel udara**.
+	- Karena bagian atmosfer tersebut mempertahankan tekanan udara yang konstan dengan lingkungan sekitarnya, maka pemanasan dan pendinginan akan mengubah volumenya.
+	- Pemanasan meningkatkan volume, sehingga mengurangi massa jenis (densitas) sedangkan pendinginan mengurangi volume, sehingga meningkatkan densitas.
+ 	- Densitas parsel udara yang lebih rendah dari udara sekitarnya, karena pemanasan, menyebabkan parsel udara tersebut mengapung (bergerak naik).
+  	- Sementara itu, densitas parsel udara yang lebih tinggi dari udara sekitarnya, karena pendinginan, menyebabkan parsel udara tersebut tenggelam (bergerak turun).
+- Suatu parsel udara yang bergerak ke atas (mengalami _uplift_) akan berkurang suhunya karena pendinginan adiabatik. Sebaliknya, udara yang bergerak turun (mengalami subsidensi) akan meningkat suhunya karena pemanasan adiabatik.
+	- Proses adiabatik dalam konteks ini adalah perubahan suhu tanpa adanya transfer energi masuk atau keluar parsel udara. Perubahan suhu disebabkan karena perubahan tekanan.
+ 	- Kompresi (peningkatan tekanan) menyebabkan kenaikan suhu sedangkan dekompresi (penurunan tekanan) menyebabkan penurunan suhu.
+- Ketidakstabilan atmosfer adalah kondisi atmosfer dengan kecenderungan atau tendensi parsel udara untuk bergerak naik.
+- Untuk memahami stabilitas atmosfer, kita harus mengetahui bahwa terdapat 3 nilai penurunan suhu udara seiring penambahan ketinggian.
+	- Pertama, _environmental lapse rate_, yaitu penurunan suhu udara lingkungan. Kondisi ini dikontrol pemanasan Matahari di area luas dan percampuran atmosfer.
+ 	- Kedua, _dry adiabatic lapse rate_, yaitu penurunan suhu parsel udara yang mengalami pengangkatan sebelum mengalami kondisi jenuh dan terjadi kondensasi.
+  	- Ketiga, _wet adiabatic lapse rate_, yaitu penurunan suhu parsel udara yang mengalami pengangkatan setelah mengalami kondisi jenuh dan terjadi kondensasi.
+- Terdapat 3 kondisi kestabilan atmosfer, yaitu:
+	1. Kestabilan absolut: ketika _environmental lapse rate_ lebih rendah daripada _adiabatic rate_, sehingga suhu parsel udara selalu lebih rendah daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak turun.\
+  		![Absolute stability.](https://github.com/user-attachments/assets/3ca43cda-5b1b-4d73-b443-89e86e87cb7f)\
+		Ilustrasi Kondisi Kestabilan Absolut ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
+	2. Ketidakstabilan absolut: ketika environmental lapse rate lebih tinggi daripada adiabatic rate, sehingga suhu parsel udara selalu lebih tinggi daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak naik.\
+		![Absolute instability.](https://github.com/user-attachments/assets/bd64db31-fbbc-4a0a-9fb2-0bd041c0bf99)\
+		Ilustrasi Kondisi Ketidakstabilan Absolut ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
+	3. Ketidakstabilan kondisional: ketika terdapat bagian atmosfer di ketnggian tertentu memiliki environmental lapse rate lebih tinggi daripada adiabatic rate, sehingga suhu parsel udara pada lapisan tersebut lebih tinggi daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak naik di lapisan tersebut.\
+		![Conditional instability](https://github.com/user-attachments/assets/ac7d503d-61a7-4deb-8abc-441c632bd15d)\
+		Ilustrasi Kondisi Ketidakstabilan Kondisional ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
 
-* Kestabilan absolut: ketika environmental lapse rate lebih rendah daripada adiabatic rate, sehingga suhu parsel udara selalu lebih rendah daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak turun.
-  
-  ![Absolute stability.](https://github.com/user-attachments/assets/3ca43cda-5b1b-4d73-b443-89e86e87cb7f)
+- Mekanisme pengangkatan udara sehingga membentuk awan bisa disebabkan oleh 4 proses, yaitu:\
+	a. Konveksi\
+	Konveksi adalah proses transfer kalor yang diikuti gerakan mediumnya. Konveksi di lapisan troposfer terjadi ketika faktor dominan yang mempengaruhi atmosfer di suatu wilayah adalah pemanasan oleh permukaan Bumi. Pemanasan lokal tersebut menyebabkan parsel udara menjadi ringan (buoyant), sehingga bergerak naik. Parsel udara sendiri adalah kantong udara di atmosfer yang memiliki dan menjaga keseragaman sifat-sifatnya ketika mengalami perubahan. Udara, walaupun tidak terlihat batas-batasnya, dapat dibayangkan dan dianalisis sebagai sebuah parsel atau kantong karena ketika terjadi gangguan, misal pemanasan atau evaporasi, perubahan karena gangguan tersebut hanya akan mempengaruhi atmosfer dengan luas dan volume terbatas. Ketika bergerak naik, parsel udara mengalami pendinginan adiabatik, yaitu pendinginan akibat pengurangan tekanan tanpa pertukaran energi dengan lingkungan sekitarnya. Pendinginan menyebabkan kemampuan parsel udara menampung uap air berkurang, sehingga terjadi pembentukan awan.\
+	b. Orografi\
+	Efek orografis adalah efek pengunungan terhadap kejadian atmosfer, terutama presipitasi. Ketika pegunungan menghalangi gerak angin, parsel udara akan dipaksa bergerak ke atas sehingga membentuk awan melalui pendinginan adiabatik.\
+	c.Konvergensi\
+	Konvergensi adalah gerakan angin horizontal menuju satu lokasi. Apabila konvergensi terjadi di dekat permukaan, maka energi dari angin tersebut akan dilepaskan ke arah atas, membentuk updraft. Updraft atau angin vertikal ke atas ini dapat mengangkat parsel udara sehingga membentuk awan melalui pendinginan adiabatik.\
+	d. Front\
+	Front adalah pertemuan dua massa udara dengan sifat berbeda. Massa udara yang dingin memiliki densitas lebih tinggi, sehingga ketika bertemu dengan massa udara yang lebih hangat, ia akan memaksa massa udara hangat tersebut untuk berada di lapisan atasnya. Akibatnya, terbentuk awan melalui pendinginan adiabatik.\
+	![Proses pembentuk awan.](https://github.com/user-attachments/assets/0c4347b9-2ba0-4ddd-a40e-d8f5a4f4702a)\
+	Proses Pembentuk Awan (Ahrens, 2009)
 
- Ilustrasi Kondisi Kestabilan Absolut ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
- 
-* Ketidakstabilan absolut: ketika environmental lapse rate lebih tinggi daripada adiabatic rate, sehingga suhu parsel udara selalu lebih tinggi daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak naik.
-  
-  ![Absolute instability.](https://github.com/user-attachments/assets/bd64db31-fbbc-4a0a-9fb2-0bd041c0bf99)
+- Tutupan awan diukur berdasarkan nilai radiasi Matahari yang mencapai permukaan di siang hari atau memperkirakan berapa bagian bola langit yang tertutup awan.
+	- Perkiraan tutupan awan dilakukan dengan membagi bola langit menjadi 8 bagian menurut mata angin, kemudian menghitung jumlah bagian bola langit yang tertutup awan.
+	- Hasil pengukuran dituliskan dengan nilai jumlah oktal, jumlah bagian langit yang tertutup awan dibandingkan dengan 8 total bagian.
 
-  Ilustrasi Kondisi Ketidakstabilan Absolut ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
-  
-*  Ketidakstabilan kondisional: ketika terdapat bagian atmosfer di ketnggian tertentu memiliki environmental lapse rate lebih tinggi daripada adiabatic rate, sehingga suhu parsel udara pada lapisan tersebut lebih tinggi daripada udara di sekitarnya. Kondisi ini menyebabkan tendensi parsel udara untuk bergerak naik di lapisan tersebut.
-  
-  ![Conditional instability](https://github.com/user-attachments/assets/ac7d503d-61a7-4deb-8abc-441c632bd15d)
-
-   Ilustrasi Kondisi Ketidakstabilan Kondisional ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
-
-Mekanisme pengangkatan udara sehingga membentuk awan bisa disebabkan oleh 4 proses, yaitu:
-
-a. Konveksi\
-Konveksi adalah proses transfer kalor yang diikuti gerakan mediumnya. Konveksi di lapisan troposfer terjadi ketika faktor dominan yang mempengaruhi atmosfer di suatu wilayah adalah pemanasan oleh permukaan Bumi. Pemanasan lokal tersebut menyebabkan parsel udara menjadi ringan (buoyant), sehingga bergerak naik. Parsel udara sendiri adalah kantong udara di atmosfer yang memiliki dan menjaga keseragaman sifat-sifatnya ketika mengalami perubahan. Udara, walaupun tidak terlihat batas-batasnya, dapat dibayangkan dan dianalisis sebagai sebuah parsel atau kantong karena ketika terjadi gangguan, misal pemanasan atau evaporasi, perubahan karena gangguan tersebut hanya akan mempengaruhi atmosfer dengan luas dan volume terbatas. Ketika bergerak naik, parsel udara mengalami pendinginan adiabatik, yaitu pendinginan akibat pengurangan tekanan tanpa pertukaran energi dengan lingkungan sekitarnya. Pendinginan menyebabkan kemampuan parsel udara menampung uap air berkurang, sehingga terjadi pembentukan awan.
-
-b. Orografi\
-Efek orografis adalah efek pengunungan terhadap kejadian atmosfer, terutama presipitasi. Ketika pegunungan menghalangi gerak angin, parsel udara akan dipaksa bergerak ke atas sehingga membentuk awan melalui pendinginan adiabatik.
-
-c.Konvergensi\
-Konvergensi adalah gerakan angin horizontal menuju satu lokasi. Apabila konvergensi terjadi di dekat permukaan, maka energi dari angin tersebut akan dilepaskan ke arah atas, membentuk updraft. Updraft atau angin vertikal ke atas ini dapat mengangkat parsel udara sehingga membentuk awan melalui pendinginan adiabatik.
- 
-d. Front\
-Front adalah pertemuan dua massa udara dengan sifat berbeda. Massa udara yang dingin memiliki densitas lebih tinggi, sehingga ketika bertemu dengan massa udara yang lebih hangat, ia akan memaksa massa udara hangat tersebut untuk berada di lapisan atasnya. Akibatnya, terbentuk awan melalui pendinginan adiabatik.
-
-![Proses pembentuk awan.](https://github.com/user-attachments/assets/0c4347b9-2ba0-4ddd-a40e-d8f5a4f4702a)
-
-Proses Pembentuk Awan (Ahrens, 2009)
-
-Tutupan awan diukur berdasarkan nilai radiasi Matahari yang mencapai permukaan di siang hari atau memperkirakan berapa bagian bola langit yang tertutup awan. Perkiraan tutupan awan dilakukan dengan membagi bola langit menjadi 8 bagian menurut mata angin, kemudian menghitung jumlah bagian bola langit yang tertutup awan. Hasil pengukuran dituliskan dengan nilai jumlah oktal, jumlah bagian langit yang tertutup awan dibandingkan dengan 8 total bagian.
-
-Jenis awan yang terbentuk mempengaruhi besar tutupan awan. Awan diklasifikasikan berdasarkan ketinggian dan bentuknya. Klasifikasi tersebut adalah sebagai berikut:
-
-a.  Awan Rendah (< 2000 m)
-* Stratus (St): bentuk datar berlapis, menutupi area luas; ketinggian rata-rata 800 m; menjadi kabut di ketinggian sangat rendah.
-* Nimbostratus (Ns): awan hujan (awalan nimbo-/nimbus); ketinggian rata-rata 1000 m.
-* Stratocumulus (Sc): bentuk menggumpal (akhiran -cumulus); ketinggian rata-rata 1500 m.
-
-b. Awan Sedang (2000 - 6000 m)
-* Altocumulus (Ac): bentuk menggumpal; ketinggian rata-rata 3500 m (ketinggian menengah, awalan alto-).
-* Altostratus (As): bentuk datar berlapis, menutupi area luas (akhiran -stratus); ketinggian rata-rata 4000 m.
-
-c. Awan Tinggi (> 6000 m)
-* Cirrocumulus (Cc): bentuk menggumpal; ketinggian rata-rata 7000 m (ketinggian tinggi, awalan cirro-/ cirrus).
-* Cirrostratus (Cs): bentuk datar berlapis, menutupi area luas; ketinggian rata-rata 8000 m; umumnya tidak terlihat, bisa diidentifikasi ketika menutupi Matahari/Bulan karena akan membentuk halo (cincin cahaya di sekeliling).
-* Cirrus (Ci): bentuk serabut; ketinggian rata-rata 9000 m.
-
-d. Awan Vertikal
-* Cummulus (Cu): bentuk menggumpal seperti kapas/rambut domba; ketinggian rata-rata 18000 m.
-* Cummulonimbus (Cb): bentuk menggumpal, tinggi seperti tiang; ketinggian rata-rata 2000 m.
-
-![Ilustrasi jenis awan.](https://github.com/user-attachments/assets/85dc2263-7b28-4584-bea1-33bffc778b6d)
-
-Ilustrasi Jenis Awan (Ahrens, 2009)
+- Jenis awan yang terbentuk mempengaruhi besar tutupan awan.
+- Awan diklasifikasikan berdasarkan ketinggian dan bentuknya. Klasifikasi tersebut adalah sebagai berikut:\
+	1. Awan Rendah (< 2000 m)
+	* Stratus (St): bentuk datar berlapis, menutupi area luas; ketinggian rata-rata 800 m; menjadi kabut di ketinggian sangat rendah.
+	* Nimbostratus (Ns): awan hujan (awalan nimbo-/nimbus); ketinggian rata-rata 1000 m.
+	* Stratocumulus (Sc): bentuk menggumpal (akhiran -cumulus); ketinggian rata-rata 1500 m.
+	2. Awan Sedang (2000 - 6000 m)
+	* Altocumulus (Ac): bentuk menggumpal; ketinggian rata-rata 3500 m (ketinggian menengah, awalan alto-).
+	* Altostratus (As): bentuk datar berlapis, menutupi area luas (akhiran -stratus); ketinggian rata-rata 4000 m.
+	3. Awan Tinggi (> 6000 m)
+	* Cirrocumulus (Cc): bentuk menggumpal; ketinggian rata-rata 7000 m (ketinggian tinggi, awalan cirro-/ cirrus).
+	* Cirrostratus (Cs): bentuk datar berlapis, menutupi area luas; ketinggian rata-rata 8000 m; umumnya tidak terlihat, bisa diidentifikasi ketika menutupi Matahari/Bulan karena akan membentuk halo (cincin cahaya di sekeliling).
+	* Cirrus (Ci): bentuk serabut; ketinggian rata-rata 9000 m.\
+	4. Awan Vertikal
+	* Cummulus (Cu): bentuk menggumpal seperti kapas/rambut domba; ketinggian rata-rata 18000 m.
+	* Cummulonimbus (Cb): bentuk menggumpal, tinggi seperti tiang; ketinggian rata-rata 2000 m.\
+		![Ilustrasi jenis awan.](https://github.com/user-attachments/assets/85dc2263-7b28-4584-bea1-33bffc778b6d)\
+		Ilustrasi Jenis Awan (Ahrens, 2009)
 
 ## 3.7. Curah Hujan
 Hujan merupakan salah satu bentuk presipitasi. Presipitasi dalam konteks meteorologi merujuk pada seluruh proses keluarnya air (H2O) dari sistem atmosfer. Proses ini selain mencakup hujan, juga meliputi di antaranya embun, salju, embun beku, dan hujan es.
