@@ -335,54 +335,57 @@ Apa yang dimaksud kondisi atmosfer?
 		Ilustrasi Jenis Awan (Ahrens, 2009)
 
 ## 3.7. Curah Hujan
-Hujan merupakan salah satu bentuk presipitasi. Presipitasi dalam konteks meteorologi merujuk pada seluruh proses keluarnya air (H2O) dari sistem atmosfer. Proses ini selain mencakup hujan, juga meliputi di antaranya embun, salju, embun beku, dan hujan es.
+- Hujan merupakan salah satu bentuk presipitasi. Presipitasi dalam konteks meteorologi merujuk pada seluruh proses keluarnya air (H2O) dari sistem atmosfer.
+- Presipitasi selain mencakup hujan, juga meliputi di antaranya embun, salju, embun beku, dan hujan es.
+- Presipitasi terbentuk ketika awan mengalami kejenuhan.
+- Terdapat dua mekanisme pembentukan hujan dari titik-titik air di awan, yaitu proses collision-coalescence dan proses Wagener-Bergeron-Findeisen.\
+	**a. Proses Collision-Coalescence**\
+	Proses ini terjadi di awan hangat. Angin menyebabkan parsel udara bergerak naik. Ketika temperatur parsel udara turun karena pengangkatan, jumlah uap air yang dapat ditampung oleh atmosfer berkurang sehingga membentuk kondisi jenuh. Akibatnya, uap air bergabung membentuk nukleasi pada inti kondensasi. Proses ini membentuk titik-titik air atau awan. Gerakan angin vertikal maupun horizontal menyebabkan titik-titik air ini bertabrakan (_collision_) satu sama lain, sehingga bergabung membentuk titik air yang lebih besar (_coalescence_). Proses ini terus berlanjut hingga ketika seluruh titik air berukuran lebih dari 2 mm, titik air tersebut menjadi terlalu berat sebagai titik awan dan berubah menjadi tetesan hujan (_rain droplets_). Jika terdapat tetesan hujan yang terbentuk sebelum sebagian besar titik awan mencapai ukuran tersebut, maka tetesan hujan tersebut akan pecah dan kembali mengalami penggabungan dengan titik awan lain. Ketika seluruh titik air di awan berukuran besar dan lebih berat dari kekuatan angin vertikal pembentuk awan tersebut, maka kondisi tersebut akan membentuk hujan.\
+	**b. Proses Wagener-Bergeron-Findeisen**\
+	Proses ini membentuk awan dingin, dengan suhu kurang dari -15&deg;C. Pada lingkungan ini, partikel yang tersuspensi (melayang) di atmosfer menjadi inti pembekuan air. Uap air membeku ketika menyentuh partikel tersebut, membentuk titik-titik es. Titik-titik es terbawa angin, pecah, dan bergabung kembali sehingga membentuk titik salju. Titik es ini "mencuri" air dari titik air hasil kondensasi di awan karena tekanan uap titik es yang lebih rendah.\
+	![Pembentukan awan.](https://github.com/user-attachments/assets/f1c9fdc6-7ed9-44bf-9457-2e4b0a00eec3)\
+	Ilustrasi Proses Collision-Coalescence dan Wegener-Bergeron-Findeisen ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
 
-Presipitasi terbentuk ketika awan mengalami kejenuhan. Terdapat dua mekanisme pembentukan hujan, yaitu proses collision-coalescence dan proses Wagener-Bergeron-Findeisen.
-
-a. Proses Collision-Coalescence\
-Proses ini membentuk awan hangat. Ketika temperatur udara turun karena pengangkatan, jumlah energinya berkurang, sehingga jumlah uap air yang dapat ditampung oleh atmosfer berkurang. Kondisi ini yang disebut sebagai kondisi jenuh. Akibatnya, uap air bergabung membentuk nukleasi pada inti kondensasi. Proses ini membentuk titik-titik air atau awan. Gerakan angin vertikal maupun horizontal menyebabkan titik-titik air ini bertabrakan (collision) satu sama lain, sehingga bergabung membentuk titik air yang lebih besar (coalescence). Proses ini terus berlanjut hingga ketika seluruh titik air berukuran lebih dari 2 mm, titik air tersebut menjadi terlalu berat sebagai titik awan dan berubah menjadi tetesan hujan (rain droplets).
-
-b. Proses Wagener-Bergeron-Findeisen\
-Proses ini membentuk awan dingin, dengan suhu kurang dari -15&deg;C. Pada lingkungan ini, partikel yang tersuspensi di atmosfer menjadi inti pembekuan air. Uap air membeku ketika menyentuh partikel tersebut, membentuk titik-titik es awan. Titik-titik es terbawa angin, pecah, dan bergabung kembali sehingga membentuk titik salju.
-
-![Pembentukan awan.](https://github.com/user-attachments/assets/f1c9fdc6-7ed9-44bf-9457-2e4b0a00eec3)
-
-Ilustrasi Proses Collision-Coalescence dan Wegener-Bergeron-Findeisen ([Tasa, 2019](https://bpb-us-e1.wpmucdn.com/journeys.dartmouth.edu/dist/f/8272/files/2021/12/Meteorology-Textbook-compressed.pdf))
-
-Curah hujan diukur dengan satuan milimeter (mm). Satuan ini merujuk pada parameter ketebalan hujan. Ketebalan hujan digunakan karena tidak terikat luas. Volume air hujan dapat dihitung secara sederhana dengan mengalikan ketebalan hujan dengan luas area yang mengalami hujan. Pengukuran hujan dilakukan dengan penakar hujan atau ombrometer. Prinsip kerja penakar hujan adalah mengukur volume air hujan yang turun di area yang sudah diketahui. Beberapa tipe penakar hujan yaitu:
-
-a. Ombrometer Manual:\
-Ombrometer adalah penakar hujan sederhana, bentuknya hanya berupa wadah penampung air hujan. Setiap hari atau setengah hari, petugas mengeluarkan air yang terkumpul di dalamnya untuk ditakar menggunakan gelas ukur. Volume tersebut kemudian dibagi dengan luas mulut ombrometer untuk memperoleh ketebalan hujan harian atau setengah harian.\
-b. Penakar Hujan Tipe Hellman:\
-Penakar hujan ini menggunakan pelampung untuk mengetahui ketinggian air hujan yang ditangkap alat dan ditampung pada wadah. Pelampung tersebut terhubung dengan tuas dan penanda di lengan tuas lainnya. Penanda menggores kertas pias yang mencatat kenaikan air hujan tertampung pada wadah. Ketika wadah penuh maka secara otomatis alat akan mengeluarkan air pada wadah.\
-c. Penakar Hujan Tipe Tipping Bucket:\
-Penakar hujan ini menggunakan wadah kecil pada tuas untuk menghitung volume hujan. Ketika wadah di satu sisi terisi air, maka tuas pada sisi tersebut akan turun dan membuang air yang tertampung. Wadah pada sisi tuas yang lain kemudian terisi air hingga penuh lalu bergerak turun.  Gerakan tersebut dicatat oleh alat sebagai curah hujan sebesar volume tampungan wadah. Mekanisme ini banyak digunakan pada penakar hujan digital.
-
-![Ombrometer.](https://www.researchgate.net/profile/Sensus-Wijonarko/publication/324800694/figure/fig1/AS:620030576324608@1524838217337/Three-Kinds-of-Rainfall-Sensors-Installed-at-field-a-OBS-type-b-Hellman-type-c-TB_W640.jpg)
-
-Penakar Hujan Tipe Manual, Hellman, dan Tipping Bucket ([Maftukhah, Wijonarko, dan Rustandi (2016), CC-BY-NC 4.0](http://dx.doi.org/10.14203/instrumentasi.v40i1.52))
+- Curah hujan diukur dengan satuan milimeter (mm). Satuan ini merujuk pada parameter ketebalan hujan.
+	- Ketebalan hujan digunakan karena tidak terikat luas.
+ 	- Volume air hujan dapat dihitung secara sederhana dengan mengalikan ketebalan hujan dengan luas area yang mengalami hujan.
+- Pengukuran hujan dilakukan dengan penakar hujan atau ombrometer.
+	- Prinsip kerja penakar hujan adalah mengukur volume air hujan yang turun di area yang sudah diketahui.
+ 	- Beberapa tipe penakar hujan yaitu:\
+		a. Ombrometer Manual:\
+		Ombrometer adalah penakar hujan sederhana, bentuknya hanya berupa wadah penampung air hujan. Setiap hari atau setengah hari, petugas mengeluarkan air yang terkumpul di dalamnya untuk ditakar menggunakan gelas ukur. Volume tersebut kemudian dibagi dengan luas mulut ombrometer untuk memperoleh ketebalan hujan harian atau setengah harian.\
+		b. Penakar Hujan Tipe Hellman:\
+		Penakar hujan ini menggunakan pelampung untuk mengetahui ketinggian air hujan yang ditangkap alat dan ditampung pada wadah. Pelampung tersebut terhubung dengan tuas dan penanda di lengan tuas lainnya. Penanda menggores kertas pias yang mencatat kenaikan air hujan tertampung pada wadah. Ketika wadah penuh maka secara otomatis alat akan mengeluarkan air pada wadah.\
+		c. Penakar Hujan Tipe Tipping Bucket:\
+		Penakar hujan ini menggunakan wadah kecil pada tuas untuk menghitung volume hujan. Ketika wadah di satu sisi terisi air, maka tuas pada sisi tersebut akan turun dan membuang air yang tertampung. Wadah pada sisi tuas yang lain kemudian terisi air hingga penuh lalu bergerak turun.  Gerakan tersebut dicatat oleh alat sebagai curah hujan sebesar volume tampungan wadah. Mekanisme ini banyak digunakan pada penakar hujan digital.\
+		![Ombrometer.](https://www.researchgate.net/profile/Sensus-Wijonarko/publication/324800694/figure/fig1/AS:620030576324608@1524838217337/Three-Kinds-of-Rainfall-Sensors-Installed-at-field-a-OBS-type-b-Hellman-type-c-TB_W640.jpg)\
+		Penakar Hujan Tipe Manual, Hellman, dan Tipping Bucket ([Maftukhah, Wijonarko, dan Rustandi (2016), CC-BY-NC 4.0](http://dx.doi.org/10.14203/instrumentasi.v40i1.52))
 
 # 4. Klasifikasi Iklim
-Iklim Bumi dapat dilihat sebagai sebuah sistem yang memiliki input (masukan), proses, dan mengeluarkan output (luaran) tertentu. Input utama sistem iklim adalah radiasi Matahari, beserta dengan input lain dari luar sistem iklim seperti erupsi gunung api dan polusi. Prosesnya mencakup seluruh proses dalam komponen atmosfer, litosfer (tanah), hidrosfer (air), biosfer (makhluk hidup), dan kriosfer (es), meliputi penyerapan dan pemantulan, sirkulasi atmosfer dan lautan, dan mekanisme umpan balik iklim. Luarannya adalah parameter iklim seperti temperatur, kelembapan, angin, dan curah hujan.
+- Iklim Bumi dapat dilihat sebagai sebuah sistem yang memiliki input (masukan), proses, dan mengeluarkan output (luaran) tertentu.
+	- Input utama sistem iklim adalah radiasi Matahari, beserta dengan input lain dari luar sistem iklim seperti erupsi gunung api dan polusi.
+ 	- Prosesnya mencakup seluruh proses dalam komponen atmosfer, litosfer (tanah), hidrosfer (air), biosfer (makhluk hidup), dan kriosfer (es), meliputi penyerapan dan pemantulan, sirkulasi atmosfer dan lautan, dan mekanisme umpan balik iklim.
+  	- Luarannya adalah parameter iklim seperti temperatur, kelembapan, angin, dan curah hujan.
 
-Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya. Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik.
+- Klasifikasi iklim menggunakan parameter tertentu untuk mengelompokkan wilayah di Bumi berdasarkan rata-rata dan variasi kondisi atmosfernya.
+- Berdasarkan parameter yang digunakan, klasifikasi iklim dapat dibedakan menjadi 2 jenis, genetik dan empirik.
 
 ## 4.1. Klasifikasi Genetik
-Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
-* Flohn: menggunakan pendekatan proses dinamik/sinoptik atmosfer, diklasifikasikan berdasarkan determinan fisik.
-* Budyko: menggunakan pendekatan neraca energi untuk mengklasifikasikan iklim. Klasifikasinya ditentukan menggunakan indeks kekeringan yang dihitung dari rasio evapotranspirasi potensial terhadap curah hujan.
-* Strahler: klasifikasi kualitatif berdasarkan kombinasi massa udara yang ada di suatu wilayah selama satu tahun.
+- Klasifikasi genetik merupakan klasifikasi iklim yang menggunakan faktor penyebab iklim, seperti massa udara, sistem sirkulasi atmosfer, radiasi matahari, dan topografis, sebagai dasar klasifikasinya. Beberapa tipe klasifikasi iklim genetik yaitu:
+	* Flohn: menggunakan pendekatan proses (sistem angin) dinamik/sinoptik atmosfer, diklasifikasikan berdasarkan determinan fisik.
+	* Budyko: menggunakan pendekatan neraca energi untuk mengklasifikasikan iklim. Klasifikasinya ditentukan menggunakan indeks kekeringan yang dihitung dari rasio evapotranspirasi potensial terhadap curah hujan.
+	* Strahler: klasifikasi kualitatif berdasarkan kombinasi massa udara yang ada di suatu wilayah selama satu tahun.
 
 ## 4.2. Klasifikasi Empirik
-Klasifikasi empirik menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
-* Mohr: klasifikasi berdasarkan total jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
-* Schmidt-Fergusson: klasifikasi berdasarkan rasio jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
-* Oldeman: klasifikasi berdasarkan jumlah bulan kering (curah hujan < 100 mm) dan jumlah bulan basah berturut-turut (curah hujan > 200 mm) dalam satu tahun. Nilai curah hujan 200 mm adalah nilai umum curah hujan yang dibutuhkan untuk budidaya padi. Metode Oldeman mensyaratkan lama pengukuran 10 tahun.
-* Miller: klasifikasi badai siklon ekstratropis di pantai timur Amerika Serikat. Klasifikasi dilakukan berdasarkan lokasi pembentukan badai.
-* De Martonne: klasifikasi dilakukan berdasarkan nilai rasio presipitasi terhadap temperatur.
-* Thornthwaite: klasifikasi berdasarkan indeks presipitasi-evapotranspirasi (P/E index, dihitung dari jumlah rasio presipitasi/evapotranspirasi bulanan) dan indeks efisiensi termal (T-E index, dihitung dari temperatur bulanan).
-* Koppen:\
-  Dikembangkan dari klasifikasi distribusi vegetasi. Parameter iklim yang digunakan adalah temperatur dan curah hujan. Koppen mengklasifikasikan iklim sebagai berikut:
+- Klasifikasi empirik menggunakan data lingkungan hasil observasi, seperti temperatur, curah hujan, kelembapan, atau evaporasi, sebagai dasar klasifikasi, yang disebabkan oleh proses-proses iklim. Beberapa tipe klasifikasi iklim empirik yaitu:
+	* Mohr: klasifikasi berdasarkan total jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
+	* Schmidt-Fergusson: klasifikasi berdasarkan rasio jumlah bulan basah (curah hujan < 60 mm) terhadap bulan kering (curah hujan > 100 mm) dalam satu tahun.
+	* Oldeman: klasifikasi berdasarkan jumlah bulan kering (curah hujan < 100 mm) dan jumlah bulan basah berturut-turut (curah hujan > 200 mm) dalam satu tahun. Nilai curah hujan 200 mm adalah nilai umum curah hujan yang dibutuhkan untuk budidaya padi. Metode Oldeman mensyaratkan lama pengukuran 10 tahun.
+	* Miller: klasifikasi badai siklon ekstratropis di pantai timur Amerika Serikat. Klasifikasi dilakukan berdasarkan lokasi pembentukan badai.
+	* De Martonne: klasifikasi dilakukan berdasarkan nilai rasio presipitasi terhadap temperatur.
+	* Thornthwaite: klasifikasi berdasarkan indeks presipitasi-evapotranspirasi (P/E index, dihitung dari jumlah rasio presipitasi/evapotranspirasi bulanan) dan indeks efisiensi termal (T-E index, dihitung dari temperatur bulanan).
+	* Koppen:\
+	  Dikembangkan dari klasifikasi distribusi vegetasi. Parameter iklim yang digunakan adalah temperatur dan curah hujan. Koppen mengklasifikasikan iklim sebagai berikut:
 
 | Jenis Iklim 1 | Jenis Iklim 2 | Jenis Iklim 3 | Keterangan | Ciri-ciri |
 | :------------: | :-----------: | :-----------: | :--------- | :-------- |
@@ -412,53 +415,74 @@ Klasifikasi empirik menggunakan data lingkungan hasil observasi, seperti tempera
 | ET |   |   | Tundra | ET: 0&deg;C < suhu bulanan tertinggi < 10&deg;C |
 | EF |   |   | Salju dan es abadi | EF: suhu bulanan tertinggi < 0&deg;C |
 
-![Peta iklim koppen.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/K%C3%B6ppen-Geiger_climate_classification_%281980-2016%29.png/1024px-K%C3%B6ppen-Geiger_climate_classification_%281980-2016%29.png?20220302060924)
-
+<img width="960" height="582" alt="Peta Iklim Koppen" src="https://github.com/user-attachments/assets/4e36f381-c924-4ae6-93fa-dfd9f42fa176" />\
 Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck, H.E. et al. 2018 - Own work, derived from File:Koppen-Geiger climate classification .gif, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=76770997))
 
-Tentang klasifikasi Junghuhn\
-  Klasifikasi Junghuhn umumnya tidak dimasukkan dalam daftar klasifikasi genetik-empiris. Klasifikasi ini menggunakan ketinggian dari permukaan laut (faktor geografis, genetik) sebagai penentu klasifikasi, namun, pendekatan yang digunakan adalah pendekatan ekosistem, yang perkembangannya disebabkan oleh proses iklim (empirik).
+- Tentang klasifikasi Junghuhn
+	- Klasifikasi Junghuhn umumnya tidak dimasukkan dalam daftar klasifikasi genetik-empiris.
+ 	- Klasifikasi ini menggunakan ketinggian dari permukaan laut (faktor geografis, genetik) sebagai penentu klasifikasi.
+  	- Namun, pendekatan yang digunakan adalah pendekatan ekosistem, yang perkembangannya disebabkan oleh proses iklim (empirik).
 
-Pembagian Wilayah Menurut Pola Curah Hujan di Indonesia\
-BMKG membagi wilayah Indonesia menjadi 3 zona musim berdasarkan pola hujannya. Zona musim tersebut adalah monsunal (A), ekuatorial (B), dan lokal (C). Zona musim monsunal memiliki satu puncak (unimodal) musim hujan di akhir-awal tahun. Zona musim ekuatorial memiliki curah hujan tinggi sepanjang tahun dengan 2 puncak (bimodal) musim hujan di sekitar bulan April dan Oktober (mengikuti gerakan Matahari melewati ekuator). Zona musim lokal dapat memiliki satu puncak musim hujan di pertengahan tahun atau memiliki curah hujan rendah sepanjang tahun.
-
-![Peta ZOM.](https://github.com/user-attachments/assets/5c8107b7-c3ea-4761-85a3-2bb2fd3c6ab6)
-
-Peta Zona Musim (ZOM) Indonesia ([BMKG, 2020](https://iklim.bmkg.go.id/bmkgadmin/storage/buletin/Buku_ZOM9120_versi_cetak.pdf))
+- Pembagian Wilayah Menurut Pola Curah Hujan di Indonesia
+	- BMKG membagi wilayah Indonesia menjadi 3 zona musim berdasarkan pola hujannya: Zona musim tersebut adalah monsunal (A), ekuatorial (B), dan lokal (C).
+ 	- Zona musim monsunal memiliki satu puncak (unimodal) musim hujan di akhir-awal tahun.
+  	- Zona musim ekuatorial memiliki curah hujan tinggi sepanjang tahun dengan 2 puncak (bimodal) musim hujan di sekitar bulan April dan Oktober (mengikuti gerakan Matahari melewati ekuator).
+  	- Zona musim lokal dapat memiliki satu puncak musim hujan di pertengahan tahun atau memiliki curah hujan rendah sepanjang tahun.
+  	  ![Peta ZOM.](https://github.com/user-attachments/assets/5c8107b7-c3ea-4761-85a3-2bb2fd3c6ab6)\
+  	  Peta Zona Musim (ZOM) Indonesia ([BMKG, 2020](https://iklim.bmkg.go.id/bmkgadmin/storage/buletin/Buku_ZOM9120_versi_cetak.pdf))
 
 # 5. Gerak Atmosfer
 ## 5.1. Sirkulasi Umum Atmosfer
-Sirkulasi atmosfer disebabkan oleh ketidakseimbangan neraca radiasi di Bumi. Ekuator menerima lebih banyak energi (surplus) sedangkan kutub melepaskan lebih banyak energi (defisit). Kondisi ini, tanpa adanya pengaruh faktor lain, menyebabkan terbentuknya arus konveksi atmosfer global, satu sirkulasi terbentuk di Belahan Bumi Utara (BBU) dan satu lagi di Belahan Bumi Selatan (BBS). Udara panas di ekuator bergerak ke atas sehingga menyebabkan tekanan rendah di dekat permukaan. Udara dingin mengalir dari tekanan tinggi di kutub ke tekanan rendah di ekuator, sementara itu, kalor tertransfer dari ekuator ke wilayah kutub bersamaan dengan gerakan angin di atmosfer bagian atas.
+- Sirkulasi atmosfer disebabkan oleh ketidakseimbangan neraca radiasi di Bumi.
+	- Ekuator menerima lebih banyak energi (surplus) sedangkan kutub melepaskan lebih banyak energi (defisit).
+ 	- Kondisi ini, tanpa adanya pengaruh faktor lain, menyebabkan terbentuknya arus konveksi atmosfer global, satu sirkulasi terbentuk di Belahan Bumi Utara (BBU) dan satu lagi di Belahan Bumi Selatan (BBS).
+  	- Udara panas di ekuator bergerak ke atas sehingga menyebabkan tekanan rendah di dekat permukaan.
+  	- Udara dingin mengalir dari tekanan tinggi di kutub ke tekanan rendah di ekuator, sementara itu, kalor tertransfer dari ekuator ke wilayah kutub bersamaan dengan gerakan angin di atmosfer bagian atas.
+  	  ![Non-rotating model.](https://github.com/user-attachments/assets/6086599f-27ea-43aa-9a42-ac1e37f8b81c)\
+  	  Ilustrasi Model Sirkulasi Global Atmosfer Akibat Ketidakseimbangan Neraca Radiasi (Ahrens, 2009)
 
-![Non-rotating model.](https://github.com/user-attachments/assets/6086599f-27ea-43aa-9a42-ac1e37f8b81c)
+- Pada pembahasan unsur cuaca angin, kita tau bahwa terdapat faktor lain yang mempengaruhi angin, yaitu gaya koriolis.
+	- Gaya koriolis menyebabkan pembelokan arah gerak angin dari arah gradien tekanan.
+ 	- Akibatnya, sirkulasi meridional, sirkulasi yang benar-benar bergerak sejajar garis bujur (meridian) dan tegak lurus terhadap garis lintang tidak dapat terbentuk.
+		1. Udara panas di ekuator bergerak ke atas lalu ke lintang tengah di atmosfer bagian atas. Seiring gerakan di atmosfer atas tersebut, udara panas melepaskan energi melalui radiasi inframerah.
+  		2. Pada wilayah kutub, udara dingin bergerak turun dan membentuk tekanan tinggi. Udara ini bergerak di permukaan dan bertemu dengan udara lebih hangat dari lintang tengah.
+    	3. Perbedaan suhu udara antara angin dari kutub dan lintang tengah menyebabkan pembentukan front, mengangkat udara ke atmosfer bagian atas.
+     	4. Udara yang terangkat tersebut kehilangan energinya melalui pendinginan adiabatik dan transfer energi menuju sistem sirkulasi kutub.
+      	5. Udara yang kehilangan energi ini kemudian bergerak ke lintang rendah melalui atmosfer bagian atas, bertemu dengan udara panas dari ekuator.
+      	6. Konvergensi udara dari lintang tengah dan ekuator pada atmosfer bagian atas tersebut menyebabkan udara bergerak turun, membentuk sabuk tekanan tinggi. Sabuk tekanan tinggi ini menyebabkan rendahnya curah hujan pada lintang tengah, sehingga membentuk gurun. Sabuk tekanan tinggi juga membentuk area dengan kecepatan angin yang rendah, di zaman pelayaran para pelaut akan membuang kuda ke laut untuk mengurangi beban, sehingga disebut lintang kuda.
+      	7. Udara yang turun tersebut sebagian bergerak menuju kutub dan sebagian lagi ke arah ekuator.
+      	8. Aliran udara menuju ekuator dari BBU dan BBS bertemu pada Daerah Konvergensi Antar Tropis (DKAT/ Intertropical Convergence Zone (ITCZ)), membentuk awan-awan konvektif dan curah hujan tinggi. ITCZ disebut juga doldrum karena memiliki kecepatan angin yang rendah.
+	- Proses ini membentuk 3 sel sirkulasi meridional.
+ 	- Sel Hadley di lintang rendah dan sel polar di lintang tinggi memiliki sifat termal langsung (_thermally direct_) karena dipengaruhi langsung oleh neraca energi.
+  	- Sel Ferrel di lintang tengah memiliki sifat termal tidak langsung (_thermally indirect_) serta berfungsi sebagai penghubung dan penyeimbang antara sel Hadley dan polar.
+  	- Sirkulasi ini membentuk angin-angin dominan yang banyak kita kenal, seperti angin pasat yang terbentuk akibat sel Hadley, angin baratan yang ditimbulkan sel Ferrel, dan angin timuran yang muncul karena sel Polar.
+  	  ![Three cell model.](https://github.com/user-attachments/assets/3212d68c-a75d-4647-aff8-37336615a778)\
+  	  Model Sirkulasi Meridional Tiga Sel (Ahrens, 2009)
 
-Ilustrasi Model Sirkulasi Global Atmosfer Akibat Ketidakseimbangan Neraca Radiasi (Ahrens, 2009)
-
-Pada pembahasan unsur cuaca angin, kita tau bahwa terdapat faktor lain yang mempengaruhi angin, yaitu gaya koriolis. Gaya koriolis menyebabkan pembelokan arah gerak angin dari arah gradien tekanan. Akibatnya, sirkulasi meridional, sirkulasi yang benar-benar bergerak sejajar garis bujur (meridian) dan tegak lurus terhadap garis lintang tidak dapat terbentuk. 
-
-Udara panas di ekuator bergerak ke atas lalu ke lintang tengah di atmosfer bagian atas. Seiring gerakan di atmosfer atas tersebut, udara panas melepaskan energi melalui radiasi inframerah. Pada wilayah kutub, udara dingin bergerak turun dan membentuk tekanan tinggi. Udara ini bergerak di permukaan dan bertemu dengan udara lebih hangat dari lintang tengah. Perbedaan suhu udara menyebabkan pembentukan front, mengangkat udara ke atmosfer bagian atas. Udara yang terangkat tersebut kehilangan energinya melalui pendinginan adiabatik dan transfer energi menuju sistem sirkulasi kutub. Udara yang kehilangan energi ini kemudian bergerak ke lintang rendah melalui atmosfer bagian atas, bertemu dengan udara panas dari ekuator. Konvergensi udara dari lintang tengah dan ekuator pada atmosfer bagian atas tersebut menyebabkan udara bergerak turun, membentuk sabuk tekanan tinggi. Udara yang turun tersebut sebagian bergerak menuju kutub dan sebagian lagi ke arah ekuator. Aliran udara menuju ekuator dari BBU dan BBS bertemu pada Daerah Konvergensi Antar Tropis (DKAT/ Intertropical Convergence Zone (ITCZ)), membentuk awan-awan konvektif dan curah hujan tinggi. ITCZ disebut juga doldrum karena memiliki kecepatan angin yang rendah.
-
-Proses ini membentuk 3 sel sirkulasi meridional. Sel Hadley di lintang rendah dan sel polar di lintang tinggi memiliki sifat termal langsung (thermally direct) karena dipengaruhi langsung oleh neraca energi. Sel Ferrel di lintang tengah memiliki sifat termal tidak langsung (thermally indirect) serta berfungsi sebagai penghubung dan penyeimbang antara sel Hadley dan polar. Sirkulasi ini membentuk angin-angin dominan yang banyak kita kenal, seperti angin pasat yang terbentuk akibat sel Hadley, angin baratan yang ditimbulkan sel Ferrel, dan angin timuran yang muncul karena sel Polar.
-
-![Three cell model.](https://github.com/user-attachments/assets/3212d68c-a75d-4647-aff8-37336615a778)
-
-Model Sirkulasi Meridional Tiga Sel (Ahrens, 2009)
-
-Proses yang sebenarnya terjadi di Bumi memiliki kompleksitas yang lebih tinggi lagi karena adanya pengaruh sirkulasi lautan. Sirkulasi lautan akan dibahas pada bab selanjutnya, namun, salah satu akibatnya adalah perbedaan suhu air laut pada bagian barat dan timur samudera. Bagian timur samudera umumnya memiliki suhu lebih dingin daripada bagian barat samudera. Akibatnya, terbentuk sel-sel sirkulasi termal langsung di atas samudera dan sel penyeimbang di atas daratan. Sirkulasi horizontal pada ekuator ini disebut sirkulasi Walker. Sirkulasi Walker merupakan salah satu contoh sirkulasi zonal, sirkulasi yang terbatas pada satu zona garis lintang tertentu. Aliran zonal lain dipengaruhi oleh keberadaan pusat-pusat tekanan tinggi dan rendah akibat distribusi daratan dan lautan.
-
-![Sirkulasi Walker.](https://github.com/user-attachments/assets/8108360d-ca52-44a8-a76c-1dd4b646e166)
-
-Sirkulasi Walker (Lockwood, 2005)
+- Proses yang sebenarnya terjadi di Bumi memiliki kompleksitas yang lebih tinggi lagi karena adanya pengaruh sirkulasi lautan.
+- Sirkulasi lautan akan dibahas pada bab selanjutnya, namun, salah satu akibatnya adalah perbedaan suhu air laut pada bagian barat dan timur samudera.
+	- Bagian timur samudera umumnya memiliki suhu lebih dingin daripada bagian barat samudera.
+ 	- Akibatnya, terbentuk sel-sel sirkulasi termal langsung di atas samudera dan sel penyeimbang di atas daratan.
+  	- Sirkulasi horizontal pada ekuator ini disebut sirkulasi Walker.
+  	- Sirkulasi Walker merupakan salah satu contoh sirkulasi zonal, sirkulasi yang terbatas pada satu zona garis lintang tertentu.
+  	- Aliran zonal lain dipengaruhi oleh keberadaan pusat-pusat tekanan tinggi dan rendah akibat distribusi daratan dan lautan.
+  	  ![Sirkulasi Walker.](https://github.com/user-attachments/assets/8108360d-ca52-44a8-a76c-1dd4b646e166)\
+  	  Sirkulasi Walker (Lockwood, 2005)
 
 ## 5.2. Angin
 ### 5.2.1 Angin Geostrofik
-Angin dominan (prevailing wind) di wilayah yang luas di permukaan Bumi utamanya dikontrol oleh sirkulasi atmosfer global. Akibat gaya koriolis yang membelokkan angin ke kanan di BBU dan ke kiri di BBS, angin permukaan sel polar membentuk angin timuran (easterlies), sel Ferrel membentuk baratan (westerlies), dan sel Hadley membentuk angin pasat Timur Laut di BBU dan angin pasat Tenggara di BBS. Angin-angin ini memiliki gerakan tegak lurus terhadap gradien tekanan atau sejajar dengan isobar (garis yang menunjukkan lokasi dengan tekanan udara yang sama), sehingga disebut angin geostrofik (geo: Bumi, strofik: berbelok). Angin inilah yang dimaksud dalam hukum Buys-Ballot. Hukum Buys-Ballot menyatakan apabila seorang berdiri membelakangi arah datang angin di BBU, maka tekanan tinggi berada di kanannya dan tekanan rendah berada di kirinya. Sebaliknya terjadi di BBS.
+- Angin dominan (_prevailing wind_) di wilayah yang luas di permukaan Bumi utamanya dikontrol oleh sirkulasi atmosfer global.
+- Akibat gaya koriolis yang membelokkan angin ke kanan di BBU dan ke kiri di BBS, angin permukaan sel polar membentuk angin timuran (_easterlies_), sel Ferrel membentuk baratan (_westerlies_), dan sel Hadley membentuk angin pasat (_trade winds_) Timur Laut di BBU dan angin pasat Tenggara di BBS.
+- Angin-angin ini memiliki gerakan tegak lurus terhadap gradien tekanan atau sejajar dengan isobar (garis yang menunjukkan lokasi dengan tekanan udara yang sama), sehingga disebut angin geostrofik (geo: Bumi, strofik: berbelok).
+- Angin inilah yang dimaksud dalam hukum Buys-Ballot. Hukum Buys-Ballot menyatakan apabila seorang berdiri membelakangi arah datang angin di BBU, maka tekanan tinggi berada di kanannya dan tekanan rendah berada di kirinya. Sebaliknya terjadi di BBS.
+  ![Angin geostrofik.](https://github.com/user-attachments/assets/f124130d-fed0-4ff2-a150-69bb7ec3e39f)\
+  (a) Diagram Isobar; (b) Diagram Angin Geostrofik (Ahrens, 2009)
 
-![Angin geostrofik.](https://github.com/user-attachments/assets/f124130d-fed0-4ff2-a150-69bb7ec3e39f)
-
-(a) Diagram Isobar; (b) Diagram Angin Geostrofik (Ahrens, 2009)
-
-Pada atmosfer bagian atas, angin geostrofik yang terbentuk mengalir ke arah Timur. Angin ini disebut winds aloft. Angin tersebut terbentuk karena tekanan udara pada atmosfer bagian atas memiliki tekanan tinggi pada bagian Ekuator dan berangsur berkurang ke arah kutub. Sehingga, gaya gradien tekanan yang terbentuk memiliki arah menuju kutub, dengan pengaruh gaya koriolis, angin yang terbentuk mengalir ke arah timur.
+- Pada atmosfer bagian atas, angin geostrofik yang terbentuk mengalir ke arah Timur.
+	- Angin ini disebut _winds aloft_.
+ 	- Angin tersebut terbentuk karena tekanan udara pada atmosfer bagian atas, tekanan tinggi pada bagian Ekuator dan berangsur berkurang ke arah kutub.
+  	- Hal ini disebabkan karena di ketinggian atmosfer yang sama, atmosfer di ekuator lebih tebal daripada atmosfer di kutub.
+  	- Sehingga, gaya gradien tekanan yang terbentuk memiliki arah menuju kutub, dengan pengaruh gaya koriolis, angin yang terbentuk mengalir ke arah timur.
 
 ### 5.2.2. Angin Gradien
 Pada wilayah yang membentuk pusat tekanan tinggi atau rendah, isobar akan memiliki bentuk lingkaran tertutup. Kondisi ini menyebabkan angin yang terbentuk bergerak memutar mengikuti lingkaran isobar. Gerakan memutar mengharuskan adanya perubahan arah angin yang terjadi terus-menerus. Perubahan arah angin isi disebabkan oleh gaya sentripetal menuju pusat putaran.
