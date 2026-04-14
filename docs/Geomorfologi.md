@@ -235,16 +235,44 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   2. Saluran sungai (_river channel_): lembah berukuran kecil di dalam dataran banjir yang dilalui air sungai.
   3. Tanggul alami (_natural levee_): tanggul atau tinggian kecil pada tepi saluran sungai. Proses pembentukan tanggul alami yaitu sebagai berikut:\
      <img width="456" height="592" alt="natural levee" src="https://github.com/user-attachments/assets/453df3a5-e38c-40c4-9da1-6f522a6448e9" />\
+  4. Jeram dan air terjun: jeram adalah lompatan kecil pada aliran air sedangkan air terjun adalah lompatan besar. Jeram dan air terjun terbentuk ketika sungai melewati area dengan batuan yang lebih lemah sehingga area tersebut mengalami erosi lebih cepat dan membentuk lembah yang lebih dalam. Jeram dan air terjun juga dapat terbentuk jika batuan yang dilalui aliran sungai mengalami pengangkatan.
      Ketika banjir terjadi, air meluap lebih tinggi dari tepi saluran sungai dan luas aliran sungai meningkat secara drastis. Akibatnya, kecepatan aliran berkurang dengan drastis dan kapasitas sungai juga berkurang drastis, material yang terbawa sungai cepat mengalami deposisi dekat dengan tepi saluran sungai.
-  4. Rawa Belakang (_backswamp_): rawa yang terbentuk pada dataran banjir. Air terperangkap dan tidak dapat memasuki sungai karena terhalang tanggul alami.
-  5. Yazoo stream: anak sungai yang akan memasuki sungai utama terhalang tanggul alami, sehingga mengalir sejajar dengan sungai utama.
-  6. Meander: kelokan sungai.\
+  5. Rawa Belakang (_backswamp_): rawa yang terbentuk pada dataran banjir. Air terperangkap dan tidak dapat memasuki sungai karena terhalang tanggul alami.
+  6. Yazoo stream: anak sungai yang akan memasuki sungai utama terhalang tanggul alami, sehingga mengalir sejajar dengan sungai utama.
+  7. Meander: kelokan sungai.\
      <img width="300" height="392" alt="sinous dan meander" src="https://github.com/user-attachments/assets/c8831921-8f99-43f3-a125-093ca7fa5e51" />\
-
-      <img width="300" height="392" alt="pembentukan meander" src="https://github.com/user-attachments/assets/f15a09a1-adcb-47be-8bd9-dee3c56a18fc" />
-
-  <img width="750" height="332" alt="image" src="https://github.com/user-attachments/assets/026a0d51-6b98-497e-9aa5-e288c64eff84" />
-
+     Tingkatan kelokan sungai: sungai lurus, _sinous_ melenkung sedikit, dan meander berbelok seperti ular\
+     <img width="300" height="392" alt="pembentukan meander" src="https://github.com/user-attachments/assets/f15a09a1-adcb-47be-8bd9-dee3c56a18fc" />\
+     Meander terbentuk karena adanya variasi pada material dasar sungai. Terdapat zona yang lebih dangkal (_riffle_) dan lebih dalam (_pool_). Zona dangkal dilalui kecepatan air cepat sedangkan zona dalam dilalui kecepatan air lambat. Ketika berubah kecepatan, inersia gerakan air akan mendorong air ke samping. Suatu sisi sungai akan tererosi lebih kuat daripada sisi lain, sehingga sungai membentuk meander ke arah tersebut.
+  8. _Point bar_ dan _undercut bank_: sisi bagian dalam belokan meander memiliki kecepatan aliran lebih lambat daripada bagian luar belokan. Garis tengah rata-rata aliran sungai (tali arus, _thalweg_) berada di sisi luar belokan sungai. Bagian luar belokan tererosi ke luar, menyebabkan longsor tepi sungai, dan juga tererosi ke bawah, menyebabkan sungai yang lebih dalam. Sisi tersebut disebut _undercut bank_. Sementara itu, bagian dalam belokan yang alirannya lambat menyebabkan deposisi material, membentuk _point bar_ (gosong tepi sungai).
+  9. Danau tapal kuda (_oxbow lake_),  _cutoff_, dan gosong tengah (_channel bar_): danau tapal kuda terbentuk karena erosi memotong belokan meander. Aliran yang memotong tersebut disebut _cutoff_. Ketika _cutoff_ awalnya terbentuk, akan terdapat dua aliran, aliran meander asli dan _cutoff_ yang memotong. _Point bar_ berubah menjadi pulau yang berada di tengah aliran, disebut gosong tengah (_channel bar_).
+  <img width="750" height="332" alt="Ilustrasi bentukan sungai" src="https://github.com/user-attachments/assets/026a0d51-6b98-497e-9aa5-e288c64eff84" />
+- Pola Aliran Sungai:
+  - Pola Linear/Paralel: berkembang di area dengan kemiringan lereng sangat tinggi, sehingga seluruh erosi terjadi ke bawah.
+  - Pola Radial: pola aliran menjauh dari 1 titik (radial sentrifugal) misal pola pada kerucut gunungapi, dan juga pola aliran menuju 1 titik (radial sentripetal) misal pola pada cekungan struktural.
+  - Pola Trelis: anak sungai kecil paralel satu sama lain memasuki 1 sungai besar denga sudut tegak lurus. Terbentuk di lembah lipatan.
+  - Pola Rektangular: aliran sungai yang berbelok dengan sudut tegak lurus atau lebih tajam karena ada pengaruh sesar atau kekar.
+  - Pola Annular: aliran yang bergerak sedikit memutar. Terbentuk karena aliran radial yang dibelokkan mengelilingi struktur yang dialiri karena terdapat halangan batuan yang resisten terhadap erosi.
+  - Pola Dendritik: anak sungai tersusun seperti serabut. Terbentuk di wilayah relatif datar dan material yang seragam.
+    <img width="592" height="313" alt="Pola aliran" src="https://github.com/user-attachments/assets/0287c254-1a2d-4e15-9c1e-77967e712dec" />
+- Peremajaan Sungai (_river rejuvenation_): peremajaan sungai adalah perubahan tingkat kedewasaan erosi yang tejadi di sungai menjadi usia lebih muda.
+  - Peremajaan sungai terjadi karena batuan tempat sungai mengalir mengalami pengangkatan, sehingga meningkatkan proporsi erosi vertikal.
+  - Peremajaan sungai dapat membentuk teras aluvial, yaitu bentukan seperti bangku pada tepi dataran banjir.\
+    <img width="680" height="486" alt="teras sungai" src="https://github.com/user-attachments/assets/6b3e95e5-2f63-4b1c-8312-3c7256cff9b7" />
+  - Bentukan lain yang mungkin terbentuk adalah entrenched meander, yaitu meander yang tergerus pada lembah yang dalam karena pengangkatan terus-menerus terjadi pada batuan yang dilalui sungai bermeander.\
+    <img width="1024" height="596" alt="entrenched meander" src="https://github.com/user-attachments/assets/39ce2ea9-8b03-41aa-b8c4-4f2b3c9ba71e" />
+  - Peremajaan sungai juga mungkin membentuk _knick point_, yaitu jeram atau air terjun.\
+    <img width="700" height="250" alt="knickpoint" src="https://github.com/user-attachments/assets/1195f33e-abf6-4476-b1d3-bbb9c42f08c3" />
+- Braided vs. anastomosing stream
+  - Sungai teranyam, terbentuk karena suplai sedimen sungai yang sangat besar membentuk banyak _channel bar_.
+  - _Channel bar_ pada _braided stream_ mudah muncul dan mudah hilang. Sementara itu, pada anastomosing stream, _channel bar_ lebih stabil, ditumbuhi vegetasi, sehingga lebih permanen.
+    <img width="700" height="603" alt="image" src="https://github.com/user-attachments/assets/dc93ba11-285d-476d-b17d-8c7fc7962bfb" />
+- Sungai yang melewati barisan pegunungan:
+  - Sungai Antesenden:  Antesenden artinya sungai yang memotong sudah ada sebelum proses struktural yang membentuk pegunungan terjadi.
+  - Superimpose: Superimposed berarti sungai memotong bentukan struktural setelah ia terbentuk.
+  - Spillover: satu sisi pegunungan membentuk reservoir yang kemudian meluap ke sisi pegunungan lain. Aliran luapan menyebabkan erosi yang membentuk lembah sungai memotong pegunungan.
+  - Piracy: sungai pada satu sisi pegunungan terus mengerosi ke arah hulu sehingga lembah sungainya bergabung dengan lembah sungai lain di sisi gunung sebalinya.
+    <img width="640" height="873" alt="Sungai memotong struktural" src="https://github.com/user-attachments/assets/797eecf9-8329-4b5a-88f6-ba5d5ba58adb" />
 
 # 4. Bentanglahan Marine
 Bentanglahan marine dibentuk dari proses yang berkaitan dengan **lautan**. Sebelum memperdalam pemahaman mengenai bentanglahan marine, mari mengenal istilah pembagian wilayah kepesisiran terlebih dahulu.
