@@ -533,68 +533,93 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
   	  Angin Muson Asia Selatan, Asia Tenggara, dan Australia ([Sumber](https://digilib.itb.ac.id/assets/files/disk1/406/jbptitbpp-gdl-auliasyahr-20287-3-2013ta-2.pdf))
 
 ### 5.2.5. Angin Lokal
-Angin lokal yang dimaksud di sini adalah sistem angin darat dan angin laut serta sistem angin gunung dan angin lembah. Kedua sistem tersebut disebabkan karena perbedaan kecepatan pemanasan dan pendinginan permukaan Bumi. Sirkulasi angin darat-angin laut disebabkan karena perbedaan kalor jenis lautan dan daratan. Lautan dengan kalor jenis lebih tinggi dari daratan lebih lambat dipanaskan daripada daratan ketika siang hari. Akibatnya, angin berhembus dari laut yang memiliki suhu yang lebih dingin, ke darat yang memiliki suhu yang lebih hangat. Sebaliknya, di malam hari, darat kehilangan kalor lebih cepat daripada laut, sehingga angin berhembus dari darat ke arah laut.
+- Angin lokal yang dimaksud di sini adalah sistem angin darat dan angin laut serta sistem angin gunung dan angin lembah.
+- Kedua sistem tersebut disebabkan karena perbedaan kecepatan pemanasan dan pendinginan permukaan Bumi.
+	- Sirkulasi angin darat-angin laut disebabkan karena perbedaan kalor jenis lautan dan daratan.
+	- Lautan dengan kalor jenis lebih tinggi dari daratan lebih lambat dipanaskan daripada daratan ketika siang hari.
+	- Akibatnya, angin berhembus dari laut yang memiliki suhu yang lebih dingin, ke darat yang memiliki suhu yang lebih hangat.
+	- Sebaliknya, di malam hari, darat kehilangan kalor lebih cepat daripada laut, sehingga angin berhembus dari darat ke arah laut.\
+	  ![Angin laut darat.](https://github.com/user-attachments/assets/0e49dcec-6442-4c74-b2b5-8289bf4bb2dc)\
+	  Angin Laut dan Angin Darat (Ahrens, 2009)
 
-![Angin laut darat.](https://github.com/user-attachments/assets/0e49dcec-6442-4c74-b2b5-8289bf4bb2dc)
+	- Sistem angin gunung-angin lembah disebabkan karena perbedaan kecepatan pemanasan puncak dan lembah.
+	- Puncak gunung yang terkena sinar Matahari lebih awal daripada lembah menyebabkan suhunya lebih panas.
+	- Akibatnya, angin berhembus dari lembah ke puncak.
+	- Sebaliknya, di malam hari, puncak mengalami pendinginan lebih cepat, sehingga angin berhembus ke arah lembah.\
+   		![Angin gunung lembah](https://github.com/user-attachments/assets/7295d532-0e9a-4902-8909-ed752fb7d2a5)\
+   		Angin Lembah dan Angin Lembah (Ahrens, 2009)
 
-Angin Laut dan Angin Darat (Ahrens, 2009)
-
-Sistem angin gunung-angin lembah disebabkan karena perbedaan kecepatan pemanasan puncak dan lembah. Puncak gunung yang terkena sinar Matahari lebih awal daripada lembah menyebabkan suhunya lebih panas. Akibatnya, angin berhembus dari lembah ke puncak. Sebaliknya, di malam hari, puncak mengalami pendinginan lebih cepat, sehingga angin berhembus ke arah lembah.
-
-![Angin gunung lembah](https://github.com/user-attachments/assets/7295d532-0e9a-4902-8909-ed752fb7d2a5)
-
-Angin Lembah dan Angin Lembah (Ahrens, 2009)
-
-Halangan topografi mempengaruhi angin dengan mempengaruhi suhu dan kelembapan udara pada parsel udara yang bergerak. Ketika angin menemui halangan topografi, angin akan dipaksa bergerak naik. Sisi halangan topografi yang menghadap angin dinamakan sisi windward. Parsel udara yang bergerak mengalami pendinginan adiabatik kering hingga ketinggian Lifting Condensation Level (LCL). Laju pendinginan hingga ketinggian ini adalah lapse rate adiabatik kering, yaitu sekitar 1&deg;C per 100 m. Kenaikan ketinggian selanjutnya, parsel udara mengalami lapse rate adiabatik basah, dengan nilai 0,65&deg;C per 100 m. Setelah parsel udara mencapai puncak, parsel udara akan bergerak menuruni lereng di sisi membelakangi angin, leeward, dengan laju peningkatan suhu adiabatik kering saja. Akibatnya, suhu udara ketika mencapai kaki lereng lebih tinggi daripada angin yang datang di sisi windward. Selain itu, karena uap air yang dibawa parsel udara sudah mengalami kondensasi, maka angin di sisi leeward memiliki kelembapan yang rendah. Angin panas dan kering ini dinamakan angin Fohn. Angin Fohn memiliki berbagai nama lain, seperti Chinook dan Bahorok.
-
-![Foehn.](https://github.com/user-attachments/assets/fe74480e-6493-45d3-9b28-12ea97c4fae0)
-
-Ilustrasi Angin Fohn (Ackerman, 2007)
+- Halangan topografi mempengaruhi angin dengan mempengaruhi suhu dan kelembapan udara pada parsel udara yang bergerak.
+	- Ketika angin menemui halangan topografi, angin akan dipaksa bergerak naik.
+	- Sisi halangan topografi yang menghadap angin dinamakan sisi _windward_.
+	- Parsel udara yang bergerak mengalami pendinginan adiabatik kering hingga ketinggian Lifting Condensation Level (LCL).
+	- Laju pendinginan hingga ketinggian ini adalah _lapse rate_ adiabatik kering, yaitu sekitar 1&deg;C per 100 m.
+	- Kenaikan ketinggian selanjutnya, parsel udara mengalami _lapse rate_ adiabatik basah, dengan nilai 0,65&deg;C per 100 m.
+	- Setelah parsel udara mencapai puncak, parsel udara akan bergerak menuruni lereng di sisi membelakangi angin, _leeward_, dengan laju peningkatan suhu adiabatik kering saja.
+	- Akibatnya, suhu udara ketika mencapai kaki lereng lebih tinggi daripada angin yang datang di sisi _windward_.
+	- Selain itu, karena uap air yang dibawa parsel udara sudah mengalami kondensasi, maka angin di sisi _leeward_ memiliki kelembapan yang rendah.
+	- Angin panas dan kering ini dinamakan angin Fohn. Angin Fohn memiliki berbagai nama lain, seperti Chinook dan Bahorok.\
+   		![Foehn.](https://github.com/user-attachments/assets/fe74480e-6493-45d3-9b28-12ea97c4fae0)\
+   		Ilustrasi Angin Fohn (Ackerman, 2007)
 
 ## 5.3. Osilasi Atmosfer
-Variabilitas pada proses-proses sirkulasi yang disebutkan sebelumnya dapat disebabkan oleh adanya gangguan atmosfer. Gangguan atmosfer tersebut terbentuk karena interaksi kompleks berbagai proses atmosfer serta interaksi atmosfer-samudera. Gangguan ini muncul dalam bentuk osilasi, gelombang tekanan udara yang dapat memiliki periode bulanan hingga puluhan tahun.
+- Variabilitas pada proses-proses sirkulasi yang disebutkan sebelumnya dapat disebabkan oleh adanya gangguan atmosfer.
+- Gangguan atmosfer tersebut terbentuk karena interaksi kompleks berbagai proses atmosfer serta interaksi atmosfer-samudera.
+- Gangguan ini muncul dalam bentuk osilasi, gelombang tekanan udara yang dapat memiliki periode bulanan hingga puluhan tahun.
 
 ### 5.3.1. El Nino Southern Oscillation (ENSO)
-ENSO adalah gangguan atmosfer berupa gerakan gelombang atau osilasi pusat tekanan rendah di Samudera Pasifik Ekuator. ENSO memiliki dua fase, El Nino dan La Nina. Fase El Nino menunjukkan gerakan pusat tekanan rendah ke arah timur, sedangkan La Nina menunjukkan penguatan pusat tekanan rendah di Samudera Pasifik bagian Barat.
-
-Gerakan pusat tekanan rendah ke arah Timur pada fase El Nino berkaitan dengan memanjangnya kolam air panas ke arah Timur dari perairan Samudera Pasifik Barat. Kondisi ini disertai pelemahan angin pasat dan perubahan gradien tinggi muka air laut dan termoklin menjadi ke arah Timur. Kondisi ini menyebabkan arus laut naik (upwelling) dari laut dalam di Pasifik Barat, membawa nutrien dan peningkatan sumber daya perikanan, sementara itu, arus dari permukaan membawa air kaya oksigen ke laut dalam di Pasifik Timur (downwelling). Sirkulasi Walker pada fase El Nino mengalami perubahan, konvergensi terjadi di Samudera Pasifik tengah dan Timur menyebabkan curah hujan tinggi di Amerika Selatan dan divergensi di Pasifik Barat menyebabkan cuaca kering di Indonesia. Fase La Nina berkaitan dengan penguatan gradien suhu antara kolam air hangat di Pasifik Barat dengan bagian lain Pasfik Ekuator. Kondisi ini menyebabkan curah hujan yang lebih kuat di Pasifik Barat serta penguatan arus upwelling dan downwelling dari kondisi normal.
-
-![ENSO.](https://github.com/user-attachments/assets/d0db7c06-6bec-4d92-8aa0-3efc1f2260d2)
-
-
+- ENSO adalah gangguan atmosfer berupa gerakan gelombang atau osilasi pusat tekanan rendah di Samudera Pasifik Ekuator.
+- ENSO memiliki dua fase, El Nino dan La Nina. Fase El Nino menunjukkan gerakan pusat tekanan rendah ke arah timur, sedangkan La Nina menunjukkan penguatan pusat tekanan rendah di Samudera Pasifik bagian Barat.
+- Gerakan pusat tekanan rendah ke arah Timur pada fase El Nino berkaitan dengan memanjangnya kolam air panas ke arah Timur dari perairan Samudera Pasifik Barat.
+	- Kondisi ini disertai pelemahan angin pasat dan perubahan gradien tinggi muka air laut dan termoklin menjadi ke arah Timur.
+	- Kondisi ini menyebabkan arus laut naik (_upwelling_) dari laut dalam di Pasifik Barat, membawa nutrien dan peningkatan sumber daya perikanan, sementara itu, arus dari permukaan membawa air kaya oksigen ke laut dalam di Pasifik Timur (_downwelling_).
+	- Sirkulasi Walker pada fase El Nino mengalami perubahan, konvergensi terjadi di Samudera Pasifik tengah dan Timur menyebabkan curah hujan tinggi di Amerika Selatan dan divergensi di Pasifik Barat menyebabkan cuaca kering di Indonesia.
+- Fase La Nina berkaitan dengan penguatan gradien suhu antara kolam air hangat di Pasifik Barat dengan bagian lain Pasfik Ekuator.
+	- Kondisi ini menyebabkan curah hujan yang lebih kuat di Pasifik Barat serta penguatan arus _upwelling_ dan _downwelling_ dari kondisi normal.\
+![ENSO.](https://github.com/user-attachments/assets/d0db7c06-6bec-4d92-8aa0-3efc1f2260d2)\
 Ilustrasi ENSO ([Commonwealth of Australia, 2013](http://www.bom.gov.au/climate/enso/?ninoIndex=nino3.4&index=nino34&period=weekly#tabs=Pacific-Ocean&ensoPhases=El-Ni%C3%B1o))
 
-Indikator yang digunakan untuk mengetahui fase ENSO yaitu Oceanic Nino Index (ONI) yang dihitung dari rata-rata 3 bulan berjalan suhu permukaan laut (SST, Sea Surface Temperature) di Samudera Pasifik tengah. Wilayah pengukuran SST ini dinamakan wilayah Nino 3.4. Peningkatan suhu rata-rata sebesar 0,5&deg;C menunjukkan kondisi El Nino dan sebaliknya menunjukkan La Nina. Selain itu, terdapat indikator lain bernama Southern Oscillation Index (SOI). SOI diukur dari selisih tekanan udara permukaan laut antara Tahiti dan Darwin, Australia. Nilai SOI positif menunjukkan kondisi La Nina, sedangkan nilai negatif menunjukkan El Nino.
-
-![ONI dan SOI.](https://github.com/user-attachments/assets/6667a967-a7ed-4733-93dd-0207291edc03)
-
+- Indikator yang digunakan untuk mengetahui fase ENSO yaitu Oceanic Nino Index (ONI) yang dihitung dari rata-rata 3 bulan berjalan suhu permukaan laut (SST, Sea Surface Temperature) di Samudera Pasifik tengah.
+	- Wilayah pengukuran SST ini dinamakan wilayah Nino 3.4.
+	- Peningkatan suhu rata-rata sebesar 0,5&deg;C menunjukkan kondisi El Nino dan sebaliknya menunjukkan La Nina.
+- Selain itu, terdapat indikator lain bernama Southern Oscillation Index (SOI).
+	- SOI diukur dari selisih tekanan udara permukaan laut antara Tahiti dan Darwin, Australia.
+	- Nilai SOI positif menunjukkan kondisi La Nina, sedangkan nilai negatif menunjukkan El Nino.\
+![ONI dan SOI.](https://github.com/user-attachments/assets/6667a967-a7ed-4733-93dd-0207291edc03)\
 Grafik ONI dan SOI ([Commonwealth of Australia, 2013](http://www.bom.gov.au/climate/enso/?ninoIndex=nino3.4&index=nino34&period=weekly#tabs=Pacific-Ocean&ensoPhases=El-Ni%C3%B1o))
 
 ### 5.3.2. Indian Ocean Dipole (IOD)
-IOD merupakan gangguan pada sirkulasi Walker di Samudera Hindia Ekuator. Gangguan ini memiliki 2 mode, positif dan negatif. Mode IOD positif memiliki konfigurasi sel Walker dan termoklin seperti La Nina, sedangkan negatif seperti El Nino. Bagian Barat Samudera Hindia berbatasan dengan pantai Timur Afrika, sedangkan bagian Timurnya dengan Indonesia dan Australia, sehingga, dampak IOD dirasakan di wilayah tersebut. Mode IOD ditentukan menggunakan Dipole Mode Index (DMI). DMI ditentukan dengan menghitung gradien SST antara Samudera Hindia Barat dan Timur.
-
-![IOD.](https://github.com/user-attachments/assets/6c0fd4c2-91b3-4b27-9802-c4eea83123de)
-
+- IOD merupakan gangguan pada sirkulasi Walker di Samudera Hindia Ekuator.
+- Gangguan ini memiliki 2 mode, positif dan negatif.
+- Mode IOD positif memiliki konfigurasi sel Walker dan termoklin seperti La Nina, sedangkan negatif seperti El Nino.
+- Bagian Barat Samudera Hindia berbatasan dengan pantai Timur Afrika, sedangkan bagian Timurnya dengan Indonesia dan Australia, sehingga, dampak IOD dirasakan di wilayah tersebut.
+- Mode IOD ditentukan menggunakan Dipole Mode Index (DMI). DMI ditentukan dengan menghitung gradien SST antara Samudera Hindia Barat dan Timur.\
+![IOD.](https://github.com/user-attachments/assets/6c0fd4c2-91b3-4b27-9802-c4eea83123de)\
 Ilustrasi IOD dan DMS ([Commonwealth of Australia, 2013](http://www.bom.gov.au/climate/enso/?ninoIndex=nino3.4&index=nino34&period=weekly#tabs=Pacific-Ocean&ensoPhases=El-Ni%C3%B1o))
 
 ### 5.3.3. Madden-Julian Oscillation (MJO)
-MJO merupakan gelombang pusat tekanan tinggi dan tekanan rendah yang bergerak di Ekuator dari Barat Samudera Hindia ke arah Timur. Gelombang ini bergerak mengelilngi Bumi dengan durasi siklus antara 30 hingga 60 hari. Gelombang ini disebabkan oleh interaksi sirkulasi atmosfer dengan proses pembentukan hujan konvektif.
-
-![MJO.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Madden%E2%80%93Julian_oscillation_diagram.png/960px-Madden%E2%80%93Julian_oscillation_diagram.png)
-
+- MJO merupakan gelombang pusat tekanan tinggi dan tekanan rendah yang bergerak di Ekuator dari Barat Samudera Hindia ke arah Timur.
+- Gelombang ini bergerak mengelilngi Bumi dengan durasi siklus antara 30 hingga 60 hari.
+- Gelombang ini disebabkan oleh interaksi sirkulasi atmosfer dengan proses pembentukan hujan konvektif.\
+![MJO.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Madden%E2%80%93Julian_oscillation_diagram.png/960px-Madden%E2%80%93Julian_oscillation_diagram.png)\
 Ilustrasi MJO ([By Fiona Martin, Public Domain](https://commons.wikimedia.org/w/index.php?curid=77318689))
 
 ### 5.3.4. Sungai Atmosfer
-Sungai atmosfer adalah area sempit memanjang di atmosfer yang memiliki kandungan uap air tinggi. Sungai atmosfer dapat terbentuk karena siklon ekstratropis maupun osilasi atmosfer. Fenomena ini mempengaruhi curah hujan di Eropa, Australia, Iran, Kanada, dan Amerika Serikat. Fenomena sungai atmosfer di Amerika Serikat dan Kanada sendiri memiliki nama khusus, yaitu Pineapple Express.
-
-Pineapple Express merupakan sungai atmosfer yang berasal dari Pasifik Barat Ekuator, memanjang ke arah Timur laut, melalui Hawaii dan mencapai pantai Barat Amerika Utara. Pineapple Express dipicu oleh MJO atau El Nino, pusat tekanan rendah yang bergerak ke arah Timur pada kedua fenomena tersebut memperlemah pusat tekanan tinggi di pantai Barat Amerika Utara. Akibatnya, jet stream polar pada area tersebut terbelah menjadi dua, lalu aliran cabang bagian Selatan menguat. Kondisi tersebut menyebabkan terhubungnya sirkulasi tropis dan ekstratropis, menyebabkan terbawanya uap air ke arah Timur laut.
-
-![Pineapple express.](https://upload.wikimedia.org/wikipedia/commons/a/a7/Mjo_north_america_rain.png)
-
-Ilustrasi Pembentukan Pineapple Express ([By Pierre_cb - NOAA in article Monitoring Interseasonal Oscillations, Public Domain](https://commons.wikimedia.org/w/index.php?curid=1488464))
+- Sungai atmosfer adalah area sempit memanjang di atmosfer yang memiliki kandungan uap air tinggi.
+- Sungai atmosfer dapat terbentuk karena siklon ekstratropis maupun osilasi atmosfer.
+- Fenomena ini mempengaruhi curah hujan di Eropa, Australia, Iran, Kanada, dan Amerika Serikat.
+- Fenomena sungai atmosfer di Amerika Serikat dan Kanada sendiri memiliki nama khusus, yaitu Pineapple Express.
+	- Pineapple Express merupakan sungai atmosfer yang berasal dari Pasifik Barat Ekuator, memanjang ke arah Timur laut, melalui Hawaii dan mencapai pantai Barat Amerika Utara.
+	- Pineapple Express dipicu oleh MJO atau El Nino, pusat tekanan rendah yang bergerak ke arah Timur pada kedua fenomena tersebut memperlemah pusat tekanan tinggi di pantai Barat Amerika Utara.
+	- Akibatnya, jet stream polar pada area tersebut terbelah menjadi dua, lalu aliran cabang bagian Selatan menguat.
+	- Kondisi tersebut menyebabkan terhubungnya sirkulasi tropis dan ekstratropis, menyebabkan terbawanya uap air ke arah Timur laut.\
+   		![Pineapple express.](https://upload.wikimedia.org/wikipedia/commons/a/a7/Mjo_north_america_rain.png)\
+   		Ilustrasi Pembentukan Pineapple Express ([By Pierre_cb - NOAA in article Monitoring Interseasonal Oscillations, Public Domain](https://commons.wikimedia.org/w/index.php?curid=1488464))
 
 # 6. Massa Udara dan Front
-Massa udara adalah bagian atmosfer berukuran besar, ribuan kilometer, yang memiliki karakteristik suhu, kelembapan, dan stabilitas seragam. Karakteristik massa udara dipengaruhi wilayah asalnya, modifikasi yang dialami saat bergerak melalui wilayah lain, dan lama masa hidupnya. Massa udara dapat diklasifikasikan jenisnya sebagai berikut:
+- Massa udara adalah bagian atmosfer berukuran besar, ribuan kilometer, yang memiliki karakteristik suhu, kelembapan, dan stabilitas seragam.
+- Karakteristik massa udara dipengaruhi wilayah asalnya, modifikasi yang dialami saat bergerak melalui wilayah lain, dan lama masa hidupnya.
+- Massa udara dapat diklasifikasikan jenisnya sebagai berikut:
 
 | Massa Udara | Wilayah Asal | Suhu dan Kelembapan Wilayah Asal | Stabilitas Wilayah Asal | Cuaca yang Ditimbulkan |
 | :------------: | :----------- | :----------- | :--------- | :-------- |
@@ -605,31 +630,22 @@ Massa udara adalah bagian atmosfer berukuran besar, ribuan kilometer, yang memil
 | mT | Samudera dekat Ekuator | Hangat dan lembap sepanjang tahun | Umumnya tidak stabil | Presipitasi dan kabut adveksi di musim dingin, panas dan lembap serta hujan badai di musim panas |
 | mE | Samudera Ekuator | Hangat dan lembap sepanjang tahun | Tidak stabil | Presipitasi, hujan badai |
 
-![Massa udara.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Air_masses.svg/800px-Air_masses.svg.png)
-
+![Massa udara.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Air_masses.svg/800px-Air_masses.svg.png)\
 Peta Massa Udara Dunia ([Public Domain](https://commons.wikimedia.org/w/index.php?curid=12526643))
 
 Keterangan: m = maritim, c = kontinental, P = Polar, T = Tropis, E = Ekuatorial
 
-Pertemuan antar massa udara yang memiliki massa jenis berbeda disebut front. Perbedaan massa jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
-* Front Hangat: terbentuk ketika massa udara bersuhu hangat bergerak menggantikan massa udara dingin yang meninggalkan suatu wilayah. Front hangat menyebabkan hujan di area luas dan berdurasi lama.
-  
-  ![Front hangat.](https://github.com/user-attachments/assets/4379a1a2-86d5-497d-9b6e-5cf6db4119b9)
-
-  Ilustrasi Front Hangat (Ahrens, 2009)
-  
-* Front Dingin: terbentuk ketika massa udara bersuhu dingin bergerak menggantikan massa udara bersuhu hangat di suatu wilayah. Front dingin menyebabkan hujan lebat di area sempit dan berdurasi singkat.
-  
-  ![Front dingin.](https://github.com/user-attachments/assets/cffb0334-d6fc-4f82-854b-3e1f4f4b7682)
-
-  Ilustrasi Front Dingin (Ahrens, 2009)
-  
-* Front Stasioner: terbentuk ketika massa udara berbeda suhu tidak bergerak mendekati satu sama lain. Front stasioner umumnya membentuk cuaca berawan.
-* Front Oklusi: terbentuk ketika front hangat dan front dingin bertemu. Cuaca yang dibentuk front oklusi bergantung pada tipenya. Jika front hangat bergerak menuju front dingin, maka front oklusi yang terbentuk adalah front oklusi hangat dengan cuaca mirip front hangat. Sebaliknya, jika front dingin bergerak menuju front hangat, maka terbentuk front oklusi dingin dengan cuaca mirip front dingin.
-  
-  ![Front oklusi.](https://github.com/user-attachments/assets/da339ceb-cfee-4cc9-a500-62053caae7e8)
-
-  Ilustrasi Front Oklusi Dingin (kiri) dan Hangat (kanan) (Ahrens, 2009)
+- Pertemuan antar massa udara yang memiliki massa jenis berbeda disebut front. Perbedaan massa jenis ini utamanya disebabkan karena perbedaan temperatur. Terdapat 4 tipe front, yaitu:
+  1. Front Hangat: terbentuk ketika massa udara bersuhu hangat bergerak menggantikan massa udara dingin yang meninggalkan suatu wilayah. Front hangat menyebabkan hujan di area luas dan berdurasi lama.\
+     ![Front hangat.](https://github.com/user-attachments/assets/4379a1a2-86d5-497d-9b6e-5cf6db4119b9)\
+     Ilustrasi Front Hangat (Ahrens, 2009)
+  2. Front Dingin: terbentuk ketika massa udara bersuhu dingin bergerak menggantikan massa udara bersuhu hangat di suatu wilayah. Front dingin menyebabkan hujan lebat di area sempit dan berdurasi singkat.\
+     ![Front dingin.](https://github.com/user-attachments/assets/cffb0334-d6fc-4f82-854b-3e1f4f4b7682)\
+     Ilustrasi Front Dingin (Ahrens, 2009)
+  3. Front Stasioner: terbentuk ketika massa udara berbeda suhu tidak bergerak mendekati satu sama lain. Front stasioner umumnya membentuk cuaca berawan.
+  4. Front Oklusi: terbentuk ketika front hangat dan front dingin bertemu. Cuaca yang dibentuk front oklusi bergantung pada tipenya. Jika front hangat bergerak menuju front dingin, maka front oklusi yang terbentuk adalah front oklusi hangat dengan cuaca mirip front hangat. Sebaliknya, jika front dingin bergerak menuju front hangat, maka terbentuk front oklusi dingin dengan cuaca mirip front dingin.\
+     ![Front oklusi.](https://github.com/user-attachments/assets/da339ceb-cfee-4cc9-a500-62053caae7e8)\
+     Ilustrasi Front Oklusi Dingin (kiri) dan Hangat (kanan) (Ahrens, 2009)
 
 # 7. Observasi Meteorologi dan Penyajian Data
 ## 7.1. Observasi dengan Alat-alat Konvensional
