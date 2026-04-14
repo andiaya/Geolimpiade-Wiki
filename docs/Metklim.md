@@ -437,7 +437,7 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
 	- Ekuator menerima lebih banyak energi (surplus) sedangkan kutub melepaskan lebih banyak energi (defisit).
  	- Kondisi ini, tanpa adanya pengaruh faktor lain, menyebabkan terbentuknya arus konveksi atmosfer global, satu sirkulasi terbentuk di Belahan Bumi Utara (BBU) dan satu lagi di Belahan Bumi Selatan (BBS).
   	- Udara panas di ekuator bergerak ke atas sehingga menyebabkan tekanan rendah di dekat permukaan.
-  	- Udara dingin mengalir dari tekanan tinggi di kutub ke tekanan rendah di ekuator, sementara itu, kalor tertransfer dari ekuator ke wilayah kutub bersamaan dengan gerakan angin di atmosfer bagian atas.
+  	- Udara dingin mengalir dari tekanan tinggi di kutub ke tekanan rendah di ekuator, sementara itu, kalor tertransfer dari ekuator ke wilayah kutub bersamaan dengan gerakan angin di atmosfer bagian atas.\
   	  ![Non-rotating model.](https://github.com/user-attachments/assets/6086599f-27ea-43aa-9a42-ac1e37f8b81c)\
   	  Ilustrasi Model Sirkulasi Global Atmosfer Akibat Ketidakseimbangan Neraca Radiasi (Ahrens, 2009)
 
@@ -455,7 +455,7 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
 	- Proses ini membentuk 3 sel sirkulasi meridional.
  	- Sel Hadley di lintang rendah dan sel polar di lintang tinggi memiliki sifat termal langsung (_thermally direct_) karena dipengaruhi langsung oleh neraca energi.
   	- Sel Ferrel di lintang tengah memiliki sifat termal tidak langsung (_thermally indirect_) serta berfungsi sebagai penghubung dan penyeimbang antara sel Hadley dan polar.
-  	- Sirkulasi ini membentuk angin-angin dominan yang banyak kita kenal, seperti angin pasat yang terbentuk akibat sel Hadley, angin baratan yang ditimbulkan sel Ferrel, dan angin timuran yang muncul karena sel Polar.
+  	- Sirkulasi ini membentuk angin-angin dominan yang banyak kita kenal, seperti angin pasat yang terbentuk akibat sel Hadley, angin baratan yang ditimbulkan sel Ferrel, dan angin timuran yang muncul karena sel Polar.\
   	  ![Three cell model.](https://github.com/user-attachments/assets/3212d68c-a75d-4647-aff8-37336615a778)\
   	  Model Sirkulasi Meridional Tiga Sel (Ahrens, 2009)
 
@@ -465,7 +465,7 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
  	- Akibatnya, terbentuk sel-sel sirkulasi termal langsung di atas samudera dan sel penyeimbang di atas daratan.
   	- Sirkulasi horizontal pada ekuator ini disebut sirkulasi Walker.
   	- Sirkulasi Walker merupakan salah satu contoh sirkulasi zonal, sirkulasi yang terbatas pada satu zona garis lintang tertentu.
-  	- Aliran zonal lain dipengaruhi oleh keberadaan pusat-pusat tekanan tinggi dan rendah akibat distribusi daratan dan lautan.
+  	- Aliran zonal lain dipengaruhi oleh keberadaan pusat-pusat tekanan tinggi dan rendah akibat distribusi daratan dan lautan.\
   	  ![Sirkulasi Walker.](https://github.com/user-attachments/assets/8108360d-ca52-44a8-a76c-1dd4b646e166)\
   	  Sirkulasi Walker (Lockwood, 2005)
 
@@ -482,39 +482,55 @@ Peta Klasifikasi Iklim Koppen ([By Maulucioni, based on a previous work by Beck,
 	- Angin ini disebut _winds aloft_.
  	- Angin tersebut terbentuk karena tekanan udara pada atmosfer bagian atas, tekanan tinggi pada bagian Ekuator dan berangsur berkurang ke arah kutub.
   	- Hal ini disebabkan karena di ketinggian atmosfer yang sama, atmosfer di ekuator lebih tebal daripada atmosfer di kutub.
-  	- Sehingga, gaya gradien tekanan yang terbentuk memiliki arah menuju kutub, dengan pengaruh gaya koriolis, angin yang terbentuk mengalir ke arah timur.
+  	- Sehingga, gaya gradien tekanan yang terbentuk memiliki arah menuju kutub, dengan pengaruh gaya koriolis, angin yang terbentuk mengalir ke dari barat ke timur.
 
 ### 5.2.2. Angin Gradien
-Pada wilayah yang membentuk pusat tekanan tinggi atau rendah, isobar akan memiliki bentuk lingkaran tertutup. Kondisi ini menyebabkan angin yang terbentuk bergerak memutar mengikuti lingkaran isobar. Gerakan memutar mengharuskan adanya perubahan arah angin yang terjadi terus-menerus. Perubahan arah angin isi disebabkan oleh gaya sentripetal menuju pusat putaran.
+- Pada wilayah yang membentuk pusat tekanan tinggi atau rendah, isobar akan memiliki bentuk lingkaran tertutup.
+- Kondisi ini menyebabkan angin yang terbentuk bergerak memutar mengikuti lingkaran isobar.
+- Gerakan memutar mengharuskan adanya perubahan arah angin yang terjadi terus-menerus.
+- Perubahan arah angin ini disebabkan oleh gaya sentripetal menuju pusat putaran.\
+  ![Angin gradien.](https://github.com/user-attachments/assets/ca9655c0-13c9-4948-b5a6-0489f6b8bf6f)\
+  Angin Gradien (Ahrens, 2009)
 
-![Angin gradien.](https://github.com/user-attachments/assets/ca9655c0-13c9-4948-b5a6-0489f6b8bf6f)
-
-Angin Gradien (Ahrens, 2009)
-
-* Aliran melintasi isobar:\
-  Gaya koriolis menyebabkan gerakan angin pada atmosfer bebas cenderung sejajar isobar (angin geostrofik dan gradien) dan tidak memotong isobar. Angin memotong isobar dapat terbentuk dekat permukaan tanah karena pengaruh gaya gesek. Gaya gesek mengurangi kecepatan angin, sehingga besar gaya koriolis berkurang. Akibatnya, dekat dengan permukaan Bumi, angin bergerak memotong isobar pada sudut ~30&deg;.
-
-![Pengaruh gaya gesek.](https://github.com/user-attachments/assets/afeb52f6-b8e7-4cfe-8a3e-ba2a912a859b)
-
-Ilustrasi Pengaruh Gaya Gesek Terhadap Angin (Ahrens, 2009)
+- Aliran melintasi isobar: Gaya koriolis menyebabkan gerakan angin pada atmosfer bebas cenderung sejajar isobar (angin geostrofik dan gradien) dan tidak memotong isobar.
+- Angin memotong isobar dapat terbentuk dekat permukaan tanah karena pengaruh gaya gesek.
+- Gaya gesek mengurangi kecepatan angin, sehingga besar gaya koriolis berkurang.
+- Akibatnya, dekat dengan permukaan Bumi, angin bergerak memotong isobar pada sudut ~30&deg;.\
+  ![Pengaruh gaya gesek.](https://github.com/user-attachments/assets/afeb52f6-b8e7-4cfe-8a3e-ba2a912a859b)\
+  Ilustrasi Pengaruh Gaya Gesek Terhadap Angin (Ahrens, 2009)
 
 ### 5.2.3. Jet Stream
-Jet stream adalah aliran udara berkecepatan tinggi di tropopause dengan diameter aliran sempit dan gerakan dari Barat ke Timur. Jet stream disebabkan oleh interaksi antara sel-sel sirkulasi meridional di atmosfer bagian atas dengan pengaruh gaya koriolis. Ketika dua sel sirkulasi bertemu, isobar vertikal sel yang lebih dingin akan berada di bawah isobar vertikal sel yang hangat, sehingga pada ketinggian tersebut, gaya gradien tekanan terbentuk ke arah sel yang lebih dingin. Gaya koriolis bekerja pada aliran angin yang ditimbulkan, sehingga membentuk resultan ke arah Timur. Jet stream yang terbentuk pada perbatasan antara sel Hadley dan Ferrel disebut jet stream subtropis, sedangkan pada pertemuan sel Ferrel dan polar disebut jet stream polar. Jet stream membentuk aliran berbelok dan kadang terbelah karena dipengaruhi keberadaan pusat-pusat tekanan tinggi dan rendah. Jet stream menguat di musim dingin, karena gradien tekanan antar sel bertambah tinggi.
-
-![Jet stream](https://github.com/user-attachments/assets/6f552afa-6879-45d3-9b76-03e2f26d397c)
-
-Ilustrasi Jet Stream (Ahrens, 2009)
+- Jet stream adalah aliran udara berkecepatan tinggi di tropopause dengan diameter aliran sempit dan gerakan dari Barat ke Timur.
+	- Jet stream disebabkan oleh interaksi antara sel-sel sirkulasi meridional di atmosfer bagian atas dengan pengaruh gaya koriolis.
+ 	- Ketika dua sel sirkulasi bertemu, isobar vertikal sel yang lebih dingin akan berada di bawah isobar vertikal sel yang hangat, sehingga pada ketinggian tersebut, gaya gradien tekanan terbentuk ke arah sel yang lebih dingin.
+  	- Gaya koriolis bekerja pada aliran angin yang ditimbulkan, sehingga membentuk resultan ke arah Timur.
+  	- Jet stream yang terbentuk pada perbatasan antara sel Hadley dan Ferrel disebut jet stream subtropis, sedangkan pada pertemuan sel Ferrel dan polar disebut jet stream polar.
+  	- Jet stream membentuk aliran berbelok dan kadang terbelah karena dipengaruhi keberadaan pusat-pusat tekanan tinggi dan rendah.
+  	- Jet stream menguat di musim dingin, karena gradien tekanan antar sel bertambah tinggi.\
+  	  ![Jet stream](https://github.com/user-attachments/assets/6f552afa-6879-45d3-9b76-03e2f26d397c)\
+  	  Ilustrasi Jet Stream (Ahrens, 2009)
 
 ### 5.2.4. Angin Muson
-Angin muson (monsoon) adalah angin dominan pada suatu wilayah yang berbalik arah menurut musim. Angin ini membawa uap air sehingga menimbulkan hujan pada satu musim dan membawa udara kering di musim lain. Perbedaan pemanasan atmosfer akibat gerak semu tahunan Matahari dan distribusi daratan-lautan menyebabkan timbulnya angin muson. Gerakan angin muson terjadi seiring bergesernya ITCZ mengikuti gerak Matahari ke BBU dan BBS. Angin muson berhembus di berbagai wilayah di Bumi, meliputi Asia Selatan dan Tenggara, Australia, Afrika, dan Amerika Utara dan Selatan.
-
-Sebagai contoh, berikut akan dijelaskan sistem muson Asia Selatan, Asia Tenggara, dan Australia. Ketika BBU mengalami musim panas dan BBS mengalami musim dingin, akan terbentuk pusat tekanan rendah di atas daratan Tiongkok dan pusat tekanan tinggi di atas daratan Australia. Akibatnya, angin akan berhembus dari Australia, melewati Indonesia, lalu menuju Filipina dan Asia Timur. Udara yang bergerak ini bersifat dingin dan hanya melewati lautan yang sempit, sehingga menyebabkan musim kemarau di Indonesia. Angin tersebut di Pulau Jawa berasal dari arah Timur atau Tenggara, sehingga dinamai angin muson Timur. Letak Matahari di BBU juga menyebabkan pergeseran ITCZ ke arah Utara. Sehingga, angin dari BBS dapat berhembus ke India, lalu berbelok karena gaya koriolis ke arah timur, melalui Semenanjung Indocina. Angin ini melewati lautan yang luas dan hangat di ekuator, sehingga menyebabkan curah hujan yang tinggi di India dan Semenanjung Indocina.
-
-Sebaliknya, ketika BBU mengalami musim dingin dan BBS mengalami musim panas, pusat tekanan tinggi di atas Tiongkok dan pusat tekanan rendah di atas Australia akan menyebabkan angin berhembus dari Laut Tiongkok Timur, melewati Laut Tiongkok Selatan, Indonesia dan menuju Australia. Angin ini melewati lautan luas, sehingga membawa uap air dan menyebabkan curah hujan tinggi, musim penghujan, di Indonesia. Angin ini relati berhembus dari arah Barat di Pulau Jawa, sehingga dinamai angin muson Barat. Pergeseran ITCZ ke arah Selatan pada musim ini menyebabkan angin dari BBU berhembus ke Selatan di Semenanjung Indocina dan India. Angin ini berasal dari darat, sehingga tidak memiliki uap air, menyebabkan cuaca kering.
-
-![Muson indonesia.](https://github.com/user-attachments/assets/363fa650-b4ef-4c17-a51d-f98065bd9f76)
-
-Angin Muson Asia Selatan, Asia Tenggara, dan Australia ([Sumber](https://digilib.itb.ac.id/assets/files/disk1/406/jbptitbpp-gdl-auliasyahr-20287-3-2013ta-2.pdf))
+- Angin muson (monsoon) adalah angin dominan pada suatu wilayah yang berbalik arah menurut musim.
+- Angin ini membawa uap air sehingga menimbulkan hujan pada satu musim dan membawa udara kering di musim lain.
+- Perbedaan pemanasan atmosfer akibat gerak semu tahunan Matahari dan distribusi daratan-lautan menyebabkan timbulnya angin muson.
+- Gerakan angin muson terjadi karena gerak semu tahunan Matahari yang menyebabkan bergesernya ITCZ mengikuti gerak Matahari ke BBU dan BBS.
+- Angin muson berhembus di berbagai wilayah di Bumi, meliputi Asia Selatan dan Tenggara, Australia, Afrika, dan Amerika Utara dan Selatan.
+	- Sebagai contoh, berikut akan dijelaskan sistem muson Asia Selatan, Asia Tenggara, dan Australia.
+ 	- Ketika BBU mengalami musim panas dan BBS mengalami musim dingin, akan terbentuk pusat tekanan rendah di atas daratan Tiongkok dan pusat tekanan tinggi di atas daratan Australia.
+  	- Akibatnya, angin akan berhembus dari Australia, melewati Indonesia, lalu menuju Filipina dan Asia Timur.
+  	- Udara yang bergerak ini bersifat dingin dan hanya melewati lautan yang sempit, sehingga menyebabkan musim kemarau di Indonesia.
+  	- Angin tersebut di Pulau Jawa berasal dari arah Timur atau Tenggara, sehingga dinamai angin muson Timur.
+  	- Letak Matahari di BBU juga menyebabkan pergeseran ITCZ ke arah Utara.
+  	- Sehingga, angin dari BBS dapat berhembus ke India, lalu berbelok karena gaya koriolis ke arah timur, melalui Semenanjung Indocina.
+  	- Angin ini melewati lautan yang luas dan hangat di ekuator, sehingga menyebabkan curah hujan yang tinggi di India dan Semenanjung Indocina.
+  	- Sebaliknya, ketika BBU mengalami musim dingin dan BBS mengalami musim panas, pusat tekanan tinggi di atas Tiongkok dan pusat tekanan rendah di atas Australia akan menyebabkan angin berhembus dari Laut Tiongkok Timur, melewati Laut Tiongkok Selatan, Indonesia dan menuju Australia.
+  	- Angin ini melewati lautan luas, sehingga membawa uap air dan menyebabkan curah hujan tinggi, musim penghujan, di Indonesia.
+  	- Angin ini relati berhembus dari arah Barat di Pulau Jawa, sehingga dinamai angin muson Barat.
+  	- Pergeseran ITCZ ke arah Selatan pada musim ini menyebabkan angin dari BBU berhembus ke Selatan di Semenanjung Indocina dan India.
+  	- Angin ini berasal dari darat, sehingga tidak memiliki uap air, menyebabkan cuaca kering.\
+  	  ![Muson indonesia.](https://github.com/user-attachments/assets/363fa650-b4ef-4c17-a51d-f98065bd9f76)\
+  	  Angin Muson Asia Selatan, Asia Tenggara, dan Australia ([Sumber](https://digilib.itb.ac.id/assets/files/disk1/406/jbptitbpp-gdl-auliasyahr-20287-3-2013ta-2.pdf))
 
 ### 5.2.5. Angin Lokal
 Angin lokal yang dimaksud di sini adalah sistem angin darat dan angin laut serta sistem angin gunung dan angin lembah. Kedua sistem tersebut disebabkan karena perbedaan kecepatan pemanasan dan pendinginan permukaan Bumi. Sirkulasi angin darat-angin laut disebabkan karena perbedaan kalor jenis lautan dan daratan. Lautan dengan kalor jenis lebih tinggi dari daratan lebih lambat dipanaskan daripada daratan ketika siang hari. Akibatnya, angin berhembus dari laut yang memiliki suhu yang lebih dingin, ke darat yang memiliki suhu yang lebih hangat. Sebaliknya, di malam hari, darat kehilangan kalor lebih cepat daripada laut, sehingga angin berhembus dari darat ke arah laut.
