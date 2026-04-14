@@ -8,31 +8,31 @@ sidebar:
   nav: "docs"
 ---
 # 1. Definisi Cuaca dan Iklim
-Cuaca adalah kondisi atmosfer di suatu tempat pada waktu tertentu.
-Iklim adalah rata-rata dan variansi kondisi atmosfer di suatu tempat dalam jangka waktu tertentu (BMKG: 10 Tahun, WMO: 30 Tahun).
-Jadi, luas tidak masuk ke dalam definisi cuaca maupun iklim. Iklim dapat didefinisikan pada luas yang lapang maupun sempit sebagai berikut:
-* Iklim makro: skala global (lebar >2000 km, tinggi 10 km), skala sinoptik (lebar 100 - 2000 km, tinggi 10 km)
-* Iklim meso: lebar 1 - 100 km, tinggi 1 - 10 km
-* Iklim mikro: lebar <1 km, tinggi <1 km
+- Cuaca adalah kondisi atmosfer di suatu tempat pada waktu tertentu.
+- Iklim adalah rata-rata dan variansi kondisi atmosfer di suatu tempat dalam jangka waktu tertentu (BMKG: 10 Tahun, WMO: 30 Tahun).
+- Jadi, luas tidak masuk ke dalam definisi cuaca maupun iklim. Iklim dapat didefinisikan pada luas yang lapang maupun sempit sebagai berikut:
+	- Iklim makro: skala global (lebar >2000 km, tinggi 10 km), skala sinoptik (lebar 100 - 2000 km, tinggi 10 km)
+ 	- Iklim meso: lebar 1 - 100 km, tinggi 1 - 10 km
+ 	- Iklim mikro: lebar <1 km, tinggi <1 km
 
 Apa yang dimaksud kondisi atmosfer?
-Kondisi atmosfer adalah nilai dari parameter atmosfer, disebut juga unsur cuaca, yang meliputi
-1. Tekanan udara
-2. Radiasi Matahari
-3. Temperatur udara
-4. Kecepatan dan arah angin
-5. Kelembapan udara
-6. Tutupan awan
-7. Curah hujan
+- Kondisi atmosfer merupakan nilai dari parameter atmosfer, disebut juga unsur cuaca, yang meliputi:
+	1. Tekanan udara
+	2. Radiasi Matahari
+	3. Temperatur udara
+	4. Kecepatan dan arah angin
+	5. Kelembapan udara
+	6. Tutupan awan
+	7. Curah hujan
 
 # 2. Komposisi dan Struktur Atmosfer
-Sebelum masuk lebih dalam, kita harus mengenal objek yang akan kita pelajari, atmosfer.
-Atmosfer adalah lapisan gas yang menyelimuti sebuah planet. Atmosfer Bumi tersusun atas tiga komponen, yaitu:
-1. Udara kering : gas atmosfer tidak mencakup uap air
-2. Uap air : air dalam fase gas
-3. Aerosol : padatan dan cairan yang melayang (tersuspensi) di atmosfer
+- Sebelum masuk lebih dalam, kita harus mengenal objek yang akan kita pelajari, atmosfer.
+- Atmosfer adalah lapisan gas yang menyelimuti sebuah planet. Atmosfer Bumi tersusun atas tiga komponen, yaitu:
+	1. Udara kering : gas atmosfer tidak mencakup uap air
+	2. Uap air : air dalam fase gas
+	3. Aerosol : padatan dan cairan yang melayang (tersuspensi) di atmosfer
 
-Udara kering di atmosfer memiliki komposisi sebagai berikut (Ahrens, 2009):
+- Udara kering di atmosfer memiliki komposisi sebagai berikut (Ahrens, 2009):
 
 | Unsur | Berat Molekuler | Kadar |
 |:---- | :--------------: | :-----: |
@@ -45,63 +45,70 @@ Udara kering di atmosfer memiliki komposisi sebagai berikut (Ahrens, 2009):
 | Hidrogen (H) | 2,02 | 0,5 ppm |
 | Ozon (O3) | 48,00 | 0 - 12 ppm |
 
-Uap air di atmosfer meliputi 0 - 0,04 fraksi molekul total atmosfer. Ilustrasi komposisi udara kering ditunjukkan pada diagram lingkaran berikut ini.\
-![Diagram komposisi atmosfer.](https://sciencequiz.mikecurtis.org/wp-content/uploads/2015/05/gases_in_the_air.png)\
-Diagram Komposisi Atmosfer (By [lzbgt](https://favpng.com/png_view/science-atmosphere-of-earth-pie-chart-nitrogen-gas-png/B8TevDja))
+- Uap air di atmosfer meliputi 0 - 0,04 fraksi molekul total atmosfer.
+- Ilustrasi komposisi udara kering ditunjukkan pada diagram lingkaran berikut ini.\
+	![Diagram komposisi atmosfer.](https://sciencequiz.mikecurtis.org/wp-content/uploads/2015/05/gases_in_the_air.png)\
+	Diagram Komposisi Atmosfer (By [lzbgt](https://favpng.com/png_view/science-atmosphere-of-earth-pie-chart-nitrogen-gas-png/B8TevDja))
 
-Seperti pada umumnya campuran benda cair, gas-gas di atmosfer memiliki kecenderungan membentuk lapisan menurut berat molekulernya.
- Namun, di dekat permukaan Bumi, terjadi proses turbulensi atau aliran tidak seragam (berbelok, berputar) 
-pada atmosfer akibat perbedaan suhu dan tekanan udara menurut ketinggian, sehingga molekul udara mengalami percampuran.
- Lapisan ini dinamakan homosfer (0 - ~80 km), sedangkan lapisan yang tidak mengalami percampuran dinamakan heterosfer (>~80 km).
+- Seperti pada umumnya campuran fluida, gas-gas di atmosfer memiliki kecenderungan membentuk lapisan menurut berat molekulernya.
+- Namun, di dekat permukaan Bumi, terjadi proses turbulensi atau aliran tidak seragam (berbelok, berputar) pada atmosfer. Hal ini disebabkan karena halangan topografis dan perbedaan suhu dan tekanan udara, akibatnya molekul udara mengalami percampuran. Lapisan ini dinamakan **homosfer** (0 - ~80 km)
+- Sementara itu, lapisan yang tidak mengalami percampuran dinamakan **heterosfer** (>~80 km).
 
-Berdasarkan karakteristik perubahan temperaturnya, atmosfer dapat diklasifikasikan menjadi 4 kelas, yaitu:
-1. Troposfer\
-	a. 0 - 18 km, puncaknya dibatasi tropopause\
-	b. tempat fenomena cuaca berlangsung\
-	c. terjadi lapse rate (turunnya temperatur seiring ketinggian)
-2. Stratosfer\
-	a. 20 - 50 km, puncaknya dibatasi stratopause\
-	b. tempat lapisan ozon berada\
-	c. terjadi reverse lapse rate (naiknya temperatur seiring ketinggian)
-3. Mesosfer\
-	a. 50 - 80 km, puncaknya dibatasi mesopause\
-	b. tempat terbakarnya sebagian besar meteor\
-	c. terjadi lapse rate
-4. Termosfer\
-	a. > 80 km\
-	b. tempat terjadinya aurora\
-	c. terjadi lapse rate
+- Klasifikasi lapisan atmosfer juga dapat dilakukan berdasarkan pola perubahan temperaturnya di ketinggian. Berdasarkan karakteristik perubahan temperaturnya, atmosfer dapat diklasifikasikan menjadi 4 kelas, yaitu:
+	1. Troposfer\
+		a. 0 - 18 km, puncaknya dibatasi tropopause\
+		b. tempat fenomena cuaca berlangsung\
+		c. terjadi lapse rate (turunnya temperatur seiring ketinggian)
+	2. Stratosfer\
+		a. 20 - 50 km, puncaknya dibatasi stratopause\
+		b. tempat lapisan ozon berada\
+		c. terjadi reverse lapse rate (naiknya temperatur seiring ketinggian)
+	3. Mesosfer\
+		a. 50 - 80 km, puncaknya dibatasi mesopause\
+		b. tempat terbakarnya sebagian besar meteor\
+		c. terjadi lapse rate
+	4. Termosfer\
+		a. > 80 km\
+		b. tempat terjadinya aurora\
+		c. terjadi reverse lapse rate
 
-Pola perubahan temperatur ini disebabkan oleh lokasi-lokasi sumber pemanasan atmosfer. Troposfer mengalami pemanasan dari bawah, sedangkan stratosfer dan mesosfer mengalami pemanasan dari lapisan ozon. Kedua lokasi tersebut dapat mengkonversikan energi Matahari dari berbagai spektrum gelombang inframerah menjadi panas. Mekanisme pemanasan tersebut akan dijelaskan di bab-bab selanjutnya. Sementara itu, panas yang ada di termosfer diperoleh langsung dari radiasi Matahari yang mengenai molekul gas.
+- Pola perubahan temperatur ini disebabkan oleh lokasi-lokasi sumber pemanasan atmosfer.
+	- Troposfer mengalami pemanasan dari permukaan Bumi. Hal ini disebabkan karena energi matahari dalam bentuk radiasi gelombang pendek tidak dapat langsung memanaskan udara.
+ 		- Suatu benda dapat meningkat suhunya apabila menyerap energi. Udara yang tembus pandang berarti tidak menyerap, melainkan membiarkan energi matahari tersebut lewat.
+   		- Permukaan Bumi yang tidak tembus pandang menyerap sebagian energi Matahari dan memantulkan sebagian Energi yang lain, yang akhirnya kita tangkap menggunakan mata manusia sebagai kenampakan objek-objek di muka Bumi.
+     	- Material pada permukaan Bumi menyerap energi matahari, bisa itu berupa tanah, pepohonan, bangunan, aspal, dan sebagainya. Proses tersebut mengubah bentuk energi gelombang pendek matahari menjadi kalor yang dapat diidentifikasi dengan peningkatan suhu material.
+      	- Molekul udara yang kebetulan menempel pada benda yang terpanaskan tersebut akan mengalami transfer energi dalam bentuk konduksi.
+      	- Benda yang terpanaskan tersebut juga akan melepaskan energinya dalam bentuk radiasi gelombang panjang yang tidak bisa menembus beberapa komponen atmosfer, misalnya gas karbondioksida dan uap air.
+      	- Kedua proses ini menyebabkan atmosfer pada bagian troposfer terpanaskan dari permukaan Bumi.
+ 	- Sementara itu, stratosfer dan mesosfer mengalami pemanasan dari lapisan ozon. Lapisan ozon dapat mengkonversikan energi Matahari dalam bentuk radiasi ultraviolet menjadi panas. Oleh karena itu, di stratosfer, suhunya naik seiring ketinggian (lapisan ozon lebih aktif mengkonversi energi) sedangkan pada lapisan mesosfer suhunya berkurang seiring ketinggian karena semakin menjauhi lapisan ozon.
+  	- Panas yang ada di termosfer diperoleh langsung dari radiasi Matahari yang mengenai molekul gas. Hal ini disebabkan karena karakteristik gas ringan pada atmosfer bagian atas berbeda dengan atmosfer bagian bawah.
 
-Berdasarkan fungsinya, terdapat dua bagian atmosfer yang memiliki fungsi tambahan, ozonosfer dan ionosfer.
-1. Ozonosfer\
-Konsentrasi ozon tertinggi di atmosfer berada di ketinggian 25 km. Lapisan ozon ini terbentuk dari interaksi radiasi ultraviolet Matahari dengan molekul oksigen atmosfer.
- Radiasi ultraviolet menyebabkan fotolisis atau terpecahnya O2 menjadi 2 oksigen radikal (O), kemudian, oksigen radikal ini berikatan dengan O2 lain sehingga menjadi ozon (O3) dengan melepaskan energinya ke molekul udara lain.
- Ozon yang sudah terbentuk kemudian menyerap radiasi ultraviolet kembali menjadi O2 dan O dan melepaskan energi dalam bentuk panas. Inilah mekanisme pemanasan lapisan stratosfer dan mesosfer dan penyerapan radiasi ultraviolet Matahari.
+- Berdasarkan fungsinya, terdapat dua bagian atmosfer yang memiliki fungsi tambahan, ozonosfer dan ionosfer.
+	1. Ozonosfer\
+	Konsentrasi ozon tertinggi di atmosfer berada di ketinggian 25 km. Lapisan ozon ini terbentuk dari interaksi radiasi ultraviolet Matahari dengan molekul oksigen atmosfer.
+	 Radiasi ultraviolet menyebabkan fotolisis atau terpecahnya O2 menjadi 2 oksigen radikal (O), kemudian, oksigen radikal ini berikatan dengan O2 lain sehingga menjadi ozon (O3) dengan melepaskan energinya ke molekul udara lain.
+	 Ozon yang sudah terbentuk kemudian menyerap radiasi ultraviolet kembali menjadi O2 dan O dan melepaskan energi dalam bentuk panas. Inilah mekanisme pemanasan lapisan stratosfer dan mesosfer dan penyerapan radiasi ultraviolet Matahari.
+	
+	2. Ionosfer\
+	Radiasi ultraviolet, sinar X, dan gelombang pendek lain dari Matahari juga mengenai dan memecah molekul gas di lapisan lebih tinggi dari stratosfer (> 50 km). Ketika itu terjadi, elektron bebas dapat terlepas dari atom gas dalam proses yang disebut ionisasi. Pada lapisan atmosfer tinggi tersebut, molekul udara menjadi sangat jarang, sehingga elektron bebas tidak langsung bertemu atau ditangkap atom atmosfer lain. Keberadaan elektron bebas inilah yang menjadi ciri lapisan ionosfer.
+		- Ionosfer memiliki lapisan yang dibedakan berdasarkan jumlah elektron bebas, sebagai berikut:
 
-2. Ionosfer\
-Radiasi ultraviolet, sinar X, dan gelombang pendek lain dari Matahari juga mengenai dan memecah molekul gas di lapisan lebih tinggi dari stratosfer (> 50 km). Ketika itu terjadi, elektron bebas dapat terlepas dari atom gas dalam proses yang disebut ionisasi. Pada lapisan atmosfer tinggi tersebut, molekul udara menjadi sangat jarang, sehingga elektron bebas tidak langsung bertemu atau ditangkap atom atmosfer lain. Keberadaan elektron bebas inilah yang menjadi ciri lapisan ionosfer.
+			a. Lapisan D\
+			Lapisan D berada di ketinggian 48 - 90 km. Di ketinggian paling rendah, lapisan D memiliki kerapatan udara yang masih cukup tinggi, sehingga memiliki jumlah elektron bebas yang paling rendah.
+			 Lapisan D hanya terbentuk di siang hari saat radiasi yang diterima Bumi memiliki kekuatan yang cukup untuk menembus ke dalam atmosfer. Proses ditangkapnya elektron yang sering terjadi di lapisan ini menyerap energi dari gelombang radio.
+			
+			b. Lapisan E\
+			Lapisan E berada di ketinggian 90 - 150 km. Lapisan ini memantulkan gelombang radio frekuensi sedang (0,5 - 1,5 MHz).
+			
+			c. Lapisan F\
+			Lapisan F memiliki 2 bagian, F1 dan F2. Lapisan F1 berada di ketinggian 150 - 220 km, sedangkan lapisan F2 berada di ketinggian 220 - 800 km. Lapisan F1 bergabung dengan lapisan F2 di malam hari, sehingga seluruh lapisan F memiliki kaarakteristik
+			 seperti lapisan F2. Lapisan ini memantulkan gelombang radio frekuensi tinggi (3 - 30 MHz).
 
-Ionosfer memiliki lapisan yang dibedakan berdasarkan jumlah elektron bebas, sebagai berikut:
+- Berikut ini ilustrasi yang merangkum diskusi kita mengenai struktur atmosfer.\
+  ![Diagram Struktur Atmosfer.](https://www.researchgate.net/profile/Gustav-Wulf/publication/313115401/figure/fig2/AS:669502903693322@1536633339531/An-overview-of-the-different-parts-of-the-atmosphere-The-layers-named-on-the-far-right_W640.jpg)\
+  Diagram Struktur Atmosfer (Urbano dalam [Wulf, 2009](https://www.researchgate.net/publication/313115401_Beamforming_and_timing_design_issues_for_a_large_aperture_array_radar_applied_to_atmospheric_research))
 
-a. Lapisan D\
-Lapisan D berada di ketinggian 48 - 90 km. Di ketinggian paling rendah, lapisan D memiliki kerapatan udara yang masih cukup tinggi, sehingga memiliki jumlah elektron bebas yang paling rendah.
- Lapisan D hanya terbentuk di siang hari saat radiasi yang diterima Bumi memiliki kekuatan yang cukup untuk menembus ke dalam atmosfer. Proses ditangkapnya elektron yang sering terjadi di lapisan ini menyerap energi dari gelombang radio.
-
-b. Lapisan E\
-Lapisan E berada di ketinggian 90 - 150 km. Lapisan ini memantulkan gelombang radio frekuensi sedang (0,5 - 1,5 MHz).
-
-c. Lapisan F\
-Lapisan F memiliki 2 bagian, F1 dan F2. Lapisan F1 berada di ketinggian 150 - 220 km, sedangkan lapisan F2 berada di ketinggian 220 - 800 km. Lapisan F1 bergabung dengan lapisan F2 di malam hari, sehingga seluruh lapisan F memiliki kaarakteristik
- seperti lapisan F2. Lapisan ini memantulkan gelombang radio frekuensi tinggi (3 - 30 MHz).
-
-Berikut ini ilustrasi yang merangkum diskusi kita mengenai struktur atmosfer.\
-![Diagram Struktur Atmosfer.](https://www.researchgate.net/profile/Gustav-Wulf/publication/313115401/figure/fig2/AS:669502903693322@1536633339531/An-overview-of-the-different-parts-of-the-atmosphere-The-layers-named-on-the-far-right_W640.jpg)
-
-Diagram Struktur Atmosfer (Urbano dalam [Wulf, 2009](https://www.researchgate.net/publication/313115401_Beamforming_and_timing_design_issues_for_a_large_aperture_array_radar_applied_to_atmospheric_research))
-
-* Mengenai Eksosfer\
+- Mengenai Eksosfer\
   Eksosfer Bumi berada di ketinggian > 600 km. Eksosfer dibedakan dengan termosfer karena kerapatan molekul udara di lapisan ini menjadi sangat jarang sehingga molekul udara tidak bertabrakan satu sama lain. Hal ini menyebabkan tidak ada perubahan temperatur vertikal di eksosfer.
 
 # 3. Unsur Cuaca
