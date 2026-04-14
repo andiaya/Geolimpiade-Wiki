@@ -271,7 +271,7 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
   - Sungai Antesenden:  Antesenden artinya sungai yang memotong sudah ada sebelum proses struktural yang membentuk pegunungan terjadi.
   - Superimpose: Superimposed berarti sungai memotong bentukan struktural setelah ia terbentuk.
   - Spillover: satu sisi pegunungan membentuk reservoir yang kemudian meluap ke sisi pegunungan lain. Aliran luapan menyebabkan erosi yang membentuk lembah sungai memotong pegunungan.
-  - Piracy: sungai pada satu sisi pegunungan terus mengerosi ke arah hulu sehingga lembah sungainya bergabung dengan lembah sungai lain di sisi gunung sebalinya.
+  - Piracy: sungai pada satu sisi pegunungan terus mengerosi ke arah hulu sehingga lembah sungainya bergabung dengan lembah sungai lain di sisi gunung sebaliknya.\
     <img width="640" height="873" alt="Sungai memotong struktural" src="https://github.com/user-attachments/assets/797eecf9-8329-4b5a-88f6-ba5d5ba58adb" />
 
 # 4. Bentanglahan Marine
