@@ -309,7 +309,7 @@ sidebar:
 
 | Strategi | Cara Kerja | Kekuatan | Kelemahan / Evaluasi Kritis |
 | :--- | :--- | :--- | :--- |
-| **Beralih ke Energi Terbarukan** | Mengganti batu bara/gas dengan Surya, Angin, Tenaga Air. | Mengurangi **Emisi Karbon** dan **Ketergantungan Impor**. | **Intermitensi** membutuhkan **Penyimpanan Jaringan** (baterai/pompa hidro). Membutuhkan lahan luas dan **Mineral Kritis**. |
+| **Transisi ke Energi Terbarukan** | Mengganti batu bara/gas dengan Surya, Angin, Tenaga Air. | Mengurangi **Emisi Karbon** dan **Ketergantungan Impor**. | **Intermitensi** membutuhkan **Penyimpanan Jaringan** (baterai/pompa hidro). Membutuhkan lahan luas dan **Mineral Kritis**. |
 | **Efisiensi Energi** | Mengurangi permintaan melalui isolasi, lampu LED, meteran pintar. | Cara **termurah dan tercepat** untuk meningkatkan keamanan energi. | **Efek Pantul (Rebound Effect):** Penghematan efisiensi dapat menyebabkan peningkatan konsumsi di tempat lain. |
 | **Tenaga Nuklir** | Fisi uranium untuk menghasilkan listrik beban dasar (*baseload*). | **Rendah Karbon**, beban dasar andal, mengurangi ketergantungan bahan bakar fosil. | **Biaya Modal Tinggi** dan waktu konstruksi lama. **Persepsi Publik** (Fukushima, Chernobyl) dan isu **Pembuangan Limbah**. |
 | **Penangkapan & Penyimpanan Karbon (CCS)** | Menangkap CO2 dari pembangkit listrik dan menyuntikkannya ke bawah tanah. | Memungkinkan penggunaan **Bahan Bakar Fosil** berkelanjutan dengan emisi lebih rendah (secara teori). | **Belum terbukti secara teknologi** pada skala besar. **Penalti Energi:** Membutuhkan energi ekstra untuk menjalankan proses penangkapan. |
