@@ -25,17 +25,17 @@ sidebar:
 Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu kegiatan ekonomi memilih lokasi atau menghasilkan aglomerasi (kumpulan kegiatan industri) di lokasi-lokasi tertentu.
 
 ## 2.1. Teori Lokasi Sisi Penawaran
-* Teori Lokasi Pertanian von Thunnen
-  <img width="900" height="561" alt="Model von thunnen" src="https://github.com/user-attachments/assets/5e177b2b-818a-44b0-99d9-6c756cda423b" />
+* Teori Lokasi Pertanian von Thunnen\
+  <img width="600" height="361" alt="Model von thunnen" src="https://github.com/user-attachments/assets/5e177b2b-818a-44b0-99d9-6c756cda423b" />
 
-* Teori Lokasi Industri Weber
-  <img width="360" height="140" alt="model weber" src="https://github.com/user-attachments/assets/8d6fca20-ac1d-4bb3-aeba-653e7141b9f5" />
+* Teori Lokasi Industri Weber\
+  <img width="560" height="340" alt="model weber" src="https://github.com/user-attachments/assets/8d6fca20-ac1d-4bb3-aeba-653e7141b9f5" />
 
-* Teori Penawaran dan Harga Sewa Alonso
-  <img width="222" height="227" alt="model bidrent" src="https://github.com/user-attachments/assets/02979b92-8df5-4935-9f58-a5b0cae59892" />
+* Teori Penawaran dan Harga Sewa Alonso\
+  <img width="522" height="527" alt="model bidrent" src="https://github.com/user-attachments/assets/02979b92-8df5-4935-9f58-a5b0cae59892" />
 
-* Teori Siklus Hidup Produk Vernon
-  <img width="728" height="546" alt="Teori siklus hidup produk" src="https://github.com/user-attachments/assets/2193fe0c-62c4-4e7e-bd0f-c6c2f9da95db" />
+* Teori Siklus Hidup Produk Vernon\
+  <img width="528" height="446" alt="Teori siklus hidup produk" src="https://github.com/user-attachments/assets/2193fe0c-62c4-4e7e-bd0f-c6c2f9da95db" />
 
 
 ## 2.2. Teori Lokasi Sisi Permintaan
