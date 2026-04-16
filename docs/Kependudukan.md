@@ -156,7 +156,7 @@ sidebar:
 - Salah satu mekanismenya misalnya adalah daerah Inti memperoleh keuntungan paling besar dari rantai pasok suatu barang karena mengolah bahan mentah menjadi barang jadi. Mekanisme lainnya adalah daerah Inti sebagai tempat tinggal pemilik usaha mendapatkan keuntungan usaha tanpa melakukan pekerjaan untuk menciptakan produk usaha tersebut.
 - Daerah Inti juga menarik sumber daya manusia dengan kualitas tinggi ke arah pusat, menyebabkan fenomena _brain drain_ di daerah Pinggiran.
 - Daerah Pinggiran memperoleh sebagian kecil dari keuntungan ekonomi yang diperoleh melalui remitansi (uang yang dikirim migran ke negara asalnya) dan investasi untuk eksploitasi sumberdaya lebih lanjut.
-- Pola migrasi ekonomi Dunia dapat diamati mengikuti pola di atas, Amerika Serikat menjadi negara tujuan migrasi terbanyak di Dunia. Pola lainnya adalah pola ikatan historis kolonialisme, misalnya Indonesia ke Belanda, Vietnam ke Perancis, dan India/Pakistan ke Kerajaan Bersatu (the United Kingdom).
+- Pola migrasi ekonomi Dunia dapat diamati mengikuti pola di atas, Amerika Serikat menjadi negara tujuan migrasi terbanyak di Dunia. Pola lainnya adalah pola ikatan historis kolonialisme, misalnya Indonesia ke Belanda, Vietnam ke Perancis, dan India/Pakistan ke Kerajaan Bersatu (the United Kingdom).\
   <img width="500" height="500" alt="Wallerstein" src="https://github.com/user-attachments/assets/f8634133-46ad-49f7-91c7-d1aba1f6f54c" />
 
 
