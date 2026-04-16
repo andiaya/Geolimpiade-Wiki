@@ -99,21 +99,22 @@ Pertanian adalah kegiatan budidaya makhluk hidup untuk memenuhi kebutuhan manusi
 
 - Tipe Pertanian Terpadu
   1. Agroforestri
-
-| Klasifikasi | Tipe Sistem | Deskripsi | Contoh Geografis |
-|:---|:---|:---|:---|
-| Berdasarkan Komponen | Agrisilvikultur | Integrasi antara tanaman pertanian semusim dengan pepohonan. | Kebun Talun di Jawa Barat: Rotasi antara tanaman semusim (padi gogo, sayuran) dengan bambu dan kayu-kayuan. |
-| | Silvopastura | Integrasi antara pepohonan dengan padang penggembalaan dan ternak. | Dehesa di Spanyol: Padang rumput dengan pohon ek (*Quercus* spp.) untuk penggembalaan babi Iberia dan sapi. |
-| | Agrosilvopastura | Integrasi tanaman semusim, pepohonan, dan ternak dalam satu sistem. | Pekarangan di Indonesia: Campuran pohon buah, tanaman pangan, dan ternak kecil di sekitar rumah. |
-| Berdasarkan Pengaturan Spasial | Campuran Acak (*Mixed*): Pohon dan tanaman tersebar tidak beraturan. Pagar Hidup (*Hedgerow*): Pohon ditanam sebagai pembatas/pagar. Jalur (*Alley Cropping*): Tanaman semusim di antara barisan pohon legum. Penaung (*Shade System*): Pohon sebagai penaung tanaman bawah (misal, kopi di bawah naungan). |
-| Berdasarkan Fungsi Utama | Produktif: Fokus pada hasil (kayu, buah, pakan). Protektif: Fokus pada konservasi tanah dan air, penahan angin (*windbreak*). |
-
+     1. Agrisilvikultur: Integrasi antara tanaman pertanian semusim dengan pepohonan. Kebun Talun di Jawa Barat: Rotasi antara tanaman semusim (padi gogo, sayuran) dengan bambu dan kayu-kayuan.
+     2. Silvopastura: Integrasi antara pepohonan dengan padang penggembalaan dan ternak. Dehesa di Spanyol: Padang rumput dengan pohon ek (*Quercus* spp.) untuk penggembalaan babi Iberia dan sapi.
+     3. Agrosilvopastura: Integrasi tanaman semusim, pepohonan, dan ternak dalam satu sistem. Pekarangan di Indonesia: Campuran pohon buah, tanaman pangan, dan ternak kecil di sekitar rumah.
+     4. Berdasarkan Pengaturan Spasial:
+        - Campuran Acak (*Mixed*): Pohon dan tanaman tersebar tidak beraturan.
+        - Pagar Hidup (*Hedgerow*): Pohon ditanam sebagai pembatas/pagar.
+        - Penanaman Jalur (*Alley Cropping*): Tanaman semusim di antara barisan pohon legum.
+        - Penaung (*Shade System*): Pohon sebagai penaung tanaman bawah (misal, kopi di bawah naungan).
+     5. Berdasarkan Fungsi Utama:
+        - Produktif: Fokus pada hasil (kayu, buah, pakan)
+        - Protektif: Fokus pada konservasi tanah dan air, penahan angin (*windbreak*).
   2. Agrofisheries
      - Minapadi: pemeliharaan ikan secara bersamaan dengan budidaya padi di lahan sawah.
      - Parit keliling: Di lahan kering atau perkebunan, dibuat parit keliling atau petakan yang diisi air untuk budidaya ikan. Air dari parit digunakan untuk mengairi tanaman di sekitarnya, dan lumpur dasar parit yang kaya nutrisi dikeruk untuk pupuk. Integrasi budidaya lele dengan tanaman hortikultura di lahan kering.
      - Akuaponik: Integrasi antara akuakultur (budidaya ikan dalam tangki) dengan hidroponik (budidaya tanaman tanpa tanah). Air dari kolam ikan yang kaya amonia dipompa ke sistem hidroponik, di mana bakteri nitrifikasi mengubah amonia menjadi nitrat yang diserap tanaman. Air yang telah dimurnikan kemudian dikembalikan ke kolam ikan. Budidaya ikan nila dengan selada, kangkung, atau tomat dalam sistem resirkulasi tertutup di lahan sempit perkotaan.
      - Silvofishery (Wanamina): Integrasi budidaya ikan atau udang dengan hutan mangrove. Tambak dibangun di dalam kawasan mangrove dengan tetap mempertahankan sebagian tegakan pohon mangrove sebagai pelindung dan penyedia pakan alami. Tambak udang windu tradisional di pesisir Kalimantan dan Sulawesi yang mempertahankan jalur hijau mangrove.
-
   3. Integrasi Tanaman dan Ternak
      - Di banyak wilayah pedesaan di Jawa, petani memelihara satu atau dua ekor sapi yang dikandangkan.
      - Jerami padi dari sawah dikumpulkan dan disimpan sebagai pakan utama selama musim kemarau.
