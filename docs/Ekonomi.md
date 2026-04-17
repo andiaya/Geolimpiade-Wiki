@@ -81,6 +81,7 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
     * Jika biaya transport murah, suatu usaha akan tetap memilih lokasi di pusat, karena skala produksi besar sangat menguntungkan dan produk dapat dijual ke daerah pinggiran lain.
 
 # 3. Mengenal Sistem Ekonomi
+
 ## 3.1. Sistem Ekonomi Kapitalisme
 - Hak Kepemilikan Privat: hak memiliki dan mentransfer kepemilikan aset tangible (berwujud: tanah dsb.) dan intangible (tak berwujud: saham dsb.)
 - Motif Kaeuntungan: pendorong kegiatan ekonomi.
@@ -88,26 +89,109 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
 - Mekanisme Pasar: harga ditentukan penawaran dan permintaan.
 - Kebebasan Memilih: kebebasan memilih oleh konsumen untuk memilih produk, pekerja untuk memilih pekerjaan.
 - Intervensi Pemerintah Terbatas: pada kapitalis murni (_laissez-faire_) pemerintah hanya melindungi hak kepemilikan privat.
+
 ## 3.2. Sistem Ekonomi Sosialisme
+
 ## 3.3. Sistem Ekonomi Syariah
+
 ## 3.4. Sistem Ekonomi Negara Kesejahteraan
+
 ### 3.4.1. Sistem Ekonomi Pancasila
 
 # 4. Globalisasi Ekonomi
-- Globalisasi adalah peningkatan intensitas komunikasi dan transportasi barang antar negara-negara di Dunia. Proses ini menyebabkan meningkatnya transfer budaya antar masyarakat Dunia, terutama budaya populer.
-- Globalisasi kegiatan ekonomi dapat dilakukan dengan strategi:
-  1. Ekspor - Impor
-  2. Lisensi
-  3. Franchising
-  4. Perusahaan Transnasional dan Multinasional
-- Untuk mendukung perdagangan global, negara-negara di Dunia melakukan strategi integrasi ekonomi. Tingkat integrasi ekonomi antar-negara dari tingkatan paling rendah ke tingkatan paling tinggi yaitu sebagai berikut:
-  1. Perdagangan internasional
-  2. Preferential trade area
-  3. Free trade area
-  4. Customs union
-  5. Common market
-  6. Monetary union
-  7. Fiscal union
-- Guna mendorong kepentingan ekonominya di tingkat internasional, negara-negara di Dunia membentuk organisasi kerja sama ekonomi internasional, di antaranya:
-  1. WTO
-  2. OECD
+- Definisi: Globalisasi merujuk pada peningkatan intensitas komunikasi dan pergerakan barang melintasi perbatasan internasional.
+- Dampak Budaya: Proses ini mempercepat transfer budaya, khususnya penyebaran dan homogenisasi budaya populer (misalnya, konsumsi global terhadap media, mode, dan merek makanan Barat).
+
+## 4.1. Strategi Globalisasi
+Untuk beroperasi secara internasional, perusahaan menggunakan empat strategi utama masuk dan ekspansi pasar:
+- Ekspor dan Impor: Penjualan atau pembelian langsung barang/jasa lintas batas (cara paling tua, risiko/kontrol terendah).
+- Lisensi: Memberikan hak kepada perusahaan asing untuk memproduksi/menjual produk dengan imbalan royalti (misalnya, penggunaan teknologi atau paten).
+- Waralaba (Franchising): Bentuk lisensi khusus di mana operator asing mengadopsi seluruh model bisnis dan identitas merek perusahaan induk (misalnya, rantai makanan cepat saji).
+- Perusahaan Transnasional (TNC) / Perusahaan Multinasional (MNC):
+  - MNC beroperasi di berbagai negara namun tetap mempertahankan identitas nasional yang kuat dan kantor pusat yang tersentralisasi (misalnya, pabrikan mobil tradisional AS yang membuat mobil di Meksiko *untuk* pasar AS).
+  - Sebaliknya, TNC lebih tidak terikat lokasi (*footloose*) dan bersifat geosentris.
+    - TNC memandang dunia sebagai satu pasar tunggal dan mengalokasikan produksi berdasarkan ketersediaan faktor produksi (tenaga kerja murah di Bangladesh, penelitian dan pengembangan di Silicon Valley, pajak rendah di Irlandia).
+    - Hal ini memunculkan Rantai Nilai Global (Global Value Chains/GVCs) , di mana satu buah iPhone dirancang di California, menggunakan cip dari Taiwan dan Eropa, memori dari Korea, dan dirakit di Tiongkok.
+    - Fragmentasi produksi semacam ini membuat label tradisional "Negara Asal" hampir tidak bermakna dan mempersulit penghitungan statistik perdagangan.
+    - TNC lebih mudah melakukan adaptasi produknya pada budaya lokal.
+
+### 1.3 Tingkatan Integrasi Ekonomi (Dari Kedaulatan Terendah ke Tertinggi)
+Negara-negara mengejar integrasi ekonomi untuk mendukung perdagangan global. Hierarki berikut mewakili peningkatan tingkat harmonisasi kebijakan dan hilangnya kedaulatan ekonomi independen:
+
+| Tingkat | Nama | Karakteristik Utama | Contoh |
+| :-- | :-- | :-- | :-- |
+| 1 | Perdagangan Internasional | Pertukaran barang standar; tidak ada perlakuan istimewa khusus. | Aturan dasar WTO. |
+| 2 | Area Perdagangan Preferensial (PTA) | Tarif lebih rendah untuk negara anggota dibandingkan non-anggota. | Tahap awal SAARC. |
+| 3 | Area Perdagangan Bebas (FTA) | Nol tarif pada perdagangan internal; anggota mempertahankan tarif eksternal independen vs. non-anggota. | USMCA (sebelumnya NAFTA). |
+| 4 | Uni Bea Cukai (Customs Union) | FTA ditambah Tarif Eksternal Umum (CET) yang diterapkan untuk semua non-anggota. | MERCOSUR. |
+| 5 | Pasar Bersama (Common Market) | Uni Bea Cukai ditambah pergerakan bebas faktor produksi (Tenaga Kerja dan Modal). | Pasar Tunggal Uni Eropa. |
+| 6 | Uni Moneter (Monetary Union) | Pasar Bersama ditambah mata uang bersama dan kebijakan moneter terpusat. | Zona Euro (menggunakan Euro). |
+| 7 | Uni Fiskal (Fiscal Union) | Uni Moneter ditambah anggaran dan kebijakan pajak terpusat. | (Sebagian besar bersifat teoretis; model parsial AS). |
+
+---
+
+## Bagian 2: Lanskap Kelembagaan – Organisasi Multilateral dengan Tujuan Ekonomi
+
+Untuk memajukan kepentingan ekonomi mereka dan mengatur kompleksitas tingkatan yang dijelaskan di atas, negara-negara membentuk Organisasi Kerja Sama Ekonomi Internasional. Organisasi-organisasi ini dapat dikategorikan sebagai berikut:
+
+### 2.1 Pilar Keuangan dan Perdagangan Global (Lembaga Bretton Woods & WTO)
+Ini adalah pembuat aturan inti dan pemberi pinjaman ekonomi global.
+
+| Organisasi | Markas Besar | Tujuan Ekonomi Utama | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- |
+| World Trade Organization (WTO) | Jenewa, Swiss | Penetapan Aturan dan Penyelesaian Sengketa. Memastikan perdagangan mengalir lancar, dapat diprediksi, dan sebebas mungkin. Menyediakan mekanisme seperti pengadilan (Badan Banding) untuk menyelesaikan konflik perdagangan. | 166 negara anggota. Termasuk Indonesia. |
+| International Monetary Fund (IMF) | Washington D.C., AS | Stabilitas Keuangan Global. Memantau nilai tukar dan neraca pembayaran. Menyediakan pinjaman darurat (dengan persyaratan) kepada negara-negara yang menghadapi krisis mata uang. | 191 negara anggota. Hampir semua negara merdeka di dunia tercakup di dalamnya, termasuk Indonesia. |
+| World Bank Group | Washington D.C., AS | Pembangunan Jangka Panjang dan Pengentasan Kemiskinan. Grup ini terdiri dari lima lembaga: | 189 negara anggota. Filipina adalah anggota dari kelima lembaga di bawah WB Group. |
+| — IBRD | | Memberikan pinjaman kepada negara berpenghasilan menengah yang layak kredit. | |
+| — IDA | | Menyediakan pinjaman/hibah tanpa bunga kepada negara-negara termiskin. | |
+| — IFC | | Berfokus secara eksklusif pada investasi sektor swasta di negara berkembang. | |
+| — MIGA | | Menyediakan asuransi risiko politik untuk mendorong Investasi Asing Langsung (FDI). | Lembaga ini didirikan pada tahun 1988 untuk menawarkan asuransi kepada investor asing. |
+
+### 2.2 Forum Analisis dan Kebijakan Global Utama Lainnya
+
+| Organisasi | Markas Besar | Tujuan Ekonomi Utama | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- |
+| Organisation for Economic Co-operation and Development (OECD) | Paris, Prancis | Riset Kebijakan dan Praktik Terbaik. Forum bagi sebagian besar negara demokrasi berpenghasilan tinggi untuk membandingkan pengalaman kebijakan, mencari jawaban atas masalah bersama, dan mengoordinasikan kebijakan domestik dan internasional. | 38 negara anggota. Kosta Rika adalah anggota ke-38 yang bergabung pada tahun 2021. Negara kandidat termasuk Argentina, Brasil, Bulgaria, Kroasia, Indonesia, Peru, Rumania, Thailand. |
+| UNCTAD (UN Conference on Trade and Development) | Jenewa, Swiss | Integrasi Negara Berkembang. Membantu negara-negara Selatan Global untuk berintegrasi secara menguntungkan ke dalam ekonomi dunia melalui analisis dan pembangunan konsensus. | 195 negara anggota, termasuk Palestina dan Vatikan. |
+| Bank for International Settlements (BIS) | Basel, Swiss | Bank Sentral untuk Bank Sentral. Membina kerja sama moneter dan keuangan internasional serta memastikan standar stabilitas keuangan global (misalnya, Basel Accords). | 63 bank sentral anggota. Termasuk Bank Indonesia, Federal Reserve (AS), Bank of England (Inggris), dan European Central Bank. |
+| International Labour Organization (ILO) | Jenewa, Swiss | Standar Ketenagakerjaan. Menetapkan standar ketenagakerjaan internasional (misalnya, konvensi upah minimum, hak untuk berserikat) untuk memastikan integrasi ekonomi tidak mengarah pada "perlombaan ke bawah" dalam kondisi kerja. | 187 negara anggota. Pada Juni 2025, Palestina ditetapkan sebagai anggota penuh. |
+
+### 2.3 Blok Integrasi Regional Utama (Mengoperasionalkan Tangga Integrasi)
+Blok-blok ini secara langsung sesuai dengan Tingkat 3-6 dari hierarki integrasi yang dijelaskan di Bagian 1.
+
+| Blok | Wilayah | Tingkat Integrasi yang Dicapai | Tujuan Utama | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- | :-- |
+| Uni Eropa (EU) | Eropa | Uni Moneter / Pasar Tunggal | Bentuk paling maju. Bertujuan untuk Empat Kebebasan (Barang, Jasa, Modal, Orang) dan mata uang bersama (Euro). | 27 negara anggota. Termasuk Belgia, Bulgaria, Ceko, Denmark, Jerman, Estonia, Irlandia, Yunani, Spanyol, Prancis, Kroasia, Italia, Siprus, Latvia, Lituania, Luksemburg, Hungaria, Malta, Belanda, Austria, Polandia, Portugal, Rumania, Slovenia, Slowakia, Finlandia, Swedia. |
+| USMCA | Amerika Utara | Area Perdagangan Bebas (FTA) | NAFTA yang diperbarui; berfokus pada perdagangan digital, verifikasi hak tenaga kerja, dan aturan asal untuk otomotif. | 3 negara anggota: Amerika Serikat, Meksiko, Kanada. Mulai berlaku 1 Juli 2020. |
+| ASEAN | Asia Tenggara | FTA / Pasar Bersama Parsial | Bertujuan untuk menciptakan Masyarakat Ekonomi ASEAN (AEC) , pasar tunggal dan basis produksi. | 11 negara anggota: Brunei Darussalam, Kamboja, Indonesia, Laos, Malaysia, Myanmar, Filipina, Singapura, Thailand, Vietnam, dan Timor Leste (bergabung Oktober 2025). |
+| MERCOSUR | Amerika Selatan | Uni Bea Cukai | Menetapkan Tarif Eksternal Umum (CET) untuk melindungi industri regional dan mempromosikan perdagangan bebas internal. | Anggota penuh: Argentina, Brasil, Paraguay, Uruguay. Venezuela (dibekukan). Bolivia dalam proses menjadi anggota penuh. Negara asosiasi: Chili, Kolombia, Ekuador, Guyana, Peru, Suriname. |
+| AfCFTA | Afrika | Area Perdagangan Bebas | FTA terbesar di dunia berdasarkan jumlah penduduk. Bertujuan untuk meningkatkan perdagangan intra-Afrika dengan menghapus tarif pada 90% barang. | 54 negara penandatangan dari 55 anggota Uni Afrika (kecuali Eritrea). 50 negara telah meratifikasi perjanjian (per Oktober 2025). |
+
+### 2.4 Forum Koordinasi Informal (G dan BRICS)
+Ini bukan organisasi berbasis perjanjian dengan aturan yang mengikat, tetapi mereka menetapkan agenda ekonomi global.
+
+| Kelompok | Anggota | Tujuan Ekonomi | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- |
+| G20 | 19 Ekonomi Utama + UE & AU | Manajemen Krisis dan Pengarahan Global. Forum utama untuk mengoordinasikan kebijakan selama krisis keuangan (misalnya, Krisis Keuangan Global 2008) dan mengelola ketidakseimbangan global. | 19 negara: Argentina, Australia, Brasil, Kanada, China, Prancis, Jerman, India, Indonesia, Italia, Jepang, Republik Korea, Meksiko, Rusia, Arab Saudi, Afrika Selatan, Turki, Inggris, Amerika Serikat, ditambah dua badan regional: Uni Eropa (EU) dan Uni Afrika (AU). |
+| G7 | Kanada, Prancis, Jerman, Italia, Jepang, Inggris, AS | Penyelarasan Ekonomi Maju. Membahas tantangan bersama di antara negara-negara demokrasi terkaya di dunia (kebijakan makroekonomi, keamanan). | 7 negara: Amerika Serikat, Kanada, Inggris, Prancis, Jerman, Italia, dan Jepang. |
+| BRICS | Brasil, Rusia, India, China, Afrika Selatan (+ anggota baru) | Suara untuk Pasar Berkembang. Mengadvokasi reformasi IMF/Bank Dunia untuk mencerminkan kekuatan Selatan Global yang sedang naik. | 11 anggota penuh: Brasil, Rusia, India, China, Afrika Selatan (pendiri), ditambah Mesir, Ethiopia, Iran, Arab Saudi, Uni Emirat Arab, dan Indonesia (bergabung Januari 2025). |
+
+### 2.5 Bank Pembangunan Regional (MDB)
+Lembaga-lembaga ini berfungsi seperti Bank Dunia tetapi berfokus pada wilayah geografis tertentu, seringkali dengan pemahaman yang lebih baik tentang ekonomi politik lokal.
+
+| Bank | Wilayah | Fokus | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- |
+| African Development Bank (AfDB) | Afrika | Infrastruktur, pengembangan sektor swasta, dan integrasi regional. | 80 negara anggota: 54 negara regional Afrika dan 26 negara non-regional dari Amerika, Eropa, Asia, dan Timur Tengah. |
+| Asian Development Bank (ADB) | Asia-Pasifik | Infrastruktur, energi, dan ketahanan iklim. | Terdiri dari negara-negara di kawasan Asia dan Pasifik, serta beberapa negara di luar kawasan yang memiliki kepentingan ekonomi dan pembangunan di kawasan ini. |
+| Inter-American Development Bank (IDB) | Amerika Latin & Karibia | Pembangunan sosial dan integrasi. | 48 negara anggota. Anggota non-peminjam termasuk AS, Kanada, Jepang, Israel, Korea Selatan, China, dan 16 negara Eropa. |
+| European Bank for Reconstruction and Development (EBRD) | Eropa, Asia, Afrika | Transisi ke ekonomi pasar dan dukungan sektor swasta. | 79 anggota. Termasuk 77 pemegang saham nasional ditambah Uni Eropa dan Bank Investasi Eropa. Nigeria, Pantai Gading, dan Benin disetujui sebagai anggota baru pada Mei 2025. |
+| Asian Infrastructure Investment Bank (AIIB) | Asia & Beyond | Infrastruktur berkelanjutan (dipimpin China tetapi multilateral). | 111 anggota yang disetujui. Berawal dari 57 anggota pendiri (termasuk Singapura, Kazakhstan, Arab Saudi, Inggris, Jerman, Prancis) hingga 110 anggota saat ini, di belakang Bank Dunia dengan 189 anggota. Kolombia menjadi anggota non-regional ke-58 pada November 2025. |
+| New Development Bank (NDB) | Negara BRICS | Memobilisasi sumber daya untuk infrastruktur dan pembangunan berkelanjutan di negara berkembang. | 11 anggota: Brasil, Rusia, India, China, Afrika Selatan (pendiri), Bangladesh, Uni Emirat Arab, Mesir, Aljazair, Kolombia, dan Uzbekistan (bergabung Juli 2025). |
+
+### 2.6 Organisasi Sektoral dan Komoditas
+
+| Organisasi | Sektor | Tujuan Ekonomi | Keanggotaan (per 2025) |
+| :-- | :-- | :-- | :-- |
+| OPEC (Organization of the Petroleum Exporting Countries) | Energi/Minyak | Manajemen Kartel. Mengoordinasikan kuota produksi minyak di antara anggota untuk menstabilkan harga dan memastikan pendapatan tetap bagi negara-negara produsen. | 12-13 anggota (tergantung sumber): Aljazair, Angola, Kongo, Guinea Khatulistiwa, Gabon, Iran, Irak, Kuwait, Libya, Nigeria, Arab Saudi, Uni Emirat Arab, Venezuela. OPEC+ mencakup Rusia, Kazakhstan, Azerbaijan, Malaysia, Meksiko, Bahrain, Brunei, Oman, Sudan, Sudan Selatan. |
+| Komisi Ekonomi Regional PBB (misalnya, ECA untuk Afrika, ESCAP untuk Asia-Pasifik) | Pembangunan Regional | Bertindak sebagai "laboratorium ekonomi" untuk PBB, membentuk kebijakan yang disesuaikan dengan kebutuhan regional tertentu. | Keanggotaan bervariasi menurut wilayah. |
+
