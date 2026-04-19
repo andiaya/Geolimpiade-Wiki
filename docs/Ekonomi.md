@@ -27,16 +27,40 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
 ## 2.1. Teori Lokasi Sisi Penawaran
 * Teori Lokasi Pertanian von Thunnen\
   <img width="600" height="361" alt="Model von thunnen" src="https://github.com/user-attachments/assets/5e177b2b-818a-44b0-99d9-6c756cda423b" />
+  - Von Thunnen menjelaskan distribusi kegiatan ekonomi pertanian berdasarkan biaya transportasi komoditas.
+  - Biaya transportasi dipengaruhi berat komoditas (kayu bakar dan kayu bangunan) maupun kecepatan komoditas untuk rusak (hortikultura dan produk susu).
+    - Pada wilayah dengan sumber daya seragam dan topografi datar, komoditas dengan biaya transportasi tinggi akan dibudidayakan dekat pasar (kota) sedangkan komoditas dengan biaya transportasi murah berada jauh dari pasar.
+    - Kebun pasar (_market garden_) (buah-buahan, sayuran, rempah-rempah, kecambah, jamur, bunga, pohon hias) dan produksi susu berada paling dekat dengan pasar.
+    - Kayu bakar (_firewood_) dan kayu untuk bangunan (_lumber_) berada di lapisan kedua.
+    - Pertanian pangan pokok dibagi menjadi 3 lapisan, dari yang terdalam hingga terluar:
+      - Pertanian tanpa bera (_farming without fallow_): lahan terdalam lebih sempit sehingga harga lebih tinggi. Budidaya harus dilakukan sepanjang tahun tanpa mengistirahatkan lahan (bera) agar menguntungkan.
+      - Pertanian dengan bera dan penggembalaan: pertanian dengan bera menguntungkan karena persediaan lahan lebih luas sehingga harga lebih murah. Ketika lahan diistirahatkan rerumputan akan tumbuh dan dimanfaatkan sebagai lahan gembala.
+      - Sistem tiga lahan: lahan yang luas dapat dibagi 3. Satu lahan ditanami, satu diistirahatkan (bera), dan satu digunakan untuk penggembalaan. Kemudian penggunaan lahan tersebut berganti secara rotasi setelah panen.
+      - Peternakan: lahan luas sesuai untuk peternakan. Ketika sudah dewasa, hewan ternak digembalakan ke kota sembari membawa komoditas dari zona-zona lain untuk kemudian disembelih di pasar.
+  - Keberadaan sungai dan kota kecil di sekitar kota besar dapat memodifikasi pola ini dengan memberikan kemudahan transportasi.
 
 * Teori Lokasi Industri Weber\
   <img width="560" height="340" alt="model weber" src="https://github.com/user-attachments/assets/8d6fca20-ac1d-4bb3-aeba-653e7141b9f5" />
+  - Weber menyatakan industri dapat diklasifikasikan berdasarkan pengaruh biaya transportasi bahan baku dan barang jadi terhadap lokasinya.
+    - Industri yang tidak dipengaruhi biaya transportasi, misal industri digital, dapat berlokasi dimana saja. Industri ini disebut _footloose_, ditunjukkan pada gambar kiri.
+    - Industri yang biaya transportasi bahan bakunya lebih tinggi daripada barang jadinya, misal industri smelter bijih nikel, berada dekat bahan baku. Industri ini disebut _weight-loosing_, ditunjukkan pada gambar tengah. Titik P (pabrik) berada lebih dekat ke R1 dan R2 (bahan mentah 1 dan 2) daripada M (pasar).
+    - Industri yang biaya transportasi barang jadinya lebih tinggi daripada bahan bakunya, misal industri perakitan mobil, berada dekat pasar. Industri ini disebut _weight-gaining_, ditunjukkan pada gambar kanan. Titik P (pabrik) berada lebih dekat ke M (pasar) daripada R1 dan R2 (bahan mentah 1 dan 2).
 
 * Teori Penawaran dan Harga Sewa Alonso\
   <img width="522" height="527" alt="model bidrent" src="https://github.com/user-attachments/assets/02979b92-8df5-4935-9f58-a5b0cae59892" />
+  - Aktivitas ekonomi di sebuah kota akan dikontrol oleh penawaran harga sewa (_bid_) oleh pelaku kegiatan ekonomi.
+  - Lokasi dekat dengan pusat kota memiliki keuntungan berupa aksesibilitas (kemudahan dijangkau) yang baik.
+  - Setiap kegiatan ekonomi menentukan penawaran harga sewa berdasarkan keuntungan yang diperoleh dari aksesibilitas tersebut.
+    - Pada ilustrasi ditunjukkan bahwa retail memiliki penawaran harga sewa tertinggi di pusat kota dan keuntungannya dengan cepat berkurang ketika menjauhi pusat kota. Pada area di sekeliling kota dengan penawaran sewa retail lebih paling tinggi, maka lokasi tersebut digunakan untuk kegiatan ekonomi retail.
+    - Karena penurunan keuntungan retail berkurang cepat ketika menjauhi perkotaan, akan terdapat area dengan penawaran harga sewa perkantoran (_office_) paling tinggi dibandingkan kegiatan ekonomi lain. Area tersebut digunakan untuk kegiatan ekonomi perkantoran.
+    - Pada jarak yang cukup jauh dari pusat kota, kegiatan ekonomi lain sudah memiliki keuntungan lebih rendah daripada kegiatan ekonomi permukiman (_residential_), misal dalam bentuk penghematan biaya transportasi. Sehingga, permukiman memiliki penawaran harga sewa tertinggi dan area tersebut digunakan untuk kegiatan ekonomi permukiman.
 
 * Teori Siklus Hidup Produk Vernon\
   <img width="528" height="446" alt="Teori siklus hidup produk" src="https://github.com/user-attachments/assets/2193fe0c-62c4-4e7e-bd0f-c6c2f9da95db" />
-
+  - Inovasi muncul di negara maju karena memiliki pasar yang besar dan kaya.
+    - Ketika inovasi pertama muncul, produksi membutuhkan keterampilan tinggi (_skill intensive_) karena masih memerlukan pengembangan. Selain itu, konsumen yang dituju adalah konsumen kaya karena harganya masih tinggi. Sehingga, produksi dilakukan di negara asal.
+    - Ketika produk sudah dewasa (_mature_), produksi berpindah ke negara maju lain untuk menguasai pasar lokal negara maju. Ekspor dari negara asal inovasi berkurang. Sifat industri bergeser dari keterampilan tinggi ke padat modal (_capital intensive_).
+    - Ketika produk sudah terstandar (_standardised_), produksi berpindah ke negara berkembang. Pemindahan ini dilakukan untuk melakukan produksi skala besar. Negara berkembang memberikan pekerja dengan harga murah untuk membangun skala tersebut. Produksi berubah menjadi padat karya (_labor intensive_). Negara asal berubah dari eksportir menjadi importir. Produksi di negara maju lain berkurang hingga akhirnya juga akan menjadi importir.
 
 ## 2.2. Teori Lokasi Sisi Permintaan
 * Teori Tempat Pusat Christaller
