@@ -83,20 +83,51 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
 # 3. Mengenal Sistem Ekonomi
 
 ## 3.1. Sistem Ekonomi Kapitalisme
-- Hak Kepemilikan Privat: hak memiliki dan mentransfer kepemilikan aset tangible (berwujud: tanah dsb.) dan intangible (tak berwujud: saham dsb.)
-- Motif Kaeuntungan: pendorong kegiatan ekonomi.
-- Kompetisi Pasar: kompetisi dengan menawarkan produk lebih baik.
-- Mekanisme Pasar: harga ditentukan penawaran dan permintaan.
-- Kebebasan Memilih: kebebasan memilih oleh konsumen untuk memilih produk, pekerja untuk memilih pekerjaan.
-- Intervensi Pemerintah Terbatas: pada kapitalis murni (_laissez-faire_) pemerintah hanya melindungi hak kepemilikan privat.
+Berdasarkan kerangka rinci yang diberikan.
+
+- Hak Kepemilikan Privat: Hak hukum dan mutlak untuk memiliki, menguasai, dan mengalihkan aset fisik (tanah, pabrik) maupun aset tak berwujud (saham, paten).
+- Motif Keuntungan: Pendorong utama kegiatan ekonomi adalah keuntungan finansial individu atau perusahaan.
+- Mekanisme Pasar (Sistem Harga): Alokasi sumber daya ditentukan semata-mata oleh interaksi Penawaran dan Permintaan, tanpa adanya perencanaan terpusat.
+- Kompetisi: Persaingan antar pelaku usaha menjamin efisiensi, inovasi, dan pilihan produk yang lebih baik bagi konsumen.
+- Kedaulatan Konsumen & Kebebasan Memilih: Konsumen menentukan apa yang diproduksi melalui daya beli mereka; pekerja bebas memilih pekerjaan.
+- Intervensi Pemerintah Terbatas (Laissez-Faire): Negara hanya berfungsi sebagai "Penjaga", melindungi hak milik, menegakkan kontrak, dan menjaga pertahanan.
 
 ## 3.2. Sistem Ekonomi Sosialisme
+Antitesis langsung dari sistem Kapitalisme.
+
+- Kepemilikan Kolektif/Sosial: Alat-alat produksi (pabrik, tanah, sumber daya alam) dimiliki dan dikendalikan oleh negara atau masyarakat secara kolektif, bukan oleh individu swasta.
+- Perencanaan Terpusat: Otoritas pemerintah pusat menyusun rencana komprehensif yang menentukan apa yang diproduksi, bagaimana memproduksinya, dan untuk siapa.
+- Prioritas Kesejahteraan Sosial: Tujuan produksi adalah nilai guna (memenuhi kebutuhan manusia) bukan nilai tukar (keuntungan).
+- Distribusi Merata: Pendapatan dan kekayaan didistribusikan berdasarkan kontribusi atau kebutuhan, bertujuan menghilangkan kesenjangan kelas yang besar.
+- Ketergantungan Minimal pada Pasar: Harga seringkali ditetapkan oleh negara dan tidak berfluktuasi bebas sesuai permintaan dan penawaran.
 
 ## 3.3. Sistem Ekonomi Syariah
+Berdasarkan prinsip-prinsip Hukum Syariah.
 
-## 3.4. Sistem Ekonomi Negara Kesejahteraan
+- Larangan Riba (Bunga): Membebankan atau menerima bunga tetap atas pinjaman dilarang. Keuntungan harus berasal dari perdagangan riil dan pembagian risiko (Model Bagi Hasil seperti Mudharabah dan Musyarakah).
+- Larangan Gharar (Ketidakpastian Berlebihan/Spekulasi): Kontrak harus transparan dan bebas dari penipuan atau risiko yang menyerupai perjudian.
+- Zakat (Pajak Kekayaan): Kontribusi amal wajib (2,5% dari harta) yang digunakan untuk redistribusi kekayaan dan jaring pengaman sosial.
+- Halal dan Haram: Aktivitas ekonomi dibatasi hanya pada barang dan jasa yang diizinkan (misalnya: tidak ada industri minuman keras, babi, atau perjudian).
+- Harta sebagai Amanah: Meskipun kepemilikan pribadi diperbolehkan, kepemilikan mutlak ada pada Tuhan. Sumber daya tidak boleh ditimbun atau disia-siakan.
 
-### 3.4.1. Sistem Ekonomi Pancasila
+## 3.4. Sistem Ekonomi Negara Kesejahteraan (Welfare State)
+Model "Ekonomi Campuran" (Contoh: Model Skandinavia).
+
+- Landasan Ekonomi Pasar: Menerima kerangka kapitalis terkait kepemilikan pribadi dan pasar.
+- Pajak Progresif: Pajak tinggi atas pendapatan dan laba perusahaan untuk mendanai layanan publik yang ekstensif.
+- Jaring Pengaman Universal: Negara menjamin standar hidup minimum melalui layanan kesehatan, pendidikan, perumahan, dan pensiun bagi seluruh warga negara, terlepas dari pendapatan pasar mereka.
+- Intervensi Negara: Pemerintah secara aktif turun tangan untuk memperbaiki kegagalan pasar (pengangguran, polusi) dan mengurangi ketimpangan melalui transfer tunai dan subsidi.
+- Negosiasi Tripartit: Kebijakan ekonomi seringkali diputuskan melalui perundingan antara pemerintah, serikat pekerja, dan asosiasi pengusaha.
+
+## 3.5. Sistem Ekonomi Pancasila
+
+- Asas Kekeluargaan: Perekonomian tidak didasarkan pada persaingan individu (Kapitalisme) maupun pertentangan kelas (Sosialisme), melainkan pada Gotong Royong dan solidaritas.
+- Pasal 33 UUD 1945 (Inti Sari):
+    1. Cabang-cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak dikuasai oleh negara.
+    2. Bumi, air, dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan untuk sebesar-besar kemakmuran rakyat.
+- Koperasi sebagai Soko Guru: Konstitusi secara eksplisit menyebut Koperasi sebagai bentuk badan usaha yang paling cocok karena mencerminkan prinsip kepemilikan dan manfaat bersama bagi anggota.
+- Demokrasi Ekonomi: Keputusan yang menyangkut kesejahteraan rakyat diambil melalui musyawarah untuk mencapai mufakat.
+- Moral Ketuhanan: Kegiatan ekonomi harus selaras dengan nilai-nilai agama dan etika (Ketuhanan Yang Maha Esa), menempatkannya sebagai Jalan Ketiga yang khas di antara individualisme sekuler Kapitalisme dan materialisme ateis Komunisme.
 
 # 4. Globalisasi Ekonomi
 - Definisi: Globalisasi merujuk pada peningkatan intensitas komunikasi dan pergerakan barang melintasi perbatasan internasional.
@@ -115,7 +146,7 @@ Untuk beroperasi secara internasional, perusahaan menggunakan empat strategi uta
     - Fragmentasi produksi semacam ini membuat label tradisional "Negara Asal" hampir tidak bermakna dan mempersulit penghitungan statistik perdagangan.
     - TNC lebih mudah melakukan adaptasi produknya pada budaya lokal.
 
-### 1.3 Tingkatan Integrasi Ekonomi (Dari Kedaulatan Terendah ke Tertinggi)
+## 4.2. Tingkatan Integrasi Ekonomi (Dari Kedaulatan Terendah ke Tertinggi)
 Negara-negara mengejar integrasi ekonomi untuk mendukung perdagangan global. Hierarki berikut mewakili peningkatan tingkat harmonisasi kebijakan dan hilangnya kedaulatan ekonomi independen:
 
 | Tingkat | Nama | Karakteristik Utama | Contoh |
@@ -128,13 +159,10 @@ Negara-negara mengejar integrasi ekonomi untuk mendukung perdagangan global. Hie
 | 6 | Uni Moneter (Monetary Union) | Pasar Bersama ditambah mata uang bersama dan kebijakan moneter terpusat. | Zona Euro (menggunakan Euro). |
 | 7 | Uni Fiskal (Fiscal Union) | Uni Moneter ditambah anggaran dan kebijakan pajak terpusat. | (Sebagian besar bersifat teoretis; model parsial AS). |
 
----
-
-## Bagian 2: Lanskap Kelembagaan – Organisasi Multilateral dengan Tujuan Ekonomi
-
+## 4.3 Organisasi Multilateral dengan Tujuan Ekonomi
 Untuk memajukan kepentingan ekonomi mereka dan mengatur kompleksitas tingkatan yang dijelaskan di atas, negara-negara membentuk Organisasi Kerja Sama Ekonomi Internasional. Organisasi-organisasi ini dapat dikategorikan sebagai berikut:
 
-### 2.1 Pilar Keuangan dan Perdagangan Global (Lembaga Bretton Woods & WTO)
+### 4.3.1. Pilar Keuangan dan Perdagangan Global (Lembaga Bretton Woods & WTO)
 Ini adalah pembuat aturan inti dan pemberi pinjaman ekonomi global.
 
 | Organisasi | Markas Besar | Tujuan Ekonomi Utama | Keanggotaan (per 2025) |
@@ -147,7 +175,7 @@ Ini adalah pembuat aturan inti dan pemberi pinjaman ekonomi global.
 | — IFC | | Berfokus secara eksklusif pada investasi sektor swasta di negara berkembang. | |
 | — MIGA | | Menyediakan asuransi risiko politik untuk mendorong Investasi Asing Langsung (FDI). | Lembaga ini didirikan pada tahun 1988 untuk menawarkan asuransi kepada investor asing. |
 
-### 2.2 Forum Analisis dan Kebijakan Global Utama Lainnya
+### 4.3.2. Forum Analisis dan Kebijakan Global Utama Lainnya
 
 | Organisasi | Markas Besar | Tujuan Ekonomi Utama | Keanggotaan (per 2025) |
 | :-- | :-- | :-- | :-- |
@@ -156,7 +184,7 @@ Ini adalah pembuat aturan inti dan pemberi pinjaman ekonomi global.
 | Bank for International Settlements (BIS) | Basel, Swiss | Bank Sentral untuk Bank Sentral. Membina kerja sama moneter dan keuangan internasional serta memastikan standar stabilitas keuangan global (misalnya, Basel Accords). | 63 bank sentral anggota. Termasuk Bank Indonesia, Federal Reserve (AS), Bank of England (Inggris), dan European Central Bank. |
 | International Labour Organization (ILO) | Jenewa, Swiss | Standar Ketenagakerjaan. Menetapkan standar ketenagakerjaan internasional (misalnya, konvensi upah minimum, hak untuk berserikat) untuk memastikan integrasi ekonomi tidak mengarah pada "perlombaan ke bawah" dalam kondisi kerja. | 187 negara anggota. Pada Juni 2025, Palestina ditetapkan sebagai anggota penuh. |
 
-### 2.3 Blok Integrasi Regional Utama (Mengoperasionalkan Tangga Integrasi)
+### 4.3.3. Blok Integrasi Regional Utama (Mengoperasionalkan Tangga Integrasi)
 Blok-blok ini secara langsung sesuai dengan Tingkat 3-6 dari hierarki integrasi yang dijelaskan di Bagian 1.
 
 | Blok | Wilayah | Tingkat Integrasi yang Dicapai | Tujuan Utama | Keanggotaan (per 2025) |
@@ -167,7 +195,7 @@ Blok-blok ini secara langsung sesuai dengan Tingkat 3-6 dari hierarki integrasi 
 | MERCOSUR | Amerika Selatan | Uni Bea Cukai | Menetapkan Tarif Eksternal Umum (CET) untuk melindungi industri regional dan mempromosikan perdagangan bebas internal. | Anggota penuh: Argentina, Brasil, Paraguay, Uruguay. Venezuela (dibekukan). Bolivia dalam proses menjadi anggota penuh. Negara asosiasi: Chili, Kolombia, Ekuador, Guyana, Peru, Suriname. |
 | AfCFTA | Afrika | Area Perdagangan Bebas | FTA terbesar di dunia berdasarkan jumlah penduduk. Bertujuan untuk meningkatkan perdagangan intra-Afrika dengan menghapus tarif pada 90% barang. | 54 negara penandatangan dari 55 anggota Uni Afrika (kecuali Eritrea). 50 negara telah meratifikasi perjanjian (per Oktober 2025). |
 
-### 2.4 Forum Koordinasi Informal (G dan BRICS)
+### 4.3.4. Forum Koordinasi Informal (G dan BRICS)
 Ini bukan organisasi berbasis perjanjian dengan aturan yang mengikat, tetapi mereka menetapkan agenda ekonomi global.
 
 | Kelompok | Anggota | Tujuan Ekonomi | Keanggotaan (per 2025) |
@@ -176,7 +204,7 @@ Ini bukan organisasi berbasis perjanjian dengan aturan yang mengikat, tetapi mer
 | G7 | Kanada, Prancis, Jerman, Italia, Jepang, Inggris, AS | Penyelarasan Ekonomi Maju. Membahas tantangan bersama di antara negara-negara demokrasi terkaya di dunia (kebijakan makroekonomi, keamanan). | 7 negara: Amerika Serikat, Kanada, Inggris, Prancis, Jerman, Italia, dan Jepang. |
 | BRICS | Brasil, Rusia, India, China, Afrika Selatan (+ anggota baru) | Suara untuk Pasar Berkembang. Mengadvokasi reformasi IMF/Bank Dunia untuk mencerminkan kekuatan Selatan Global yang sedang naik. | 11 anggota penuh: Brasil, Rusia, India, China, Afrika Selatan (pendiri), ditambah Mesir, Ethiopia, Iran, Arab Saudi, Uni Emirat Arab, dan Indonesia (bergabung Januari 2025). |
 
-### 2.5 Bank Pembangunan Regional (MDB)
+### 4.3.5. Bank Pembangunan Regional (MDB)
 Lembaga-lembaga ini berfungsi seperti Bank Dunia tetapi berfokus pada wilayah geografis tertentu, seringkali dengan pemahaman yang lebih baik tentang ekonomi politik lokal.
 
 | Bank | Wilayah | Fokus | Keanggotaan (per 2025) |
@@ -188,10 +216,9 @@ Lembaga-lembaga ini berfungsi seperti Bank Dunia tetapi berfokus pada wilayah ge
 | Asian Infrastructure Investment Bank (AIIB) | Asia & Beyond | Infrastruktur berkelanjutan (dipimpin China tetapi multilateral). | 111 anggota yang disetujui. Berawal dari 57 anggota pendiri (termasuk Singapura, Kazakhstan, Arab Saudi, Inggris, Jerman, Prancis) hingga 110 anggota saat ini, di belakang Bank Dunia dengan 189 anggota. Kolombia menjadi anggota non-regional ke-58 pada November 2025. |
 | New Development Bank (NDB) | Negara BRICS | Memobilisasi sumber daya untuk infrastruktur dan pembangunan berkelanjutan di negara berkembang. | 11 anggota: Brasil, Rusia, India, China, Afrika Selatan (pendiri), Bangladesh, Uni Emirat Arab, Mesir, Aljazair, Kolombia, dan Uzbekistan (bergabung Juli 2025). |
 
-### 2.6 Organisasi Sektoral dan Komoditas
+### 4.3.6. Organisasi Sektoral dan Komoditas
 
 | Organisasi | Sektor | Tujuan Ekonomi | Keanggotaan (per 2025) |
 | :-- | :-- | :-- | :-- |
-| OPEC (Organization of the Petroleum Exporting Countries) | Energi/Minyak | Manajemen Kartel. Mengoordinasikan kuota produksi minyak di antara anggota untuk menstabilkan harga dan memastikan pendapatan tetap bagi negara-negara produsen. | 12-13 anggota (tergantung sumber): Aljazair, Angola, Kongo, Guinea Khatulistiwa, Gabon, Iran, Irak, Kuwait, Libya, Nigeria, Arab Saudi, Uni Emirat Arab, Venezuela. OPEC+ mencakup Rusia, Kazakhstan, Azerbaijan, Malaysia, Meksiko, Bahrain, Brunei, Oman, Sudan, Sudan Selatan. |
+| OPEC (Organization of the Petroleum Exporting Countries) | Energi/Minyak | Manajemen Kartel. Mengoordinasikan kuota produksi minyak di antara anggota untuk menstabilkan harga dan memastikan pendapatan tetap bagi negara-negara produsen. | 12-13 anggota (tergantung sumber): Aljazair, Angola, Kongo, Guinea Khatulistiwa, Gabon, Iran, Irak, Kuwait, Libya, Nigeria, Arab Saudi, Uni Emirat Arab, Venezuela. OPEC+ mencakup Rusia, Kazakhstan, Azerbaijan, Malaysia, Meksiko, Bahrain, Brunei, Oman, Sudan, Sudan Selatan. Indonesia pernah menjadi anggota namun keluar di tahun 2016. |
 | Komisi Ekonomi Regional PBB (misalnya, ECA untuk Afrika, ESCAP untuk Asia-Pasifik) | Pembangunan Regional | Bertindak sebagai "laboratorium ekonomi" untuk PBB, membentuk kebijakan yang disesuaikan dengan kebutuhan regional tertentu. | Keanggotaan bervariasi menurut wilayah. |
-
