@@ -125,15 +125,86 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
 
 ## 2.4. Amerika Latin (Griffin-Ford)
 - Model ini menjelaskan struktur kota di Amerika Latin yang sangat dipengaruhi oleh kolonialisme Spanyol dan migrasi desa-kota yang masif.
-- 
+  <img width="640" height="427" alt="image" src="https://github.com/user-attachments/assets/e86cd6a4-862d-4911-a1a2-52c42bd361f3" />
+  - The Spine (Tulang Punggung): perpanjangan dari CBD di sepanjang _boulevard_ (jalan besar) utama. Inilah satu-satunya irisan elit/kaya. Berisi toko mewah, restoran kelas atas, dan perkantoran modern.
+  - Permukiman elit: menempel di sisi The Spine. Kedekatan dengan tulang punggung ini menjamin akses air bersih, listrik, dan keamanan terbaik.
+  - Zona Kematangan (_Zone of Maturity_): Area kelas menengah yang lebih baik, transisi antara elite dan miskin.
+  - Zona Akresi In Situ (_Zone of In Situ Accretion_): Area perumahan sederhana yang sedang dalam proses perbaikan bertahap oleh penghuni.
+  - Zona Squatter Periferal (_Periférico_): Berlawanan dengan model Barat, kaum miskin ekstrem tinggal di tepi terluar kota. Tanah di sini murah karena tidak ada infrastruktur, terjal (lereng bukit rawan longsor), atau rawa-rawa. Contoh: Favelas di Rio de Janeiro, Barriadas di Lima.
+- Mekanisme pembentukan pola kota:
+  1. Pembentukan "The Spine" (Tulang Punggung):
+     - Mekanisme Awal: Hukum Kolonial Spanyol (_Laws of the Indies_) mewajibkan adanya Plaza Mayor (alun-alun pusat) dan grid jalan. Jalan utama dari Plaza ke arah luar adalah pusat kekuasaan dan perdagangan.
+     - Mekanisme Modern: Pemerintah pasca-kemerdekaan berinvestasi besar-besaran pada infrastruktur di sepanjang koridor ini (air, listrik, aspal, transportasi). Di luar koridor ini, infrastruktur publik sangat buruk atau tidak ada.
+  2. Konsentrasi Elit di Sisi Spine (_Elite Adjacency_):
+     - Berbeda dengan AS di mana orang kaya berpindah ke pinggiran hijau (_suburban flight_), di Amerika Latin, keamanan dan layanan dasar adalah barang langka.
+     - Tinggal di pinggiran kota tanpa listrik dan saluran pembuangan bukan pilihan bagi kelas atas.
+     - Mereka memilih tinggal tepat di belakang koridor komersial utama untuk memastikan akses 24/7 ke generator listrik lingkungan, keamanan swasta, dan pompa air.
+  3. Pertumbuhan Zona Periferal (_Periférico/Squatter_):
+     - Modernisasi pertanian dan kurangnya reforma agraria mendorong migran desa miskin ke kota dalam jumlah besar.
+     - Migrasi desa-kota yang sangat masif menyebabkan _pseudourbanisation_: pertumbuhan jumlah penduduk dan kenampakan fisik perkotaan tanpa adanya infrastruktur yang mencukupi.
+       - Karena tidak mampu membeli atau menyewa di dekat Spine, migran mencari tanah termurah dan paling tidak diinginkan, yaitu di lahan marginal: lereng bukit curam (risiko longsor), bantaran sungai (risiko banjir), bekas rawa.
+       - Mekanisme Invasi Terorganisir: Kelompok migran secara kolektif menyerbu tanah kosong di malam hari dan mendirikan bangunan tidak tetap (_land invasion_).
+       - Karena pemerintah tidak mampu menyediakan transportasi massal yang layak ke pusat, mereka menghabiskan berjam-jam berjalan kaki atau naik angkutan informal.
+     - Mekanisme Perbaikan (_In Situ Accretion_) : Setelah 10-20 tahun, jika tidak digusur, penghuni mulai memperbaiki rumah mereka secara bertahap (lantai tanah -> semen -> keramik; bilik bambu -> tembok bata). Ini disebut konsolidasi.
 
 ## 2.5. Asia Tenggara (McGee)
+- T.G. McGee mengembangkan model khusus untuk kota-kota di Asia Tenggara yang merupakan kota pelabuhan kolonial (seperti Jakarta, Manila, Bangkok, Singapura dulu).
+- Model ini menekankan dualisme ekonomi (formal vs. informal) dan campuran penggunaan lahan yang intens.
+  <img width="469" height="431" alt="image" src="https://github.com/user-attachments/assets/d62b54b9-b9a8-4b1f-bbbe-89db982a23b6" />
+  - _Port Zone_ (Zona Pelabuhan): Zona ini adalah inti historis, area gudang tua, kantor dagang, dan permukiman padat etnis Tionghoa awal. Seringkali diabaikan dalam pembangunan modern.
+  - _Government Zone_ (Zona Pemerintahan): Berbeda dengan zona pelabuhan yang kumuh, zona ini luas, hijau, dan monumental (contoh: Lapangan Merdeka dan Monas di Jakarta, Padang di Singapura). Ini adalah warisan kolonial yang dipertahankan untuk legitimasi negara pasca-kemerdekaan.
+  - _Western Commercial Zone_ (CBD): Pusat bisnis modern dengan gedung pencakar langit, bank internasional, dan hotel.
+  - _Mixed Land Use Corridor_ (Koridor Penggunaan Lahan Campuran): Ciri paling khas. Di sepanjang jalan arteri utama yang keluar dari kota, kita temukan pasar tradisional, bengkel kecil, rumah toko (ruko), PKL, dealer mobil mewah, dan mal besar berbaur menjadi satu. Zonasi ketat ala Barat tidak berlaku di sini.
+  - _Suburban Involution Zones_: Pinggiran kota yang terdiri dari Desakota (campuran antara desa dan kota, sawah berubah jadi pabrik dan perumahan). Juga terdapat Kampung (permukiman tradisional padat) dan _Squatter Settlements_.
+- Mekanisme pembentukan pola kota:
+  1. Warisan Kolonial dan Dualisme CBD: Pemerintah kolonial membangun Zona Pemerintahan yang megah dan terpisah dari Zona Pelabuhan/Pecinan yang padat perdagangan. Setelah kemerdekaan, pemerintah nasional mewarisi zona pemerintahan ini dan menggunakannya untuk legitimasi simbolis (Monumen Nasional, Lapangan Upacara).
+  2. Mekanisme Koridor Penggunaan Lahan Campuran (_Mixed-Use Corridor_): Berbeda dengan negara maju yang punya zonasi ketat (_residential only_), di Asia Tenggara regulasi lemah dan kebutuhan ekonomi tinggi, sehingga tepi jalan raya menjadi zona penggunaan lahan campuran besar.
+  3. Mekanisme Ekonomi Informal: Pedagang Kaki Lima (PKL) dan bengkel kecil menempel pada lalu lintas untuk mengakses lalu lintas manusia. Akibatnya, koridor jalan arteri menjadi pasar linier raksasa, dealer Mercedes-Benz berdampingan dengan tukang tambal ban.
+  4. Mekanisme Desakota (Desa-Kota): Percampuran intensif antara aktivitas pertanian dan non-pertanian di pinggiran kota besar. Migran desa tidak pindah permanen ke pusat kota dan tinggal di _slum_, pabrik dan kawasan industri pindah ke desa. Petani berubah menjadi buruh pabrik paruh waktu. Sawah berubah menjadi kos-kosan untuk pekerja. Transportasi informal (ojek, angkot) berkembang pesat untuk menghubungkan desa-desa industri ini. Model ini menjelaskan mengapa batas tegas antara "Rural" dan "Urban" dalam model Burgess tidak berlaku di Asia.
 
 # 3. Segregasi dan Ketimpangan Perkotaan
 ## 3.1. Gated Community
+- Area perumahan yang akses publiknya dibatasi secara fisik oleh pagar, tembok, portal, dan satpam. Ini adalah bentuk ekstrem dari segregasi sukarela.
+- Faktor pendorong
+  1. Fear of Crime (Keamanan): Persepsi akan tingginya kriminalitas di luar pagar mendorong kelompok mampu untuk "mengurung diri".
+  2. Club Goods (Barang Klub): Penghuni membayar iuran untuk mendapatkan barang privat kolektif yang dulunya disediakan oleh pemerintah kota: jalan mulus bebas lubang, taman bermain terawat, sistem keamanan 24 jam, pasokan air bersih cadangan.
+  3. Lifestyle dan Prestise: Gated community menawarkan homogenitas sosial dan identitas "kemapanan".
+- Dampak:
+  - _Splintering Urbanism_ (Urbanisme Terfragmentasi) (Stephen Graham dan Simon Marvin): Infrastruktur kota yang seharusnya menyatu (seperti jaringan jalan) menjadi terpotong-potong.
+  - Jalan di dalam kompleks adalah jalan privat, tidak bisa dilewati oleh angkutan umum atau masyarakat luar.
+  - Ini menciptakan "pulau-pulau kaya" di tengah lautan kota yang kurang terlayani.
+
 ## 3.2. Slum & Squatter
+- _Slum_ (Permukiman Kumuh): Sebuah kondisi rumah tangga di area perkotaan yang kekurangan satu atau lebih dari lima syarat. Slum bisa terbentuk di tanah legal (misalnya gedung apartemen tua yang rusak di pusat kota).
+  1. Akses air bersih
+  2. Akses sanitasi
+  3. Luas ruang hidup cukup
+  4. Struktur bangunan tahan lama
+  5. Kepastian kepemilikan lahan (_security of tenure_).
+- Squatter Settlement (Permukiman Ilegal): Status legalitas lahan. Permukiman yang dibangun di atas tanah yang bukan milik penghuni (tanah negara, tanah pribadi yang ditelantarkan, bantaran sungai, kolong tol). Penghuni tidak memiliki sertifikat.
+- Narasi Negatif Tradisional: permukiman kumuh merupakan sumber penyakit, kriminalitas, dan kemacetan.
+-  Pandangan Kontemporer (Turner, De Soto):
+    - Slum of Hope: Penghuni menunjukkan adaptasi dan ketahanan luar biasa. Mereka membangun rumah secara bertahap (_incremental housing_), menciptakan ekonomi informal yang dinamis.
+    - Hak Tempat Tinggal: Solusi bukanlah penggusuran paksa, melainkan pemberian hak milik (_land titling_) atau perbaikan kampung in-situ (_upgrading_).
+
 ## 3.3. Segregasi Etnis
+- Pemisahan spasial kelompok penduduk berdasarkan identitas etnis atau ras.
+- Dapat terjadi karena diskriminasi struktural (paksaan) atau pilihan komunal (sukarela untuk mempertahankan budaya).
   * China town
+    - Fase 1 (Pembentukan): Di kota-kota kolonial Asia Tenggara, etnis Tionghoa perantauan sering ditempatkan di zona penyangga antara benteng kolonial Eropa dan permukiman pribumi. Ini menciptakan konsentrasi spasial awal.
+    - Fase 2 (Berlanjut): Fungsi sebagai enklave ekonomi dan budaya. Ada dukungan jaringan bisnis sesama etnis (guanxi), sekolah bahasa Mandarin, klenteng, dan pasar khusus.
+    - Fase 3 (Kontemporer): Komodifikasi Etnis. Pemerintah kota merenovasi Chinatown sebagai objek wisata kuliner dan warisan budaya (Heritage Tourism). Penduduk asli mungkin sudah pindah, digantikan oleh restoran mahal dan toko suvenir.
   * Ghetto
+    - Area perkotaan tempat kelompok minoritas tertentu dipaksa untuk tinggal karena tekanan hukum, ekonomi, atau kekerasan sosial, bukan karena pilihan sukarela.
+    - Contoh Historis: Jewish Ghetto di Venesia abad pertengahan; African-American Ghettos di kota-kota industri AS (Chicago, Detroit) yang terbentuk akibat Redlining (praktik perbankan diskriminatif yang menolak pinjaman hipotek di area minoritas).
+    - Dampak: Konsentrasi kemiskinan ekstrem, putus sekolah, dan kurangnya akses ke makanan segar (Food Desert).
 
 # 4. Strategi Perencanaan Kota
+
+## 4.1. Regenerasi Perkotaan
+- _Urban Renewal_ / Pembaruan Perkotaan (fokus tahun 1950-an–60-an): Pendekatan dari atas ke bawah, seringkali dipimpin oleh pemerintah, yang memprioritaskan restrukturisasi fisik dan pembongkaran besar-besaran kawasan kumuh untuk membangun struktur baru.
+- _Urban Redevelopment_ / Pembangunan Kembali Perkotaan (Berorientasi Aksi): Komponen spesifik dari pembaruan yang berfokus pada penggantian bangunan tua dan usang dengan konstruksi baru.
+- _Urban Revitalisation/Rejuvenation_ / Revitalisasi/Peremajaan Perkotaan: Menekankan upaya menghidupkan kembali kawasan perkotaan yang sekarat melalui peningkatan budaya, sosial, dan ekonomi, yang seringkali berfokus pada aspek ekonomi.
+- _Urban Regeneration_ / Regenerasi Perkotaan (Modern/Holistik): Sebuah proses jangka panjang dan komprehensif yang bertujuan untuk mengatasi area-area yang terabaikan melalui perbaikan fisik, sosial, dan lingkungan, dengan tujuan keberlanjutan dan revitalisasi ekonomi. Fokusnya adalah pada peningkatan dan pelestarian.
+
+
