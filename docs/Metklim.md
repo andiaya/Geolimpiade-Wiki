@@ -55,23 +55,22 @@ Apa yang dimaksud kondisi atmosfer?
 - Sementara itu, lapisan yang tidak mengalami percampuran dinamakan **heterosfer** (>~80 km).
 
 - Klasifikasi lapisan atmosfer juga dapat dilakukan berdasarkan pola perubahan temperaturnya di ketinggian. Berdasarkan karakteristik perubahan temperaturnya, atmosfer dapat diklasifikasikan menjadi 4 kelas, yaitu:
-	1. Troposfer\
-		a. 0 - 18 km, puncaknya dibatasi tropopause\
-		b. tempat fenomena cuaca berlangsung\
-		c. terjadi lapse rate (turunnya temperatur seiring ketinggian)
-	2. Stratosfer\
-		a. 20 - 50 km, puncaknya dibatasi stratopause\
-		b. tempat lapisan ozon berada\
-		c. terjadi reverse lapse rate (naiknya temperatur seiring ketinggian)
-	3. Mesosfer\
-		a. 50 - 80 km, puncaknya dibatasi mesopause\
-		b. tempat terbakarnya sebagian besar meteor\
-		c. terjadi lapse rate
-	4. Termosfer\
-		a. > 80 km\
-		b. tempat terjadinya aurora\
-		c. terjadi reverse lapse rate
-
+  1. Troposfer
+     1. 0 - 18 km, puncaknya dibatasi tropopause
+     2. tempat fenomena cuaca berlangsung
+     3. terjadi lapse rate (turunnya temperatur seiring ketinggian)
+  2. Stratosfer
+     1. 20 - 50 km, puncaknya dibatasi stratopause
+     2. tempat lapisan ozon berada
+     3. terjadi reverse lapse rate (naiknya temperatur seiring ketinggian)
+  3. Mesosfer
+     1. 50 - 80 km, puncaknya dibatasi mesopause
+     2. tempat terbakarnya sebagian besar meteor
+     3. terjadi lapse rate
+  4. Termosfer
+     1. > 80 km
+     2. tempat terjadinya aurora
+     3. terjadi reverse lapse rate
 - Pola perubahan temperatur ini disebabkan oleh lokasi-lokasi sumber pemanasan atmosfer.
 	- Troposfer mengalami pemanasan dari permukaan Bumi. Hal ini disebabkan karena energi matahari dalam bentuk radiasi gelombang pendek tidak dapat langsung memanaskan udara.
  		- Suatu benda dapat meningkat suhunya apabila menyerap energi. Udara yang tembus pandang berarti tidak menyerap, melainkan membiarkan energi matahari tersebut lewat.
