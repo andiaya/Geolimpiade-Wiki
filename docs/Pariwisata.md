@@ -61,6 +61,11 @@ sidebar:
 - Dampak langsung
 - Dampak tidak langsung
 - Dampak ikutan
+- Kebocoran ekonomi: keluarnya nilai ekonomi yang dihasilkan oleh suatu kegiatan ekonomi ke daerah lain.
+  - Tipe kebocoran ekonomi:
+    1. Kebocoran impor
+    2. Kebocoran eksternal
+    3. Kebocoran ekspatriat
 
 ## 3.4. Dampak Sosial Pariwisata
 - 
