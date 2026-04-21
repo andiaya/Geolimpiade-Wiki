@@ -63,5 +63,6 @@ sidebar:
 - Dampak ikutan
 
 ## 3.4. Dampak Sosial Pariwisata
+- 
 
 ## 3.5. Model Pariwisata
