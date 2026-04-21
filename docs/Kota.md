@@ -246,7 +246,7 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
       - menciptakan "jalan sekolah" yang ditutup untuk lalu lintas
       - membuka ruang publik seperti taman dan alun-alun
       - mendorong campuran layanan lokal di setiap lingkungan.
-  - Kota ramah pejalan kaki adalah lingkungan perkotaan yang dirancang, dibangun, dan dikelola untuk menjadikan berjalan kaki sebagai moda transportasi dan rekreasi yang aman, nyaman, nyaman, dan menyenangkan bagi orang-orang dari segala usia dan kemampuan.
+  - Kota ramah pejalan kaki (_walkable city_) adalah lingkungan perkotaan yang dirancang, dibangun, dan dikelola untuk menjadikan berjalan kaki sebagai moda transportasi dan rekreasi yang aman, nyaman, nyaman, dan menyenangkan bagi orang-orang dari segala usia dan kemampuan.
     - Prinsip:
       1. _Density_ (Kepadatan): Konsentrasi orang dan pekerjaan dalam area tertentu. Kepadatan tinggi menciptakan massa kritis untuk mendukung toko dan layanan lokal dalam jarak berjalan kaki. Tanpa kepadatan, tujuan terlalu jauh. 
        2. _Diversity_ (Keberagaman): Campuran fungsi lahan (hunian, komersial, sipil, rekreasi) dalam area yang kompak. Integrasi fungsional yang membuat berjalan kaki menjadi bermakna. Jika perumahan terpisah dari toko dan tempat kerja, berjalan kaki menjadi tidak praktis. 
@@ -266,5 +266,12 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
   - Masalah Privasi dan Pengawasan: Pengumpulan data ekstensif menciptakan risiko privasi yang sangat besar. Perlu ada kerangka hukum kuat untuk melindungi data warga.
   - Kesenjangan Digital dan Keadilan Sosial: Jika tidak dirancang dengan hati-hati, teknologi kota cerdas dapat memperkuat ketimpangan yang ada. Populasi rentan seringkali tidak memiliki akses ke perangkat, paket data, atau literasi digital yang diperlukan, menciptakan kota dengan dua tingkat masyarakat.
   - Keadilan Prosedural: Proses pengambilan keputusan yang inklusif sangat penting untuk pengembangan kota cerdas yang adil. Keterlibatan publik yang tokenistik (hanya sebagai syarat, masukan publik tidak benar-benar dianggap) atau solusi yang didorong oleh teknologi dari atas ke bawah (_top-down_) dapat mengalienasi komunitas.
+- Pengembangan penerapan _smart city_ adalah _digital twin of cities_.
+  - Digital twin merupakan representasi digital perkotaan dalam bentuk pemodelan proses kota dan morfologi kota.
+  - Digital twin dibangun dengan menggunakan kecerdasan buatan untuk mengkombinasikan data dari IoT, sehingga kondisi kota secara keseluruhan dapat diawasi dan dikontrol secara digital.
 
 ## 4.4. Forest City
+- Respon untuk krisis iklim dan hilangnya keanekaragaman hayati.
+- Kota Biofilik (_Biophilic City_): oleh Beatley, manusia memiliki kebutuhan untuk terhubung dengan alam. Kota Biofilik menempatkan alam sebagai pusat desain dan perencanaan. Mengintegrasikan alam pada area bangunan sehingga tidak terasa batas antara lingkungan alami dan buatan.
+- Urbanisme hutan (_forest urbanism_): hutan kota sebagai bagian fungsional dari kota. Menggabungkan habitat hewan dengan manusia.
+- Hutan vertikal (_vertical forest_): pepohonan ditanam pada balkon dan fasad bangunan tinggi, sebagai pendingin, penghalang kebisingan, penyerap karbon, dan habitat keanekaragaman hayati lingkungan perkotaan.
