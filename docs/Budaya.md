@@ -49,6 +49,7 @@ Model strategi akulturasi (John Berry, 1997):
   - Sino-Tibet (Mandarin, Tibet, Burma)
   - Afro-Asia (Arab, Ibrani, Hausa, Somalia)
   - Niger-Kongo (Swahili, Yoruba, Zulu)
+    <img width="1880" height="740" alt="image" src="https://github.com/user-attachments/assets/4adf40d9-741a-454f-9148-464820d6d517" />
 
 - Di Indonesia, hampir semua bahasa daerah (Jawa, Sunda, Batak, Bugis, dll.) termasuk dalam rumpun Austronesia, kecuali bahasa-bahasa di Papua yang umumnya tergolong rumpun Papua (non-Austronesia).
 - Bahasa isolat: bahasa yang tidak terbukti memiliki hubungan kekerabatan (genealogis) dengan bahasa lain mana pun di dunia.
