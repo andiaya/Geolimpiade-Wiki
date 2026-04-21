@@ -54,12 +54,22 @@ Definisi kota dapat dilakukan berdasarkan tiga dimensi:
 ## 1.5. Urbanisasi
 - Urbanisasi adalah proses pengkotaan. Artinya, urbanisasi adalah proses perubahan karakteristik suatu wilayah dari dominan karakteristik pedesaan menjadi dominan karakteristik perkotaan.
 
+| Dimensi Perubahan | Penjelasan |
+| :--- | :--- |
+| Demografis | Peningkatan absolut dan proporsi penduduk yang tinggal di kawasan perkotaan. |
+| Spasial (Morfologis) | Perluasan fisik area terbangun (built-up area) dan konversi lahan non-perkotaan menjadi lahan perkotaan. |
+| Ekonomi | Pergeseran struktur mata pencaharian dari sektor primer (pertanian) ke sektor sekunder (manufaktur) dan tersier (jasa). |
+| Sosial-Budaya | Perubahan gaya hidup, nilai, dan perilaku dari pola komunal tradisional menuju pola individualistik dan heterogen. |
+| Kelembagaan | Perubahan status administratif suatu wilayah dari "desa" (rural) menjadi "kelurahan" atau "kota" (urban). |
 
 - Mekanisme Urbanisasi
-  - Pertumbuhan Wilayah
-  - Urban Sprawl
-  - Urban Reclassification
-  - Migrasi Desa-Kota
+  - Pertumbuhan Alami: pertumbuhan penduduk dalam wilayah perkotaan, baik pertumbuhan populasi alami maupun migrasi. Dapat pula diartikan sebagai pertumbuhan kepadatan, dicirikan pada peningkatan bangunan vertikal.
+  - Urban Sprawl: perluasan karakteristik fisik perkotaan ke daerah sekitar kota. Urban sprawl terjadi secara tidak terkontrol dan dipengaruhi penggunaan kendaraan pribadi. Urban sprawl dapat terjadi dalam bentuk 3 pola, yaitu:
+    1. Konsentris: kota tumbuh meluas dengan kecepatan yang sama di semua sisinya.
+    2. Linear/_Ribbon Development_: pertumbuhan kota memanjang pada jalan raya.
+    3. _Checkerboard/Leapfrog Development_: pertumbuhan kota melompat-lompat membentuk klaster perumahan di antara lahan pertanian.
+  - Urban Reclassification: mekanisme statistik dan administratif. Sebuah wilayah yang sebelumnya diklasifikasikan sebagai "desa" (rural) secara resmi diubah statusnya menjadi "kelurahan" atau "kota" (urban) oleh pemerintah.
+  - Migrasi Desa-Kota: migrasi penduduk pedesaan ke kawasan kota, biasanya terjadi besar-besaran pada masa awal industrialisasi atau karena ketimpangan ekstrem antara kota besar dan kawasan pedesaan.
 
 # 2. Pola Perkotaan
 Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tertentu menempati lokasi spesifik di dalam kota.
