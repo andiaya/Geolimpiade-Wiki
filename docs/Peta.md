@@ -62,18 +62,75 @@ sidebar:
   
   ## 2.2. Karakteristik Proyeksi Peta
   - Proyeksi menyebabkan distorsi atau perubahan dari bentuk asli permukaan Bumi dengan yang ditunjukkan pada peta.
+  - Proyeksi dipilih berdasarkan karakteristik yang akan dipertahankan, yaitu:
+    1. Konform: mempertahankan bentuk (arah). Digunakan untuk mengetahui arah kompas antara 2 titik di Bumi. Contoh proyeksi: merkator, lambert kerucut, stereografis.
+    2. Ekuidistan: mempertahankan jarak pada satu garis tertentu pada peta, misalnya jarak tiap titik pada peta terhadap titik tengahnya. Contoh proyeksi: azimuthal ekuidistan (akuran antara titik tengah peta dengan titik manapun), kerucut ekuidistan (akurat antara 2 garis lintang tertentu), silinder ekuidistan (jarak akurat di sepanjang ekuator).
+    3. Ekuivalen: menunjukkan luas area yang proporsional satu sama lain. Contoh proyeksi: mollweide, albers, gall-peters.
+
+Berikut penjelasan lengkap mengenai poin-poin dalam kerangka materi yang Anda berikan. Materi ini disusun dalam Bahasa Indonesia sesuai dengan permintaan konteks.
 
 # 3. Sistem Koordinat
 
+## 3.1. Sistem Koordinat Geografis
+Sistem ini menggunakan garis lintang dan bujur untuk menentukan lokasi absolut di permukaan bumi yang berbentuk bola (spheroid).
+
+- Lintang (Latitude): Garis horizontal yang sejajar dengan ekuator. Nilainya 0° di Ekuator hingga 90° di Kutub Utara (LU) atau 90° di Kutub Selatan (LS).
+- Bujur (Longitude): Garis vertikal yang menghubungkan Kutub Utara dan Selatan. Nilainya 0° di Prime Meridian (Greenwich) hingga 180° ke arah Timur (BT) atau Barat (BB).
+- Satuan: Derajat (°), Menit ('), Detik (") atau Derajat Desimal (Decimal Degrees).
+- Contoh: Monumen Nasional (Monas) terletak di 6°10'30" LS, 106°49'40" BT.
+
+## 3.2. Sistem Koordinat UTM (Universal Transverse Mercator)
+Sistem proyeksi peta yang membagi bumi menjadi 60 zona (masing-masing selebar 6° bujur). Sistem ini menggunakan bidang datar (proyeksi silinder) sehingga menghasilkan satuan meter, bukan derajat.
+
+- Zona: Indonesia terletak di Zona 46, 47, 48, 49, 50, 51, 52, 53, 54.
+- Koordinat:
+    - Eastings (Timur): Jarak ke timur dari meridian sentral zona (dalam meter).
+    - Northings (Utara): Jarak dari ekuator (untuk belahan utara) atau jarak dari ekuator + nilai koreksi (untuk belahan selatan).
+- Kelebihan: Lebih mudah untuk mengukur jarak, luas, dan volume secara langsung di peta karena satuannya linier (meter).
+
 # 4. Membaca dan Menginterpretasi Peta
-- Arah
-- Jarak
-- Kemiringan
-- Volume
+
+## 4.1. Arah
+- Azimuth: Sudut horizontal yang diukur searah jarum jam dari titik Utara Sejati (True North) atau Utara Magnetik. Nilainya 0° hingga 360°.
+    - Contoh: Arah Timur = Azimuth 90°.
+- Bearing: Sudut horizontal yang diukur dari acuan Utara atau Selatan menuju Barat atau Timur. Nilainya 0° hingga 90° dan selalu disertai huruf arah.
+    - Format: [U/S] [Nilai Sudut] [B/T].
+    - Contoh: Azimuth 135° = Bearing S 45° T (Dibaca: Selatan 45 derajat ke Timur).
+
+## 4.2. Jarak dan Kemiringan
+- Jarak Datar (Horizontal Distance - HD): Panjang garis lurus antara dua titik yang diproyeksikan pada bidang datar (peta). Diukur menggunakan skala peta atau rumus Pythagoras dari koordinat (X,Y).
+- Kemiringan (Slope/Gradient): Perbandingan antara beda tinggi vertikal dengan jarak datar. Biasa dinyatakan dalam persen (%) atau derajat (°).
+    - Rumus: $Kemiringan (\%) = \frac{\text{Beda Tinggi}}{\text{Jarak Datar}} \times 100\%$
+- Jarak Miring (Slope Distance - SD): Jarak sebenarnya yang harus ditempuh di permukaan tanah yang tidak rata.
+    - Rumus Pythagoras: $SD = \sqrt{(Jarak Datar)^2 + (Beda Tinggi)^2}$
+
+## 4.3. Volume
+Perhitungan volume biasanya digunakan dalam pekerjaan Cut and Fill (Galian dan Timbunan) atau perhitungan cadangan tambang.
+- Metode Penampang Rata-Rata (Average End Area):
+    - $Volume = \frac{(Luas_1 + Luas_2)}{2} \times Jarak\_Antar\_Penampang$
+- Metode Grid/Prismoidal: Menghitung volume berdasarkan grid ketinggian digital (DEM/Digital Elevation Model) menggunakan rumus prisma terpancung.
 
 # 5. Menginterpretasi Citra
-- 9 Kunci Interpretasi
 
-# 6. Grafik Spasial
+Interpretasi citra (Foto Udara atau Satelit) memerlukan pengenalan objek berdasarkan 9 Kunci Interpretasi Citra:
+1.  Rona/Warna (Tone/Color): Tingkat kegelapan atau kecerahan. Contoh: Air jernih berona gelap/hitam, pasir berona putih.
+2.  Bentuk (Shape): Konfigurasi umum objek. Contoh: Gedung sekolah biasanya berbentuk L, I, atau U; Gunung api berbentuk kerucut.
+3.  Ukuran (Size): Panjang, lebar, tinggi, atau luas relatif. Contoh: Ukuran lapangan sepak bola vs. lapangan voli.
+4.  Tekstur (Texture): Frekuensi perubahan rona (halus atau kasar). Contoh: Hutan alami bertekstur kasar, sawah bertekstur halus.
+5.  Pola (Pattern): Susunan spasial objek. Contoh: Pola permukiman transmigrasi berpola grid (kotak-kotak) teratur.
+6.  Bayangan (Shadow): Membantu mengenali ketinggian dan bentuk samping. Contoh: Bayangan cerobong asap atau menara.
+7.  Situs (Site): Letak objek terhadap lingkungan sekitarnya. Contoh: Stasiun kereta api selalu terletak di sepanjang jalur rel.
+8.  Asosiasi (Association): Hubungan/keterkaitan dengan objek lain. Contoh: Lapangan parkir luas yang penuh mobil berasosiasi dengan pusat perbelanjaan (mal).
+9.  Konvergensi Bukti: Penggunaan kombinasi beberapa kunci di atas untuk menghasilkan kesimpulan yang akurat.
+
+# 6. Grafik Spasial (Kartografi Tematik)
+
 - Choropleth
+    - Peta yang menunjukkan nilai statistik diskontinu menggunakan gradasi warna atau arsiran pada unit administratif (batas administrasi).
+    - Fungsi: Menunjukkan kepadatan penduduk per Kecamatan, tingkat kemiskinan per Kabupaten, atau hasil pemilu per Provinsi.
+    - Karakteristik: Warna lebih gelap = Nilai lebih tinggi.
+
 - Kartogram
+    - Peta yang mendistorsi ukuran wilayah (luas area) secara proporsional terhadap nilai data, bukan luas geografis sebenarnya.
+    - Fungsi: Untuk menekankan perbedaan jumlah data secara visual.
+    - Contoh: Pada kartogram jumlah penduduk dunia, Pulau Jawa akan digambarkan sangat besar (karena penduduknya padat), sementara Papua atau Kalimantan digambarkan lebih kecil dari ukuran sebenarnya karena populasinya sedikit.
