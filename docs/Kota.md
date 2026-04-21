@@ -39,9 +39,22 @@ Definisi kota dapat dilakukan berdasarkan tiga dimensi:
 2.  Definisi Morfologis: Wilayah dengan _built-up area_ (lahan terbangun) yang bersambung. Dapat diidentifikasi melalui citra satelit malam hari (kepadatan cahaya) atau peta tutupan lahan. Contoh: Area Jabodetabek secara morfologis adalah satu kota besar, meskipun terdiri dari beberapa kota administratif.
 3.  Definisi Fungsional (_Functional Urban Area_- FUA): Wilayah yang diukur berdasarkan pola komuter (ulang-alik kerja). Terdiri dari inti kota (tempat kerja utama) dan _hinterland_ (kawasan penyangga, daerah pinggiran tempat tinggal para pekerja yang melakukan perjalanan ke inti).
 
+| Dimensi | Kawasan Pedesaan (Rural) | Kawasan Perkotaan (Urban) |
+| :--- | :--- | :--- |
+| Kepadatan Penduduk | Rendah (< 500 jiwa/km²) | Tinggi hingga sangat tinggi (> 5.000 jiwa/km²) |
+| Mata Pencaharian | Didominasi sektor primer (pertanian, kehutanan, pertambangan, perikanan). | Didominasi sektor sekunder dan tersier (manufaktur, jasa keuangan, teknologi, pemerintahan). |
+| Struktur Sosial | Homogen (etnis, agama, pekerjaan seragam), hubungan primer (personal, jangka panjang), kontrol sosial informal kuat (_Gemeinschaft_). | Heterogen (beragam latar belakang), hubungan sekunder (impersonal, fungsional), anonimitas tinggi (_Gesellschaft_). |
+| Penggunaan Lahan | Didominasi lahan pertanian, hutan, dan ruang terbuka alami. | Didominasi lahan terbangun (perumahan, komersial, industri, infrastruktur). |
+| Mobilitas Spasial | Rendah; sebagian besar aktivitas harian terkonsentrasi di desa atau kecamatan terdekat. | Tinggi; komuter jarak jauh, migrasi sirkuler, dan pergerakan harian yang kompleks. |
+| Akses Layanan | Terbatas pada layanan dasar (_low-order goods_) seperti sekolah dasar dan puskesmas. | Lengkap hingga layanan spesialis (_high-order goods_) seperti rumah sakit rujukan dan universitas. |
+
+- Suburban: kawasan perumahan pinggiran kota dengan kepadatan rendah dan akses terhadap lingkungan alami yang mudah.
+- Fenomena Desakota/Peri-Urban (McGee): kawasan pinggiran kota besar di mana aktivitas pertanian dan non-pertanian bercampur secara intensif. Sawah berubah menjadi pabrik dan perumahan, petani menjadi buruh pabrik paruh waktu, dan transportasi informal (ojek) menjadi tulang punggung mobilitas.
+
 ## 1.5. Urbanisasi
 - Urbanisasi adalah proses pengkotaan. Artinya, urbanisasi adalah proses perubahan karakteristik suatu wilayah dari dominan karakteristik pedesaan menjadi dominan karakteristik perkotaan.
-- Karakteristik Kawasan Pedesaan (Rural) dan Perkotaan (Urban)
+
+
 - Mekanisme Urbanisasi
   - Pertumbuhan Wilayah
   - Urban Sprawl
