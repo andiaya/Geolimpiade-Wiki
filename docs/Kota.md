@@ -207,4 +207,64 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
 - _Urban Revitalisation/Rejuvenation_ / Revitalisasi/Peremajaan Perkotaan: Menekankan upaya menghidupkan kembali kawasan perkotaan yang sekarat melalui peningkatan budaya, sosial, dan ekonomi, yang seringkali berfokus pada aspek ekonomi.
 - _Urban Regeneration_ / Regenerasi Perkotaan (Modern/Holistik): Sebuah proses jangka panjang dan komprehensif yang bertujuan untuk mengatasi area-area yang terabaikan melalui perbaikan fisik, sosial, dan lingkungan, dengan tujuan keberlanjutan dan revitalisasi ekonomi. Fokusnya adalah pada peningkatan dan pelestarian.
 
+## 4.2. Walkable City, 15 Minute City, dan Transit-Oriented Development (TOD)
+- Pembangunan Berorientasi Transit (_Transit-Oriented Development_/TOD) adalah pembangunan yang berpusat dan mengarah pada koridor transportasi umum (transit).
+- Tujuan TOD adalah integrasi desain ruang kota untuk menyatukan orang, kegiatan, bangunan, dan ruang publik melalui konektifitas yang mudah dengan berjalan kaki dan bersepeda serta dekat dengan pelayanan angkutan umum yang sangat baik ke seluruh kota.
+- TOD memberi akses untuk peluang dan sumber daya lokal dan kota menggunakan moda mobilitas yang paling efisien dan sehat dengan biaya dan dampak lingkungan paling minimal dan berketahanan tinggi terhadap kejadian yang mengganggu.
+- TOD merupakan solusi dari kemacetan perkotaan:
+  - Teori Lubang Hitam Investasi Jalan Raya: Investasi pada pembangunan jalan tidak akan menyelesaikan permasalahan kemacetan, melainkan meningkatkan jumlah jalan tambahan yang perlu dibangun.
+  - Kemacetan mendorong pembangunan jalan menyebabkan orang menggunakan kendaraan pribadi menyebabkan kemacetan mendorong pembangunan jalan, dan seterusnya.
+    <img width="642" height="653" alt="image" src="https://github.com/user-attachments/assets/ce1accb6-dfe5-47f9-b8ae-eeec61654afc" />
+- 8 Standar TOD:
+  1. Berjalan Kaki (_walk_): membangun lingkungan yang mendukung mobilitas berjalan kaki.
+  2. Bersepeda (_cycle_): memberikan prioritas kepada jaringan transportasi tidak bermotor.
+  3. Menghubungkan (_connect_): menciptakan jaringan jalan dan jalur pejalan kaki yang padat.
+  4. Angkutan Umum (_transit_): menempatkan pembangunan di dekat jaringan angkutan umum massal yang berkualitas tinggi.
+  5. Pembauran (_mix_):merencanakan pembangunan dengan tata guna lahan, pendapatan, dan demografi bercampur.
+  6. Memadatkan (_density_): mengotimalkan kepadatan ruang dan menyesuaikan kapasitas angkutan umum.
+  7. Merapatkan (_compact_): membangun wilayah-wilayah dengan jarak kebutuhan perjalanan yang pendek.
+  8. Beralih (_shift_): meningkatkan mobilitas melalui penataan parkir dan kebijakan penggunaan lahan (mengurangi lahan untuk kendaraan bermotor).
+- Struktur TOD:
+  1. Struktur Pusat Pembangunan TOD:
+     <img width="877" height="463" alt="image" src="https://github.com/user-attachments/assets/ad56463b-130e-48b2-9b26-704da22b6979" />
+     <img width="640" height="560" alt="image" src="https://github.com/user-attachments/assets/08774a56-839b-4091-8594-2430ef333ceb" />
+     - Area Inti: 400 m di sekitar pemberhentian transportasi umum. Area komersial, perkantoran, dan ruang publik.
+     - Area Tangkapan: 400 - 800 m di sekitar pemberhentian transportasi umum. 5 - 10 menit berjalan kaki. Perkantoran dan permukiman.
+     - Area Pengaruh: 800 - 1600 m di sekitar pemberhentian transportasi umum. Pertanian, permukiman pesepeda dan _park and ride_ (kendaraan pribadi hanya dipakai untuk ke pemberhentian transportasi umum).
+  2. Tipe Pusat Pembangunan TOD (Tipologi Konektor)
+     <img width="637" height="793" alt="image" src="https://github.com/user-attachments/assets/71d1e43a-908a-4427-a6a3-b7cc7bb0cebc" />
+     1. Tipe A (Penghubung Perkotaan/_Urban Connector_): Menghubungkan pusat kegiatan perkotaan.
+     2. Tipe B (Penghubung Suburban/_Suburban Connector_): Pusat kegiatan di pinggiran kota (suburban). Titik awal perjalanan atau perpindahan antar koridor pinggiran.
+     3. Tipe C (Destinasi/_Destination_): Pemberhentian yang melayani destinasi khusus dan tujuan akhir (misalnya stadion, kebun binatang).
+     4. Tipe D (Penghubung Destinasi/_Destination Connector_): Melayani peran ganda destinasi dan penghubung pinggiran perkotaan dan destinasi lain.
+- Struktur pusat pembangunan dalam TOD dibuat berdasarkan prinsip Walkable City dan 15 Minute City.
+  - 15 Minute City dipopulerkan oleh Moreno, model perkotaan di mana penduduk dapat mengakses sebagian besar kebutuhan harian berupa bekerja, berbelanja, pendidikan, kesehatan, dan rekreasi, dalam waktu 15 menit berjalan kaki atau bersepeda dari rumah.
+    - "Chrono-urbanism" (urbanisme berbasis waktu), yang berfokus pada waktu sebagai indikator kualitas hidup perkotaan.
+    - Prinsip dan Implementasi:
+      - Kedekatan dan Desentralisasi: kota sebagai jaringan lingkungan yang padat dan mandiri, bukan sebagai satu inti pusat yang padat.
+      - mengalihfungsikan jalan untuk pejalan kaki dan pesepeda
+      - menciptakan "jalan sekolah" yang ditutup untuk lalu lintas
+      - membuka ruang publik seperti taman dan alun-alun
+      - mendorong campuran layanan lokal di setiap lingkungan.
+  - Kota ramah pejalan kaki adalah lingkungan perkotaan yang dirancang, dibangun, dan dikelola untuk menjadikan berjalan kaki sebagai moda transportasi dan rekreasi yang aman, nyaman, nyaman, dan menyenangkan bagi orang-orang dari segala usia dan kemampuan.
+    - Prinsip:
+      1. _Density_ (Kepadatan): Konsentrasi orang dan pekerjaan dalam area tertentu. Kepadatan tinggi menciptakan massa kritis untuk mendukung toko dan layanan lokal dalam jarak berjalan kaki. Tanpa kepadatan, tujuan terlalu jauh. 
+       2. _Diversity_ (Keberagaman): Campuran fungsi lahan (hunian, komersial, sipil, rekreasi) dalam area yang kompak. Integrasi fungsional yang membuat berjalan kaki menjadi bermakna. Jika perumahan terpisah dari toko dan tempat kerja, berjalan kaki menjadi tidak praktis. 
+       3. _Design_ (Desain): Kualitas fisik infrastruktur pejalan kaki. Elemen kunci: trotoar lebar dan terawat; pohon peneduh; perabot jalan (bangku); penerangan; papan petunjuk arah; penyeberangan aman dengan prioritas pejalan kaki. Memengaruhi keselamatan dan kenyamanan yang dirasakan. 
+       4. _Destination Accessibility_: Kemudahan mencapai tujuan utama (sekolah, taman, toko kelontong, halte transit) dengan berjalan kaki. Diukur dengan Walk Score. Skor berjalan kaki suatu lokasi ditentukan oleh jumlah dan variasi fasilitas dalam jarak 5-15 menit berjalan kaki. 
+       5. _Distance to Transit_: Kedekatan dengan transportasi umum berkualitas tinggi. Bahkan lingkungan paling ramah pejalan kaki pun tidak dapat menampung segalanya. Integrasi mulus dengan transit sangat penting untuk perjalanan lebih jauh. Kota ramah pejalan kaki adalah solusi "_first and last mile_" untuk transportasi umum.
+- TOD vs. TAD: _Transit-oriented development_ berarti seluruh pembangunan dipusatkan pada penggunaan transportasi umum sebagai moda utama mobilitas masyarakat, tiap pemberhentian dihubungkan 2 atau lebih tipe moda transportasi umum. _Transit-adjacent development_ berarti sudah terdapat pembangunan transportasi umum, namun tidak dianggap sebagai moda utama transportasi dan koneksi jaringannya masih buruk.
 
+## 4.3. Smart City
+- Perkotaan yang menerapkan teknologi untuk meningkatkan manfaat dan mengurangi kekurangan urbanisasi bagi warganya.
+- Melibatkan penggunaan sensor IoT (_Internet of Things_), analitik Big Data, 5G, _Cloud Computing_, dan Kecerdasan Buatan (AI) untuk membuat sistem perkotaan lebih efisien dan responsif.
+- Implementasi:
+  - Mobilitas: Manajemen armada bus berbasis GPS, tiket terintegrasi, informasi penumpang waktu nyata (_real time_).
+  - Lingkungan & Utilitas: Manajemen tekanan air pintar untuk mendeteksi kebocoran, manajemen energi bangunan waktu nyata (_real time_).
+  - Tata Kelola & Layanan: Infrastruktur publik digital untuk layanan terpadu, platform partisipatif untuk keterlibatan warga.
+- Masalah:
+  - Masalah Privasi dan Pengawasan: Pengumpulan data ekstensif menciptakan risiko privasi yang sangat besar. Perlu ada kerangka hukum kuat untuk melindungi data warga.
+  - Kesenjangan Digital dan Keadilan Sosial: Jika tidak dirancang dengan hati-hati, teknologi kota cerdas dapat memperkuat ketimpangan yang ada. Populasi rentan seringkali tidak memiliki akses ke perangkat, paket data, atau literasi digital yang diperlukan, menciptakan kota dengan dua tingkat masyarakat.
+  - Keadilan Prosedural: Proses pengambilan keputusan yang inklusif sangat penting untuk pengembangan kota cerdas yang adil. Keterlibatan publik yang tokenistik (hanya sebagai syarat, masukan publik tidak benar-benar dianggap) atau solusi yang didorong oleh teknologi dari atas ke bawah (_top-down_) dapat mengalienasi komunitas.
+
+## 4.4. Forest City
