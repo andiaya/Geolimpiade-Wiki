@@ -267,10 +267,10 @@ Apa yang dimaksud kondisi atmosfer?
 - Pengukuran parameter ini dilakukan menggunakan **higrometer**.
 - Salah satu tipe higrometer, **psikrometer**, memiliki dua komponen, yaitu termometer bola kering dan bola basah.
 	- Termometer bola kering adalah termometer biasa, sedangkan termometer bola basah pada ujung termometernya diliputi kain kasa lembap.
- 	- Hasil pengukuran termometer bola kering menunjukkan suhu udara saat pengukuran, sedangkan pengukuran termometer bola basah menunjukkan suhu yang lebih rendah karena energi di udara telah digunakan dalam penguapan.
-  	- Semakin tinggi penguapan maka semakin jauh atmosfer dari kondisi jenuh dan semakin rendah pula kelembapan relatifnya.
-  	- Nilai kelembapan relatif dapat diperoleh dengan memasukkan suhu bola kering dan bola basah pada tabel atau grafik psikrometrik.
-  	- Psikrometer juga diletakkan dalam sangkar Stevenson.
+		- Hasil pengukuran termometer bola kering menunjukkan suhu udara saat pengukuran, sedangkan pengukuran termometer bola basah menunjukkan suhu yang lebih rendah karena energi di udara telah digunakan dalam penguapan.
+ 		- Semakin tinggi penguapan maka semakin jauh atmosfer dari kondisi jenuh dan semakin rendah pula kelembapan relatifnya.
+	 	- Nilai kelembapan relatif dapat diperoleh dengan memasukkan suhu bola kering dan bola basah pada tabel atau grafik psikrometrik.
+		- Psikrometer juga diletakkan dalam sangkar Stevenson.
 
 		![Termometer Bola Kering-Bola Basah.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg/250px-Journal_of_the_Royal_Horticultural_Society_of_London_%281873%29_%2814764108305%29.jpg)\
 		Termometer Bola Basah (kanan) dan Termometer Bola Kering (kiri) ([By Internet Archive Book Images on Flickr, No restrictions](https://commons.wikimedia.org/w/index.php?curid=43191844))
