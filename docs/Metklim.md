@@ -68,20 +68,19 @@ Apa yang dimaksud kondisi atmosfer?
      2. tempat terbakarnya sebagian besar meteor
      3. terjadi lapse rate
   4. Termosfer
-     1. > 80 km
+     1. di atas 80 km
      2. tempat terjadinya aurora
      3. terjadi reverse lapse rate
 - Pola perubahan temperatur ini disebabkan oleh lokasi-lokasi sumber pemanasan atmosfer.
 	- Troposfer mengalami pemanasan dari permukaan Bumi. Hal ini disebabkan karena energi matahari dalam bentuk radiasi gelombang pendek tidak dapat langsung memanaskan udara.
- 		- Suatu benda dapat meningkat suhunya apabila menyerap energi. Udara yang tembus pandang berarti tidak menyerap, melainkan membiarkan energi matahari tersebut lewat.
-   		- Permukaan Bumi yang tidak tembus pandang menyerap sebagian energi Matahari dan memantulkan sebagian Energi yang lain, yang akhirnya kita tangkap menggunakan mata manusia sebagai kenampakan objek-objek di muka Bumi.
-     	- Material pada permukaan Bumi menyerap energi matahari, bisa itu berupa tanah, pepohonan, bangunan, aspal, dan sebagainya. Proses tersebut mengubah bentuk energi gelombang pendek matahari menjadi kalor yang dapat diidentifikasi dengan peningkatan suhu material.
-      	- Molekul udara yang kebetulan menempel pada benda yang terpanaskan tersebut akan mengalami transfer energi dalam bentuk konduksi.
-      	- Benda yang terpanaskan tersebut juga akan melepaskan energinya dalam bentuk radiasi gelombang panjang yang tidak bisa menembus beberapa komponen atmosfer, misalnya gas karbondioksida dan uap air.
-      	- Kedua proses ini menyebabkan atmosfer pada bagian troposfer terpanaskan dari permukaan Bumi.
- 	- Sementara itu, stratosfer dan mesosfer mengalami pemanasan dari lapisan ozon. Lapisan ozon dapat mengkonversikan energi Matahari dalam bentuk radiasi ultraviolet menjadi panas. Oleh karena itu, di stratosfer, suhunya naik seiring ketinggian (lapisan ozon lebih aktif mengkonversi energi) sedangkan pada lapisan mesosfer suhunya berkurang seiring ketinggian karena semakin menjauhi lapisan ozon.
-  	- Panas yang ada di termosfer diperoleh langsung dari radiasi Matahari yang mengenai molekul gas. Hal ini disebabkan karena karakteristik gas ringan pada atmosfer bagian atas berbeda dengan atmosfer bagian bawah.
-
+	 - Suatu benda dapat meningkat suhunya apabila menyerap energi. Udara yang tembus pandang berarti tidak menyerap, melainkan membiarkan energi matahari tersebut lewat.
+	 - Permukaan Bumi yang tidak tembus pandang menyerap sebagian energi Matahari dan memantulkan sebagian Energi yang lain, yang akhirnya kita tangkap menggunakan mata manusia sebagai kenampakan objek-objek di muka Bumi.
+	 - Material pada permukaan Bumi menyerap energi matahari, bisa itu berupa tanah, pepohonan, bangunan, aspal, dan sebagainya. Proses tersebut mengubah bentuk energi gelombang pendek matahari menjadi kalor yang dapat diidentifikasi dengan peningkatan suhu material.
+	 - Molekul udara yang kebetulan menempel pada benda yang terpanaskan tersebut akan mengalami transfer energi dalam bentuk konduksi.
+	 - Benda yang terpanaskan tersebut juga akan melepaskan energinya dalam bentuk radiasi gelombang panjang yang tidak bisa menembus beberapa komponen atmosfer, misalnya gas karbondioksida dan uap air.
+	 - Kedua proses ini menyebabkan atmosfer pada bagian troposfer terpanaskan dari permukaan Bumi.
+	 - Sementara itu, stratosfer dan mesosfer mengalami pemanasan dari lapisan ozon. Lapisan ozon dapat mengkonversikan energi Matahari dalam bentuk radiasi ultraviolet menjadi panas. Oleh karena itu, di stratosfer, suhunya naik seiring ketinggian (lapisan ozon lebih aktif mengkonversi energi) sedangkan pada lapisan mesosfer suhunya berkurang seiring ketinggian karena semakin menjauhi lapisan ozon.
+	 - Panas yang ada di termosfer diperoleh langsung dari radiasi Matahari yang mengenai molekul gas. Hal ini disebabkan karena karakteristik gas ringan pada atmosfer bagian atas berbeda dengan atmosfer bagian bawah.
 - Berdasarkan fungsinya, terdapat dua bagian atmosfer yang memiliki fungsi tambahan, ozonosfer dan ionosfer.
 	1. Ozonosfer\
 	Konsentrasi ozon tertinggi di atmosfer berada di ketinggian 25 km. Lapisan ozon ini terbentuk dari interaksi radiasi ultraviolet Matahari dengan molekul oksigen atmosfer. Radiasi ultraviolet menyebabkan fotolisis atau terpecahnya O2 menjadi 2 oksigen radikal (O), kemudian, oksigen radikal ini berikatan dengan O2 lain sehingga menjadi ozon (O3) dengan melepaskan energinya ke molekul udara lain. Ozon yang sudah terbentuk kemudian menyerap radiasi ultraviolet kembali menjadi O2 dan O dan melepaskan energi dalam bentuk panas. Inilah mekanisme pemanasan lapisan stratosfer dan mesosfer dan penyerapan radiasi ultraviolet Matahari.
