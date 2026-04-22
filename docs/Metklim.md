@@ -168,9 +168,9 @@ Apa yang dimaksud kondisi atmosfer?
   	Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
 	- Gunn-Bellani Radiation Integrator
 		- Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari.
-   		- Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam.
-	     	- Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air.
-	      	- Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
+		- Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam.
+			- Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air.
+			- Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
   ![Gunn-Bellani.](https://upload.wikimedia.org/wikipedia/commons/6/69/Lucim%C3%A8tre_Bellani.jpg?20170426072243)\
   Gunn-Bellani Radiation Integrator ([By Bachelot Pierre J-P, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=58320312))
 	- Pyranometer
