@@ -155,8 +155,15 @@ Apa yang dimaksud kondisi atmosfer?
 - Lama penyinaran Matahari ditunjukkan dengan satuan jam.
 - Intensitas penyinaran ditunjukkan dengan satuan Kalori/meter2 atau Watt/meter2.
 - Instrumen pengukuran radiasi Matahari adalah sebagai berikut:
-	- Campbell-Stokes Sunshine Recorder\
- 	  Campbell-Stokes merekam lama penyinaran Matahari. Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias. Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias. Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis. Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek. Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang. Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari. Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.\
+	- Campbell-Stokes Sunshine Recorder
+ 		- Campbell-Stokes merekam lama penyinaran Matahari.
+	   - Alat ini terdiri dari dua komponen utama, bola kaca dan slot kertas pias.
+	   - Bola kaca berfungsi sebagai lensa yang memfokuskan cahaya Matahari pada titik tertentu untuk membakar kertas pias.
+	   - Seiring gerakan semu harian Matahari, bekas pembakaran pada kertas pias akan membentuk garis.
+	   - Kertas pias memiliki skala yang menunjukkan nilai satu jam dengan garis vertikal panjang dan setengah jam dengan garis vertikal pendek.
+		   - Menurut lama siang hari dan posisi Matahari di langit, kertas pias yang digunakan dapat berjenis lengkung pendek, lengkung sedang, dan lengkung panjang.
+		   - Lama siang hari dan posisi Matahari ditentukan oleh musim dan gerakan semu tahunan Matahari.
+		   - Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.
  	![Campbell-stokes.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Campbell-Stokes_recorder.jpg/1280px-Campbell-Stokes_recorder.jpg?20160322083124)\
   	Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
 	- Gunn-Bellani Radiation Integrator\
