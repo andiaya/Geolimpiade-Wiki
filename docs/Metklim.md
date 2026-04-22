@@ -166,12 +166,18 @@ Apa yang dimaksud kondisi atmosfer?
 		   - Misal, di belahan Bumi Utara pada bulan Juni akan mengalami musim panas, dicirikan lama siang yang panjang dan posisi Matahari yang tegak. Maka, kertas pias yang digunakan adalah lengkung panjang.
  	![Campbell-stokes.](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Campbell-Stokes_recorder.jpg/1280px-Campbell-Stokes_recorder.jpg?20160322083124)\
   	Campbell-Stokes Sunshine Recorder ([By Bidgee, CC BY 3.0](https://commons.wikimedia.org/w/index.php?curid=3910724))
-	- Gunn-Bellani Radiation Integrator\
-   		Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari. Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam. Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air. Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.\
+	- Gunn-Bellani Radiation Integrator
+ 		- Instrumen Gunn-Bellani merupakan satu bentuk aktinometer, yaitu instrumen pengukur kekuatan pemanasan sinar Matahari.
+   		- Alat ini mengukur intensitas radiasi Matahari dengan mendistilasi alkohol atau air dalam tabung yang dicat hitam.
+	     	- Tabung yang dicat hitam tersebut menangkap dan mengkonversi radiasi gelombang pendek Matahari menjadi panas, sehingga mampu menguapkan alkohol atau air.
+	      	- Energi yang diperoleh dari Matahari dihitung berdasarkan jumlah alkohol atau air yang terdistilasi. Hasil pengukuran alat ini memiliki satuan kalori/m2.
   ![Gunn-Bellani.](https://upload.wikimedia.org/wikipedia/commons/6/69/Lucim%C3%A8tre_Bellani.jpg?20170426072243)\
   Gunn-Bellani Radiation Integrator ([By Bachelot Pierre J-P, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=58320312))
-	- Pyranometer\
-		Pyranometer juga merupakan salah satu tipe aktinometer. Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2. Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik. Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.\
+	- Pyranometer
+		 - Pyranometer juga merupakan salah satu tipe aktinometer.
+		 - Alat ini mengukur kerapatan flux radiasi Matahari dengan satuan Watt/m2.
+		 - Flux radiasi sendiri adalah ukuran laju penerimaan energi radiasi oleh Bumi, satuan Watt setara dengan Joule/detik.
+		 - Pyranometer mengukur energi menggunakan sel fotovoltaik dengan mengkonversi cahaya menjadi listrik atau termopile dengan mengkonversi panas menjadi listrik.
   ![Pyranometer](https://upload.wikimedia.org/wikipedia/commons/5/53/Hukseflux_radiometer_sr11_photo.jpg?20090814130014)\
   Pyranometer ([By Hukseflux - Own work, Public Domain](https://commons.wikimedia.org/w/index.php?curid=7559356))
 
