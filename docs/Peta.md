@@ -67,8 +67,6 @@ sidebar:
     2. Ekuidistan: mempertahankan jarak pada satu garis tertentu pada peta, misalnya jarak tiap titik pada peta terhadap titik tengahnya. Contoh proyeksi: azimuthal ekuidistan (akuran antara titik tengah peta dengan titik manapun), kerucut ekuidistan (akurat antara 2 garis lintang tertentu), silinder ekuidistan (jarak akurat di sepanjang ekuator).
     3. Ekuivalen: menunjukkan luas area yang proporsional satu sama lain. Contoh proyeksi: mollweide, albers, gall-peters.
 
-Berikut penjelasan lengkap mengenai poin-poin dalam kerangka materi yang Anda berikan. Materi ini disusun dalam Bahasa Indonesia sesuai dengan permintaan konteks.
-
 # 3. Sistem Koordinat
 
 ## 3.1. Sistem Koordinat Geografis
@@ -100,14 +98,21 @@ Sistem proyeksi peta yang membagi bumi menjadi 60 zona (masing-masing selebar 6Â
 ## 4.2. Jarak dan Kemiringan
 - Jarak Datar (Horizontal Distance - HD): Panjang garis lurus antara dua titik yang diproyeksikan pada bidang datar (peta). Diukur menggunakan skala peta atau rumus Pythagoras dari koordinat (X,Y).
 - Kemiringan (Slope/Gradient): Perbandingan antara beda tinggi vertikal dengan jarak datar. Biasa dinyatakan dalam persen (%) atau derajat (Â°).
-    - Rumus: $Kemiringan (\%) = \frac{\text{Beda Tinggi}}{\text{Jarak Datar}} \times 100\%$
+    - Rumus:
+      
+      $Kemiringan = \frac{Beda Tinggi}{Jarak Datar}$
+      
 - Jarak Miring (Slope Distance - SD): Jarak sebenarnya yang harus ditempuh di permukaan tanah yang tidak rata.
-    - Rumus Pythagoras: $SD = \sqrt{(Jarak Datar)^2 + (Beda Tinggi)^2}$
+    - Rumus Pythagoras:
+      
+      $SD = \sqrt{(Jarak Datar)^2 + (Beda Tinggi)^2}$
 
 ## 4.3. Volume
 Perhitungan volume biasanya digunakan dalam pekerjaan Cut and Fill (Galian dan Timbunan) atau perhitungan cadangan tambang.
 - Metode Penampang Rata-Rata (Average End Area):
-    - $Volume = \frac{(Luas_1 + Luas_2)}{2} \times Jarak\_Antar\_Penampang$
+  
+  $Volume = \frac{(Luas_1 + Luas_2)}{2} \times JarakAntarPenampang$
+  
 - Metode Grid/Prismoidal: Menghitung volume berdasarkan grid ketinggian digital (DEM/Digital Elevation Model) menggunakan rumus prisma terpancung.
 
 # 5. Menginterpretasi Citra
