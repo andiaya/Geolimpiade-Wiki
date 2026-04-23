@@ -97,7 +97,7 @@ Sistem proyeksi peta yang membagi bumi menjadi 60 zona (masing-masing selebar 6�
 
 ## 4.2. Jarak dan Kemiringan
 - Jarak Datar (Horizontal Distance - HD): Panjang garis lurus antara dua titik yang diproyeksikan pada bidang datar (peta). Diukur menggunakan skala peta atau rumus Pythagoras dari koordinat (X,Y).
-- Kemiringan (Slope/Gradient): Perbandingan antara beda tinggi vertikal dengan jarak datar. Biasa dinyatakan dalam persen (%) atau derajat (°).
+- Kemiringan (Slope/Gradient): Perbandingan antara beda tinggi vertikal dengan jarak datar. Bisa dinyatakan dalam pecahan desimal, persen (%), atau derajat (°). Untuk mengubah desimal ke persen maka nilai desimal dikali 100%, sedangkan untuk mengubah desimal ke derajat maka dicari arctan dari nilai desimal tersebut (tan^(-1) (Nilai Desimal)).
     - Rumus:
       
       $Kemiringan = \frac{Beda Tinggi}{Jarak Datar}$
