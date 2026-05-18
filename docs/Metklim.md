@@ -758,9 +758,9 @@ Diagram termodinamika digunakan untuk menganalisis hasil pengukuran titik jenuh 
 Radiasi Matahari, sebagai gelombang, mengalami berbagai proses ketika perambatannya dipengaruhi oleh atmosfer, Bumi, dan objek-objek di antaranya. Gelombang dapat mengalami penghamburan (scattering), pembiasan (refraction), pemantulan (reflection), dan pelenturan (difraksi).
 * Penghamburan: merupakan proses penyebaran gelombang ke segala arah karena halangan suatu objek. penghamburan utamanya menyebabkan warna langit.
   
-  (a). Penghamburan Rayleigh merupakan proses yang menjelaskan penghamburan selektif radiasi gelombang pendek oleh atmosfer, utamanya molekul nitrogen dan oksigen. Penghamburan Rayleigh menyebabkan warna langit biru. Saat siang hari, seluruh spektrum cahaya tampak sinar Matahari menembus atmosfer dengan intensitas yang sama, sehingga Matahari terlihat berwarna putih.
+  (a). Penghamburan Rayleigh merupakan proses yang menjelaskan penghamburan selektif radiasi gelombang pendek oleh atmosfer, utamanya molekul nitrogen dan oksigen. Saat siang hari, spektrum cahaya biru sinar Matahari menembus atmosfer dengan penghamburan rendah, sehingga langit terlihat berwarna biru. Ketika sore hari, sinar Matahari menembus atmosfer yang lebih tebal, karena sudut datangnya yang miring. Akibatnya, sinar Matahari yang mencapai permukaan Bumi terdiri dari gelombang dengan spektrum cahaya tampak dengan panjang gelombang panjang, warna kuning dan merah.
   
-  (b). Ketika sore hari, sinar Matahari menembus atmosfer yang lebih tebal, karena sudut datangnya yang miring. Akibatnya, sinar Matahari yang mencapai permukaan Bumi terdiri dari gelombang dengan spektrum cahaya tampak dengan panjang gelombang panjang, warna kuning dan merah. Proses ini disebut penghamburan Mie.
+  (b). Partikel awan dan asap yang besar menyebabkan penghamburan cahaya yang sama untuk seluruh panjang gelombang, sehingga warna langit berwarna putih. Proses ini disebut penghamburan Mie.
   
 * Pembiasan: merupakan proses pembelokan gelombang karena perbedaan kepadatan media perambatan gelombang. Pembiasan sinar Matahari dapat terjadi saat sinar Matahari merambat melalui kristal es, air hujan, dan lapisan udara berbeda kepadatan.
   
