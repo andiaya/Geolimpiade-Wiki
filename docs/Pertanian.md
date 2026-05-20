@@ -30,6 +30,7 @@ Pertanian adalah kegiatan budidaya makhluk hidup untuk memenuhi kebutuhan manusi
   5. (R) Relief: relief atau topografi mempengaruhi pedogenesis melalui intensitas erosi dan deposisi material.
 - Salah satu metode klasifikasi tanah adalah taksonomi USDA. Klasifikasi jenis tanah tersebut dapat divisualisasikan sebagai berikut:
 <img width="921" height="661" alt="12 Ordo Tanah drawio" src="https://github.com/user-attachments/assets/5363c8b7-da0d-4edc-8794-fb91e43898ab" />
+
 - Tanah muda dinamakan Entisol, memiliki perkembangan horizon minimal, terbentuk pada batuan yang baru tererosi atau di lereng curam.
 - Tanah dapat berkembang menurut beberapa "jalur perkembangan" (bukan istilah resmi, hanya untuk memudahkan penjelasan).
   - Jalur pertama adalah pengaruh iklim dominan. Tanah membentuk Gelisol di iklim dingin dan Aridisol di iklim panas. Gelisol dicirikan lapisan permafrost, yaitu es yang berada di pori-pori tanahnya, membentuk lapisan warna putih yang tebal hingga jauh ke kedalaman. Aridisol dicirikan kondisi minim kandungan organik.
