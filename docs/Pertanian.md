@@ -29,7 +29,19 @@ Pertanian adalah kegiatan budidaya makhluk hidup untuk memenuhi kebutuhan manusi
   4. (T) Waktu: mempengaruhi tahapan pedogenesis.
   5. (R) Relief: relief atau topografi mempengaruhi pedogenesis melalui intensitas erosi dan deposisi material.
 - Salah satu metode klasifikasi tanah adalah taksonomi USDA. Klasifikasi jenis tanah tersebut dapat divisualisasikan sebagai berikut:
-  <img width="921" height="661" alt="Ordo Tanah USDA(1)" src="https://github.com/user-attachments/assets/328d17b5-12bd-45c4-a4f1-9a0b78f473b4" />
+<img width="921" height="661" alt="12 Ordo Tanah drawio" src="https://github.com/user-attachments/assets/5363c8b7-da0d-4edc-8794-fb91e43898ab" />
+- Tanah muda dinamakan Entisol, memiliki perkembangan horizon minimal, terbentuk pada batuan yang baru tererosi atau di lereng curam.
+- Tanah dapat berkembang menurut beberapa "jalur perkembangan" (bukan istilah resmi, hanya untuk memudahkan penjelasan).
+  - Jalur pertama adalah pengaruh iklim dominan. Tanah membentuk Gelisol di iklim dingin dan Aridisol di iklim panas. Gelisol dicirikan lapisan permafrost, yaitu es yang berada di pori-pori tanahnya, membentuk lapisan warna putih yang tebal hingga jauh ke kedalaman. Aridisol dicirikan kondisi minim kandungan organik.
+  - Jalur kedua adalah pengaruh bahan induk tanah. Tanah yang bahan induknya terlapuk menjadi lempung dinamakan Vertisol, tanah yang terbentuk dari bahan organik disebut Histosol, sedangkan tanah yang terbentuk oleh material vulkanik disebut Andisol.
+    - Vertisol dicirikan oleh pembalikan horizon tanah, yaitu ditemukannya kandungan bahan organik yang kaya di lapisan dalam tanah. Hal ini disebabkan karena lempung tertentu bernama montmorilonit akan menyusut ketika musim kering, sehingga lapisan atas tanah membentuk retakan. Dari retakan tanah itulah material organik masuk ke lapisan dalam tanah.
+    - Tanah Histosol dicirikan oleh air tanah yang dangkal serta tanah yang didominasi sisa tanaman. Pada tanah Histosol terbentuk lapisan putih tipis pada tanah akibat adanya proses gleying, yaitu proses reduksi mineral tanah anaerobik akibat kondisi terendam air.
+    - Tanah Andisol terbentuk dari material piroklastik, dicirikan oleh pembaruan yang terus menerus dari proses erupsi gunung api.
+  - Jalur ketiga adalah pengaruh dominan waktu.
+    - Entisol berkembang menjadi Inseptisol seiring perkembangan horizon genetiknya. Lalu, horizon tanah berkembang dipengaruhi oleh ekosistem pembentukannya.
+    - Molisol terbentuk di padang rumput, Alfisol terbentuk di hutan iklim sedang dan tropis, dan Spodosol terbentuk di ekosistem hutan konifer. Molisol memiliki sifat sangat subur dengan banyak bahan organik, Alfisol bersifat subur dengan akumulasi lempung pada bagian bawah karena terbawa air, dan Spodosol bersifat asam dari dekomposisi sampah pohon pinus.
+    - Perkembangan horizon selanjutnya menghasilkan pencucian mineral lebih kuat sehingga dinamakan Ultisol.
+    - Oksidasi pada mineral menjadikan tanah berkembang menjadi perkembangan tertua, dinamakan Oxisol.
 - Ukuran butir tanah dapat mempengaruhi sifat fisiknya. Ukuran butir tanah atau tekstur tanah didefinisikan berdasarkan persentase butir berukuran lempung, lanau, dan pasir sebagai berikut:
   <img width="668" height="582" alt="Segitiga Tekstur USDA" src="https://github.com/user-attachments/assets/8f8c6892-4624-4367-ba7c-efda1469e454" />
 
