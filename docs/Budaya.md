@@ -23,11 +23,13 @@ sidebar:
 - Kontak: persebaran budaya melalui kontak kelompok masyarakat yang tinggalnya berdekatan, misal dialek.
 - Hierarki: persebaran budaya dari masyarakat di tingkat organisasi sosial lebih tinggi ke tingkat lebih rendah, misal pola konsumsi masyarakat.
 - Stimulus: persebaran ide budaya namun tidak diikuti praktiknya, misal ide kecap ikan yang diadopsi menjadi saus tomat.
+<img width="747" height="487" alt="image" src="https://github.com/user-attachments/assets/41f399f7-4187-4e64-b88e-f6c1d2b272ba" />
 
 # 3. Strategi Akulturasi
 - Akulturasi adalah proses pencampuran dua budaya yang saling bertemu dan mempengaruhi, namun tanpa menghilangkan ciri khas masing-masing. Strategi akulturasi mengacu pada cara individu/kelompok merespons budaya lain.
 
 Model strategi akulturasi (John Berry, 1997):
+
 | Strategi | Mempertahankan budaya asli? | Terlibat dengan budaya baru? |
 |----------|----------------------------|------------------------------|
 | Asimilasi | Tidak | Ya |
