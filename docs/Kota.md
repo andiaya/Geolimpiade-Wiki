@@ -24,14 +24,17 @@ Berdasarkan kondisi lingkungannya, permukiman dapat berkembang dalam bentuk 3 po
 Pusat permukiman dapat diklasifikasikan menjadi suatu hierarki atau tingkatan berdasarkan jumlah penduduknya. Jumlah penduduk mempengaruhi:
 - Populasi Ambang (_Threshold Population_): Jumlah minimum orang yang dibutuhkan untuk mendukung keberlangsungan suatu layanan atau bisnis agar tetap menguntungkan.
 - Lingkaran Pengaruh (_Sphere of Influence_): Area geografis tempat orang-orang datang untuk menggunakan layanan di suatu kota atau pusat permukiman.
+
 Klasifikasi pusat permukiman berdasarkan ukurannya yaitu:
 1. Permukiman Terisolasi (_Isolated Dwelling_): Satu rumah atau lahan pertanian tunggal di area terpencil.
 2. _Hamlet_: Kelompok rumah yang sangat kecil, biasanya berpenduduk kurang dari 100 orang, dengan sedikit atau tanpa layanan.
 3. _Village_: Lebih besar dari hamlet, menyediakan layanan dasar seperti toko kecil atau sekolah dasar.
 4. _Town_: Area perkotaan yang lebih besar dengan layanan lebih beragam, seperti supermarket dan sekolah menengah. Populasi sekitar 2.500-100.000 jiwa.
 5. _City_: Area padat penduduk dengan layanan spesialis seperti rumah sakit, universitas, dan katedral. Populasi umumnya >100.000 jiwa.
-6. Konurbasi (_Conurbation_): Area perkotaan bersambung yang terbentuk ketika beberapa kota besar dan kecil telah tumbuh dan bergabung menjadi satu. Populasi dapat mencapai >1 juta jiwa.
+6. Konurbasi/Metropolis (_Conurbation_): Area perkotaan bersambung yang terbentuk ketika beberapa kota besar dan kecil telah tumbuh dan bergabung menjadi satu. Populasi dapat mencapai >1 juta jiwa.
 7. _Megacity_: Kota dengan populasi lebih dari 10 juta jiwa.
+8. _Megalopolis_: sekelompok daerah metropolitan yang telah tumbuh bersama, sebuah _megacity_ yang membentang di wilayah lebih besar dan melintasi perbatasan regional.
+9. _Ecumenopolis_: kondisi teoretis yang mendeskripsikan sebuah planet yang seluruhnya terdiri dari perkotaan.
 
 ## 1.4. Definisi Kota
 Definisi kota dapat dilakukan berdasarkan tiga dimensi:
@@ -50,6 +53,28 @@ Definisi kota dapat dilakukan berdasarkan tiga dimensi:
 
 - Suburban: kawasan perumahan pinggiran kota dengan kepadatan rendah dan akses terhadap lingkungan alami yang mudah.
 - Fenomena Desakota/Peri-Urban (McGee): kawasan pinggiran kota besar di mana aktivitas pertanian dan non-pertanian bercampur secara intensif. Sawah berubah menjadi pabrik dan perumahan, petani menjadi buruh pabrik paruh waktu, dan transportasi informal (ojek) menjadi tulang punggung mobilitas.
+- Menurut Constantinos A. Doxiadis dalam teorinya tentang ilmu permukiman manusia (Ekistics), kota atau permukiman dibentuk oleh lima elemen utama yang saling berinteraksi. Kelima elemen tersebut meliputi:
+  1. Manusia (Man): Pusat dari segala aktivitas dan kebutuhan. Elemen ini merujuk pada individu manusia itu sendiri dengan kebutuhan biologis, psikologis, dan emosionalnya.
+  2. Masyarakat (Society): Kumpulan manusia yang berinteraksi, membentuk struktur sosial, budaya, sistem pemerintahan, dan jaringan ekonomi di dalam kota.
+  3. Alam (Nature): Lingkungan fisik dan bio-fisik dasar yang menjadi wadah tempat kota tersebut berada, meliputi topografi, iklim, hidrologi, flora, dan fauna.
+  4. Wadah/Bangunan (Shells): Ruang fisik buatan manusia yang berfungsi sebagai pelindung aktivitas, seperti rumah, gedung, fasilitas umum, hingga infrastruktur bangunan lainnya.
+  5. Jaringan (Networks): Sistem utilitas dan prasarana yang menghubungkan berbagai bagian wilayah dan elemen di dalam kota, mencakup jaringan jalan, transportasi, air bersih, listrik, hingga telekomunikasi.
+- Menurut Kevin Lynch dalam bukunya yang fenomenal, The Image of the City (1960), terdapat lima elemen utama yang digunakan manusia untuk mengenali, menyusun, dan mengingat gambaran mental (citra) suatu lingkungan perkotaan. Kelima elemen tersebut yaitu:
+  1. Paths (Jalur): Saluran atau rute perjalanan yang digunakan oleh pengamat untuk bergerak secara rutin atau berkala. Jalan raya, trotoar, jalur pejalan kaki, rel kereta api, atau kanal sungai. Menjadi urat nadi kota yang menghubungkan satu ruang ke ruang lainnya. Bagi sebagian besar orang, jalur adalah elemen struktural utama dalam memahami peta visual sebuah kota.
+  2. Edges (Tepian/Batasan): Elemen garis linier yang tidak digunakan atau dilihat sebagai jalur oleh pengamat. Pantai, tepian sungai, dinding pembatas, rel kereta api yang memotong kawasan, atau batas antara area hijau dan pemukiman. Berfungsi sebagai batas lateral, penghalang, atau titik transisi yang memisahkan dua wilayah yang berbeda.
+  3. Districts (Kawasan/Distrik): Wilayah kota berskala dua dimensi (area) yang memiliki karakteristik atau identitas visual yang homogen dan khas. Kawasan Pecinan (Chinatown), pusat bisnis (CBD), kawasan industri, atau kawasan bersejarah/kota tua. Memberikan petunjuk kepada pengamat bahwa mereka telah memasuki atau berada "di dalam" suatu area dengan karakter sosial, budaya, atau arsitektur tertentu.
+  4. Nodes (Simpul) Titik-titik strategis atau pusat kegiatan di dalam kota tempat pengamat dapat masuk dan beralih arah. Persimpangan jalan besar, alun-alun kota, stasiun transit utama, atau tempat berkumpul komersial. Berfungsi sebagai fokus atau magnet aktivitas perkotaan karena menjadi tempat bertemunya berbagai jalur perjalanan (paths).
+  5. Landmarks (Penanda): Elemen titik acuan visual yang berskala fisik dan objeknya berada di luar pengamat (hanya bisa dilihat dari luar tanpa dimasuki secara spasial). Menara tinggi, patung ikonik, kubah bangunan ibadah, papan reklame raksasa, atau bentuk geografi alami seperti bukit unik. Berfungsi sebagai pemandu arah (wayfinding) dan pengingat letak geografis karena sifatnya yang mencolok, unik, dan mudah dikenali dari kejauhan.
+- Menurut Kus Hadinoto, elemen pembentuk kota atau tata guna lahan perkotaan dibagi menjadi lima unsur pokok. Kelima elemen ini sering digunakan dalam perencanaan wilayah dan tata kota untuk menggambarkan fungsi-fungsi utama ruang perkotaan.
+  1. Wisma: Tempat tinggal atau kawasan permukiman penduduk perkotaan.
+  2. Karya: Tempat bekerja, beraktivitas ekonomi, industri, dan perkantoran.
+  3. Marga: Jaringan pergerakan atau jalur transportasi dan sirkulasi perkotaan.
+  4. Suka: Tempat rekreasi, hiburan, ruang terbuka hijau, dan fasilitas bersantai.
+  5. Penyempurna: Sarana dan prasarana pelengkap seperti fasilitas sosial, utilitas umum, dan pelayanan publik.
+- Menurut sosiolog dan perencana kota Patrick Geddes, sebuah kota dan permukiman disusun oleh tiga elemen, yaitu:
+  1. Folk (Masyarakat): Merujuk pada manusia, komunitas, serta dinamika sosial, budaya, dan kebutuhan masyarakat yang menghuni wilayah tersebut.
+  2. Work (Pekerjaan): Mewakili aktivitas ekonomi, mata pencaharian, industri, dan segala fungsi produksi yang menopang kehidupan masyarakat di kota.
+  3. Place (Tempat): Mengacu pada lingkungan binaan, infrastruktur, lokasi fisik, serta ruang tempat bermukim dan berinteraksi.
 
 ## 1.5. Urbanisasi
 - Urbanisasi adalah proses pengkotaan. Artinya, urbanisasi adalah proses perubahan karakteristik suatu wilayah dari dominan karakteristik pedesaan menjadi dominan karakteristik perkotaan.
