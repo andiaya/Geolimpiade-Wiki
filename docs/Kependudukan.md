@@ -19,45 +19,27 @@ sidebar:
     - Kepadatan penduduk kasar: perbandingan jumlah penduduk total terhadap luas wilayah total.
     - Kepadatan penduduk fisiografis: perbandingan jumlah penduduk total terhadap luas lahan pertanian.
     - Kepadatan penduduk agraris: perbandingan jumlah penduduk petani terhadap luas lahan pertanian.
-  - Rasio ketergantungan menunjukkan jumlah penduduk usia non-produktif (0-14 dan 65+ tahun) yang ditanggung oleh tiap 100 penduduk usia produktif (15-64 tahun).
+  - Rasio ketergantungan menunjukkan jumlah penduduk usia non-produktif (0-14 dan 65+ tahun) yang ditanggung oleh tiap 100 penduduk usia produktif (15-64 tahun).\
+    <img width="332" height="52" alt="image" src="https://github.com/user-attachments/assets/52a571cd-8537-46c9-a06d-28ed264901aa" />
 - Proses kependudukan meliputi proses alami, kelahiran dan kematian, serta proses migrasi. Indikator proses kependudukan meliputi:
   - Jumlah Pertumbuhan Penduduk: perubahan jumlah populasi di suatu wilayah dari satu waktu ke waktu yang lain.
     - Pertumbuhan penduduk alami dihitung dari jumlah kelahiran dikurangi jumlah kematian.
     - Pertumbuhan penduduk total dihitung dari jumlah kelahiran dan migrasi memasuki wilayah (imigrasi) dikurangi jumlah kematian dan migrasi keluar wilayah (emigrasi).
   - Laju Pertumbuhan Penduduk: dihitung berdasarkan pertambahan penduduk total dalam satu periode dibagi dengan lama periode tersebut. Penduduk bertumbuh dapat mengikuti atau mendekati pola aritmatik, geometrik, maupun eksponensial. Laju pertumbuhan ini dipengaruhi oleh faktor-faktor yang spesifik pada populasi tersebut.
-    - Laju pertumbuhan penduduk aritmatik: apabila jumlah penduduk bertambah menurut jumlah yang sama setiap tahun. Untuk menghitung jumlah penduduk setelah periode tertentu, digunakan rumus berikut:
-      $$Pt= P0 ( 1 + r \cdot t)$$\
-      Pt = jumlah penduduk akhir, P0 = jumlah penduduk awal, r = laju pertumbuhan penduduk, t = periode (tahun akhir - tahun awal)
-    - Laju pertumbuhan penduduk geometrik: apabila jumlah penduduk bertambah menurut persentase yang sama setiap tahun. Untuk menghitung jumlah penduduk setelah periode tertentu, digunakan rumus berikut:
-      $$Pt= P0 \cdot ( 1 + r )^t$$\
-      Pt = jumlah penduduk akhir, P0 = jumlah penduduk awal, r = laju pertumbuhan penduduk, t = periode (tahun akhir - tahun awal)
-    - Laju pertumbuhan penduduk eksponensial: apabila persentase pertumbuhan penduduk meningkat seiring peningkatan jumlah penduduknya. Untuk menghitung jumlah penduduk setelah periode tertentu, digunakan rumus berikut:
-      $$Pt= P0 \cdot e^{r \cdot t}$$\
-      Pt = jumlah penduduk akhir, P0 = jumlah penduduk awal, e = bilangan euler (2,72), r = laju pertumbuhan penduduk, t = periode (tahun akhir - tahun awal)
+    <img width="944" height="246" alt="image" src="https://github.com/user-attachments/assets/e8651931-02cd-4ab7-ac6a-bb72d21a659b" />
     - Untuk mengilustrasikan perbedaan antara ketiga laju tersebut, kita akan menggunakan kasus sebagai berikut:\
-      Suatu kota memiliki penduduk awal 500 penduduk. Laju pertumbuhan penduduknya adalah 5%. Jumlah penduduk kota tersebut setelah 10 tahun yaitu:\
-      Menurut rumus aritmatik: $$Pt= P0 ( 1 + r \cdot t) = 500 + 500 \cdot 0,05 \cdot 10 = 500 + 25 = 525$$\
-      Menurut rumus geometrik: $$Pt= P0 \cdot ( 1 + r )^t = 500 \cdot ( 1 + 0,05)^{10} = 814$$\
-      Menurut rumus eksponensial: $$Pt= P0 \cdot e^{r \cdot t} = 500 \cdot e^{0,05 \cdot 10} = 824$$
+      Suatu kota memiliki penduduk awal 500 penduduk. Laju pertumbuhan penduduknya adalah 5%. Jumlah penduduk kota tersebut setelah 10 tahun yaitu:
+      <img width="917" height="71" alt="image" src="https://github.com/user-attachments/assets/f9fe601d-b4ee-40a6-b4db-8942122d0864" />
     - Dapat diamati bahwa rumus pertumbuhan geometrik dan eksponensial menghasilkan nilai jumlah penduduk yang serupa. Rumus tersebut lebih mewakili kondisi di dunia nyata karena jumlah pertambahan penduduk tidak akan memiliki jumlah yang sama ketika penduduk totalnya meningkat, melainkan mengikuti peningkatan jumlah penduduk tersebut. Hasil perhitungan rumus geometrik dan eksponensial baru akan menghasilkan nilai yang jauh berbeda ketika periode perhitungan perkiraan jumlah penduduk (proyeksi jumlah penduduk) menjadi sangat lama.
     - Apabila soal meminta melakukan proyeksi jumlah penduduk dan tidak disebutkan metode yang harus digunakan, maka gunakan rumus geometrik.
-    - Apabila soal menanyakan waktu yang diperlukan suatu populasi untuk menjadi 2 kali lipat atau 3 kali lipat atau serupa, maka gunakan rumus eksponensial. Ketika digunakan untuk menghitung waktu perkalian (_doubling time_), maka rumus pertumbuhan penduduk eksponensial dapat disederhanakan menjadi:\
-      $$t = \frac{ln(nt)}{r}$$\
-      t = waktu perkalian, nt = angka tuple (jika 2x maka diisi 2, jika 3x maka diisi 3, dst.), r = laju pertumbuhan penduduk
-    - Contoh perhitungan waktu perkalian yaitu: Berapa lama waktu yang diperlukan untuk suatu kota memiliki 2x jumlah penduduknya apabila laju pertumbuhan penduduknya adalah 5%?\
-      $$t = \frac{ln(nt)}{r} = \frac{ln(2)}{0,05} = \frac{0,69}{0,05} = 13,86$$\
-      Artinya, diperlukan waktu 13 tahun 10 bulan untuk kota tersebut mencapai 2 kali lipat jumlah penduduk awal.
+    <img width="909" height="227" alt="image" src="https://github.com/user-attachments/assets/ac0e3da9-0fc5-479e-af9e-ffb843c7fb58" />
   - Angka Kelahiran: angka kelahiran merupakan indikator proses kelahiran di suatu populasi, indikatornya meliputi:
-    - Angka Kelahiran Kasar (_Crude Birth Rate_/CBR): menunjukkan jumlah kelahiran per 1000 penduduk. Indikator ini dihitung dengan rumus:\
-      $$CBR = (\frac {L}{P}) \cdot 1000$$ , dengan CBR = angka kelahiran kasar, L = jumlah kelahiran dalam 1 tahun, dan P = jumlah penduduk di tengah tahun pengukuran.
-    - Angka Kelahiran Umum (_General Fertility Rate_/GFR): menunjukkan jumlah kelahiran per 1000 perempuan usia reproduktif (15 - 49 tahun). IndIndikator ini dihitung dengan rumus:\
-      $$GFR = (\frac {L}{Pp}) \cdot 1000$$ , dengan GFR = angka kelahiran kasar, L = jumlah kelahiran dalam 1 tahun, dan P = jumlah penduduk perempuan berusia 15 - 49 tahun.
+    <img width="927" height="206" alt="image" src="https://github.com/user-attachments/assets/1c39672d-0726-4fea-ae71-203741ee9ae8" />
     - Angka Kelahiran Menurut Kelompok Umur (_Age Specific Fertility Rate_/ASFR): menunjukkan jumlah kelahiran per 1000 perempuan di kelompok umur tertentu. Kelompok umur yang digunakan umumnya memiliki rentang 5 tahun.
     - Angka Kelahiran Total (_Total Fertility Rate_/TFR): rata-rata jumlah anak yang dimiliki seorang perempuan selama masa reproduksinya. TFR menunjukkan nilai kelahiran apabila seluruh populasi perempuan memiliki jumlah kelahiran sesuai dengan ASFR. TFR dalam 1 tahun dihitung berdasarkan penjumlahan total perbandingan jumlah kelahiran oleh perempuan di tiap kelompok umur.
   -  Angka Kematian: angka kelahiran merupakan indikator proses kematian di suatu populasi, indikatornya meliputi:
-    - Angka Kematian Kasar (_Crude Death Rate_/CDR): menunjukkan jumlah kematian per 1000 penduduk. Indikator ini dihitung dengan rumus:\
-      $$CDR = (\frac {L}{P}) \cdot 1000$$ , dengan CDR = angka kematian kasar, L = jumlah kematian dalam 1 tahun, dan P = jumlah penduduk di tengah tahun pengukuran.
-    - Angka Kematian Menurut Kelompok Umur (_Age Specific Death Rate_/ASDR): menunjukkan jumlah kematian per 1000 penduduk di kelompok umur tertentu. Kelompok umur yang digunakan umumnya memiliki rentang 5 tahun.
+       <img width="931" height="98" alt="image" src="https://github.com/user-attachments/assets/cd9b40ec-9cd4-4b75-8a2c-95287fcd7e47" />
+      - Angka Kematian Menurut Kelompok Umur (_Age Specific Death Rate_/ASDR): menunjukkan jumlah kematian per 1000 penduduk di kelompok umur tertentu. Kelompok umur yang digunakan umumnya memiliki rentang 5 tahun.
   - Angka Migrasi: angka migrasi menghitung jumlah migran dalam suatu populasi. Migran adalah individu yang melakukan migrasi. Klasifikasi seseorang menjadi seorang migran dapat dilakukan berdasarkan definisi:
     - Migrasi Total (_Total Migration_): seorang migran didefinisikan sebagai sesorang yang memiliki tempat tinggal berbeda dengan daerah asal. Angka migrasi total menunjukkan persentase migran total terhadap jumlah populasi total daerah tersebut.
     - Migrasi Risen (_Recent Migration_): seorang migran didefinisikan sebagai seseorang yang melakukan perubahan tempat tinggal kurang dari 5 tahun sebelum perhitungan. Angka migrasi risen menunjukkan persentase migran risen terhadap jumlah populasi total daerah tersebut.
