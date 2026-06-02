@@ -122,9 +122,9 @@ Menilai peningkatan kualitas hidup yang lebih holistik, di luar aspek ekonomi.
 
   b. Palma: perbandingan kekayaan 10% terkaya terhadap 40% termiskin.\
   c. Hoover/Schultz: Jarak terpanjang antara garis kurva equality terhadap kurva Lorenz aktual.\
-  d. Galt: perbandingan gaji CEO dengan pekerja median.\
-  e. Atkinson: pendapatan rata-rata * (1-Atkinson index) = equality.\
-  f. Kuznets: perbandingan pendapatan 20% rumah tangga teratas dan terbawah.
+  d. Atkinson: pendapatan rata-rata * (1-Atkinson index) = equality.\
+  e. Kuznets: perbandingan pendapatan 20% rumah tangga teratas dan terbawah.\
+  f. Indeks Williamson : indikator ekonomi yang digunakan untuk mengukur tingkat ketimpangan pembangunan atau kesenjangan pendapatan antarwilayah (seperti antar-kabupaten/kota dalam satu provinsi, atau antar-provinsi). Indikator ini umumnya dihitung menggunakan data Produk Domestik Regional Bruto (PDRB) per kapita dan jumlah penduduk.
 
 # 5. Model Pembangunan
 - Pembangunan dapat dilakukan dengan melakukan intervensi tertentu pada aspek-aspek kehidupan.
