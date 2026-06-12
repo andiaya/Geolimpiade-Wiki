@@ -25,7 +25,7 @@ Terima kasih!
 - [5.a. Geologi](/Geolimpiade-Wiki/docs/Geologi/)
 - [5.b. Geomorfologi](/Geolimpiade-Wiki/docs/Geomorfologi/)
 - [6. Geografi Pertanian dan Permasalahan Pangan](/Geolimpiade-Wiki/docs/Pertanian/)
-- [7. Kependudukan dan Dinamika Penduduk](/Geolimpiade-Wiki/docs/Penduduk/)
+- [7. Kependudukan dan Dinamika Penduduk](/Geolimpiade-Wiki/docs/Kependudukan/)
 - [8. Geografi Ekonomi dan Globalisasi](/Geolimpiade-Wiki/docs/Ekonomi/)
 - [9. Geografi Pembangunan dan Ketimpangan Spasial](/Geolimpiade-Wiki/docs/Pembangunan/)
 - [10. Geografi Kota, Peremajaan Kota, dan Perencanaan Kota](/Geolimpiade-Wiki/docs/Kota/)
@@ -34,5 +34,5 @@ Terima kasih!
 - [13. Perpetaan dan Interpretasi Informasi Spasial](/Geolimpiade-Wiki/docs/Peta/)
 
 
-![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2024-BK.png)
+![Showyourstripes](https://showyourstripes.info/stripes/ASIA-Indonesia-Yogyakarta-1866-2025-BK.png)
 Grafik ini menunjukkan perubahan suhu Yogyakarta dari tahun 1866 hingga 2024. Informasi lebih lanjut kunjungi laman [#ShowYourStripes](https://showyourstripes.info/faq)
