@@ -58,7 +58,8 @@ Manajemen bencana di Indonesia disebut penanggulangan bencana. Sifat ancaman yan
   
   (3) Peringatan dini: dilakukan untuk mempersiapkan tindakan tanggap darurat. Mencakup pengamatan gejala bencana, pengambilan keputusan oleh pihak berwenang, penyebarluasan informasi tentang peringatan bencana, dan pengambilan tindakan oleh masyarakat.
 
-*gambar ilustrasi sendiri*
+<img width="2070" height="1811" alt="Ilustrasi Siklus Manajemen Bencana" src="https://github.com/user-attachments/assets/deaf92f8-687c-437d-af7a-7c5bd3114b3d" />
+
 
 # 3. Deskripsi Detail
 Deskripsi detail akan membahas bahaya dan usaha mitigasi beberapa jenis bencana. Suatu fenomena dapat menimbulkan bahaya primer dan bahaya sekunder. Bahaya primer adalah bahaya yang timbul saat fenomena berlangsung, misalnya getaran tanah yang menimbulkan ambrukan bangunan saat gempa bumi. Sementara itu, bahaya sekunder adalah bahaya yang timbul karena fenomena tersebut, namun terjadi setelah fenomena berlangsung, misalnya kebakaran yang ditimbulkan oleh gempa bumi. 
