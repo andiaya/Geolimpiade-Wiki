@@ -49,14 +49,12 @@ Manajemen bencana di Indonesia disebut penanggulangan bencana. Sifat ancaman yan
   
   (2) Rehabilitasi: pengembalian fungsi dasar infrastruktur dan pelayanan masyarakat. Dapat mencakup pendirian sekolah, pasar, layanan pemerintahan, dan layanan kesehatan darurat.
   
-  (3) Rekonstruksi: pembangunan kembali seluruh aspek yang mengalami kerusakan karena bencana. Rekonstruksi dapat masuk ke dalam tahap prabencana ketika dilakukan dengan membangun lebih baik. Waktu yang diperlukan suatu komunitas untuk kembali ke kondisi sebelumnya setelah bencana disebut rebound time (waktu lenting).
+  (3) Rekonstruksi: pembangunan kembali seluruh aspek yang mengalami kerusakan karena bencana. Rekonstruksi dapat masuk ke dalam tahap mitigasi ketika dilakukan dengan membangun lebih baik. Waktu yang diperlukan suatu komunitas untuk kembali ke kondisi sebelumnya setelah bencana disebut rebound time (waktu lenting).
 * Prabencana
   
   (1) Mitigasi: usaha pengurangan risiko bencana bagi masyarakat dalam kawasan rawan bencana. Meliputi penataan ruang untuk menghindari kawasan kerawanan tinggi, pengaturan pembangunan, dan pendidikan serta pelatihan mengenai kebencanaan.
   
-  (2) Kesiapsiagaan: mencakup penyusunan atau pemasangan serta pengujian rencana penanggulangan, sistem peringatan dini, dan mekanisme tanggap darurat. Selain itu, kesiapsiagaan juga mencakup penyiapan barang dan pasokan pemenuhan kebutuhan dasar dan pemulihan sarana dan prasarana.
-  
-  (3) Peringatan dini: dilakukan untuk mempersiapkan tindakan tanggap darurat. Mencakup pengamatan gejala bencana, pengambilan keputusan oleh pihak berwenang, penyebarluasan informasi tentang peringatan bencana, dan pengambilan tindakan oleh masyarakat.
+  (2) Siap siaga: mencakup simulasi pelaksanaan rencana penanggulangan dan mekanisme tanggap darurat serta penerapan sistem peringatan dini. Selain itu, kesiapsiagaan juga mencakup penyiapan barang dan pasokan pemenuhan kebutuhan dasar dan pemulihan sarana dan prasarana. Peringatan dini dilakukan untuk mempersiapkan tindakan tanggap darurat. Mencakup pengamatan gejala bencana, pengambilan keputusan oleh pihak berwenang, penyebarluasan informasi tentang peringatan bencana, dan pengambilan tindakan oleh masyarakat.
 
 <img width="2070" height="1811" alt="Ilustrasi Siklus Manajemen Bencana" src="https://github.com/user-attachments/assets/deaf92f8-687c-437d-af7a-7c5bd3114b3d" />
 
