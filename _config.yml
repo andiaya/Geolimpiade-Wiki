@@ -17,6 +17,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 plugins:
+  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
