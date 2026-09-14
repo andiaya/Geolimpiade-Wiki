@@ -981,7 +981,7 @@ Peningkatan kadar CO2 menyebabkan pengasaman samudera. Kondisi asam tersebut tid
 
 Pemanasan global dapat meningkatkan suhu air laut melalui 2 mekanisme, menambah volume air laut dari pelelehan es dan meningkatkan volume air laut melalui pemuaian. Dampak dari proses tersebut adalah tenggelamnya wilayah dengan ketinggian rendah dan pulau-pulau kecil. Air laut yang lebih tinggi juga menyebabkan tekanan yang lebih tinggi untuk memasuki sistem air tanah, menyebabkan intrusi. Deskripsi di atas merupakan beberapa dampak yang mungkin terjadi akibat perubahan iklim.
 
-![Dampak Perubahan Iklim](https://www.ipcc.ch/report/ar6/syr/downloads/figures/IPCC_AR6_SYR_SPM_Figure1.png)
+<img width="560" height="729" alt="image" src="https://github.com/user-attachments/assets/9ab4539e-1928-4f55-84f7-63e861f681a5" />
 
 Ringkasan Dampak Perubahan Iklim ([IPCC, 2023](https://www.ipcc.ch/report/sixth-assessment-report-cycle/))
 
@@ -1009,7 +1009,7 @@ Status Keberhasilan Usaha Mitigasi Perubahan Iklim Saat Ini ([DW, 2020](https://
 
 Namun, usaha yang sudah dilakukan belum dapat mengembalikan kondisi iklim pra-revolusi industri. Telah terjadi pemanasan dan menghasilkan beberapa dampak yang sudah dirasakan saat ini. Oleh sebab itu, dilakukan usaha adaptasi terhadap perubahan iklim. Terdapat beberapa konsep yang perlu diketahui dalam manajemen adaptasi perubahan iklim, yaitu risiko, bahaya, paparan, dan kerentanan.
 
-![Diagram risiko iklim.](https://www.ipcc.ch/report/ar6/wg2/downloads/figures/IPCC_AR6_WGII_Figure_AI_001.png)
+<img width="880" height="363" alt="image" src="https://github.com/user-attachments/assets/343fade2-9e7b-43dd-b21e-ab5629ac8559" />
 
 Diagram Hubungan Konsep Risiko, Bahaya, Paparan, dan Kerentanan ([IPCC, 2022](https://www.ipcc.ch/report/ar6/wg2/chapter/annex-i/))
 
