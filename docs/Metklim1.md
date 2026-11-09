@@ -1,6 +1,6 @@
 ---
 title: Iklim dan Perubahan Iklim
-permalink: /docs/Metklim/
+permalink: /docs/Metklim1/
 layout: single
 toc: true
 toc_sticky: true
