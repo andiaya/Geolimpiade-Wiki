@@ -1,6 +1,6 @@
 ---
 title: Geologi
-permalink: /docs/Geologi/
+permalink: /docs/Geologi1/
 layout: single
 toc: true
 toc_sticky: true
