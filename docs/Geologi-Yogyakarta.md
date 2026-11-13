@@ -253,6 +253,7 @@ Endapan aliran rombakan (epiklastik) gunungapi: bongkah beragam jenis dalam matr
 
 
 ### 4.1.3. Lava dan Batuan Beku Intrusi
+
 | Kenampakan | Arti | Contoh di Yogyakarta |
 | --- | --- | --- |
 | Lava bantal | Lava keluar dan membeku di dalam air laut | Watuadeg, Berbah; Giriloyo |
