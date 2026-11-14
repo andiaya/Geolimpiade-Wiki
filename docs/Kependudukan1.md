@@ -1,6 +1,6 @@
 ---
 title: Kependudukan dan Dinamika Penduduk
-permalink: /docs/Kependudukan/
+permalink: /docs/Kependudukan1/
 layout: single
 toc: true
 toc_sticky: true
