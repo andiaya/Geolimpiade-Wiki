@@ -1,6 +1,6 @@
 ---
 title: Pariwisata dan Manajemen Pariwisata
-permalink: /docs/Pariwisata/
+permalink: /docs/Pariwisata1/
 layout: single
 toc: true
 toc_sticky: true
