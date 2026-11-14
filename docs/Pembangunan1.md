@@ -1,6 +1,6 @@
 ---
 title: Geografi Pembangunan
-permalink: /docs/Pembangunan/
+permalink: /docs/Pembangunan1/
 layout: single
 toc: true
 toc_sticky: true
