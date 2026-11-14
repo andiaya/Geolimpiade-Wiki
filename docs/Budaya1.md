@@ -1,6 +1,6 @@
 ---
 title: Geografi Budaya dan Identitas Regional
-permalink: /docs/Budaya/
+permalink: /docs/Budaya1/
 layout: single
 toc: true
 toc_sticky: true
