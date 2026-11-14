@@ -1,6 +1,6 @@
 ---
 title: Geomorfologi dan Penggunaan Lahan
-permalink: /docs/Geomorfologi/
+permalink: /docs/Geomorfologi1/
 layout: single
 toc: true
 toc_sticky: true
