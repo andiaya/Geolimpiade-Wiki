@@ -1,6 +1,6 @@
 ---
 title: Sumberdaya dan Manajemen Sumberdaya
-permalink: /docs/Sumberdaya/
+permalink: /docs/Sumberdaya1/
 layout: single
 toc: true
 toc_sticky: true
