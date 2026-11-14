@@ -1,6 +1,6 @@
 ---
 title: Geografi Kota dan Perencanaan Kota
-permalink: /docs/Kota/
+permalink: /docs/Kota1/
 layout: single
 toc: true
 toc_sticky: true
