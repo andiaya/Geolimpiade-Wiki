@@ -1,6 +1,6 @@
 ---
 title: Geografi Lingkungan dan Pembangunan Berkelanjutan
-permalink: /docs/Lingkungan/
+permalink: /docs/Lingkungan1/
 layout: single
 toc: true
 toc_sticky: true
