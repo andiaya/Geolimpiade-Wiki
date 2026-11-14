@@ -1,6 +1,6 @@
 ---
 title: Kebencanaan dan Manajemen Bencana
-permalink: /docs/Manben/
+permalink: /docs/Manben1/
 layout: single
 toc: true
 toc_sticky: true
