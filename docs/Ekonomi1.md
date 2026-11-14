@@ -1,6 +1,6 @@
 ---
 title: Geografi Ekonomi dan Globalisasi
-permalink: /docs/Ekonomi/
+permalink: /docs/Ekonomi1/
 layout: single
 toc: true
 toc_sticky: true
