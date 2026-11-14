@@ -1,6 +1,6 @@
 ---
 title: Geografi Pertanian dan Permasalahan Pangan
-permalink: /docs/Pertanian/
+permalink: /docs/Pertanian1/
 layout: single
 toc: true
 toc_sticky: true
