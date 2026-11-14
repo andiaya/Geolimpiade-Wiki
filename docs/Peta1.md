@@ -1,6 +1,6 @@
 ---
 title: Perpetaan dan Interpretasi Data Spasial
-permalink: /docs/Peta/
+permalink: /docs/Peta1/
 layout: single
 toc: true
 toc_sticky: true
