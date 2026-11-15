@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 4 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -67,6 +70,15 @@ HASIL CEK GAMBAR LAMA:
   - **Interval kontur** (CI) pada peta topografi umumnya = 1/2.000 × penyebut skala. Contoh: peta 1:25.000 memiliki CI 12,5 m.
 
 > 🆕 **[BAGIAN-BARU]** Perhitungan skala dan interval kontur adalah soal hitungan yang hampir selalu muncul di OSN, tetapi belum dijelaskan.
+
+
+> 🔬 **[KAJIAN-KINI] Peta tidak pernah netral**
+>
+> **Narasi umum:** Peta adalah gambaran objektif permukaan Bumi.
+>
+> **Kajian terkini:** Kartografi kritis (Harley, 1989; Monmonier, _How to Lie with Maps_, 1991) menunjukkan bahwa setiap peta adalah hasil **pilihan**: wilayah mana yang ditampilkan di tengah, proyeksi apa yang dipakai, objek apa yang dihilangkan, bagaimana kelas data dibagi, dan nama apa yang dipakai. Pilihan-pilihan ini dapat menyampaikan kepentingan tertentu. Contohnya, Indonesia menamai perairan di utara Kepulauan Natuna sebagai **Laut Natuna Utara** (2017) untuk menegaskan klaim zona ekonomi eksklusifnya, dan peta koroplet yang sama dapat memberi kesan sangat berbeda jika pembagian kelasnya diubah.
+>
+> **Untuk soal:** Saat menginterpretasikan peta tematik, periksa sumber data, tahun, pembagian kelas, dan proyeksinya sebelum menarik kesimpulan.
 
 # 2. Proyeksi Peta
 - Proyeksi adalah proses perubahan yang harus dilakukan saat mengubah geometri benda dari bidang 3 dimensi ke bidang 2 dimensi.
@@ -125,6 +137,20 @@ HASIL CEK GAMBAR LAMA:
   > 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
   > ✏️ **[FLAG-ISI]** Definisi konform diperjelas (mempertahankan **sudut**, bukan bentuk secara keseluruhan), dan kategori proyeksi kompromi ditambahkan.
+
+
+> 🔬 **[KAJIAN-KINI] Mercator, Gall-Peters, dan peta dunia yang "benar"**
+>
+> **Narasi umum:** Proyeksi Mercator salah karena memperbesar negara-negara Eropa, dan proyeksi Gall-Peters adalah peta dunia yang benar dan adil.
+>
+> **Kajian terkini:** Mercator (1569) dirancang untuk **navigasi**: garis arah kompas tetap tampak lurus, dan sifat itu memang tidak dapat dicapai tanpa memperbesar wilayah lintang tinggi. Masalahnya terletak pada penggunaan Mercator untuk peta dunia umum atau peta tematik. Arno Peters (1973) mempromosikan proyeksi "baru" yang ternyata sama dengan proyeksi James Gall (1855). Proyeksi ini memang ekuivalen (luasnya benar), tetapi bentuk benua sangat terdistorsi: Afrika dan Amerika Selatan tampak memanjang ke bawah. Pada 1989, tujuh organisasi geografi dan kartografi Amerika Utara mengeluarkan resolusi agar **semua** peta dunia berbentuk persegi panjang, termasuk Mercator dan Gall-Peters, tidak dipakai untuk peta dunia umum. Kartografer kini menganjurkan proyeksi ekuivalen dengan distorsi bentuk lebih kecil, seperti Equal Earth (2018), atau proyeksi kompromi seperti Winkel Tripel. Web Mercator tetap dipakai Google Maps karena bersifat konform, sehingga bentuk jalan dan bangunan pada skala besar tidak terdistorsi.
+>
+> **Untuk soal:** Pilih proyeksi sesuai tujuan: konform untuk navigasi dan peta skala besar, ekuivalen untuk peta tematik sebaran (misalnya kepadatan penduduk), dan kompromi untuk peta dunia umum.
+
+<img width="200" alt="Peta dunia proyeksi Mercator" src="https://commons.wikimedia.org/wiki/Special:FilePath/Mercator_projection_SW.jpg?width=600" /> <img width="230" alt="Peta dunia proyeksi Gall-Peters" src="https://commons.wikimedia.org/wiki/Special:FilePath/Gall%E2%80%93Peters_projection_SW.jpg?width=600" /> <img width="250" alt="Peta dunia proyeksi Equal Earth" src="https://commons.wikimedia.org/wiki/Special:FilePath/Equal_Earth_projection_SW.jpg?width=600" />\
+Dunia dalam proyeksi Mercator (kiri), Gall-Peters (tengah), dan Equal Earth (kanan). **Cara membandingkan:** pada Mercator, Greenland tampak hampir sebesar Afrika dan Antarktika membentang sangat lebar; pada Gall-Peters, luasnya benar tetapi Afrika dan Amerika Selatan tampak memanjang dan Eropa memipih; pada Equal Earth, luasnya juga benar tetapi bentuk benua lebih mendekati globe karena meridiannya melengkung. **Logikanya:** tidak ada proyeksi yang sempurna; yang ada hanya proyeksi yang cocok atau tidak cocok untuk tujuan tertentu. _Sumber: [Strebe](https://commons.wikimedia.org/wiki/File:Mercator_projection_SW.jpg), CC BY-SA 3.0; [Strebe](https://commons.wikimedia.org/wiki/File:Gall%E2%80%93Peters_projection_SW.jpg), CC BY-SA 3.0; [Strebe](https://commons.wikimedia.org/wiki/File:Equal_Earth_projection_SW.jpg), CC BY-SA 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
 # 3. Sistem Koordinat
 

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="619.2pt" height="280.8pt" viewBox="0 0 619.2 280.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T06:55:44.044791</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.8 
+L 619.2 280.8 
+L 619.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.320378 140.559375 
+Q 61.677824 140.559375 64.470023 140.559375 
+" clip-path="url(#p473233dde3)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 60.070023 138.359375 
+L 64.470023 140.559375 
+L 60.070023 142.759375 
+z
+" clip-path="url(#p473233dde3)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 108.19748 140.559375 
+Q 112.554927 140.559375 115.347126 140.559375 
+" clip-path="url(#p473233dde3)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 110.947126 138.359375 
+L 115.347126 140.559375 
+L 110.947126 142.759375 
+z
+" clip-path="url(#p473233dde3)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 159.074582 140.559375 
+Q 163.432029 140.559375 166.224228 140.559375 
+" clip-path="url(#p473233dde3)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 161.824228 138.359375 
+L 166.224228 140.559375 
+L 161.824228 142.759375 
+z
+" clip-path="url(#p473233dde3)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 209.951685 140.559375 
+Q 214.309131 140.559375 217.10133 140.559375 
+" clip-path="url(#p473233dde3)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 212.70133 138.359375 
+L 217.10133 140.559375 
+L 212.70133 142.759375 
+z
+" clip-path="url(#p473233dde3)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <g id="patch_6">
+     <path d="M 21.66902 153.736699 
+L 50.808082 153.736699 
+Q 53.783082 153.736699 53.783082 150.761699 
+L 53.783082 130.357051 
+Q 53.783082 127.382051 50.808082 127.382051 
+L 21.66902 127.382051 
+Q 18.69402 127.382051 18.69402 130.357051 
+L 18.69402 150.761699 
+Q 18.69402 153.736699 21.66902 153.736699 
+z
+" style="fill: #eeeeee"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(24.462067 137.666553)">lahan</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(21.66902 147.868877)">tandus</text>
+   </g>
+   <g id="text_2">
+    <g id="patch_7">
+     <path d="M 75.015107 147.784707 
+L 99.2162 147.784707 
+Q 102.1912 147.784707 102.1912 144.809707 
+L 102.1912 136.309043 
+Q 102.1912 133.334043 99.2162 133.334043 
+L 75.015107 133.334043 
+Q 72.040107 133.334043 72.040107 136.309043 
+L 72.040107 144.809707 
+Q 72.040107 147.784707 75.015107 147.784707 
+z
+" style="fill: #e6f0d8"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="87.115653" y="142.767715" transform="rotate(-0 87.115653 142.767715)">pionir</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_8">
+     <path d="M 123.958459 147.784707 
+L 152.027053 147.784707 
+Q 155.002053 147.784707 155.002053 144.809707 
+L 155.002053 136.309043 
+Q 155.002053 133.334043 152.027053 133.334043 
+L 123.958459 133.334043 
+Q 120.983459 133.334043 120.983459 136.309043 
+L 120.983459 144.809707 
+Q 120.983459 147.784707 123.958459 147.784707 
+z
+" style="fill: #cfe5b8"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="137.992756" y="142.767715" transform="rotate(-0 137.992756 142.767715)">semak</text>
+   </g>
+   <g id="text_4">
+    <g id="patch_9">
+     <path d="M 176.51896 153.736699 
+L 201.220756 153.736699 
+Q 204.195756 153.736699 204.195756 150.761699 
+L 204.195756 130.357051 
+Q 204.195756 127.382051 201.220756 127.382051 
+L 176.51896 127.382051 
+Q 173.54396 127.382051 173.54396 130.357051 
+L 173.54396 150.761699 
+Q 173.54396 153.736699 176.51896 153.736699 
+z
+" style="fill: #a9d18e"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(176.51896 137.666553)">hutan</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(176.734116 147.868877)">muda</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_10">
+     <path d="M 221.278718 153.736367 
+L 258.215202 153.736367 
+Q 261.190202 153.736367 261.190202 150.761367 
+L 261.190202 130.357383 
+Q 261.190202 127.382383 258.215202 127.382383 
+L 221.278718 127.382383 
+Q 218.303718 127.382383 218.303718 130.357383 
+L 218.303718 150.761367 
+Q 218.303718 153.736367 221.278718 153.736367 
+z
+" style="fill: #7bb661"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(221.278718 137.666221)">KLIMAKS</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(223.512624 147.868545)">tunggal</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #777777" transform="translate(50.486584 204.213451)">satu jalur pasti, berakhir pada komunitas</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #777777" transform="translate(78.844709 214.415775)">stabil yang ditentukan iklim</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="10.8" y="19.15875" transform="rotate(-0 10.8 19.15875)">Klasik (Clements, 1916)</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_11">
+    <path d="M 356.947059 127.454811 
+Q 372.236881 108.247023 386.551873 90.263861 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 382.090327 92.336204 
+L 386.551873 90.263861 
+L 385.532819 95.076504 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 356.947059 153.663939 
+Q 372.236881 172.871727 386.551873 190.854889 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 385.532819 186.042246 
+L 386.551873 190.854889 
+L 382.090327 188.782546 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 433.976464 77.848038 
+Q 454.91114 73.627192 474.311444 69.715706 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 469.563423 68.428731 
+L 474.311444 69.715706 
+L 470.433051 72.741937 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 433.465799 88.85843 
+Q 456.185631 110.55681 477.773514 131.174131 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 476.110997 126.544224 
+L 477.773514 131.174131 
+L 473.072079 129.7262 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 433.949914 203.395241 
+Q 449.187347 207.491466 462.9132 211.181338 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 459.2352 207.914487 
+L 462.9132 211.181338 
+L 458.092919 212.163627 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 433.465799 192.26032 
+Q 456.185631 170.56194 477.773514 149.944619 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 473.072079 151.39255 
+L 477.773514 149.944619 
+L 476.110997 154.574526 
+z
+" clip-path="url(#p64dc176623)" style="fill: #777777; stroke: #777777; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 478.620517 57.621915 
+Q 446.157045 39.359197 424.030175 67.354676 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #d0632b; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 428.484509 65.266875 
+L 424.030175 67.354676 
+L 425.032535 62.538528 
+z
+" clip-path="url(#p64dc176623)" style="fill: #d0632b; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #d0632b; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 491.295389 153.01203 
+Q 423.677476 187.347763 356.382113 155.924401 
+" clip-path="url(#p64dc176623)" style="fill: none; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #d0632b; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 359.438084 159.779404 
+L 356.382113 155.924401 
+L 361.299698 155.792626 
+z
+" clip-path="url(#p64dc176623)" style="fill: #d0632b; stroke-dasharray: 5.18,2.24; stroke-dashoffset: 0; stroke: #d0632b; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <g id="patch_19">
+     <path d="M 325.86902 153.736699 
+L 355.008082 153.736699 
+Q 357.983082 153.736699 357.983082 150.761699 
+L 357.983082 130.357051 
+Q 357.983082 127.382051 355.008082 127.382051 
+L 325.86902 127.382051 
+Q 322.89402 127.382051 322.89402 130.357051 
+L 322.89402 150.761699 
+Q 322.89402 153.736699 325.86902 153.736699 
+z
+" style="fill: #eeeeee"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(328.662067 137.666553)">lahan</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(325.86902 147.868877)">tandus</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_20">
+     <path d="M 382.762678 87.776382 
+L 435.4826 87.776382 
+Q 438.4576 87.776382 438.4576 84.801382 
+L 438.4576 76.300718 
+Q 438.4576 73.325718 435.4826 73.325718 
+L 382.762678 73.325718 
+Q 379.787678 73.325718 379.787678 76.300718 
+L 379.787678 84.801382 
+Q 379.787678 87.776382 382.762678 87.776382 
+z
+" style="fill: #cfe5b8"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="409.122639" y="82.75939" transform="rotate(-0 409.122639 82.75939)">komunitas A</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_21">
+     <path d="M 382.754045 207.793032 
+L 435.491233 207.793032 
+Q 438.466233 207.793032 438.466233 204.818032 
+L 438.466233 196.317368 
+Q 438.466233 193.342368 435.491233 193.342368 
+L 382.754045 193.342368 
+Q 379.779045 193.342368 379.779045 196.317368 
+L 379.779045 204.818032 
+Q 379.779045 207.793032 382.754045 207.793032 
+z
+" style="fill: #e6f0d8"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="409.122639" y="202.77604" transform="rotate(-0 409.122639 202.77604)">komunitas B</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_22">
+     <path d="M 477.121724 73.928307 
+L 529.368833 73.928307 
+Q 532.343833 73.928307 532.343833 70.953307 
+L 532.343833 62.452643 
+Q 532.343833 59.477643 529.368833 59.477643 
+L 477.121724 59.477643 
+Q 474.146724 59.477643 474.146724 62.452643 
+L 474.146724 70.953307 
+Q 474.146724 73.928307 477.121724 73.928307 
+z
+" style="fill: #7bb661"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="503.245278" y="68.911315" transform="rotate(-0 503.245278 68.911315)">hutan tipe X</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_23">
+     <path d="M 477.437153 147.784707 
+L 529.053403 147.784707 
+Q 532.028403 147.784707 532.028403 144.809707 
+L 532.028403 136.309043 
+Q 532.028403 133.334043 529.053403 133.334043 
+L 477.437153 133.334043 
+Q 474.462153 133.334043 474.462153 136.309043 
+L 474.462153 144.809707 
+Q 474.462153 147.784707 477.437153 147.784707 
+z
+" style="fill: #a9d18e"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #222222" x="503.245278" y="142.767715" transform="rotate(-0 503.245278 142.767715)">hutan tipe Y</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_24">
+     <path d="M 467.654185 227.593099 
+L 538.836372 227.593099 
+Q 541.811372 227.593099 541.811372 224.618099 
+L 541.811372 204.213451 
+Q 541.811372 201.238451 538.836372 201.238451 
+L 467.654185 201.238451 
+Q 464.679185 201.238451 464.679185 204.213451 
+L 464.679185 224.618099 
+Q 464.679185 227.593099 467.654185 227.593099 
+z
+" style="fill: #f3e3a6"/>
+    </g>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(470.259966 211.522953)">padang rumput</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(467.654185 221.725277)">(stabil alternatif)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #d0632b" x="457.455886" y="36.698812" transform="rotate(-0 457.455886 36.698812)">gangguan (api, badai, erupsi) mengembalikan tahap</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #777777" x="442.192756" y="251.343975" transform="rotate(-0 442.192756 251.343975)">banyak jalur; hasil bergantung pada kebetulan kolonisasi dan gangguan</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="315" y="19.15875" transform="rotate(-0 315 19.15875)">Kajian kini (non-ekuilibrium)</text>
+   </g>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #777777" x="6.192" y="277.992" transform="rotate(-0 6.192 277.992)">Ilustrasi skematis berdasarkan Clements (1916), Gleason (1926), Connell &amp; Slatyer (1977), dan konsep keadaan stabil alternatif.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p473233dde3">
+   <rect x="10.8" y="25.15875" width="254.385511" height="230.80125"/>
+  </clipPath>
+  <clipPath id="p64dc176623">
+   <rect x="315" y="25.15875" width="254.385511" height="230.80125"/>
+  </clipPath>
+ </defs>
+</svg>

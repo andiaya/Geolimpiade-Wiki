@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 500" width="860" height="500">
+<rect width="860" height="500" fill="#FAFAF7"/>
+<text x="430" y="34" text-anchor="middle" font-size="20" font-weight="bold" font-family="Arial, Helvetica, sans-serif" fill="#1F3A68">Ukuran relatif partikel awan dan hujan</text>
+<circle cx="250" cy="270" r="200" fill="#CFE0F5" stroke="#1F3A68" stroke-width="3"/>
+<text x="250" y="262" text-anchor="middle" font-size="18" font-weight="bold" font-family="Arial, Helvetica, sans-serif" fill="#1F3A68">Tetes hujan khas</text>
+<text x="250" y="286" text-anchor="middle" font-size="16" font-family="Arial, Helvetica, sans-serif">diameter ±2 mm (2.000 µm)</text>
+<circle cx="250" cy="345" r="10" fill="#7FA6D6" stroke="#1F3A68"/>
+<line x1="262" y1="345" x2="500" y2="200" stroke="#555"/>
+<text x="505" y="196" font-size="15" font-family="Arial, Helvetica, sans-serif">Titik awan besar: ±0,1 mm (100 µm)</text>
+<circle cx="250" cy="395" r="2" fill="#1F3A68"/>
+<line x1="254" y1="395" x2="500" y2="270" stroke="#555"/>
+<text x="505" y="266" font-size="15" font-family="Arial, Helvetica, sans-serif">Titik awan khas: ±0,02 mm (20 µm)</text>
+<line x1="250" y1="430" x2="500" y2="340" stroke="#555" stroke-dasharray="4 3"/>
+<text x="505" y="336" font-size="15" font-family="Arial, Helvetica, sans-serif">Inti kondensasi: ±0,0002 mm (0,2 µm)</text>
+<text x="505" y="356" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#666">(terlalu kecil untuk terlihat pada skala ini)</text>
+<rect x="560" y="390" width="250" height="78" fill="#E6ECF4" stroke="#1F3A68"/>
+<text x="572" y="414" font-size="14" font-weight="bold" font-family="Arial, Helvetica, sans-serif" fill="#1F3A68">Satu tetes hujan ≈ volume</text>
+<text x="572" y="434" font-size="14" font-weight="bold" font-family="Arial, Helvetica, sans-serif" fill="#1F3A68">sejuta titik awan</text>
+<text x="572" y="456" font-size="12" font-family="Arial, Helvetica, sans-serif">(2.000 ÷ 20)³ = 1.000.000</text>
+<text x="430" y="490" text-anchor="middle" font-size="12" font-family="Arial, Helvetica, sans-serif" fill="#666">Olahan penulis; nilai ukuran mengikuti Ahrens (2009). Lingkaran digambar sesuai skala diameter.</text>
+</svg>

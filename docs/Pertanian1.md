@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 5 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -251,6 +254,28 @@ Sawah terasering subak di Jatiluwih, Tabanan, Bali, dengan petak-petak berisi ai
      > 🔍 **[FLAG-CEK]** Istilah dan tahun "Revolusi Lestari (2015)" tidak baku. Literatur umumnya memakai "Pertanian 4.0" atau "Revolusi Pertanian Keempat" untuk pertanian digital dan presisi. Cantumkan rujukan jika istilah lama tetap dipakai.
 
 
+
+> 🔬 **[KAJIAN-KINI] "Revolusi" Neolitik yang berlangsung ribuan tahun**
+>
+> **Narasi umum:** Pertanian muncul tiba-tiba di Mesopotamia ("revolusi"), lalu menyebar ke seluruh dunia dan langsung membuat hidup manusia lebih baik.
+>
+> **Kajian terkini:** Istilah "Revolusi Neolitik" diperkenalkan Gordon Childe (1936). Kajian arkeobotani kini menunjukkan bahwa domestikasi berlangsung **berangsur selama ribuan tahun**: tanaman liar dibudidayakan lama sebelum bentuknya berubah menjadi tanaman domestik. Pertanian juga muncul **secara mandiri di sedikitnya 11 pusat**, termasuk Papua (Lembah Kuk), Afrika Sahel, Amazon, dan Amerika Utara bagian timur (Larson dkk., 2014). Peralihan ke pertanian awal tidak selalu menyejahterakan: kerangka manusia petani awal menunjukkan tubuh lebih pendek, gigi berlubang, dan lebih banyak penyakit menular dibandingkan pemburu-peramu. Situs Göbekli Tepe di Turki (±9.500 SM) memperlihatkan bangunan monumental yang didirikan oleh masyarakat pemburu-peramu, sehingga sebagian peneliti menduga perubahan sosial dan ritual ikut mendorong lahirnya pertanian. Revolusi Pertanian Inggris juga kini dianggap berlangsung terutama pada 1750–1850 dan lebih bertahap (Overton, 1996).
+>
+> **Untuk soal:** Untuk soal OSN, sebutkan tahapan revolusi pertanian sesuai urutan baku. Pada soal esai, tunjukkan bahwa "revolusi" adalah proses panjang dengan banyak pusat dan dampak yang tidak selalu positif.
+
+<img width="300" alt="Situs Göbekli Tepe dari udara" src="https://commons.wikimedia.org/wiki/Special:FilePath/The_archaeological_site_of_G%C3%B6bekli_Tepe_-_main_excavation_area.png?width=600" />\
+Area ekskavasi utama Göbekli Tepe, Turki tenggara, dilihat dari atas: beberapa bangunan melingkar dengan pilar batu berbentuk T di bagian tengah dan tepinya, beserta bangunan persegi di sekitarnya, sebagian dinaungi atap pelindung. **Logikanya:** bangunan sebesar ini memerlukan tenaga kerja ratusan orang dan pasokan pangan selama pembangunannya, tetapi dibangun sebelum ada tanaman domestik. Ini menunjukkan bahwa kehidupan sosial yang kompleks bisa mendahului pertanian, bukan hanya akibat dari pertanian. _Sumber: [German Archaeological Institute (foto E. Kücük)](https://commons.wikimedia.org/wiki/File:The_archaeological_site_of_G%C3%B6bekli_Tepe_-_main_excavation_area.png), CC BY 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
+> 🔬 **[KAJIAN-KINI] Revolusi Hijau: keberhasilan dengan catatan**
+>
+> **Narasi umum:** Revolusi Hijau menyelesaikan masalah pangan dunia, atau sebaliknya, Revolusi Hijau hanya merusak lingkungan dan memiskinkan petani.
+>
+> **Kajian terkini:** Kajian terkini menilai keduanya terlalu sederhana. Revolusi Hijau terbukti menaikkan hasil panen dan menurunkan harga pangan, dan diperkirakan menyelamatkan puluhan juta hektare hutan dan lahan alami yang jika tidak akan dibuka untuk pertanian ("hipotesis Borlaug"). Namun hasil penghematan lahan itu tidak otomatis terjadi: hasil yang lebih menguntungkan juga dapat mendorong pembukaan lahan baru (paradoks Jevons). Dampak sosialnya bervariasi; ketimpangan meningkat di beberapa wilayah, tetapi di banyak wilayah lain petani kecil ikut mengadopsi varietas unggul. Masalah lingkungan (air tanah turun di Punjab, pencemaran pupuk, resistensi hama) nyata, sehingga pendekatan kini menekankan **intensifikasi berkelanjutan** dan pertanian presisi.
+>
+> **Untuk soal:** Pada soal evaluasi, sebutkan dampak positif dan negatif sekaligus, dan tunjukkan bahwa dampaknya bergantung pada wilayah dan kebijakan.
+
 ## 2.2. Pusat-pusat Awal Domestikasi
 - Teori titik awal domestikasi tanaman dikembangkan oleh Nikolai Vavilov. Peta persebaran pusat awal domestikasi Vavilov yaitu sebagai berikut:
   <img width="960" height="589" alt="Pusat Awal Domestikasi" src="https://github.com/user-attachments/assets/6138cdcf-468b-491e-84d0-4e7089e91ef0" />
@@ -281,6 +306,15 @@ Sawah terasering subak di Jatiluwih, Tabanan, Bali, dengan petak-petak berisi ai
 
 > ✏️ **[FLAG-ISI]** Kuda Przewalski **bukan** leluhur kuda domestik. Kajian DNA (2018–2021) menunjukkan bahwa kuda domestik modern berasal dari stepa Pontik-Kaspia sekitar 4.200 tahun lalu, sedangkan kuda Przewalski adalah keturunan liar dari kuda yang dipelihara budaya Botai.
 
+
+
+> 🔬 **[KAJIAN-KINI] Dari pusat Vavilov ke peta domestikasi modern**
+>
+> **Narasi umum:** Tempat dengan keragaman varietas terbesar suatu tanaman adalah tempat asal tanaman itu (delapan pusat Vavilov).
+>
+> **Kajian terkini:** Vavilov (1926) berjasa merintis kajian asal tanaman, tetapi asumsi bahwa pusat keragaman sama dengan pusat asal kini dianggap tidak selalu tepat. Keragaman dapat bertambah jauh dari tempat asalnya, dan Harlan (1971) menunjukkan adanya "non-pusat", yaitu domestikasi yang tersebar di wilayah luas. Kajian genetika dan arkeobotani kini menetapkan pusat domestikasi berdasarkan **bukti langsung** (sisa tanaman bertanggal, DNA kuno, dan kerabat liarnya). Contohnya, kakao kini diketahui pertama kali dibudidayakan di hulu Amazon (Ekuador) sekitar 5.300 tahun lalu, bukan di Mesoamerika, dan pisang serta tebu didomestikasi di Papua.
+>
+> **Untuk soal:** Peta Vavilov masih sering muncul di soal; pahami delapan pusatnya, tetapi bedakan dengan pusat domestikasi menurut kajian modern (lihat tabel di atas).
 
 # 3. Permasalahan Pangan
 
@@ -321,6 +355,20 @@ Peta Ketahanan dan Kerentanan Pangan (_Food Security and Vulnerability Atlas_/FS
       - Provinsi Nusa Tenggara Timur (NTT): Kondisi agroklimat yang kering (semi-arid), musim kemarau panjang (6–8 bulan), dan tingginya proporsi lahan kritis.
   - Wilayah dengan Kerawanan Rendah (Tahan Pangan):
       - Pulau Jawa (khususnya koridor utara dan selatan dengan irigasi teknis): Produksi padi surplus, konektivitas pasar yang baik, dan keberadaan lembaga logistik nasional (Bulog).
+
+
+> 🔬 **[KAJIAN-KINI] Kelaparan bukan sekadar kekurangan produksi**
+>
+> **Narasi umum:** Kelaparan dan rawan pangan terjadi karena produksi pangan tidak mencukupi jumlah penduduk.
+>
+> **Kajian terkini:** Amartya Sen (1981) menunjukkan bahwa banyak bencana kelaparan terjadi **tanpa** penurunan besar ketersediaan pangan. Pada kelaparan Bengal 1943, pasokan beras tidak jauh lebih rendah daripada tahun-tahun sebelumnya, tetapi harga melonjak sehingga buruh tani dan nelayan kehilangan **hak akses** (_entitlement_) terhadap pangan. Kelaparan modern hampir selalu berkaitan dengan perang, blokade, dan kegagalan kebijakan (misalnya Yaman, Gaza, dan Sudan pada 2020-an). Sen juga mencatat bahwa bencana kelaparan besar tidak pernah terjadi di negara demokrasi dengan pers bebas, karena pemerintah terdorong bertindak. Di tingkat global, produksi pangan cukup untuk seluruh penduduk, tetapi sekitar 673 juta orang masih kelaparan pada 2024 dan 2,6 miliar orang tidak mampu membeli pola makan sehat (SOFI 2025). Inilah alasan definisi ketahanan pangan FAO memuat pilar **akses**, bukan hanya ketersediaan.
+>
+> **Untuk soal:** Pada soal analisis rawan pangan (termasuk peta FSVA), jelaskan faktor akses (kemiskinan, harga, infrastruktur, konflik) di samping faktor produksi.
+
+<img width="480" alt="Bencana kelaparan dan PDB per kapita 1860–2016" src="https://commons.wikimedia.org/wiki/Special:FilePath/Famines-and-GDP_2324.png?width=960" />\
+Bencana kelaparan besar 1860–2016 menurut tahun dan PDB per kapita negara tempat terjadinya; ukuran gelembung menunjukkan jumlah kematian (Our World in Data). **Cara membaca:** sebagian besar kelaparan terjadi di negara berpendapatan rendah, tetapi ada juga gelembung pada tingkat pendapatan lebih tinggi; banyak di antaranya terjadi saat perang atau di bawah rezim otoriter. Gelembung besar makin jarang setelah 1980. **Logikanya:** jika kelaparan semata-mata akibat kekurangan produksi, negara yang lebih kaya tidak akan mengalaminya. Pola ini mendukung pandangan Sen bahwa kelaparan terutama merupakan masalah akses, politik, dan konflik. _Sumber: [Joe Hasell & Max Roser, Our World in Data](https://commons.wikimedia.org/wiki/File:Famines-and-GDP_2324.png), CC BY 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
 ## 3.2. Malnutrisi
 

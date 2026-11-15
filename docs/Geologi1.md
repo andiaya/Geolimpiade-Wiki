@@ -21,6 +21,9 @@ PENANDA YANG DIPAKAI (cari dengan Ctrl+F "[FLAG"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (27 slot terisi)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi (3 slot)
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR (19 gambar):
   - Semua 19 gambar TERMUAT normal di versi terbit (tidak ada tautan rusak),
@@ -47,6 +50,13 @@ GAMBAR BARU (revisi ke-2):
   - CC BY / CC BY-SA mewajibkan atribusi (sudah ada di baris sumber).
   - Untuk jangka panjang, lebih aman mengunduh gambar ke /assets/images/
     daripada hotlink.
+KETERANGAN GAMBAR (revisi ke-3):
+  - Keterangan ke-27 gambar Commons ditulis ulang berdasarkan deskripsi
+    resmi pembuatnya (label, warna, nomor) dan disusun dengan pola
+    "apa yang tampak → Logikanya/Cara membaca".
+  - Keterangan gambar lama yang tipis sudah diperluas. Yang ditandai
+    [FLAG-CEK] menjelaskan konsepnya, tetapi detail visualnya belum
+    dicocokkan dengan gambar.
   - 3 slot belum terisi: gaya penggerak lempeng, penampang subduksi Sunda,
     dan latihan penampang geologi (sebaiknya dibuat sendiri).
 =====================================================================
@@ -64,7 +74,7 @@ GAMBAR BARU (revisi ke-2):
 - Lapisan interior Bumi dapat diklasifikasikan menurut 2 karakteristik: sifat kimiawi dan sifat fisiknya.
 
 <img width="452" height="472" alt="Klasifikasi struktur interior Bumi" src="https://github.com/user-attachments/assets/f4dbe023-8438-43e5-ae8c-f0cb7e09b8a7" />\
-Klasifikasi Struktur Interior Bumi Berdasarkan Sifat Kimiawi (kiri) dan Sifat Fisik (kanan).
+Klasifikasi struktur interior Bumi berdasarkan sifat kimiawi (kiri) dan sifat fisik (kanan). **Cara membaca:** bandingkan kedua kolom pada kedalaman yang sama. Batas-batasnya tidak selalu berimpit karena dasar pembagiannya berbeda: kolom kiri membagi menurut **jenis material** (kerak silikat ringan, mantel silikat kaya Fe-Mg, inti besi-nikel), sedangkan kolom kanan membagi menurut **sifat mekanis** (kaku, plastis, atau cair). Contohnya, litosfer yang kaku mencakup seluruh kerak **ditambah** bagian atas mantel, karena mantel atas yang masih relatif dingin bersifat kaku seperti kerak, meskipun secara kimia termasuk mantel.
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal. Tambahkan sumber gambar.
 
@@ -126,12 +136,12 @@ Sifat fisik yang dimaksud adalah fase zat dan kekakuan materialnya. Klasifikasi 
   - Gelombang P yang lemah terekam di dalam zona bayangan, dan inilah yang dipakai Inge Lehmann (1936) untuk menyimpulkan adanya inti dalam yang padat.
 
 <img width="380" alt="Zona bayangan gelombang seismik" src="https://commons.wikimedia.org/wiki/Special:FilePath/Earthquake_wave_shadow_zone.svg?width=760" />\
-Lintasan gelombang P dan S dari sebuah gempa. Gelombang S tidak menembus inti luar yang cair sehingga membentuk zona bayangan S di luar 104°. Gelombang P dibiaskan oleh inti sehingga membentuk zona bayangan P pada 104°–140°. _Sumber: [USGS, SVG oleh Vanessa Ezekowitz](https://commons.wikimedia.org/wiki/File:Earthquake_wave_shadow_zone.svg), CC BY-SA 3.0 (Wikimedia Commons)._
+Lintasan gelombang P dan S dari satu sumber gempa yang merambat menembus mantel dan inti. **Logikanya:** gelombang S bersifat transversal sehingga tidak dapat merambat di zat cair. Gelombang S tertahan di batas inti luar dan tidak terekam di mana pun pada jarak lebih dari ±104° dari episentrum; zona bayangan S inilah bukti bahwa inti luar cair. Gelombang P dapat menembus inti, tetapi kecepatannya turun tajam saat masuk inti luar sehingga lintasannya dibiaskan ke arah dalam. Akibatnya, permukaan Bumi pada jarak ±104°–140° hampir tidak menerima gelombang P langsung (zona bayangan P). _Sumber: [USGS, SVG oleh Vanessa Ezekowitz](https://commons.wikimedia.org/wiki/File:Earthquake_wave_shadow_zone.svg), CC BY-SA 3.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. Versi PNG aslinya (`Earthquake wave shadow zone.png`) berstatus domain publik USGS jika ingin menghindari CC BY-SA.
 
 <img width="650" alt="Kecepatan gelombang seismik terhadap kedalaman" src="https://commons.wikimedia.org/wiki/Special:FilePath/Speeds_of_seismic_waves.svg?width=1300" />\
-Kecepatan gelombang P dan S terhadap kedalaman. Lonjakan kecepatan menandai diskontinuitas Moho, Gutenberg, dan Lehmann. Kecepatan gelombang S turun menjadi nol di inti luar. _Sumber: [Brews ohare](https://commons.wikimedia.org/wiki/File:Speeds_of_seismic_waves.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Grafik kecepatan gelombang P dan S terhadap kedalaman. **Cara membaca:** ikuti kurva dari permukaan ke bawah. Di mantel, kecepatan kedua gelombang umumnya naik karena batuan makin padat dan kaku akibat tekanan. Di batas mantel–inti (±2.900 km, diskontinuitas Gutenberg), kecepatan P turun mendadak dan kurva S terputus (kecepatannya nol). Turunnya kecepatan P menunjukkan pergantian material dari silikat ke besi-nikel, sedangkan hilangnya S menunjukkan bahwa inti luar cair. Di ±5.150 km (diskontinuitas Lehmann), kecepatan P naik lagi, menandai inti dalam yang padat. _Sumber: [Brews ohare](https://commons.wikimedia.org/wiki/File:Speeds_of_seismic_waves.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
@@ -143,9 +153,9 @@ Kecepatan gelombang P dan S terhadap kedalaman. Lonjakan kecepatan menandai disk
 - Jika beban di permukaan berkurang (misalnya es mencair atau pegunungan tererosi), litosfer akan terangkat kembali (_isostatic rebound_). Contoh: Skandinavia dan Kanada masih terangkat sejak berakhirnya zaman es terakhir.
 
 <img width="400" alt="Isostasi Airy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Isostasy.svg?width=800" />\
-Prinsip isostasi Airy. Kerak yang lebih tebal (1, pegunungan) mengapung lebih tinggi dan memiliki akar yang lebih dalam daripada kerak benua normal (3) dan kerak samudera (4); 5 = muka laut, 7 = astenosfer. _Sumber: [MesserWoland](https://commons.wikimedia.org/wiki/File:Isostasy.svg), CC BY-SA 2.5 / GFDL (Wikimedia Commons)._
+Model isostasi Airy: blok-blok kerak (6) dengan densitas sama tetapi ketebalan berbeda mengapung di atas astenosfer (7); 5 = muka laut. **Logikanya:** blok yang lebih tebal harus tenggelam lebih dalam agar seimbang, persis seperti gunung es; makin tinggi bagian yang muncul, makin dalam bagian yang tenggelam. Karena itu, dasar kerak paling dalam terdapat di bawah pegunungan (1, "akar pegunungan"), lebih dangkal di bawah dataran tinggi (2) dan kerak benua normal (3), dan paling dangkal di bawah dasar samudera (4). _Sumber: [MesserWoland](https://commons.wikimedia.org/wiki/File:Isostasy.svg), CC BY-SA 2.5 / GFDL (Wikimedia Commons)._
 
-> 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. **[FLAG-CEK]** Cocokkan arti nomor 1–7 dengan gambar setelah tampil.
+> 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. **[FLAG-CEK]** Arti nomor 1–7 diambil dari deskripsi pembuat gambar; cocokkan dengan gambarnya setelah tampil.
 
 # 2. Teori Tektonik Lempeng
 Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai hasil penelitian mengenai proses yang terjadi di dalam Bumi dan pengaruhnya pada vulkanisme dan tektonisme.
@@ -166,14 +176,23 @@ Teori tektonik lempeng merangkum badan pengetahuan yang terdiri dari berbagai ha
 - Gabungan kedua teori tersebut berkembang menjadi **teori Tektonik Lempeng** (akhir 1960-an).
 
 <img width="580" alt="Persebaran fosil di Gondwana" src="https://commons.wikimedia.org/wiki/Special:FilePath/Snider-Pellegrini_Wegener_fossil_map.svg?width=1160" />\
-Persebaran fosil _Mesosaurus_, _Glossopteris_, _Lystrosaurus_, dan _Cynognathus_ yang sama di benua-benua Gondwana menjadi salah satu bukti bahwa benua-benua tersebut pernah bersatu. _Sumber: [USGS, SVG oleh Osvaldocangaspadilla](https://commons.wikimedia.org/wiki/File:Snider-Pellegrini_Wegener_fossil_map.svg), domain publik (USGS) (Wikimedia Commons)._
+Benua-benua selatan (Amerika Selatan, Afrika, India, Antartika, Australia) yang disatukan kembali, dengan pita warna sebaran empat fosil: _Cynognathus_ (reptil darat Trias, di Amerika Selatan dan Afrika), _Mesosaurus_ (reptil air tawar Perm, di Amerika Selatan dan Afrika bagian selatan), _Lystrosaurus_ (reptil darat Trias, di Afrika, India, dan Antartika), serta _Glossopteris_ (tumbuhan berbiji, di semua benua selatan). **Logikanya:** hewan darat, reptil air tawar, dan biji tumbuhan yang berat tidak mungkin menyeberangi samudera ribuan kilometer. Satu-satunya penjelasan yang sederhana: benua-benua ini dulu bersatu dalam Gondwana, dan pita fosilnya menyambung ketika garis pantainya dicocokkan. _Sumber: [USGS, SVG oleh Osvaldocangaspadilla](https://commons.wikimedia.org/wiki/File:Snider-Pellegrini_Wegener_fossil_map.svg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. Commons juga punya versi berbahasa Indonesia, `Snider-Pellegrini Wegener fossil map id.svg`; lisensinya belum saya cek.
 
 <img width="650" alt="Pita anomali magnetik dasar samudera" src="https://commons.wikimedia.org/wiki/Special:FilePath/Oceanic.Stripe.Magnetic.Anomalies.Scheme.svg?width=1300" />\
-Pembentukan pita anomali magnetik: (a) ±5 juta tahun lalu, (b) ±2–3 juta tahun lalu, (c) sekarang. Pembalikan kutub magnet terekam sebagai pita normal dan terbalik yang simetris di kedua sisi punggungan. _Sumber: [USGS, SVG oleh Chmee2](https://commons.wikimedia.org/wiki/File:Oceanic.Stripe.Magnetic.Anomalies.Scheme.svg), domain publik (USGS) (Wikimedia Commons)._
+Model pembentukan pita anomali magnetik pada tiga waktu: (a) ±5 juta tahun lalu, (b) ±2–3 juta tahun lalu, dan (c) sekarang. **Logikanya:** batuan basalt baru terbentuk di puncak punggungan. Saat mendingin, mineral magnetiknya "membeku" searah medan magnet Bumi saat itu. Batuan ini lalu terdorong menjauh oleh kerak yang lebih baru. Setiap kali kutub magnet berbalik, pita baru terbentuk dengan arah magnet yang berlawanan. Karena pemekaran berlangsung ke dua arah, pola pita di kiri dan kanan punggungan menjadi simetris seperti cermin, dan inilah bukti kuat pemekaran dasar samudera. Catatan dari pembuat gambar: warna gambar bisa memberi kesan banyak magma naik dari bawah litosfer, padahal yang terbentuk hanya sedikit, tepat di bawah puncak punggungan. _Sumber: [USGS, SVG oleh Chmee2](https://commons.wikimedia.org/wiki/File:Oceanic.Stripe.Magnetic.Anomalies.Scheme.svg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
+
+
+> 🔬 **[KAJIAN-KINI] Mengapa gagasan Wegener baru diterima 50 tahun kemudian?**
+>
+> **Narasi umum:** Teori Wegener ditolak semata-mata karena ia tidak dapat menjelaskan gaya penggeraknya, lalu terbukti benar sebagai teori tektonik lempeng.
+>
+> **Kajian terkini:** Wegener sebenarnya mengajukan penggerak, yaitu gaya sentrifugal rotasi Bumi (_Polflucht_) dan gaya pasang surut, tetapi para fisikawan menghitung bahwa gaya-gaya itu terlalu lemah. Ia juga membayangkan benua "membajak" kerak samudera, padahal menurut tektonik lempeng benua ikut bergerak bersama dasar samudera di dalam satu lempeng. Jadi tektonik lempeng bukan sekadar "Wegener yang benar": gagasan pergeseran benuanya terbukti, tetapi mekanismenya berbeda. Gagasan ini juga tidak ditolak semua orang. Arthur Holmes (1931) sudah mengusulkan arus konveksi mantel sebagai penggerak, dan Alexander du Toit di Afrika Selatan mengumpulkan banyak bukti pendukung. Penerimaan luas baru terjadi pada 1960-an setelah data paleomagnetisme dasar samudera (Vine & Matthews, 1963) dan sebaran gempa mendukung pemekaran dasar samudera.
+>
+> **Untuk soal:** Sebutkan bukti-bukti Wegener dan alasan penolakannya, lalu jelaskan bahwa tektonik lempeng memakai mekanisme yang berbeda dari usulan Wegener.
 
 ## 2.2. Lempeng dan Gaya Penggeraknya
 - **Lempeng** adalah bagian **litosfer** (kerak beserta mantel atas yang kaku) yang bergerak sebagai satu kesatuan, dengan arah dan kecepatan gerak yang sama.
@@ -189,6 +208,22 @@ Pembentukan pita anomali magnetik: (a) ±5 juta tahun lalu, (b) ±2–3 juta tah
 > 🖼️ **[TAMBAH-GAMBAR]** _Usulan:_ Penampang yang menunjukkan ketiga gaya penggerak (konveksi, _ridge push_, _slab pull_) dengan panah.
 > **Keterangan:** _Gaya-gaya penggerak lempeng. Tarikan lempeng yang menunjam (slab pull) dianggap gaya terbesar, dibantu dorongan punggungan (ridge push) dan arus konveksi mantel._
 > ⚠️ **[FLAG-GAMBAR]** Belum ditemukan gambar berlisensi terbuka yang cocok di Wikimedia Commons. Buat sendiri, atau cari di sumber lain dan cantumkan atribusinya.
+
+
+> 🔬 **[KAJIAN-KINI] Apa sebenarnya yang menggerakkan lempeng?**
+>
+> **Narasi umum:** Arus konveksi di astenosfer menyeret lempeng seperti ban berjalan, dan punggungan tengah samudera terbentuk di atas arus konveksi yang naik.
+>
+> **Kajian terkini:** Lempeng kini dipandang sebagai **bagian atas dari sistem konveksi mantel itu sendiri**, yaitu lapisan batas yang dingin dan berat, bukan rakit yang diseret dari bawah. Perhitungan gaya (Forsyth & Uyeda, 1975) menunjukkan bahwa lempeng yang memiliki zona subduksi panjang, seperti Lempeng Pasifik dan Nazca, bergerak paling cepat, sehingga **tarikan lempeng** (_slab pull_) dianggap gaya terbesar; dorongan punggungan lebih kecil, dan gesekan di dasar lempeng bisa menahan gerak, bukan mendorongnya. Punggungan tengah samudera umumnya bersifat **pasif**: mantel naik ke punggungan karena lempeng saling menjauh, bukan sebaliknya. Buktinya, punggungan dapat berpindah tempat dan bahkan ikut menunjam, seperti punggungan Pasifik–Farallon yang sebagian besar telah menunjam di bawah Amerika Utara.
+>
+> **Untuk soal:** Ketiga gaya penggerak tetap disebutkan, tetapi urutkan menurut besarnya (_slab pull_ terbesar) dan jelaskan bahwa konveksi dan gerak lempeng adalah satu sistem.
+
+<img width="520" alt="Gaya penggerak lempeng: ridge push, slab pull, dan traksi konveksi" src="https://commons.wikimedia.org/wiki/Special:FilePath/Ridge_push.png?width=1040" />\
+Gaya-gaya penggerak lempeng: dorongan punggungan (_ridge push_) di punggungan tengah samudera, tarikan lempeng (_slab pull_) di zona subduksi pada kedua sisi, dan traksi konveksi (panah kuning) di bawah lempeng. **Logikanya:** litosfer samudera makin dingin dan berat saat menjauhi punggungan, sehingga lempeng meluncur menuruni lereng punggungan dan bagian yang menunjam menarik sisa lempeng di belakangnya. Panah konveksi pada gambar menggambarkan pandangan klasik; kajian kini menilai traksi konveksi jauh lebih kecil daripada tarikan lempeng. _Sumber: [Push pull](https://commons.wikimedia.org/wiki/File:Ridge_push.png), CC BY-SA 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
+> 🖼️ **[TAMBAH-GAMBAR]** Gambar di atas sekaligus mengisi usulan gambar gaya penggerak lempeng pada subbab 2.2; blok usulan di sana dapat dihapus.
 
 ## 2.3. Batas Lempeng
 Berdasarkan arah geraknya, pertemuan lempeng Bumi dapat diklasifikasikan menjadi:
@@ -251,12 +286,12 @@ Batas lempeng transform dapat membentuk punggungan atau barisan perbukitan renda
 > ✏️ **[FLAG-ISI]** Versi lama menyebut punggungan perbukitan sebagai ciri utama batas transform. Ciri ini hanya salah satu bentukan lokal; materi kini dilengkapi dengan ciri-ciri lainnya.
 
 <img width="420" alt="Sesar transform pada punggungan tengah samudera" src="https://commons.wikimedia.org/wiki/Special:FilePath/Transform_fault-1.svg?width=840" />\
-Sesar transform (merah) yang menghubungkan dua segmen punggungan tengah samudera; panah biru menunjukkan arah gerak kerak, dan zona rekahan yang tidak aktif ditandai warna cokelat. _Sumber: [Los688](https://commons.wikimedia.org/wiki/File:Transform_fault-1.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Sesar transform (merah) yang menghubungkan dua segmen punggungan tengah samudera; panah biru menunjukkan arah gerak kerak, dan warna cokelat menandai zona rekahan. **Logikanya:** setiap lempeng bergerak menjauhi punggungannya. Di antara dua ujung segmen punggungan, kedua blok bergerak berlawanan arah sehingga terjadi gesekan aktif dan gempa; bagian inilah sesar transform yang sesungguhnya. Di luar segmen itu, kedua blok bergerak searah sehingga tidak ada pergeseran relatif, dan yang tersisa hanyalah bekas rekahan yang tidak aktif (zona rekahan). _Sumber: [Los688](https://commons.wikimedia.org/wiki/File:Transform_fault-1.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
 <img width="775" alt="Ringkasan tipe batas lempeng" src="https://commons.wikimedia.org/wiki/Special:FilePath/Tectonic_plate_boundaries.png?width=1550" />\
-Penampang yang merangkum tipe-tipe batas lempeng: retakan benua, punggungan tengah samudera, sesar transform, subduksi samudera–samudera (busur kepulauan), subduksi samudera–benua, dan titik panas. _Sumber: [José F. Vigil, USGS](https://commons.wikimedia.org/wiki/File:Tectonic_plate_boundaries.png), domain publik (USGS) (Wikimedia Commons)._
+Penampang yang merangkum semua tipe batas lempeng beserta bentukannya: retakan benua (batas divergen muda), punggungan tengah samudera, sesar transform, subduksi samudera–samudera yang membentuk palung dan busur kepulauan, subduksi samudera–benua dengan gunungapi strato, serta gunungapi perisai di atas titik panas. Litosfer digambarkan menumpang di atas astenosfer. **Logikanya:** setiap bentukan mencerminkan arah gerak lempeng. Lempeng yang saling menjauh menghasilkan rekahan dan punggungan; lempeng yang saling mendekat menghasilkan palung dan busur gunungapi; titik panas muncul di tengah lempeng karena sumbernya berada jauh di mantel, bukan di batas lempeng. _Sumber: [José F. Vigil, USGS](https://commons.wikimedia.org/wiki/File:Tectonic_plate_boundaries.png), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. Usulan tabel ringkasan dalam teks tetap berlaku; gambar ini pelengkapnya.
 
@@ -269,15 +304,29 @@ Penampang yang merangkum tipe-tipe batas lempeng: retakan benua, punggungan teng
 - Magma titik panas samudera bersifat basaltik dan membentuk gunungapi perisai.
 
 <img width="800" alt="Titik panas Hawaii" src="https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii_hotspot_cross-sectional_diagram.jpg?width=1600" />\
-Penampang titik panas Hawaii beserta gumpalan mantel di bawahnya. Lempeng Pasifik bergerak ke barat laut di atas titik panas yang relatif diam, sehingga pulau-pulau makin tua ke arah barat laut. _Sumber: [Joel E. Robinson, USGS](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg), domain publik (USGS) (Wikimedia Commons)._
+Penampang titik panas Hawaii beserta gumpalan mantel yang diperkirakan ada di bawahnya. **Logikanya:** sumber magma (gumpalan mantel) relatif diam, sedangkan Lempeng Pasifik bergerak ke barat laut di atasnya. Gunungapi yang terbentuk di atas titik panas ikut terbawa lempeng, terputus dari sumber magmanya, lalu padam, tererosi, dan amblas. Hasilnya adalah rantai pulau yang makin tua dan makin rendah ke arah barat laut, sedangkan gunungapi aktif selalu berada di ujung tenggara (Pulau Hawaii). _Sumber: [Joel E. Robinson, USGS](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
+
+
+> 🔬 **[KAJIAN-KINI] Titik panas tidak benar-benar diam**
+>
+> **Narasi umum:** Gumpalan mantel diam di tempatnya, sehingga rantai gunungapi seperti Hawaii–Emperor merekam arah gerak lempeng secara tepat.
+>
+> **Kajian terkini:** Data paleomagnetisme batuan gunung bawah laut Emperor (Tarduno dkk., 2003) menunjukkan bahwa titik panas Hawaii **bergeser ke selatan** beberapa sentimeter per tahun sekitar 80–50 juta tahun lalu. Artinya, tikungan tajam rantai Hawaii–Emperor (sekitar 47 juta tahun lalu) tidak hanya disebabkan perubahan arah gerak Lempeng Pasifik, tetapi juga oleh pergeseran gumpalan mantelnya. Keberadaan gumpalan mantel dari batas inti–mantel juga sempat diperdebatkan; sebagian ahli berpendapat banyak titik panas bersumber dangkal di astenosfer. Tomografi seismik (French & Romanowicz, 2015) kemudian memperlihatkan kolom mantel panas yang lebar dari dekat batas inti–mantel di bawah beberapa titik panas besar, termasuk Hawaii, sehingga hipotesis gumpalan mantel didukung untuk titik panas utama, tetapi tidak untuk semua.
+>
+> **Untuk soal:** Jelaskan pembentukan rantai gunungapi titik panas sesuai model baku, lalu sebutkan bahwa titik panas dapat bergeser jika diminta menafsirkan tikungan Hawaii–Emperor.
+
+<img width="360" alt="Rantai gunung bawah laut Hawaii–Emperor" src="https://commons.wikimedia.org/wiki/Special:FilePath/Hawaii-Emperor_engl.png?width=720" />\
+Rantai Kepulauan Hawaii (kanan bawah) dan gunung bawah laut Emperor (memanjang ke utara) di dasar Samudera Pasifik. **Cara membaca:** umur gunung makin tua dari Hawaii ke arah barat laut lalu ke utara; tikungan di antara keduanya berumur sekitar 47 juta tahun. **Logikanya:** jika titik panas benar-benar diam, tikungan itu sepenuhnya mencerminkan perubahan arah Lempeng Pasifik; data paleomagnetisme menunjukkan bahwa sebagian tikungan juga disebabkan titik panasnya sendiri bergeser. _Sumber: [Ingo Wölbern](https://commons.wikimedia.org/wiki/File:Hawaii-Emperor_engl.png), domain publik (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
 ## 2.5. Siklus Wilson
 - Perubahan pola konveksi mantel menyebabkan suatu batas lempeng dapat berubah tipe. Gerakan divergen membentuk samudera, sedangkan gerakan konvergen membuat samudera menyempit hingga akhirnya menutup. Siklus ini disebut **Siklus Wilson**.
 
 <img width="772" height="593" alt="Siklus Wilson" src="https://github.com/user-attachments/assets/f15685cc-b21b-425d-80fa-eec1306b22b6" />\
-Enam tahap Siklus Wilson, dari pemekaran benua hingga tabrakan benua.
+Enam tahap Siklus Wilson (A–F), dari retaknya sebuah benua hingga tabrakan dua benua (lihat tabel di bawah). **Cara membaca:** ikuti tahapnya secara berurutan sambil memperhatikan lebar samuderanya. Pada tahap A–C, pemekaran membuat samudera makin lebar. Setelah zona subduksi terbentuk di tepi samudera (D), kerak samudera habis "ditelan" lebih cepat daripada pembentukannya, sehingga samudera menyempit (E) hingga akhirnya menutup ketika dua benua bertabrakan (F). Siklus ini menjelaskan mengapa batuan dasar samudera tertua hanya berumur ±180 juta tahun, sedangkan batuan benua bisa berumur miliaran tahun. _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi **tidak punya keterangan**. Keterangan di atas usulan baru. Tambahkan sumber gambar.
 
@@ -298,7 +347,7 @@ Enam tahap Siklus Wilson, dari pemekaran benua hingga tabrakan benua.
 - Terdapat 7 lempeng utama dunia: Pasifik, Amerika Utara, Amerika Selatan, Eurasia, Afrika, Antarktika, dan Indo-Australia. Selain itu terdapat banyak lempeng minor, seperti Filipina, Nazca, Cocos, Karibia, Arab, dan Juan de Fuca.
 
 <img width="839" height="568" alt="Peta Lempeng Dunia" src="https://github.com/user-attachments/assets/5a4207cd-f91f-4b0d-b9ff-837c4384d04a" />\
-Peta lempeng tektonik utama dunia beserta tipe batasnya.
+Peta lempeng-lempeng utama dunia. **Cara membaca:** cari ketujuh lempeng besar (Pasifik, Amerika Utara, Amerika Selatan, Eurasia, Afrika, Antartika, Indo-Australia), lalu perhatikan bahwa batas lempeng tidak selalu berimpit dengan garis pantai. Sebagian besar lempeng memuat kerak benua **sekaligus** kerak samudera; Lempeng Afrika, misalnya, mencakup separuh dasar Samudera Atlantik hingga punggungan tengahnya. Hanya Lempeng Pasifik yang hampir seluruhnya berupa kerak samudera, sehingga tepinya dikelilingi zona subduksi (Cincin Api Pasifik). _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi **tidak punya keterangan**. Keterangan di atas usulan baru. Tambahkan sumber gambar.
 
@@ -315,7 +364,7 @@ Peta lempeng tektonik utama dunia beserta tipe batasnya.
 - Secara geologi, Indonesia dibagi menjadi **Paparan Sunda** (bagian Lempeng Eurasia), **Paparan Sahul** (bagian Lempeng Indo-Australia), dan zona peralihan **Wallacea** di antara keduanya.
 
 <img width="750" alt="Tatanan lempeng di sekitar Indonesia" src="https://commons.wikimedia.org/wiki/Special:FilePath/Plate_setting_Sunda_megathrust.png?width=1500" />\
-Tatanan lempeng di sekitar Indonesia beserta vektor geraknya. IN = Lempeng India, BU = Burma, SU = Sunda, MS = Laut Maluku, BS = Laut Banda, TI = Timor, BH = Kepala Burung, PS = Laut Filipina, AU = Australia. _Sumber: [Eric Gaba (Sting), turunan oleh Mikenorton](https://commons.wikimedia.org/wiki/File:Plate_setting_Sunda_megathrust.png), CC BY-SA 2.5 (Wikimedia Commons)._
+Tatanan lempeng di sekitar Indonesia beserta vektor geraknya: IN = Lempeng India, BU = Burma, SU = Sunda, MS = Laut Maluku, BS = Laut Banda, TI = Timor, BH = Kepala Burung, PS = Laut Filipina, AU = Australia. **Logikanya:** Lempeng India dan Australia bergerak ke utara relatif terhadap Lempeng Sunda dan menunjam di sepanjang Palung Sunda (megathrust Sunda). Di Jawa, tumbukannya hampir tegak lurus palung; di Sumatra, arahnya miring (_oblique_) sehingga sebagian gerakannya "dibuang" ke Sesar Sumatra yang mendatar. Di Indonesia timur, banyak lempeng kecil terjepit di antara Australia, Pasifik, dan Laut Filipina, sehingga tatanannya jauh lebih rumit. _Sumber: [Eric Gaba (Sting), turunan oleh Mikenorton](https://commons.wikimedia.org/wiki/File:Plate_setting_Sunda_megathrust.png), CC BY-SA 2.5 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
@@ -332,7 +381,7 @@ Suatu benda dapat disebut mineral apabila memiliki 5 sifat berikut ini:
 4. Mempunyai struktur kristalin: atom tersusun membentuk pola geometri tertentu yang berulang. Terdapat 7 sistem kristal, yaitu isometrik (kubik), tetragonal, ortorombik, monoklin, triklin, heksagonal, dan trigonal (rombohedral).
 
    <img width="772" height="960" alt="7 sistem kristal" src="https://github.com/user-attachments/assets/06d760f6-9fd9-49e5-b3f9-dd068edd4837" />\
-   Tujuh sistem kristal beserta contoh mineralnya.
+   Tujuh sistem kristal. **Dasar pembagiannya:** panjang ketiga sumbu kristal (a, b, c) dan besar sudut di antaranya. Makin banyak sumbu yang sama panjang dan saling tegak lurus, makin tinggi simetrinya. Isometrik memiliki tiga sumbu sama panjang dan saling tegak lurus (contoh umum: halit, pirit, garnet), sedangkan triklin memiliki tiga sumbu tidak sama panjang dan tidak ada yang tegak lurus (contoh umum: plagioklas). Contoh umum sistem lainnya: tetragonal (zirkon), ortorombik (olivin), monoklin (gipsum), heksagonal (beril), dan trigonal (kuarsa, kalsit). _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 5. Memiliki komposisi kimia tertentu: dapat dituliskan sebagai rumus kimia (boleh dalam rentang tertentu, misalnya olivin (Mg,Fe)₂SiO₄).
 
@@ -346,7 +395,7 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 3. **Massa Jenis**: massa per satuan volume.
 4. **Kilap (_luster_)**: karakteristik pemantulan cahaya pada mineral. Kilap mineral dibagi menjadi kilap logam dan non-logam. Kilap non-logam meliputi kilap intan (_adamantine_), kilap kaca (_vitreous_), kilap lemak (_greasy/waxy_), kilap tanah (_earthy/dull_), kilap resin, kilap mutiara (_pearly_), dan kilap sutra (_silky_).\
    <img width="699" height="537" alt="Kilap mineral" src="https://github.com/user-attachments/assets/2f520bb4-d731-4b95-b7d9-cb67582d0a80" />\
-   Contoh berbagai jenis kilap mineral.
+   Contoh berbagai jenis kilap mineral. **Logikanya:** kilap ditentukan oleh cara permukaan mineral memantulkan dan membiaskan cahaya. Mineral logam tidak tembus cahaya dan memantulkan hampir semua cahaya sehingga tampak berkilau seperti logam. Pada mineral non-logam, kilapnya bergantung pada indeks bias dan tekstur permukaan: indeks bias sangat tinggi menghasilkan kilap intan, permukaan licin menghasilkan kilap kaca, susunan berlapis menghasilkan kilap mutiara, susunan serat halus menghasilkan kilap sutra, dan butiran sangat halus yang menyebarkan cahaya menghasilkan kilap tanah. _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 5. **Cerat (_streak_)**: warna bubuk mineral yang diperoleh dengan menggoreskannya pada keping porselen. Cerat lebih dapat diandalkan daripada warna; misalnya hematit berwarna hitam keperakan tetapi ceratnya merah kecokelatan.
 6. **Kekerasan**: lihat skala Mohs di bawah.
@@ -356,12 +405,12 @@ Mineral diidentifikasi berdasarkan senyawa kimia penyusunnya dan sifat fisiknya.
 > ⚠️ **[FLAG-GAMBAR]** Gambar kilap termuat normal, tetapi belum punya keterangan; keterangan di atas usulan baru.
 
 <img width="320" alt="Belahan mika" src="https://commons.wikimedia.org/wiki/Special:FilePath/Mica_-_Silicate_Mineral.jpg?width=640" /> <img width="320" alt="Pecahan konkoidal kuarsa" src="https://commons.wikimedia.org/wiki/Special:FilePath/Frattura_concoide_di_quarzo.JPG?width=640" />\
-Kiri: mika membelah menjadi lembaran tipis mengikuti satu arah belahan. Kanan: kuarsa tidak memiliki belahan dan menghasilkan pecahan konkoidal seperti kaca. _Sumber: [LeafPiece](https://commons.wikimedia.org/wiki/File:Mica_-_Silicate_Mineral.jpg), lisensi: cek halaman berkas; [Sailko](https://commons.wikimedia.org/wiki/File:Frattura_concoide_di_quarzo.JPG), CC BY 3.0 (Wikimedia Commons)._
+Kiri: mika (silikat lembaran) terbelah menjadi lembaran-lembaran tipis sejajar. Kanan: kuarsa dengan permukaan pecahan konkoidal yang melengkung seperti cangkang kerang. **Logikanya:** pada mika, ikatan antar-lembaran silikat jauh lebih lemah daripada ikatan di dalam lembaran, sehingga mineral selalu membelah di bidang lemah itu (1 arah belahan). Pada kuarsa, kerangka SiO₄ terikat sama kuat ke segala arah sehingga tidak ada bidang lemah, dan batuan pecah tidak beraturan seperti kaca. _Sumber: [LeafPiece](https://commons.wikimedia.org/wiki/File:Mica_-_Silicate_Mineral.jpg), lisensi: cek halaman berkas; [Sailko](https://commons.wikimedia.org/wiki/File:Frattura_concoide_di_quarzo.JPG), CC BY 3.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
 <img width="640" alt="Cerat hematit" src="https://commons.wikimedia.org/wiki/Special:FilePath/Hematite_streak_plate.jpg?width=1280" />\
-Hematit, baik yang berkilap logam maupun berkilap tanah, sama-sama menghasilkan cerat merah kecokelatan pada keping porselen. Cerat lebih konsisten daripada warna mineral. _Sumber: [KarlaPanchuk](https://commons.wikimedia.org/wiki/File:Hematite_streak_plate.jpg), CC BY-SA 4.0 (Wikimedia Commons)._
+Dua contoh hematit, satu berkilap logam dan satu berkilap tanah, menghasilkan cerat yang sama, yaitu merah kecokelatan, pada keping porselen. **Logikanya:** warna dan kilap sebongkah mineral dipengaruhi kondisi permukaan, ukuran kristal, dan pengotor. Dengan menggerusnya menjadi bubuk, pengaruh permukaan itu hilang dan yang tampak hanyalah warna bawaan mineralnya. Karena itu, cerat lebih dapat diandalkan daripada warna untuk identifikasi. _Sumber: [KarlaPanchuk](https://commons.wikimedia.org/wiki/File:Hematite_streak_plate.jpg), CC BY-SA 4.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
@@ -380,7 +429,7 @@ Skala Mohs membantu identifikasi cepat di lapangan menggunakan benda pembanding,
 - Material penyusun batuan terus didaur ulang dalam sebuah siklus, sehingga tidak memiliki titik awal dan akhir. Pembentukan batuan umumnya dijelaskan melalui tahap-tahap berikut:
 
 <img width="705" height="382" alt="Siklus Batuan" src="https://github.com/user-attachments/assets/eec8a8da-a74f-4c2c-9ad1-5ad455c088ab" />\
-Siklus batuan: hubungan antara magma, batuan beku, sedimen, batuan sedimen, dan batuan metamorf.
+Siklus batuan: hubungan antara magma, batuan beku, sedimen, batuan sedimen, dan batuan metamorf. **Cara membaca:** setiap panah adalah satu proses, dan setiap kotak adalah hasilnya. Siklus ini tidak harus dilalui berurutan. Batuan apa pun bisa meleleh menjadi magma, tersingkap lalu lapuk menjadi sedimen, atau terkubur lalu termetamorfosis. Batuan beku, misalnya, dapat langsung termetamorfosis tanpa menjadi batuan sedimen lebih dulu. Proses mana yang terjadi ditentukan oleh posisi batuan: di permukaan batuan lapuk dan tererosi, sedangkan di kedalaman batuan terpanaskan, tertekan, atau meleleh. _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi belum punya keterangan; keterangan di atas usulan baru.
 
@@ -440,7 +489,7 @@ Siklus batuan: hubungan antara magma, batuan beku, sedimen, batuan sedimen, dan 
      - Mineral mafik (basa) memiliki titik beku lebih tinggi daripada mineral felsik (asam).
 
        <img width="833" height="486" alt="Deret Reaksi Bowen" src="https://github.com/user-attachments/assets/e0a4658a-ef72-4058-8218-d72cb5e57c5f" />\
-       Deret Bowen memiliki 2 cabang: deret diskontinu di kiri dan deret kontinu di kanan. Deret kontinu menunjukkan penurunan kadar kalsium dan peningkatan kadar natrium pada plagioklas feldspar ((Ca,Na)(Al,Si)₄O₈), dari anortit (kaya Ca) hingga albit (kaya Na). Deret diskontinu (olivin → piroksen → amfibol → biotit) terdiri atas mineral yang struktur kristalnya berbeda-beda. Di suhu terendah, kedua cabang bertemu dan mengkristalkan K-feldspar, muskovit, dan kuarsa (SiO₂), yang memiliki titik leleh paling rendah.
+       Deret Bowen memiliki 2 cabang: deret diskontinu di kiri dan deret kontinu di kanan. Deret kontinu menunjukkan penurunan kadar kalsium dan peningkatan kadar natrium pada plagioklas feldspar ((Ca,Na)(Al,Si)₄O₈), dari anortit (kaya Ca) hingga albit (kaya Na). Deret diskontinu (olivin → piroksen → amfibol → biotit) terdiri atas mineral yang struktur kristalnya berbeda-beda. Di suhu terendah, kedua cabang bertemu dan mengkristalkan K-feldspar, muskovit, dan kuarsa (SiO₂), yang memiliki titik leleh paling rendah. Kolom di sisi kiri gambar menghubungkan deret ini dengan jenis magma: basalt (mengkristal pada suhu tinggi), andesit, dan riolit (suhu rendah). Bagian atas diagram bertanda suhu tinggi dan kristalisasi awal, bagian bawah suhu rendah dan kristalisasi akhir.
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi memuat tanda hak cipta **"©1998 Encyclopaedia Britannica, Inc."**. Cantumkan sumbernya, atau ganti dengan versi berlisensi bebas di bawah ini.
 
@@ -453,7 +502,7 @@ Siklus batuan: hubungan antara magma, batuan beku, sedimen, batuan sedimen, dan 
 
 - Klasifikasi komposisi magma berdasarkan mineral yang dibentuk yaitu:\
   <img width="1024" height="768" alt="Klasifikasi Komposisi Mineral Magma" src="https://github.com/user-attachments/assets/c558ce12-d389-4276-9209-27e3233f3687" />\
-  Komposisi mineral batuan beku dari felsik hingga ultramafik.
+  Komposisi mineral batuan beku dari felsik hingga ultramafik. **Cara membaca:** setiap kolom adalah satu kelompok komposisi, dan judulnya memuat nama batuan intrusif dan ekstrusifnya (granit/riolit, diorit/andesit, gabro/basalt, peridotit/komatiit). Tarik garis tegak di posisi mana pun; lebar setiap bidang warna yang terpotong garis itu menunjukkan persentase mineralnya. Batang-batang di bawah diagram memperlihatkan tren dari kiri ke kanan: kadar silika turun, kalium dan natrium berkurang, besi-magnesium-kalsium bertambah, dan suhu mulai meleleh naik. **Logikanya:** urutan mineral dari kanan ke kiri (olivin → piroksen → amfibol → biotit → kuarsa) sama dengan urutan Deret Bowen, karena mineral bertitik leleh tinggi mendominasi magma yang panas dan miskin silika.
   - Diagram menunjukkan komposisi magma berdasarkan mineral yang dibentuknya.
   - Komposisi asam disebut juga felsik atau granitik, intermediet disebut juga andesitik, basa disebut juga mafik atau basaltik, dan ultrabasa disebut juga ultramafik.
   - Bagian tengah diagram menunjukkan persentase mineral pada tiap klasifikasi, misalnya komposisi paling asam mengandung ±20% kuarsa, ±60% K-feldspar, dan sisanya plagioklas serta muskovit.
@@ -476,7 +525,7 @@ Siklus batuan: hubungan antara magma, batuan beku, sedimen, batuan sedimen, dan 
 > ✏️ **[FLAG-ISI]** Tekstur porfiritik, vesikuler, dan piroklastik ditambahkan karena sering keluar di soal identifikasi batuan IGeo.
 
 <img width="170" alt="Granit (faneritik)" src="https://commons.wikimedia.org/wiki/Special:FilePath/Granite_47_%2849201189712%29.jpg?width=600" /> <img width="170" alt="Basalt (afanitik)" src="https://commons.wikimedia.org/wiki/Special:FilePath/Basalt_6_%2848674790187%29.jpg?width=600" /> <img width="170" alt="Andesit porfiritik" src="https://commons.wikimedia.org/wiki/Special:FilePath/Porphyritic_andesite_%28Kate_Peak_Formation%2C_Middle_Miocene%3B_Lyon_County%2C_western_Nevada%2C_USA%29_%2815661069958%29.jpg?width=600" /> <img width="170" alt="Obsidian (gelas)" src="https://commons.wikimedia.org/wiki/Special:FilePath/Obsidian_5.jpg?width=600" />\
-Dari kiri ke kanan: granit (faneritik), basalt (afanitik), andesit (porfiritik, dengan fenokris plagioklas putih), dan obsidian (gelas). Ukuran kristal mencerminkan kecepatan pendinginan. _Sumber: [James St. John](https://commons.wikimedia.org/wiki/File:Granite_47_%2849201189712%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Basalt_6_%2848674790187%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Porphyritic_andesite_%28Kate_Peak_Formation%2C_Middle_Miocene%3B_Lyon_County%2C_western_Nevada%2C_USA%29_%2815661069958%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Obsidian_5.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Dari kiri ke kanan: **granit**, dengan kristal kasatmata (faneritik): kuarsa abu-abu bening, K-feldspar merah muda, plagioklas putih keabuan, dan hornblende hitam; **basalt**, dengan kristal terlalu halus untuk dilihat (afanitik); **andesit porfiritik**, dengan fenokris plagioklas putih keabuan di dalam massa dasar halus; dan **obsidian**, gelas alami tanpa kristal dengan pecahan konkoidal. **Logikanya:** ukuran kristal mencerminkan waktu pendinginan. Magma yang membeku perlahan di kedalaman memberi waktu bagi kristal untuk tumbuh besar (granit). Lava yang membeku cepat di permukaan menghasilkan kristal halus (basalt). Pendinginan dua tahap, lambat di dapur magma lalu cepat saat erupsi, menghasilkan dua ukuran kristal (andesit porfiritik). Pendinginan yang sangat cepat, atau lava yang sangat kental, tidak memberi kesempatan atom tersusun menjadi kristal (obsidian). _Sumber: [James St. John](https://commons.wikimedia.org/wiki/File:Granite_47_%2849201189712%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Basalt_6_%2848674790187%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Porphyritic_andesite_%28Kate_Peak_Formation%2C_Middle_Miocene%3B_Lyon_County%2C_western_Nevada%2C_USA%29_%2815661069958%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Obsidian_5.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan. Foto James St. John di Commons umumnya berasal dari Flickr dengan lisensi CC BY 2.0, tetapi tetap cek tiap berkas.
 
@@ -499,7 +548,7 @@ Dari kiri ke kanan: granit (faneritik), basalt (afanitik), andesit (porfiritik, 
 > 🆕 **[BAGIAN-BARU]** Bentuk-bentuk intrusi ditambahkan karena sering dipakai bersama hukum potong-memotong di soal stratigrafi.
 
 <img width="450" alt="Bentuk tubuh intrusi" src="https://commons.wikimedia.org/wiki/Special:FilePath/Intrusion_types.svg?width=900" />\
-Bentuk-bentuk tubuh intrusi: 1 lakolit, 2 dike kecil, 3 batolit, 4 dike, 5 sill, 6 leher vulkanik, 7 lopolit. Sill sejajar lapisan batuan, sedangkan dike memotong lapisan. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Intrusion_types.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Tipe-tipe tubuh intrusi: 1 lakolit, 2 dike kecil (apofisis), 3 batolit, 4 dike, 5 sill, 6 leher vulkanik (pipa kepundan), 7 lopolit. **Cara membedakan:** lihat hubungannya dengan perlapisan batuan di sekitarnya. Intrusi yang **sejajar** lapisan (_konkordan_) adalah sill (tipis dan datar), lakolit (cembung ke atas sehingga lapisan di atasnya terangkat menjadi kubah), dan lopolit (cekung seperti piring). Intrusi yang **memotong** lapisan (_diskordan_) adalah dike dan leher vulkanik. Batolit adalah tubuh intrusi raksasa yang dasarnya tidak terlihat. Menurut hukum potong-memotong, semua intrusi ini lebih muda daripada batuan yang diterobosnya. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Intrusion_types.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
@@ -516,12 +565,13 @@ Bentuk-bentuk tubuh intrusi: 1 lakolit, 2 dike kecil, 3 batolit, 4 dike, 5 sill,
 - Batuan sedimen yang tidak terbentuk dari pecahan batuan dapat terbentuk dari pengendapan mineral dari larutan (batuan sedimen **kimiawi**) atau dari aktivitas makhluk hidup (batuan sedimen **biokimiawi/organik**).
   - Batuan sedimen kimiawi dan biologis diklasifikasikan berdasarkan jenis mineral pembentuknya.
 - Klasifikasi batuan sedimen yaitu:\
-  <img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />
+  <img width="1017" height="694" alt="Klasifikasi Batuan Sedimen" src="https://github.com/user-attachments/assets/98dd8632-d046-4bdb-81d6-0e82ae0f8257" />\
+  Klasifikasi batuan sedimen. **Cara membaca:** tentukan dulu kelompoknya. Jika batuan tersusun atas butiran pecahan batuan lain (klastik), namanya ditentukan oleh ukuran butir dan bentuknya: konglomerat atau breksi untuk butir kerikil (membulat atau menyudut), batupasir untuk butir pasir, batulanau untuk lanau, dan serpih atau batulempung untuk lempung. Jika tidak klastik, namanya ditentukan oleh komposisi mineralnya: batugamping (kalsit), dolomit, rijang (silika), batugaram dan gipsum (evaporit), atau batubara (sisa tumbuhan). **Logikanya:** ukuran butir mencerminkan energi arus pengangkutnya. Arus kuat seperti sungai deras masih mampu membawa kerikil, sedangkan lempung baru dapat mengendap di air yang tenang. _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar skala Wentworth (gambar ke-16) masih memakai alt bawaan **"image"** dan tidak punya keterangan. Alt dan keterangan sudah diganti. Cocokkan istilah Indonesia pada keterangan dengan istilah yang Anda pakai di halaman lain.
 
 <img width="640" alt="Perlapisan silang-siur" src="https://commons.wikimedia.org/wiki/Special:FilePath/PotsdamSandstone_xbeds.jpg?width=1280" />\
-Perlapisan silang-siur (_cross-bedding_) pada Batupasir Potsdam (Kambrium), New York. Lapisan miring terbentuk di sisi bukit pasir yang membelakangi arus, sedangkan bidang batas antarset kurang lebih sejajar bidang perlapisan. _Sumber: [Michael C. Rygel](https://commons.wikimedia.org/wiki/File:PotsdamSandstone_xbeds.jpg), CC BY-SA 3.0 (Wikimedia Commons)._
+Perlapisan silang-siur pada Batupasir Potsdam (Kambrium), New York. Bidang batas antar-set lapisan hampir mendatar dan sejajar dengan perlapisan utama, sedangkan lapisan-lapisan miring di dalam setiap set adalah perlapisan silang-siurnya. **Logikanya:** arus air atau angin menggerakkan butiran pasir menaiki sisi landai sebuah gumuk, lalu butiran itu longsor di sisi curam yang membelakangi arus. Sisi curam inilah yang terawetkan sebagai lapisan miring. Karena itu, arah kemiringan lapisan menunjukkan arah arus purba. _Sumber: [Michael C. Rygel](https://commons.wikimedia.org/wiki/File:PotsdamSandstone_xbeds.jpg), CC BY-SA 3.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber. Belum ada gambar untuk perlapisan bersusun, riak gelombang, dan rekahan lumpur; kategori Commons "Sedimentary structures" bisa dipakai untuk mencarinya.
 
@@ -532,10 +582,11 @@ Perlapisan silang-siur (_cross-bedding_) pada Batupasir Potsdam (Kambrium), New 
 - Batuan metamorf berfoliasi umumnya terbentuk akibat metamorfisme regional. Urutan dari derajat rendah ke tinggi untuk protolit serpih: **serpih → sabak → filit → sekis → gneiss → (migmatit)**.
 - Batuan metamorf tanpa foliasi umumnya terbentuk akibat metamorfisme kontak atau dari protolit bermineral tunggal. Contohnya marmer (dari batugamping), kuarsit (dari batupasir kuarsa), dan hornfels.
 - Klasifikasi batuan metamorf yang umum yaitu sebagai berikut:\
-  <img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />
+  <img width="990" height="593" alt="Klasifikasi Batuan Metamorf" src="https://github.com/user-attachments/assets/ac1c96c5-1b23-4dc9-b68f-b414ca757c91" />\
+  Klasifikasi batuan metamorf. **Cara membaca:** pisahkan dulu batuan yang berfoliasi dan yang tidak. Batuan berfoliasi diurutkan menurut derajat metamorfismenya (sabak → filit → sekis → gneiss), dengan ukuran kristal dan kejelasan foliasi yang makin besar. Batuan tidak berfoliasi dinamai menurut mineral dominannya, yang biasanya mencerminkan batuan induknya: marmer berasal dari batugamping (kalsit) dan kuarsit dari batupasir kuarsa. **Logikanya:** foliasi hanya terbentuk jika ada tekanan terarah dan mineral pipih seperti mika yang dapat menjajar. Batuan yang hampir seluruhnya tersusun atas satu mineral berbutir membulat, seperti kalsit atau kuarsa, tetap tidak berfoliasi meskipun tertekan. _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 <img width="170" alt="Sabak" src="https://commons.wikimedia.org/wiki/Special:FilePath/Slate_%28Knife_Lake_Formation%2C_metamorphism_at_2.7_Ga%2C_Neoarchean%3B_Rt._135_roadcut%2C_Gilbert%2C_Minnesota%2C_USA%29_7_%2823399440262%29.jpg?width=600" /> <img width="170" alt="Filit" src="https://commons.wikimedia.org/wiki/Special:FilePath/Phyllite_%28French_Slate%2C_Paleoproterozoic%3B_Snowy_Range_Road_roadcut%2C_Medicine_Bow_Mountains%2C_Wyoming%2C_USA%29_8_%2845625222381%29.jpg?width=600" /> <img width="170" alt="Sekis mika" src="https://commons.wikimedia.org/wiki/Special:FilePath/Rocks_-_Micaschist.JPG?width=600" /> <img width="170" alt="Gneiss" src="https://commons.wikimedia.org/wiki/Special:FilePath/Gneiss_2_%2833239757534%29.jpg?width=600" />\
-Dari kiri ke kanan: sabak, filit, sekis mika, dan gneiss. Derajat metamorfisme yang makin tinggi menghasilkan kristal yang makin besar, dari belahan sabak yang halus hingga pita terang-gelap pada gneiss. _Sumber: [James St. John](https://commons.wikimedia.org/wiki/File:Slate_%28Knife_Lake_Formation%2C_metamorphism_at_2.7_Ga%2C_Neoarchean%3B_Rt._135_roadcut%2C_Gilbert%2C_Minnesota%2C_USA%29_7_%2823399440262%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Phyllite_%28French_Slate%2C_Paleoproterozoic%3B_Snowy_Range_Road_roadcut%2C_Medicine_Bow_Mountains%2C_Wyoming%2C_USA%29_8_%2845625222381%29.jpg), lisensi: cek halaman berkas; [Khruner](https://commons.wikimedia.org/wiki/File:Rocks_-_Micaschist.JPG), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Gneiss_2_%2833239757534%29.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Dari kiri ke kanan: **sabak**, sangat halus dan mudah dibelah menjadi lempengan; **filit**, tersusun atas mika mikrokristalin dengan kilap agak mengilap dan bidang foliasi yang sedikit berkerut; **sekis mika** yang mengandung garnet dan staurolit; dan **gneiss** kuarsa-biotit dengan pita terang (kuarsa) dan gelap (biotit). **Logikanya:** sabak, filit, dan sekis dapat berasal dari protolit yang sama, yaitu serpih. Makin tinggi suhu dan tekanan, mineral mika tumbuh makin besar sehingga kilapnya makin jelas. Mineral indeks seperti garnet dan staurolit menandai derajat metamorfisme menengah. Pada derajat tinggi, mineral terang dan gelap memisah membentuk pita-pita (gneiss). _Sumber: [James St. John](https://commons.wikimedia.org/wiki/File:Slate_%28Knife_Lake_Formation%2C_metamorphism_at_2.7_Ga%2C_Neoarchean%3B_Rt._135_roadcut%2C_Gilbert%2C_Minnesota%2C_USA%29_7_%2823399440262%29.jpg), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Phyllite_%28French_Slate%2C_Paleoproterozoic%3B_Snowy_Range_Road_roadcut%2C_Medicine_Bow_Mountains%2C_Wyoming%2C_USA%29_8_%2845625222381%29.jpg), lisensi: cek halaman berkas; [Khruner](https://commons.wikimedia.org/wiki/File:Rocks_-_Micaschist.JPG), lisensi: cek halaman berkas; [James St. John](https://commons.wikimedia.org/wiki/File:Gneiss_2_%2833239757534%29.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
@@ -552,11 +603,20 @@ Analisis lapisan batuan didasarkan pada prinsip-prinsip berikut. Tiga prinsip pe
 6. **Suksesi fauna** (_faunal succession_; William Smith): fosil muncul dalam urutan tertentu, sehingga lapisan dengan kumpulan fosil yang sama berumur sama. Fosil yang sebarannya luas tetapi rentang hidupnya pendek disebut **fosil indeks**.
 
 <img width="990" height="610" alt="Hukum Steno" src="https://github.com/user-attachments/assets/fbdcf03a-d558-4ecb-adbc-e35f51d0de0a" />\
-Ilustrasi prinsip-prinsip stratigrafi.
+Ilustrasi prinsip-prinsip stratigrafi. **Cara memakainya untuk menyusun urutan kejadian:** (1) urutkan lapisan sedimen dari bawah ke atas menurut prinsip superposisi; (2) lapisan yang miring atau terlipat berarti mengalami deformasi **setelah** semua lapisan itu diendapkan (horizontalitas asli); (3) intrusi atau sesar yang memotong lapisan lebih muda daripada semua lapisan yang dipotongnya (potong-memotong); (4) lapisan yang terputus oleh lembah atau erosi dapat dikorelasikan dengan pasangannya di seberang (kesinambungan lateral). _(**[FLAG-CEK]** Keterangan ini menjelaskan konsepnya; detail yang tampak di gambar belum saya cocokkan secara visual.)_
 
 > ✏️ **[FLAG-ISI]** Versi lama menyebut 4 "hukum Steno". Hubungan potong-memotong umumnya dikaitkan dengan **James Hutton**, sedangkan Steno merumuskan superposisi, horizontalitas asli, dan kesinambungan lateral. Prinsip inklusi dan suksesi fauna ditambahkan karena keduanya standar di soal penentuan urutan kejadian.
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi belum punya keterangan; keterangan di atas usulan baru.
+
+
+> 🔬 **[KAJIAN-KINI] Uniformitarianisme: "masa kini kunci masa lalu" dengan catatan**
+>
+> **Narasi umum:** Proses geologi selalu berlangsung lambat dan bertahap dengan laju yang sama sepanjang sejarah Bumi (uniformitarianisme Hutton dan Lyell).
+>
+> **Kajian terkini:** Geologi kini memakai **aktualisme**: hukum alam dan jenis proses di masa lalu sama dengan masa kini, tetapi **laju dan intensitasnya** dapat sangat berbeda. Peristiwa katastrofik terbukti membentuk rekaman geologi, misalnya tumbukan asteroid Chicxulub 66 juta tahun lalu yang memicu kepunahan massal, letusan supervulkan Toba ±74.000 tahun lalu, dan banjir raksasa Missoula di AS pada zaman es. Rekaman stratigrafi juga lebih banyak berisi celah daripada endapan (Ager, 1973): sebagian besar waktu terwakili oleh ketidakselarasan dan masa tanpa pengendapan, sedangkan lapisan tebal dapat terbentuk dalam satu kejadian singkat seperti banjir atau aliran turbidit.
+>
+> **Untuk soal:** Gunakan prinsip uniformitarianisme untuk menafsirkan batuan berdasarkan proses masa kini, tetapi akui peran peristiwa katastrofik dan celah dalam rekaman batuan.
 
 ## 4.2. Ketidakselarasan (_Unconformity_)
 > 🆕 **[BAGIAN-BARU]**
@@ -569,12 +629,12 @@ Ilustrasi prinsip-prinsip stratigrafi.
   4. **Paraconformity**: lapisan sejajar tanpa bidang erosi yang jelas, sehingga hanya dapat dikenali dari rumpang umur fosilnya.
 
 <img width="500" alt="Jurus dan kemiringan" src="https://commons.wikimedia.org/wiki/Special:FilePath/Strike_and_dip_on_bedding.svg?width=1000" />\
-Cara mengukur jurus dan kemiringan pada lapisan sedimen yang miring, serta penggambarannya dengan simbol di peta geologi. _Sumber: [CrunchyRocks, berdasarkan Karla Panchuk](https://commons.wikimedia.org/wiki/File:Strike_and_dip_on_bedding.svg), CC BY 4.0 (Wikimedia Commons)._
+Cara mengukur jurus dan kemiringan pada lapisan miring, serta simbolnya di peta geologi. **Logikanya:** jurus adalah garis potong bidang lapisan dengan bidang horizontal, seperti garis air jika lapisan itu dicelupkan ke kolam. Kemiringan diukur tegak lurus jurus karena hanya pada arah itulah sudutnya paling besar; diukur ke arah lain, sudutnya lebih kecil (kemiringan semu). Di peta, garis panjang simbol "T" menunjukkan arah jurus, garis pendeknya menunjuk arah kemiringan, dan angkanya adalah besar sudut kemiringan. _Sumber: [CrunchyRocks, berdasarkan Karla Panchuk](https://commons.wikimedia.org/wiki/File:Strike_and_dip_on_bedding.svg), CC BY 4.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
 <img width="560" alt="Antiklin dan sinklin" src="https://commons.wikimedia.org/wiki/Special:FilePath/Syncline_and_anticline.svg?width=1120" />\
-Antiklin (batuan tertua di inti) dan sinklin (batuan termuda di inti). _Sumber: [Tcie (versi SVG)](https://commons.wikimedia.org/wiki/File:Syncline_and_anticline.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Skema sinklin dan antiklin pada perlapisan dua jenis batuan. **Logikanya:** antiklin dan sinklin dibedakan dari urutan umur batuannya, bukan dari bentuk permukaan tanah. Pada antiklin, lapisan tertua berada di inti lipatan dan kedua sayapnya miring menjauhi sumbu. Pada sinklin, lapisan termuda berada di inti dan kedua sayapnya miring ke arah sumbu. Ini penting karena setelah erosi, antiklin tidak selalu tampil sebagai bukit dan sinklin tidak selalu tampil sebagai lembah. _Sumber: [Tcie (versi SVG)](https://commons.wikimedia.org/wiki/File:Syncline_and_anticline.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan. Versi JPG aslinya (`Syncline and anticline.jpg`) berlisensi CC BY-SA 2.5.
 
@@ -592,12 +652,12 @@ Antiklin (batuan tertua di inti) dan sinklin (batuan termuda di inti). _Sumber: 
   - Batas-batas utamanya ditandai **kepunahan massal**, misalnya akhir Perm (252 juta tahun lalu) dan akhir Kapur (66 juta tahun lalu).
 
 <img width="380" alt="Jenis-jenis sesar" src="https://commons.wikimedia.org/wiki/Special:FilePath/Fault_types.svg?width=760" />\
-Tiga jenis sesar utama: sesar mendatar (geser), sesar normal (tarikan), dan sesar naik/_thrust_ (tekanan), lengkap dengan label _hanging wall_ (atap) dan _footwall_ (alas). _Sumber: [Karta24, berdasarkan USGS](https://commons.wikimedia.org/wiki/File:Fault_types.svg), domain publik (USGS) (Wikimedia Commons)._
+Tiga jenis sesar utama dengan label _hanging wall_ (atap) dan _footwall_ (alas): sesar mendatar (_strike slip_), sesar normal, dan sesar naik/_thrust_. **Cara membedakan:** perhatikan gerak blok atap, yaitu blok yang berada di atas bidang sesar. Jika atap **turun**, kerak sedang diregangkan (tegasan tarik) dan sesarnya disebut sesar normal. Jika atap **naik**, kerak sedang dimampatkan (tegasan tekan) dan sesarnya disebut sesar naik; disebut _thrust_ bila bidang sesarnya landai. Jika kedua blok bergeser **mendatar** tanpa naik-turun, sesarnya disebut sesar mendatar, akibat tegasan geser. _Sumber: [Karta24, berdasarkan USGS](https://commons.wikimedia.org/wiki/File:Fault_types.svg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
 <img width="534" alt="Horst dan graben" src="https://commons.wikimedia.org/wiki/Special:FilePath/Fault-Horst-Graben.svg?width=1068" />\
-Horst (blok terangkat) dan graben (blok turun) yang dibatasi sesar-sesar normal di zona regangan kerak. _Sumber: [USGS, SVG oleh Gregors](https://commons.wikimedia.org/wiki/File:Fault-Horst-Graben.svg), domain publik (USGS) (Wikimedia Commons)._
+Sistem horst dan graben di zona regangan kerak; setengah-panah menunjukkan gerak relatif di setiap bidang sesar normal. **Logikanya:** saat kerak ditarik, kerak patah menjadi blok-blok yang dibatasi sesar normal. Blok yang kedua sisinya turun relatif terhadap tetangganya disebut **graben** (lembah terban), sedangkan blok yang tertinggal tinggi di antara dua graben disebut **horst**. Lembah retakan seperti di Afrika Timur adalah graben berukuran besar. _Sumber: [USGS, SVG oleh Gregors](https://commons.wikimedia.org/wiki/File:Fault-Horst-Graben.svg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
@@ -615,7 +675,7 @@ Horst (blok terangkat) dan graben (blok turun) yang dibatasi sesar-sesar normal 
 - Contoh penulisan: N 45° E / 30° SE.
 
 <img width="190" alt="Ketidakselarasan sudut" src="https://commons.wikimedia.org/wiki/Special:FilePath/Angular_unconformity.jpg?width=600" /> <img width="190" alt="Disconformity" src="https://commons.wikimedia.org/wiki/Special:FilePath/Disconformity.jpg?width=600" /> <img width="190" alt="Nonconformity" src="https://commons.wikimedia.org/wiki/Special:FilePath/Nonconformity.jpg?width=600" /> <img width="190" alt="Paraconformity" src="https://commons.wikimedia.org/wiki/Special:FilePath/Paraconformity.jpg?width=600" />\
-Empat jenis ketidakselarasan, dari kiri ke kanan: ketidakselarasan sudut, _disconformity_, _nonconformity_, dan _paraconformity_. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Angular_unconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Disconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Nonconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Paraconformity.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Dari kiri ke kanan: ketidakselarasan sudut, _disconformity_, _nonconformity_, dan _paraconformity_. **Cara membedakan:** perhatikan apa yang ada di bawah bidang ketidakselarasan. Lapisan miring atau terlipat di bawah dan lapisan mendatar di atas = **ketidakselarasan sudut**: batuan pernah terdeformasi dan tererosi sebelum pengendapan berlanjut. Lapisan sejajar di atas dan di bawah, dipisahkan bidang erosi yang bergelombang = **_disconformity_**. Batuan beku atau metamorf di bawah lapisan sedimen = **_nonconformity_**: batuan dari kedalaman pernah terangkat dan tersingkap. Lapisan sejajar tanpa bidang erosi yang jelas = **_paraconformity_**, yang hanya dapat dikenali dari rumpang umur fosil. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Angular_unconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Disconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Nonconformity.jpg), lisensi: cek halaman berkas; [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Paraconformity.jpg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
@@ -641,12 +701,12 @@ Empat jenis ketidakselarasan, dari kiri ke kanan: ketidakselarasan sudut, _disco
 > 🔍 **[FLAG-CEK]** Pilih contoh graben/horst di Indonesia yang sesuai dengan rujukan Anda, karena contoh yang beredar di buku sekolah tidak selalu disepakati.
 
 <img width="512" alt="Peluruhan radioaktif dan waktu paruh" src="https://commons.wikimedia.org/wiki/Special:FilePath/Radiometric_Dating.svg?width=1024" />\
-Peluruhan radioaktif. Setiap satu waktu paruh, isotop induk yang tersisa tinggal separuhnya: 50%, 25%, 12,5%, dan seterusnya, sementara isotop anak bertambah. _Sumber: [Carie Frantz](https://commons.wikimedia.org/wiki/File:Radiometric_Dating.svg), CC BY-SA 4.0 (Wikimedia Commons)._
+Ilustrasi peluruhan radioaktif dan waktu paruh. **Logikanya:** isotop induk meluruh menjadi isotop anak dengan laju yang tetap, tidak terpengaruh suhu maupun tekanan. Setiap satu waktu paruh, separuh isotop induk yang tersisa berubah menjadi isotop anak (100% → 50% → 25% → 12,5%, dan seterusnya). Dengan mengukur perbandingan induk dan anak dalam mineral, kita dapat menghitung berapa kali waktu paruh telah berlalu sejak mineral itu terbentuk, lalu mengalikannya dengan waktu paruh isotop tersebut untuk mendapatkan umur batuan. _Sumber: [Carie Frantz](https://commons.wikimedia.org/wiki/File:Radiometric_Dating.svg), CC BY-SA 4.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber.
 
 <img width="520" alt="Jam geologi" src="https://commons.wikimedia.org/wiki/Special:FilePath/Kala_Geologi_dengan_Perisitiwa_dan_Kurun_id.svg?width=1040" />\
-Sejarah Bumi selama ±4,6 miliar tahun yang diproyeksikan pada sebuah jam, beserta peristiwa-peristiwa penting (versi bahasa Indonesia). _Sumber: [Woudloper dkk., terjemahan Indonesia](https://commons.wikimedia.org/wiki/File:Kala_Geologi_dengan_Perisitiwa_dan_Kurun_id.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Sejarah Bumi selama ±4,6 miliar tahun yang diproyeksikan pada sebuah jam, beserta peristiwa-peristiwa penting. **Cara membaca:** perhatikan betapa sempitnya sektor Fanerozoikum, masa ketika kehidupan kompleks melimpah, dibandingkan Prakambrium yang mengisi hampir 90% jam. Manusia baru muncul di detik-detik terakhir. _Sumber: [Woudloper dkk., terjemahan Indonesia](https://commons.wikimedia.org/wiki/File:Kala_Geologi_dengan_Perisitiwa_dan_Kurun_id.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan. Nama berkas di Commons memang ditulis "Perisitiwa"; jangan dikoreksi atau tautannya akan rusak. Untuk soal yang menuntut angka batas umur terbaru, tetap rujuk bagan ICS di stratigraphy.org.
 
@@ -664,14 +724,23 @@ Sejarah Bumi selama ±4,6 miliar tahun yang diproyeksikan pada sebuah jam, beser
   - Letak episentrum ditentukan dengan **triangulasi** dari minimal 3 stasiun seismik.
 
 <img width="512" alt="Kedatangan gelombang P dan S" src="https://commons.wikimedia.org/wiki/Special:FilePath/Seismic_wave_arrival_diagram.svg?width=1024" />\
-Makin jauh stasiun dari episentrum, makin besar selisih waktu tiba gelombang P dan S (S−P). Selisih inilah yang dipakai untuk menghitung jarak episentrum. _Sumber: [Carie Frantz](https://commons.wikimedia.org/wiki/File:Seismic_wave_arrival_diagram.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Rekaman kedatangan gelombang P dan S di stasiun-stasiun yang makin jauh dari sumber gempa. **Logikanya:** kedua gelombang berangkat bersamaan, tetapi gelombang P lebih cepat. Seperti dua pelari dengan kecepatan berbeda, makin jauh jarak tempuhnya, makin jauh pula selisih waktu tibanya. Karena itu, selisih waktu S−P pada seismogram dapat diubah langsung menjadi jarak stasiun ke episentrum. _Sumber: [Carie Frantz](https://commons.wikimedia.org/wiki/File:Seismic_wave_arrival_diagram.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
 <img width="600" alt="Penentuan episentrum dengan triangulasi" src="https://commons.wikimedia.org/wiki/Special:FilePath/Determining_epicenter.png?width=1200" />\
-Penentuan episentrum dengan triangulasi: lingkaran jarak dari tiga stasiun seismik berpotongan di satu titik. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Determining_epicenter.png), lisensi: cek halaman berkas (Wikimedia Commons)._
+Penentuan episentrum dengan triangulasi pada peta. Di sekeliling setiap stasiun seismik digambar lingkaran dengan jari-jari sama dengan jarak episentrum yang dihitung dari selisih S−P. **Logikanya:** satu stasiun hanya memberi tahu **jarak**, bukan arah, sehingga episentrum bisa berada di titik mana pun pada lingkaran. Dua lingkaran berpotongan di dua titik, dan baru lingkaran ketiga yang memastikan satu titik potong, yaitu episentrum. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Determining_epicenter.png), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
+
+
+> 🔬 **[KAJIAN-KINI] "Skala Richter" dan ramalan gempa**
+>
+> **Narasi umum:** Kekuatan gempa diukur dengan skala Richter, dan gempa dapat diramalkan dari tanda alam seperti perilaku hewan atau "awan gempa".
+>
+> **Kajian terkini:** Skala Richter (magnitudo lokal, M_L, 1935) dibuat untuk gempa di California dengan seismograf tertentu dan **jenuh** pada gempa besar (sekitar M 7), sehingga gempa yang jauh lebih besar tetap terbaca hampir sama. Gempa besar kini diukur dengan **magnitudo momen** (M_w; Kanamori, 1977) yang dihitung dari luas bidang sesar, besar pergeseran, dan kekakuan batuan. BMKG dan USGS melaporkan "magnitudo" (umumnya M_w untuk gempa besar), bukan "skala Richter" seperti yang sering ditulis media. Hingga kini **belum ada metode yang terbukti** dapat meramalkan waktu, tempat, dan besar gempa secara tepat; klaim perilaku hewan dan awan gempa tidak terbukti secara ilmiah. Yang dapat dilakukan adalah **prakiraan peluang** jangka panjang (misalnya Peta Sumber dan Bahaya Gempa Indonesia 2017) dan **peringatan dini** yang memberi beberapa detik hingga puluhan detik sebelum guncangan kuat tiba. Rumus Laska hanya pendekatan kasar yang populer di buku sekolah Indonesia; seismolog memakai tabel waktu tempuh gelombang.
+>
+> **Untuk soal:** Pakai istilah magnitudo (bukan skala Richter) dan intensitas (MMI). Jika ditanya prediksi gempa, jelaskan perbedaan ramalan, prakiraan peluang, dan peringatan dini.
 
 ## 6.2. Vulkanisme
 - Sebaran gunungapi berkaitan dengan tatanan tektoniknya: zona subduksi (gunungapi strato, magma andesitik, letusan eksplosif), punggungan tengah samudera dan retakan benua (erupsi celah, basaltik), serta titik panas (gunungapi perisai, basaltik).
@@ -685,12 +754,12 @@ Penentuan episentrum dengan triangulasi: lingkaran jarak dari tiga stasiun seism
 - **Gejala pascavulkanik**: solfatara (gas belerang), fumarol (uap air), mofet (CO₂), sumber air panas, dan geiser.
 
 <img width="240" alt="Gunungapi perisai" src="https://commons.wikimedia.org/wiki/Special:FilePath/Shield_volcano.jpg?width=600" /> <img width="240" alt="Gunungapi strato" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stratovolcano.jpg?width=600" /> <img width="240" alt="Kerucut sinder" src="https://commons.wikimedia.org/wiki/Special:FilePath/Cinder_cone_volcano.jpg?width=600" />\
-Dari kiri ke kanan: gunungapi perisai, gunungapi strato (komposit), dan kerucut sinder. Bentuknya dipengaruhi kekentalan magma: magma basaltik yang encer membentuk lereng landai, sedangkan magma andesitik yang kental membentuk kerucut curam. _Sumber: [USGS](https://commons.wikimedia.org/wiki/File:Shield_volcano.jpg), domain publik (USGS); [USGS](https://commons.wikimedia.org/wiki/File:Stratovolcano.jpg), lisensi: cek halaman berkas; [USGS](https://commons.wikimedia.org/wiki/File:Cinder_cone_volcano.jpg), domain publik (USGS) (Wikimedia Commons)._
+Struktur dalam tiga tipe gunungapi (diagram USGS). **Gunungapi perisai** (kiri) tersusun atas banyak aliran lava tipis yang menumpuk sehingga lerengnya landai dan melebar. **Gunungapi strato** (tengah) tersusun atas perselingan lapisan lava dan abu/piroklastik di atas dapur magma, membentuk kerucut tinggi dan curam. **Kerucut sinder** (kanan) tersusun atas fragmen skoria lepas yang menumpuk di sekitar satu kawah, dan lavanya sering keluar dari kaki kerucut. **Logikanya:** lava basaltik yang encer mengalir jauh sebelum membeku sehingga membentuk perisai yang landai. Magma andesitik yang kental dan kaya gas sering meletus eksplosif, sehingga lapisan lava berselang-seling dengan endapan abu. Fragmen yang dilontarkan jatuh di dekat kawah dan menumpuk pada sudut lereng maksimum (±30–35°), membentuk kerucut sinder. _Sumber: [USGS](https://commons.wikimedia.org/wiki/File:Shield_volcano.jpg), domain publik (USGS); [USGS](https://commons.wikimedia.org/wiki/File:Stratovolcano.jpg), lisensi: cek halaman berkas; [USGS](https://commons.wikimedia.org/wiki/File:Cinder_cone_volcano.jpg), domain publik (USGS) (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
 <img width="650" alt="Penampang gunungapi strato" src="https://commons.wikimedia.org/wiki/Special:FilePath/Stratovolcano_cross-section.svg?width=1300" />\
-Penampang gunungapi strato: A aliran magma, B pipa kepundan utama, C kerucut piroklastik di lereng (kerucut parasit), D aliran lava, E sill, F endapan piroklastik, G kawah, H pipa kepundan lama. _Sumber: [Woudloper](https://commons.wikimedia.org/wiki/File:Stratovolcano_cross-section.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Penampang gunungapi strato: A = magma yang naik melalui pipa kepundan utama, B = pipa kepundan utama, C = kerucut piroklastik di lereng (kerucut parasit), D = aliran lava, E = sill, F = endapan piroklastik, G = kawah beserta isiannya, H = pipa kepundan lama. **Logikanya:** tubuh gunungapi strato dibangun oleh letusan yang berganti-ganti antara efusif (aliran lava, D) dan eksplosif (endapan piroklastik, F), sehingga lapisannya berselang-seling. Magma tidak selalu keluar melalui jalur utama; sebagian menerobos ke samping membentuk sill (E) atau keluar di lereng membentuk kerucut parasit (C). Pipa lama (H) menunjukkan bahwa jalur keluar magma dapat berpindah dari waktu ke waktu. _Sumber: [Woudloper](https://commons.wikimedia.org/wiki/File:Stratovolcano_cross-section.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.
 
@@ -703,6 +772,6 @@ Penampang gunungapi strato: A aliran magma, B pipa kepundan utama, C kerucut pir
 - **Panas bumi**: Indonesia memiliki salah satu potensi panas bumi terbesar di dunia karena berada di busur vulkanik.
 
 <img width="600" alt="Perangkap minyak antiklin" src="https://commons.wikimedia.org/wiki/Special:FilePath/Structural_Trap_%28Anticlinal%29.svg?width=1200" />\
-Perangkap minyak pada antiklin. Gas, minyak, dan air tersusun menurut densitasnya di bawah batuan penutup yang kedap. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Structural_Trap_%28Anticlinal%29.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
+Perangkap hidrokarbon pada antiklin: batuan reservoir (kuning) tempat minyak (merah) terkumpul, dan batuan penutup (hijau) yang mencegah minyak keluar. **Logikanya:** minyak lebih ringan daripada air yang mengisi pori batuan, sehingga minyak terus bergerak ke atas melalui batuan reservoir yang berpori dan permeabel. Pada antiklin, gerakan ke atas itu terhenti di puncak lipatan karena tertutup batuan penutup yang kedap, sehingga minyak terkumpul di sana. Inilah alasan pengeboran minyak sering diarahkan ke puncak antiklin. _Sumber: [lihat halaman berkas](https://commons.wikimedia.org/wiki/File:Structural_Trap_%28Anticlinal%29.svg), lisensi: cek halaman berkas (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan langsung dari Wikimedia Commons. Lisensi sudah dicantumkan di baris sumber; yang tertulis "cek halaman berkas" belum saya pastikan.

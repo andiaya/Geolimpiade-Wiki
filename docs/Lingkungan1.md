@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 18 gambar, semuanya termuat normal dan tidak terdistorsi di tampilan
@@ -148,6 +151,15 @@ Peta bioma (warna) dan ekozone/alam biogeografi (garis merah dan label) menurut 
 
     > ⚠️ **[FLAG-GAMBAR]** Gambar membagi kanopi menjadi dua (kanopi atas dan bawah), sedangkan teks hanya memuat empat lapisan; sebaiknya diselaraskan. Sumber gambar ("Figure 8") belum dicantumkan.
 
+
+
+> 🔬 **[KAJIAN-KINI] Batas ekozone dan Garis Wallace tidak setegas di peta**
+>
+> **Narasi umum:** Bumi terbagi menjadi delapan ekozone dengan batas yang jelas, dan Garis Wallace adalah batas tegas fauna Asia dan Australia.
+>
+> **Kajian terkini:** Pembagian alam biogeografi pertama kali disusun Wallace (1876) dan terus diperbarui. Holt dkk. (2013), menggunakan data sebaran dan kekerabatan lebih dari 21.000 spesies vertebrata, membagi dunia menjadi **11 alam** dan 20 wilayah, termasuk alam baru seperti Sino-Jepang dan Saharo-Arab. Garis-garis di Indonesia juga lebih merupakan **zona peralihan** daripada garis: letaknya berbeda menurut kelompok makhluk hidup yang dipakai (burung, mamalia, serangga, atau tumbuhan), Wallace sendiri merevisi garisnya, dan Huxley (1868) menarik garis yang memasukkan Filipina ke sisi timur. Itulah sebabnya Wallacea, bukan satu garis, menjadi konsep yang paling banyak dipakai.
+>
+> **Untuk soal:** Sebutkan letak Garis Wallace, Weber, dan Lydekker sesuai buku ajar, lalu jelaskan bahwa batas-batas itu bersifat peralihan dan bergantung pada kelompok makhluk hidup yang dikaji.
 
 ## 1.3. Hubungan Antar Makhluk Hidup
 - Hubungan antar makhluk hidup dalam lingkungan yaitu:
@@ -418,6 +430,20 @@ Perbandingan model Gersmehl untuk taiga, hutan hujan tropis, dan gurun. **Cara m
 
 <img width="640" height="360" alt="Suksesi" src="https://github.com/user-attachments/assets/936e0a1c-ea95-456e-b515-025e4637ebe1" />\
 Suksesi primer (kiri) dan sekunder (kanan): lahan tandus → spesies pionir → komunitas antara → komunitas klimaks. Pada suksesi sekunder, gangguan (_perturbation_) seperti kebakaran mengembalikan ekosistem ke komunitas antara, lalu berkembang menuju komunitas klimaks (2) yang dapat berbeda dari klimaks semula. **Cara membedakan:** suksesi sekunder lebih cepat karena tanah dan bank benih sudah ada, sehingga tidak perlu dimulai dari pembentukan tanah.
+
+
+> 🔬 **[KAJIAN-KINI] Suksesi tidak selalu menuju satu klimaks**
+>
+> **Narasi umum:** Suksesi berjalan teratur melalui tahapan yang sama hingga mencapai satu komunitas klimaks yang stabil dan seimbang, yang ditentukan oleh iklim.
+>
+> **Kajian terkini:** Pandangan ini berasal dari Clements (1916), yang menganggap komunitas sebagai "superorganisme". Gleason (1926) membantahnya: setiap spesies merespons lingkungan secara individual, sehingga komposisi komunitas sebagian ditentukan kebetulan, misalnya spesies mana yang lebih dulu tiba. Ekologi kini menekankan **gangguan** (kebakaran, badai, erupsi, serangan hama) sebagai bagian normal ekosistem, sehingga banyak bentang alam berupa mosaik petak dengan tahap suksesi yang berbeda-beda. Satu tempat juga dapat berakhir pada **keadaan stabil alternatif**; misalnya, hutan yang berulang kali terbakar dapat bertahan sebagai padang alang-alang. Gagasan "keseimbangan alam" yang statis kini dianggap mitos; yang ada adalah ekosistem yang terus berubah dalam batas tertentu. Kolonisasi Krakatau sejak 1883 juga menunjukkan bahwa urutan kedatangan spesies sangat bergantung pada penyebaran oleh angin, laut, dan burung.
+>
+> **Untuk soal:** Jelaskan tahapan suksesi primer dan sekunder sesuai buku ajar, lalu pada soal analisis sebutkan peran gangguan dan kemungkinan hasil akhir yang berbeda.
+
+<img width="600" alt="Model suksesi klasik dan model non-ekuilibrium" src="{{ '/assets/images/kajian/model-suksesi.svg' | relative_url }}" />\
+Model suksesi klasik (kiri) dan pandangan kini (kanan). **Cara membandingkan:** model klasik memiliki satu jalur yang berakhir pada satu klimaks; model kini memiliki banyak jalur, dan gangguan (panah putus-putus oranye) dapat mengembalikan ekosistem ke tahap sebelumnya. Sebagian jalur berakhir pada keadaan stabil alternatif seperti padang rumput. **Logikanya:** hasil akhir suksesi bergantung pada spesies mana yang tiba lebih dulu dan seberapa sering gangguan terjadi, bukan hanya pada iklim. _Sumber: ilustrasi skematis buatan revisi ini._
+
+> 🎨 **[GAMBAR-BUATAN]** Unggah berkas `model-suksesi.svg` (terlampir) ke folder `assets/images/kajian/` di repo agar gambar ini tampil.
 
 # 5. Pembangunan Berkelanjutan
 ## 5.1. Konsep Pembangunan Berkelanjutan

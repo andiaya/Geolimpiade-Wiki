@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 9 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -69,6 +72,15 @@ Klasifikasi pusat permukiman berdasarkan ukurannya yaitu:
 - Di Indonesia, hierarki kota diatur dalam Rencana Tata Ruang Wilayah Nasional (PP No. 26 Tahun 2008 jo. PP No. 13 Tahun 2017): **Pusat Kegiatan Nasional** (PKN, misalnya Jakarta, Surabaya, Medan, Makassar), **Pusat Kegiatan Wilayah** (PKW), **Pusat Kegiatan Lokal** (PKL), serta **Pusat Kegiatan Strategis Nasional** (PKSN) di kawasan perbatasan.
 
 > 🆕 **[BAGIAN-BARU]** Konsep kota primat, aturan peringkat-ukuran, dan hierarki kota RTRWN belum ada di wiki, padahal sering muncul dalam soal hitungan dan analisis.
+
+
+> 🔬 **[KAJIAN-KINI] Kota primat dan aturan peringkat-ukuran**
+>
+> **Narasi umum:** Kota primat adalah tanda keterbelakangan, dan sistem kota yang "sehat" mengikuti aturan peringkat-ukuran.
+>
+> **Kajian terkini:** Jefferson (1939) mengaitkan kota primat dengan negara yang belum berkembang, tetapi kajian lanjutan tidak menemukan hubungan yang konsisten: kota primat ada di negara kaya (misalnya Prancis dengan Paris, Inggris dengan London, Korea Selatan dengan Seoul) maupun miskin. Primasi lebih berkaitan dengan luas wilayah, sejarah kolonial, sentralisasi politik, dan ibu kota yang sekaligus menjadi pelabuhan utama. Aturan peringkat-ukuran (hukum Zipf) memang cukup cocok untuk sistem kota banyak negara, tetapi pangkatnya bervariasi dan tidak ada bukti bahwa kesesuaian dengan aturan itu lebih "sehat". Gabaix (1999) menjelaskan pola Zipf sebagai hasil statistik dari pertumbuhan kota yang acak dan proporsional.
+>
+> **Untuk soal:** Hitung indeks primasi dan aturan peringkat-ukuran sesuai rumus; pada soal interpretasi, hindari menyimpulkan bahwa primasi tinggi pasti berarti terbelakang.
 
 ## 1.4. Definisi Kota
 Definisi kota dapat dilakukan berdasarkan tiga dimensi:
@@ -147,6 +159,17 @@ Definisi kota dapat dilakukan berdasarkan tiga dimensi:
 
 > 🆕 **[BAGIAN-BARU]** Tahap-tahap urbanisasi dan konsep urbanisasi berlebih ditambahkan. Angka tingkat urbanisasi Indonesia perlu dicocokkan dengan publikasi BPS (Proyeksi Penduduk Hasil SP2020).
 
+
+
+> 🔬 **[KAJIAN-KINI] Urbanisasi tidak sama dengan migrasi desa-kota**
+>
+> **Narasi umum:** Pertumbuhan penduduk kota (urbanisasi) terutama disebabkan oleh perpindahan penduduk desa ke kota.
+>
+> **Kajian terkini:** Di negara berkembang, pertambahan alami penduduk kota dan **reklasifikasi** (desa yang berubah status menjadi perkotaan karena memenuhi kriteria kepadatan dan fasilitas) ikut menyumbang pertumbuhan penduduk kota. Kajian PBB atas data 1960–1990-an menemukan bahwa pertambahan alami saja rata-rata menyumbang sekitar 60% pertumbuhan penduduk kota di negara berkembang, sedangkan migrasi dan reklasifikasi bersama-sama sekitar 40% (Chen, Valente & Zlotnik, 1998). Di Indonesia, sebagian besar kenaikan tingkat urbanisasi juga berasal dari desa-desa di sekitar kota besar yang "menjadi kota" tanpa penduduknya pindah, seperti dalam konsep desakota. Angka tingkat urbanisasi juga sangat bergantung pada definisi: dengan definisi baku PBB _Degree of Urbanisation_ (2020), proporsi penduduk perkotaan dunia jauh lebih tinggi daripada menurut definisi nasional masing-masing negara.
+>
+> **Untuk soal:** Bedakan urbanisasi (kenaikan proporsi penduduk perkotaan), pertumbuhan kota, dan migrasi desa-kota. Sebutkan ketiga sumber pertumbuhan kota pada soal esai.
+
+> 🔍 **[FLAG-CEK]** Porsi sumbangan reklasifikasi terhadap urbanisasi Indonesia berbeda antarperiode dan antarkajian; cantumkan sumber jika ingin menyebut angka.
 
 # 2. Pola Perkotaan
 Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tertentu menempati lokasi spesifik di dalam kota.
@@ -229,6 +252,20 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
      - Ketika pusat perbelanjaan regional, taman perkantoran, dan bioskop bergabung di pinggiran di sekitar persimpangan jalan tol, mereka membentuk kota mandiri baru yang secara fungsional tidak lagi bergantung pada CBD historis.
      - Contoh: Tysons (Virginia) di pinggiran Washington, D.C.; Los Angeles sering disebut sebagai contoh kota polisentris tanpa satu pusat dominan. Di Indonesia, BSD City dan Lippo Karawaci di Tangerang memiliki ciri edge city.
 
+
+> 🔬 **[KAJIAN-KINI] Model Burgess, Hoyt, dan Harris-Ullman: kota Amerika 1920–1940-an**
+>
+> **Narasi umum:** Kota-kota tumbuh secara alami membentuk cincin, sektor, atau inti ganda melalui proses invasi dan suksesi seperti dalam ekologi tumbuhan.
+>
+> **Kajian terkini:** Ketiga model berasal dari kota-kota AS pada 1920–1940-an (Mazhab Chicago) dan memakai analogi ekologi (invasi, suksesi, dominasi). Analogi ini dikritik karena menganggap pola kota terbentuk "alami", padahal sangat dipengaruhi kekuasaan, pasar tanah, dan kebijakan. Contoh nyata: peta penilaian kredit HOLC tahun 1930-an memberi nilai "berbahaya" (merah) pada lingkungan berpenduduk kulit hitam dan imigran, sehingga kawasan itu sulit mendapat kredit rumah (_redlining_). Hoyt sendiri bekerja sebagai ekonom Federal Housing Administration, dan praktik penilaian lembaga itu ikut mengukuhkan segregasi. Mazhab Los Angeles (Dear & Flusty, 1998) berpendapat bahwa kota kontemporer lebih terfragmentasi dan polisentris, dengan pinggiran yang mengatur pusat, bukan sebaliknya. Model-model klasik tetap berguna sebagai alat pembanding.
+>
+> **Untuk soal:** Gunakan model klasik untuk mengidentifikasi zona pada peta atau citra, tetapi pada soal esai jelaskan bahwa pola kota dibentuk juga oleh kebijakan, pasar tanah, dan segregasi.
+
+<img width="460" alt="Peta redlining HOLC Chicago" src="https://commons.wikimedia.org/wiki/Special:FilePath/Home_Owners%27_Loan_Corp._%28HOLC%29_Neighborhood_Redlining_Grade_in_Chicago%2C_Illinois.png?width=920" />\
+Peta nilai lingkungan HOLC (1930-an) untuk Chicago, kota yang menjadi dasar model Burgess: hijau = "terbaik", biru = "masih diinginkan", kuning = "menurun", merah = "berbahaya". **Cara membaca:** wilayah merah mengelompok di sekitar pusat kota dan kawasan industri, yaitu zona transisi dalam model Burgess, dan lingkaran biru menandai lingkungan pemukiman kulit hitam. **Logikanya:** "zona transisi" bukan hanya hasil proses alami; penilaian kredit yang diskriminatif membuat kawasan itu kekurangan investasi selama puluhan tahun, sehingga pola yang digambarkan model justru diperkuat oleh kebijakan. _Sumber: [Joelean Hall (data Mapping Inequality)](https://commons.wikimedia.org/wiki/File:Home_Owners%27_Loan_Corp._%28HOLC%29_Neighborhood_Redlining_Grade_in_Chicago%2C_Illinois.png), CC BY-SA 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
 ## 2.4. Amerika Latin (Griffin-Ford)
 - Model ini menjelaskan struktur kota di Amerika Latin yang sangat dipengaruhi oleh kolonialisme Spanyol dan migrasi desa-kota yang masif.
   <img width="640" height="427" alt="Model kota Amerika Latin Griffin-Ford" src="https://github.com/user-attachments/assets/e86cd6a4-862d-4911-a1a2-52c42bd361f3" />\
@@ -280,6 +317,15 @@ Model pola perkotaan menjelaskan mengapa kelompok sosial dan fungsi ekonomi tert
   2. Mekanisme Koridor Penggunaan Lahan Campuran (_Mixed-Use Corridor_): Berbeda dengan negara maju yang punya zonasi ketat (_residential only_), di Asia Tenggara regulasi lemah dan kebutuhan ekonomi tinggi, sehingga tepi jalan raya menjadi zona penggunaan lahan campuran besar.
   3. Mekanisme Ekonomi Informal: Pedagang Kaki Lima (PKL) dan bengkel kecil menempel pada lalu lintas untuk mengakses lalu lintas manusia. Akibatnya, koridor jalan arteri menjadi pasar linier raksasa, dealer Mercedes-Benz berdampingan dengan tukang tambal ban.
   4. Mekanisme Desakota (Desa-Kota): Percampuran intensif antara aktivitas pertanian dan non-pertanian di pinggiran kota besar. Migran desa tidak pindah permanen ke pusat kota dan tinggal di _slum_, pabrik dan kawasan industri pindah ke desa. Petani berubah menjadi buruh pabrik paruh waktu. Sawah berubah menjadi kos-kosan untuk pekerja. Transportasi informal (ojek, angkot) berkembang pesat untuk menghubungkan desa-desa industri ini. Model ini menjelaskan mengapa batas tegas antara "Rural" dan "Urban" dalam model Burgess tidak berlaku di Asia.
+
+
+> 🔬 **[KAJIAN-KINI] Model McGee setelah setengah abad**
+>
+> **Narasi umum:** Kota Asia Tenggara tersusun seperti model McGee (1967): pelabuhan kolonial di pusat, zona komersial asing, dan permukiman liar di pinggiran.
+>
+> **Kajian terkini:** Model 1967 menggambarkan kota pelabuhan pascakolonial. McGee sendiri kemudian memperbarui pandangannya dengan konsep **desakota** dan **wilayah megaurban** (_extended metropolitan region_, 1991): pertumbuhan kini terjadi di koridor panjang yang mencampur sawah, pabrik, perumahan, dan permukiman desa, misalnya koridor Jakarta–Bandung dan Jakarta–Cikarang–Karawang. Kawasan industri, kota baru swasta (BSD, Lippo Cikarang), dan mal di pinggiran kini lebih menentukan bentuk kota daripada pelabuhan lama. Model Griffin-Ford juga telah diperbarui (Ford, 1996), karena kota Amerika Latin kini memiliki mal, kompleks perumahan berpagar, dan _edge city_.
+>
+> **Untuk soal:** Gunakan model McGee untuk menjelaskan warisan kolonial pada struktur kota, lalu tambahkan konsep desakota dan wilayah megaurban untuk kota Asia Tenggara masa kini.
 
 # 3. Segregasi dan Ketimpangan Perkotaan
 ## 3.1. Gated Community

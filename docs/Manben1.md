@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 1 gambar, termuat normal, tidak terdistorsi. Gambar siklus tidak punya
@@ -39,6 +42,15 @@ Menurut UU no. 24 Tahun 2007 tentang Penanggulangan Bencana, bencana adalah peri
 
 > ✏️ **[FLAG-ISI]** Salah ketik "tanah langsor" diperbaiki menjadi "tanah longsor".
 
+
+
+> 🔬 **[KAJIAN-KINI] Tidak ada bencana yang sepenuhnya "alam"**
+>
+> **Narasi umum:** Bencana alam disebabkan oleh faktor alam, seperti gempa, banjir, dan letusan gunung api.
+>
+> **Kajian terkini:** Sejak O'Keefe, Westgate, dan Wisner (1976), kajian kebencanaan membedakan **bahaya** (peristiwa alam) dari **bencana** (kerugian besar yang terjadi ketika bahaya mengenai masyarakat yang rentan). Gempa di gurun kosong bukan bencana; gempa yang sama di kota dengan bangunan rapuh dapat menjadi bencana besar. Karena itu PBB (UNDRR) menganjurkan istilah "bencana akibat bahaya alam", dan Kerangka Sendai berfokus pada pengurangan **risiko**, bukan sekadar penanganan kejadian. Pandangan ini juga menjelaskan mengapa kerugian bencana lebih banyak ditentukan oleh kemiskinan, tata ruang, dan kualitas bangunan daripada oleh besar kejadian alamnya (lihat model PAR di bawah).
+>
+> **Untuk soal:** UU No. 24 Tahun 2007 masih memakai kategori "bencana alam", jadi istilah itu tetap benar untuk klasifikasi. Pada soal analisis, jelaskan bahwa bencana = bahaya × kerentanan / kapasitas.
 
 # 2. Manajemen Bencana
 ## 2.1. Konsep Manajemen Bencana
@@ -112,6 +124,15 @@ Siklus manajemen bencana. **Cara membaca:** ikuti panah searah jarum jam mulai d
 
 > ⚠️ **[FLAG-GAMBAR]** Gambar termuat normal, tetapi garis putus-putusnya hanya membagi siklus menjadi PRABENCANA dan PASCA BENCANA, dengan Tanggap Darurat di sisi pascabencana. Agar sesuai UU 24/2007, sebaiknya Tanggap Darurat diberi label tersendiri "SAAT BENCANA". Keterangan di atas usulan baru.
 
+
+
+> 🔬 **[KAJIAN-KINI] Siklus manajemen bencana bukan urutan kaku**
+>
+> **Narasi umum:** Manajemen bencana berjalan berurutan: pra-bencana, tanggap darurat, lalu pascabencana, kemudian berulang.
+>
+> **Kajian terkini:** Dalam praktik, tahapan saling tumpang-tindih: pemulihan dimulai saat tanggap darurat masih berjalan, dan mitigasi seharusnya menjadi bagian dari setiap tahap. Model siklus juga dikritik karena membuat upaya dan dana terpusat pada tanggap darurat, padahal setiap rupiah untuk mitigasi menghemat beberapa kali lipat biaya pemulihan. Pendekatan kini menekankan **pengurangan risiko bencana** yang terintegrasi dengan perencanaan pembangunan dan tata ruang, serta prinsip **membangun kembali dengan lebih baik** (_build back better_, Kerangka Sendai): masa pemulihan dipakai untuk mengurangi kerentanan, bukan sekadar mengembalikan kondisi seperti semula. Contohnya, relokasi warga dari zona likuefaksi di Palu setelah 2018.
+>
+> **Untuk soal:** Sebutkan tahapan siklus sesuai UU 24/2007, lalu tunjukkan bahwa mitigasi dan pengurangan risiko harus melekat pada semua tahap.
 
 # 3. Deskripsi Detail
 Deskripsi detail akan membahas bahaya dan usaha mitigasi beberapa jenis bencana. Suatu fenomena dapat menimbulkan bahaya primer dan bahaya sekunder. Bahaya primer adalah bahaya yang timbul saat fenomena berlangsung, misalnya getaran tanah yang menimbulkan ambrukan bangunan saat gempa bumi. Sementara itu, bahaya sekunder adalah bahaya yang timbul karena fenomena tersebut, namun terjadi setelah fenomena berlangsung, misalnya kebakaran yang ditimbulkan oleh gempa bumi. 
@@ -233,6 +254,15 @@ Wilayah dengan material sedimen dapat mengalami fenomena amplifikasi gelombang g
 Likuefaksi merujuk pada fenomena berubahnya sifat tanah dari menyerupai padatan menjadi menyerupai cairan. Likuefaksi terjadi ketika getaran gempa menyebabkan berkurangnya gaya gesek antar partikel tanah dan terisinya ruang antar partikel tanah oleh air tanah. Akibatnya, tanah tidak dapat menahan beban permukaan. Manifestasi likuefaksi dapat berupa kegagalan pondasi bangunan, aliran tanah, dan keluarnya air dan lumpur ke permukaan tanah membentuk sand boils. Likuefaksi paling rawan terjadi pada pasir lepas yang jenuh air dengan muka air tanah dangkal. Contoh di Indonesia adalah aliran tanah di Petobo, Balaroa, dan Jono Oge saat gempa Palu 28 September 2018.
 
 Korban gempa bumi ditimbulkan karena kegagalan bangunan dan kebakaran. Kejadian gempa bumi yang tiba-tiba menjadikan waktu terjadinya gempa bumi sebagai faktor penentu penting jumlah korban gempa. Gempa bumi yang terjadi di malam hari akan menimbulkan korban lebih banyak daripada siang hari, karena masyarakat tidak dapat merespon gempa secara cepat ketika sedang tidur.
+
+
+> 🔬 **[KAJIAN-KINI] Magnitudo, bukan "skala Richter"; prakiraan, bukan ramalan**
+>
+> **Narasi umum:** Gempa diukur dengan skala Richter, dan gempa dapat diramalkan dari tanda alam.
+>
+> **Kajian terkini:** Skala Richter asli (M_L, 1935) jenuh pada gempa besar (sekitar M 7). Gempa besar kini diukur dengan magnitudo momen (M_w), yang dihitung dari luas bidang sesar dan besar pergeserannya. BMKG melaporkan "magnitudo", bukan skala Richter. Belum ada metode yang terbukti dapat meramalkan waktu, tempat, dan besar gempa secara tepat; klaim tentang perilaku hewan dan awan gempa tidak terbukti. Yang tersedia adalah **peta bahaya** berbasis peluang (misalnya Peta Sumber dan Bahaya Gempa Indonesia 2017) dan **peringatan dini** gempa serta tsunami (InaTEWS) yang bekerja setelah gempa terjadi.
+>
+> **Untuk soal:** Bedakan ramalan (waktu, tempat, besar), prakiraan peluang jangka panjang, dan peringatan dini; hanya dua yang terakhir yang secara ilmiah dapat dilakukan saat ini.
 
 ## 3.4. Tsunami
 Tsunami adalah gelombang laut dengan panjang gelombang panjang dan kecepatan tinggi yang terbentuk karena perpindahan tiba-tiba air laut. Perpindahan ini dapat disebabkan oleh geseran dasar laut saat gempa bumi, longsor (baik di atas maupun di bawah permukaan laut), letusan gunung api, atau jatuhnya meteorit. Contoh tsunami akibat letusan dan longsor tubuh gunung api adalah Krakatau 1883 dan Anak Krakatau 2018.

@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 7 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -114,6 +117,31 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
     - Ketika produk sudah dewasa (_mature_), produksi berpindah ke negara maju lain untuk menguasai pasar lokal negara maju. Ekspor dari negara asal inovasi berkurang. Sifat industri bergeser dari keterampilan tinggi ke padat modal (_capital intensive_).
     - Ketika produk sudah terstandar (_standardised_), produksi berpindah ke negara berkembang. Pemindahan ini dilakukan untuk melakukan produksi skala besar. Negara berkembang memberikan pekerja dengan harga murah untuk membangun skala tersebut. Produksi berubah menjadi padat karya (_labor intensive_). Negara asal berubah dari eksportir menjadi importir. Produksi di negara maju lain berkurang hingga akhirnya juga akan menjadi importir.
 
+
+> 🔬 **[KAJIAN-KINI] Von Thünen hari ini**
+>
+> **Narasi umum:** Penggunaan lahan pertanian selalu membentuk cincin-cincin konsentris di sekitar kota.
+>
+> **Kajian terkini:** Model von Thünen (1826) mengasumsikan dataran seragam, satu kota, dan angkutan dengan kereta kuda. Cincin seperti itu jarang terlihat sekarang karena truk berpendingin, jalan tol, dan pasar global. **Prinsip sewa lokasinya** tetap menjadi dasar teori sewa lahan dan model bid-rent Alonso. Pola von Thünen juga terlihat pada skala dunia ("von Thünen global", Peet, 1969): wilayah yang jauh dari pasar utama dunia cenderung menghasilkan komoditas ekstensif, misalnya peternakan di Australia dan Argentina. Di pinggiran kota yang tumbuh cepat, polanya sering **terbalik** (Sinclair, 1967): lahan pertanian paling dekat kota justru dibiarkan atau diusahakan seadanya, karena pemiliknya menunggu harga lahan naik untuk dijual menjadi perumahan. Gejala ini terlihat di pinggiran Jabodetabek.
+>
+> **Untuk soal:** Jelaskan model dengan asumsi-asumsinya, lalu tunjukkan bagaimana teknologi transportasi dan spekulasi lahan mengubah polanya.
+
+> 🔬 **[KAJIAN-KINI] Weber dan lokasi industri modern**
+>
+> **Narasi umum:** Pabrik memilih lokasi yang meminimalkan biaya transportasi bahan baku dan produk.
+>
+> **Kajian terkini:** Weber (1909) mengasumsikan perusahaan rasional dengan informasi lengkap, satu produk, dan biaya transportasi sebagai biaya terbesar. Saat ini biaya transportasi hanya bagian kecil dari biaya total sebagian besar industri, sehingga lokasi lebih ditentukan oleh **ketersediaan tenaga kerja terampil**, aglomerasi, akses pasar, harga lahan, dan **insentif kebijakan** (kawasan ekonomi khusus, keringanan pajak). Teori perilaku (Pred, 1967) menunjukkan bahwa perusahaan memilih lokasi yang "cukup baik" (_satisficing_) dengan informasi terbatas, bukan lokasi optimal. Bahkan industri pengurangan berat seperti smelter nikel di Morowali tumbuh pesat terutama karena **larangan ekspor bijih** sejak 2020, yang memaksa pengolahan dilakukan di dalam negeri, bukan semata karena perhitungan biaya angkut. Kini produksi juga dipecah ke banyak lokasi dalam rantai nilai global.
+>
+> **Untuk soal:** Logika segitiga Weber tetap dipakai untuk soal hitungan dan untuk industri yang beratnya banyak berkurang. Pada soal analisis lokasi industri modern, tambahkan faktor tenaga kerja, kebijakan, dan aglomerasi.
+
+> 🔬 **[KAJIAN-KINI] Siklus hidup produk Vernon di era rantai nilai global**
+>
+> **Narasi umum:** Inovasi selalu muncul di negara maju, lalu produksinya berpindah ke negara berkembang saat produk menjadi baku.
+>
+> **Kajian terkini:** Vernon sendiri (1979) mengakui bahwa modelnya melemah karena perusahaan transnasional kini meluncurkan produk baru di banyak negara sekaligus dan memecah produksinya sejak awal ke berbagai negara. Arah inovasi juga tidak lagi satu arah: Tiongkok dan Korea Selatan kini memimpin inovasi baterai kendaraan listrik, panel surya, dan layar, lalu memindahkan sebagian produksinya ke Indonesia, Vietnam, dan Meksiko.
+>
+> **Untuk soal:** Gunakan model Vernon untuk menjelaskan pergeseran industri tekstil atau elektronik, tetapi sebutkan pengecualian dari rantai nilai global modern.
+
 ## 2.2. Teori Lokasi Sisi Permintaan
 * Teori Tempat Pusat Christaller
   * Setiap kegiatan ekonomi memiliki _threshold_ (nilai ambang) dan _range_ (jangkauan). Keduanya menentukan apakah suatu kegiatan ekonomi berada di tingkat daerah yang lebih rendah atau lebih tinggi.
@@ -154,6 +182,23 @@ Teori lokasi ekonomi menjelaskan mengenai alasan-alasan yang menyebabkan suatu k
 * Teori Profil Pelanggan Applebaum
   * Lokasi suatu kegiatan ekonomi mengikuti kegiatan yang sudah ada sebelumnya. Kegiatan yang sudah ada sebelumnya tersebut disebut analog.
   * Analisis area perdagangan dilakukan menggunakan pemetaan. Melalui hasil wawancara, ditentukan area primer, sekunder, dan tersier. Area tersebut ditentukan berdasarkan nilai penetrasi pasar. Nilai penetrasi pasar adalah jumlah konsumen dalam satu area dibandingkan populasi totalnya.
+
+
+> 🔬 **[KAJIAN-KINI] Christaller dan Lösch di era mobil dan belanja daring**
+>
+> **Narasi umum:** Pusat-pusat pelayanan tersusun dalam hierarki heksagonal yang teratur, dan konsumen selalu pergi ke pusat terdekat.
+>
+> **Kajian terkini:** Model Christaller (1933) menjelaskan dengan baik hierarki pasar di masyarakat agraris yang bepergian dengan berjalan kaki atau kendaraan hewan. Dengan mobil dan sepeda motor, konsumen sering melewati pusat kecil terdekat untuk berbelanja di kota besar atau mal, dan belanja daring memotong hierarki itu sama sekali. Kota-kota juga makin membentuk **jaringan** yang saling melengkapi, bukan hierarki tegas (konsep _network city_, Batten, 1995). Meski begitu, gagasan ambang dan jangkauan tetap berguna, dan hierarki pusat kegiatan dalam RTRWN (PKN, PKW, PKL) masih berakar pada teori ini.
+>
+> **Untuk soal:** Jawab soal ambang, jangkauan, dan nilai K sesuai teori, lalu jelaskan pengaruh mobilitas dan e-commerce jika diminta analisis.
+
+> 🔬 **[KAJIAN-KINI] Hotelling: kapan toko berdekatan, kapan berjauhan?**
+>
+> **Narasi umum:** Dua penjual yang bersaing pasti akan berkumpul di tengah pasar (prinsip diferensiasi minimum).
+>
+> **Kajian terkini:** Hasil Hotelling (1929) berlaku jika harga tetap. Jika penjual juga bersaing harga, mereka justru cenderung **menjauh** agar tidak terjebak perang harga (d'Aspremont, Gabszewicz & Thisse, 1979). Toko-toko sejenis yang berderet (misalnya sentra elektronik atau deretan rumah makan) lebih banyak dijelaskan oleh **aglomerasi**: konsumen suka membandingkan barang di satu tempat, sehingga pengelompokan menarik lebih banyak pembeli bagi semua penjual.
+>
+> **Untuk soal:** Jawab soal Hotelling sesuai asumsi harga tetap; jika diminta kritik, sebutkan persaingan harga dan efek aglomerasi.
 
 ## 2.3. Teori Lokasi Lain
 * Teori Umum Greenhut
@@ -270,6 +315,15 @@ Untuk beroperasi secara internasional, perusahaan menggunakan empat strategi uta
 Contoh Ricardo: dalam waktu kerja yang sama, Inggris (biru) dapat membuat 36 kain atau 30 anggur, sedangkan Portugal (merah) 40 kain atau 45 anggur. Portugal unggul absolut di kedua barang. **Cara membaca:** jika masing-masing membagi waktunya (titik belah ketupat), total produksi 34 kain + 42 anggur. Jika Inggris hanya membuat kain dan Portugal hanya membuat anggur (titik persegi), total menjadi 36 kain + 45 anggur, lebih banyak untuk **kedua** barang. **Logikanya:** biaya peluang 1 anggur di Inggris adalah 1,2 kain, sedangkan di Portugal hanya 0,89 kain. Karena itu Portugal relatif lebih murah membuat anggur dan Inggris relatif lebih murah membuat kain, sehingga spesialisasi lalu berdagang menghasilkan lebih banyak barang bagi keduanya. _Sumber: [Cmglee](https://commons.wikimedia.org/wiki/File:Ricardo_example_of_comparative_advantage.svg), CC BY-SA 4.0 (Wikimedia Commons)._
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
+
+> 🔬 **[KAJIAN-KINI] Perdagangan bebas: untung bagi siapa?**
+>
+> **Narasi umum:** Menurut keunggulan komparatif, perdagangan bebas selalu menguntungkan semua pihak.
+>
+> **Kajian terkini:** Teori Ricardo membuktikan bahwa perdagangan menambah **total** produksi kedua negara, dengan asumsi tenaga kerja mudah pindah antarsektor dan tidak ada pengangguran. Dalam kenyataan, keuntungannya tidak merata. Pekerja di sektor yang kalah bersaing bisa menganggur lama. Kajian "guncangan Tiongkok" (Autor, Dorn & Hanson, 2013) menemukan bahwa daerah industri di AS yang bersaing langsung dengan impor Tiongkok mengalami penurunan lapangan kerja dan upah yang bertahan lebih dari satu dekade. Keunggulan komparatif juga bisa **diciptakan**: Korea Selatan dan Taiwan membangun industri baja, kapal, dan semikonduktor melalui kebijakan industri, padahal pada 1960-an keunggulan mereka adalah tenaga kerja murah.
+>
+> **Untuk soal:** Jelaskan keunggulan komparatif dengan contoh angka, lalu tambahkan dampak distribusinya dan peran kebijakan industri pada soal evaluasi.
 
 ## 4.3. Tingkatan Integrasi Ekonomi (Dari Kedaulatan Terendah ke Tertinggi)
 Negara-negara mengejar integrasi ekonomi untuk mendukung perdagangan global. Hierarki berikut mewakili peningkatan tingkat harmonisasi kebijakan dan hilangnya kedaulatan ekonomi independen:

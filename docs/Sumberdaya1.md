@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 18 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -61,6 +64,23 @@ HASIL CEK GAMBAR LAMA:
 - Penggolongan A/B/C sudah **tidak berlaku**. UU No. 4 Tahun 2009 (diubah dengan UU No. 3 Tahun 2020) tentang Pertambangan Mineral dan Batubara membagi komoditas tambang menjadi 5 kelompok: **mineral radioaktif**, **mineral logam**, **mineral bukan logam**, **batuan**, dan **batubara**. Minyak dan gas bumi diatur terpisah dalam UU No. 22 Tahun 2001.
 
 > ✏️ **[FLAG-ISI]** Dasar hukum lama ditulis "UU No. 37 Tahun 1967"; yang benar UU No. 11 Tahun 1967 dan PP No. 27 Tahun 1980. Menurut PP tersebut, besi termasuk Golongan B, bukan A. Penggolongan yang berlaku sekarang menurut UU Minerba ditambahkan. Salah ketik "menganai" juga diperbaiki.
+
+
+> 🔬 **[KAJIAN-KINI] Apakah sumberdaya tak terbarukan pasti habis?**
+>
+> **Narasi umum:** Sumberdaya tak terbarukan jumlahnya tetap, sehingga akan habis dalam sekian tahun jika dikonsumsi dengan laju sekarang (misalnya "minyak habis dalam 40 tahun").
+>
+> **Kajian terkini:** Zimmermann (1933) menyatakan bahwa sumberdaya "tidak ada, tetapi menjadi": suatu bahan baru menjadi sumberdaya jika teknologi, harga, dan kebutuhan memungkinkan. Karena itu cadangan terbukti selalu berubah. Cadangan minyak dunia hari ini lebih besar daripada 40 tahun lalu walaupun minyak terus diambil, karena eksplorasi, teknologi baru, dan harga mengubah sebagian sumberdaya menjadi cadangan (klasifikasi McKelvey di atas). Taruhan Simon–Ehrlich (1980–1990) dimenangi Simon karena harga lima logam turun. Namun untuk periode lain, Ehrlich akan menang, sehingga kelangkaan tetap bergantung pada waktu. Kini kendala utama sering bukan habisnya bahan, melainkan **daya tampung lingkungan** untuk limbahnya, misalnya atmosfer yang tidak mampu lagi menyerap CO₂ dari pembakaran bahan bakar fosil.
+>
+> **Untuk soal:** Rasio cadangan/produksi (R/P) boleh dipakai untuk menghitung umur cadangan, tetapi jelaskan bahwa angka itu bukan ramalan karena cadangan dan konsumsi berubah.
+
+> 🔬 **[KAJIAN-KINI] Tragedi milik bersama: akses terbuka vs milik bersama**
+>
+> **Narasi umum:** Sumberdaya milik bersama pasti dieksploitasi berlebihan, sehingga solusinya hanya privatisasi atau pengendalian negara.
+>
+> **Kajian terkini:** Hardin (1968) mencampuradukkan **akses terbuka** (siapa pun boleh mengambil, tanpa aturan) dengan **milik bersama** (dikelola komunitas dengan aturan). Ciriacy-Wantrup dan Bishop (1975) serta Ostrom (1990) menunjukkan bahwa tragedi terutama terjadi pada akses terbuka, sedangkan banyak komunitas berhasil mengelola milik bersama selama berabad-abad, misalnya subak di Bali, sasi di Maluku, dan hutan adat. Ostrom merumuskan delapan prinsip kelembagaan yang membuat pengelolaan bersama berhasil, misalnya batas yang jelas, aturan sesuai kondisi setempat, pengawasan oleh anggota, dan sanksi bertingkat.
+>
+> **Untuk soal:** Saat menjawab soal tragedi milik bersama, sebutkan contoh kegagalan (perikanan laut lepas) dan keberhasilan pengelolaan komunitas (subak, sasi).
 
 # 2. Sumberdaya Material
 
@@ -143,6 +163,15 @@ Prediksi Hubbert tahun 1956 untuk produksi minyak 48 negara bagian AS (garis mer
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
+
+
+> 🔬 **[KAJIAN-KINI] Dari "puncak pasokan" ke "puncak permintaan" minyak**
+>
+> **Narasi umum:** Produksi minyak dunia akan segera mencapai puncaknya lalu turun karena cadangan habis (teori Hubbert).
+>
+> **Kajian terkini:** Kurva Hubbert cocok untuk ladang dan wilayah tertentu dengan teknologi tetap, misalnya produksi konvensional 48 negara bagian AS hingga 2008. Namun ramalan puncak minyak dunia yang populer pada 2000-an tidak terjadi, karena minyak serpih, laut dalam, dan teknik pengurasan lanjutan menambah pasokan. Perdebatan kini bergeser ke **puncak permintaan**: kapan konsumsi minyak berhenti naik karena kendaraan listrik, efisiensi, dan kebijakan iklim. IEA (WEO 2025) memperkirakan permintaan minyak memuncak sekitar 2030 dalam skenario kebijakan yang dinyatakan (STEPS), tetapi terus naik hingga 2050 dalam skenario kebijakan saat ini (CPS). Perbedaan kedua skenario terutama disebabkan oleh perbedaan perkiraan adopsi kendaraan listrik. Jadi puncak minyak kini lebih ditentukan oleh **kebijakan dan teknologi** daripada oleh geologi.
+>
+> **Untuk soal:** Untuk soal kurva Hubbert, jelaskan logika kurva lonceng dan contoh AS, lalu tunjukkan keterbatasannya (teknologi, harga, dan permintaan).
 
 ## 2.3. Air
 - Jumlah air di Bumi tetap, didaur ulang melalui siklus hidrologi.

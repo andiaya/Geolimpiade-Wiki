@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 48 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -287,6 +290,20 @@ Bentanglahan vulkanik dibentuk dari proses **vulkanisme**, yaitu keluarnya magma
 - Roundness vs. sphericity\
   <img width="450" height="138" alt="roundness sphericity" src="https://github.com/user-attachments/assets/0aa61671-a1b5-4aaf-aeaf-56c2f6dd4db5" />\
   Diagram kebundaran (_roundness_, dari sangat menyudut hingga sangat membulat) dan kebolaan (_sphericity_, rendah atau tinggi). **Cara membedakan:** kebundaran menilai **tajam-tumpulnya sudut** butiran, sedangkan kebolaan menilai **seberapa mendekati bentuk bola** butiran itu. Butiran pipih bisa sangat membulat tetapi kebolaannya rendah.
+
+
+> 🔬 **[KAJIAN-KINI] Sungai "muda, dewasa, tua" dan kurva Hjulström**
+>
+> **Narasi umum:** Sungai berkembang menurut umur: stadia muda di hulu, dewasa di tengah, dan tua di hilir. Kurva Hjulström menentukan secara tepat kapan butiran tererosi, terangkut, atau terendapkan.
+>
+> **Kajian terkini:** Istilah stadia berasal dari siklus erosi Davis (1899) dan menyiratkan bahwa bentuk sungai ditentukan oleh **waktu**. Geomorfologi kini menjelaskan perbedaan hulu–hilir dengan **proses**: kemiringan, debit, pasokan sedimen, jenis batuan, pengangkatan tektonik, dan muka dasar. Schumm (1977) membagi sistem sungai menjadi zona **produksi** (sumber sedimen), **transfer**, dan **pengendapan**, tanpa mengaitkannya dengan umur. Sungai pendek dan curam di Indonesia yang mengalir dari gunung api muda ke laut dapat memiliki ciri "muda" hampir sepanjang alirannya. Kurva Hjulström (1935) disusun dari percobaan dengan butiran seragam dalam aliran sedalam sekitar 1 m, sehingga hanya berlaku sebagai pendekatan. Ahli hidraulika memakai **diagram Shields** (1936), yang menghitung gaya geser aliran terhadap ukuran dan berat butiran sehingga berlaku untuk berbagai kedalaman. Perilaku lempung juga sangat bergantung pada tingkat pemadatan dan kandungan airnya.
+>
+> **Untuk soal:** Gunakan istilah stadia dan kurva Hjulström sesuai buku ajar untuk soal identifikasi, tetapi jelaskan bahwa ciri sungai lebih ditentukan oleh proses dan kondisi setempat daripada umur.
+
+<img width="420" alt="Diagram Shields asli 1936" src="https://commons.wikimedia.org/wiki/Special:FilePath/Shields_diagram.jpg?width=840" />\
+Diagram asli Albert Shields (1936). Sumbu tegak adalah gaya geser tak berdimensi (parameter Shields) dan sumbu datar adalah bilangan Reynolds butiran; titik-titik data dari berbagai bahan (pasir, kerikil, batubara, barit, dan lain-lain) membentuk satu kurva ambang gerak. **Logikanya:** berbeda dengan kurva Hjulström yang memakai kecepatan rata-rata, diagram Shields memakai gaya geser di dasar aliran, yang langsung "mendorong" butiran, sehingga satu kurva dapat dipakai untuk berbagai kedalaman aliran dan jenis bahan. _Sumber: [Albert Shields](https://commons.wikimedia.org/wiki/File:Shields_diagram.jpg), domain publik (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
 ## 3.2. Bentuklahan Bentanglahan Fluvial
 - Bentuklahan di Zona Hulu
@@ -596,6 +613,15 @@ Segitiga klasifikasi gerakan massa menunjukkan klasifikasi gerakan massa berdasa
      Dua model perkembangan bentanglahan: (a) siklus erosi Davis, dengan tahap muda, dewasa, dan tua yang berakhir sebagai peneplain, dan (b) model pediplanasi, dengan tahap muda dan dewasa, lalu pedimen yang melebar dan inselberg, berakhir sebagai pediplain. **Cara membedakan:** pada model Davis, lereng **menurun** perlahan sehingga seluruh bentanglahan merendah bersama-sama. Pada model pediplanasi, lereng **mundur sejajar** sehingga bukit sisa (inselberg) tetap curam sampai akhir.
 
   4. Tanah rusak (_badland_): merujuk pada topografi yang memiliki banyak kenampakan hasil proses denudasi (longsor, parit, lembah sungai) yang saling berdekatan satu sama lain dan memiliki pola yang sangat rapat. Bentuklahan ini memiliki lapisan tanah permukaan yang tipis atau tidak ada.
+
+
+> 🔬 **[KAJIAN-KINI] Siklus erosi Davis: kosakata yang tetap dipakai, teori yang ditinggalkan**
+>
+> **Narasi umum:** Bentang alam berkembang melalui tahap muda, dewasa, dan tua hingga menjadi peneplain, setelah pengangkatan cepat yang diikuti masa tenang.
+>
+> **Kajian terkini:** Model Davis (1899) mendominasi geomorfologi selama setengah abad, tetapi kini dianggap tidak realistis karena tiga alasan. (1) Tektonik lempeng menunjukkan bahwa pengangkatan berlangsung terus-menerus atau berulang, bukan sekali lalu berhenti. (2) Konsep **keseimbangan dinamis** (Gilbert; Hack, 1960) menyatakan bahwa bentuk lereng dan sungai menyesuaikan diri dengan proses yang bekerja dan dapat bertahan stabil selama laju pengangkatan seimbang dengan laju erosi, tanpa harus "menua". (3) Peneplain yang benar-benar terbentuk dari siklus Davis sulit dibuktikan di lapangan; banyak permukaan datar ternyata hasil proses lain. Model pediplanasi King (1953) dan model penurunan lereng Penck menawarkan alternatif, dan kini perkembangan bentang alam dikaji dengan pengukuran laju erosi (misalnya isotop kosmogenik) dan model komputer. Istilah "muda", "dewasa", dan "tua" tetap dipakai sebagai kosakata deskriptif.
+>
+> **Untuk soal:** Jelaskan tahapan Davis jika ditanya, tetapi pada soal evaluasi bandingkan dengan konsep keseimbangan dinamis dan peran tektonik.
 
 # 7. Bentanglahan Aeolian
 - Bentanglahan aeolian dibentuk dari proses erosi, transportasi, dan deposisi oleh agen **angin**.

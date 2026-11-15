@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 7 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -170,6 +173,15 @@ Garis Brandt yang membagi dunia menjadi Utara yang maju (_Developed_) dan Selata
 
 > ✏️ **[FLAG-ISI]** Contoh Venezuela pada sanggahan (d) diganti. Venezuela kini justru menjadi contoh klasik kutukan sumber daya: krisis ekonomi dan politik berkepanjangan setelah harga minyak jatuh pada 2014. Mekanisme rent-seeking/konflik ditambahkan.
 
+
+> 🔬 **[KAJIAN-KINI] Kutukan sumber daya: kutukan atau soal institusi?**
+>
+> **Narasi umum:** Kekayaan sumber daya alam membuat suatu negara tertinggal.
+>
+> **Kajian terkini:** Bukti awal (Sachs & Warner, 1995) memakai data lintas negara sejak 1970. Kajian dengan data jangka panjang (Haber & Menaldo, 2011) tidak menemukan bahwa minyak dan mineral secara umum membuat negara lebih otoriter atau miskin. Banyak peneliti kini berpendapat bahwa "kutukan" bersifat **bersyarat**: kekayaan sumber daya merusak jika institusinya lemah (mendorong perburuan rente dan konflik), tetapi menjadi berkah jika institusinya kuat (Mehlum, Moene & Torvik, 2006). Urutan juga penting: Norwegia menemukan minyak setelah memiliki birokrasi dan demokrasi yang kuat, sedangkan banyak negara Afrika mendapat rejeki sumber daya saat negaranya baru merdeka dan institusinya rapuh. Faktor harga juga berperan, karena harga komoditas yang naik-turun tajam menyulitkan perencanaan anggaran.
+>
+> **Untuk soal:** Jelaskan mekanisme kutukan sumber daya (_Dutch disease_, rente, konflik), lalu tunjukkan bahwa dampaknya bergantung pada kualitas institusi, dengan contoh Norwegia dan Botswana sebagai pembanding.
+
 ## 3.5. Institusi Demokratis (Acemoglu & Robinson)
 * Perkembangan ekonomi dipengaruhi oleh institusi inklusif dan ekstraktif di suatu negara.\
   a. Institusi inklusif: struktur yang memungkinkan mayoritas masyarakat ikut serta dalam kegiatan politik dan ekonomi, dengan hak milik yang terjamin, hukum yang berlaku sama bagi semua, dan persaingan yang terbuka.\
@@ -196,6 +208,15 @@ Garis Brandt yang membagi dunia menjadi Utara yang maju (_Developed_) dan Selata
 > ✏️ **[FLAG-ISI]** Pernyataan "intervensi paling optimal yaitu pendidikan" diperhalus karena tidak ada intervensi tunggal yang selalu paling optimal. Penjelasan garis kemiskinan ditambahkan.
 
 > 🔍 **[FLAG-CEK]** Persentase penduduk miskin BPS terbaru (Maret/September 2026) dan persentase menurut garis US$8,30 perlu dicocokkan dengan rilis terakhir.
+
+
+> 🔬 **[KAJIAN-KINI] Apakah perangkap kemiskinan benar-benar ada?**
+>
+> **Narasi umum:** Negara dan rumah tangga miskin terjebak dalam lingkaran setan kemiskinan (Nurkse, 1953), sehingga tidak bisa keluar tanpa dorongan besar dari luar (_big push_).
+>
+> **Kajian terkini:** Pada tingkat **negara**, bukti adanya perangkap kemiskinan lemah: sebagian besar negara yang miskin pada 1960-an tumbuh, dan persentase penduduk dunia dalam kemiskinan ekstrem turun dari sekitar 2,3 miliar orang pada 1990 menjadi sekitar 831 juta (±10%) pada 2025 dengan garis US$3,00 per hari (Kraay & McKenzie, 2014; Bank Dunia, 2025). Pada tingkat **rumah tangga**, perangkap memang dapat terjadi, misalnya akibat gizi buruk, utang, atau tidak punya aset produktif. Uji coba acak di enam negara menunjukkan bahwa paket bantuan sekaligus (aset ternak, pelatihan, uang saku, tabungan) mampu mengangkat rumah tangga termiskin secara berkelanjutan (Banerjee dkk., 2015). Kemiskinan ekstrem kini makin terkonsentrasi di negara rapuh dan berkonflik, terutama di Afrika Sub-Sahara.
+>
+> **Untuk soal:** Lingkaran setan kemiskinan dapat dipakai untuk menjelaskan mekanisme, tetapi hindari kesimpulan bahwa negara miskin "pasti" tetap miskin. Sebutkan bukti penurunan kemiskinan global dan pentingnya konflik serta kelembagaan.
 
 ## 4.2. Ketimpangan
 * Ketidakadilan akses, baik akses modal, sumberdaya, infrastruktur, dsb.
@@ -324,6 +345,15 @@ Garis Brandt yang membagi dunia menjadi Utara yang maju (_Developed_) dan Selata
 
   > 🔍 **[FLAG-CEK]** Pemerintah sempat mengonsultasikan revisi PP 19/2025 (enam lapis tarif bijih nikel). Pastikan tarif yang berlaku saat publikasi.
 
+
+
+> 🔬 **[KAJIAN-KINI] Teori ketergantungan setelah "keajaiban Asia Timur"**
+>
+> **Narasi umum:** Negara pinggiran akan tetap miskin selama terhubung dengan pasar dunia yang dikuasai negara pusat, sehingga solusinya memutus hubungan atau substitusi impor.
+>
+> **Kajian terkini:** Korea Selatan, Taiwan, Singapura, dan kemudian Tiongkok justru tumbuh pesat dengan **mengintegrasikan diri** ke pasar dunia melalui industrialisasi berorientasi ekspor, sedangkan banyak negara yang menerapkan substitusi impor secara ketat mengalami stagnasi. Hal ini melemahkan versi keras teori ketergantungan. Namun sebagian pengamatan teori ini tetap relevan: sekitar dua pertiga negara berkembang masih bergantung pada ekspor komoditas (UNCTAD), keuntungan terbesar dalam rantai nilai global tetap dinikmati pemilik merek dan teknologi, dan negara Asia Timur yang berhasil juga menerapkan **kebijakan industri** aktif, bukan pasar bebas murni. Konsep "pembangunan dependen" (Cardoso & Faletto) dan teori sistem dunia (Wallerstein) memberi ruang bagi negara untuk naik kelas, misalnya dari pinggiran ke semi-pinggiran.
+>
+> **Untuk soal:** Gunakan teori ketergantungan untuk menganalisis ketergantungan komoditas (misalnya ekspor nikel atau batubara), lalu bandingkan dengan pengalaman Asia Timur.
 
 ## 5.3. Model Pembangunan Endogen
 - Keunikan budaya, institusi, dan sumberdaya menyababkan tahapan dan proses pembangunan yang terjadi di tiap wilayah berbeda pula.

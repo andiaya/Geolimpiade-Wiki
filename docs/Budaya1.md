@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 2 gambar, keduanya termuat normal dan tidak terdistorsi, tetapi memakai
@@ -52,6 +55,15 @@ HASIL CEK GAMBAR LAMA:
   5. Sistem Mata Pencaharian Hidup: berburu, bercocok tanam, beternak, nelayan, perdagangan.  
   6. Sistem Religi: kepercayaan, upacara keagamaan, pemujaan.  
   7. Kesenian: seni rupa, seni suara, seni gerak, seni pertunjukan.
+
+
+> 🔬 **[KAJIAN-KINI] Determinisme lingkungan dan penolakannya**
+>
+> **Narasi umum:** Iklim dan lingkungan menentukan watak dan tingkat kemajuan suatu bangsa (misalnya "bangsa tropis cenderung malas").
+>
+> **Kajian terkini:** Pandangan ini dikemukakan Ratzel, Ellen Semple, dan Ellsworth Huntington pada awal abad ke-20, dan dipakai untuk membenarkan kolonialisme dan rasisme. Pandangan ini kini ditolak karena tidak didukung bukti dan mengabaikan sejarah, teknologi, dan pilihan manusia. **Posibilisme** (Vidal de la Blache) menyatakan bahwa lingkungan menyediakan peluang dan batasan, sedangkan manusia memilih di antaranya; bentang budaya Sauer adalah contohnya. Geografi kini memandang hubungan manusia–lingkungan sebagai **sistem yang saling memengaruhi**. Pengaruh geografis tetap diakui untuk hal tertentu, misalnya ketersediaan tanaman dan hewan yang dapat didomestikasi (Diamond, 1997) atau beban penyakit tropis, tetapi pengaruh itu bersifat probabilistik dan diperdebatkan, bukan menentukan.
+>
+> **Untuk soal:** Jika ditanya perbedaan determinisme dan posibilisme, jelaskan keduanya, lalu sebutkan bahwa determinisme lingkungan telah ditinggalkan karena lemah secara ilmiah dan bermasalah secara etis.
 
 # 2. Difusi Budaya
 - Difusi budaya dibagi menjadi dua kelompok besar: **difusi relokasi** dan **difusi ekspansi**. Pada difusi ekspansi, budaya menyebar sambil tetap bertahan, bahkan menguat, di tempat asalnya. Difusi ekspansi memiliki tiga subtipe: kontak (menular), hierarki, dan stimulus.
@@ -124,6 +136,15 @@ Wilayah sebaran rumpun bahasa Austronesia, dari Madagaskar di barat hingga Pulau
   - Siberia Tengah (Rusia):	Rumpun bahasa Uralik, Turkik, Tungusik, Paleosiberia (Ket, Yukagir) terancam punah.
   - Asia Timur Laut (Cina timur laut, Jepang utara):	Bahasa Ainu (isolat), bahasa-bahasa Tungusik, Nivkh.
 
+
+> 🔬 **[KAJIAN-KINI] Rumpun bahasa: Altaik dan asal-usul Austronesia**
+>
+> **Narasi umum:** Bahasa Turki, Mongol, Tungus, Korea, dan Jepang termasuk satu rumpun Altaik, dan penutur Austronesia berasal dari Taiwan lalu menggantikan penduduk lama di Nusantara.
+>
+> **Kajian terkini:** Sebagian besar ahli bahasa kini **tidak menerima** Altaik sebagai rumpun genetik; kemiripan bahasa-bahasa itu lebih banyak dijelaskan oleh kontak dan pinjaman kata selama ribuan tahun. Bahasa Ainu dianggap bahasa isolat. Untuk Austronesia, model "Keluar dari Taiwan" (Blust, Bellwood) tetap menjadi penjelasan utama asal **bahasanya**. Namun kajian genetika menunjukkan bahwa penutur Austronesia **bercampur** dengan penduduk yang sudah lebih dulu tinggal di Nusantara (keturunan Australo-Melanesia dan penutur Austroasiatik), sehingga yang terjadi lebih mirip percampuran bertahap daripada penggantian penduduk. Bahasa dan gen tidak selalu menyebar bersama.
+>
+> **Untuk soal:** Sebutkan rumpun bahasa sesuai klasifikasi umum, tetapi tandai Altaik sebagai usulan yang diperdebatkan. Pada soal asal-usul bangsa Indonesia, bedakan penyebaran bahasa dengan penyebaran genetik.
+
 # 5. Geografi Agama
 > 🆕 **[BAGIAN-BARU]** Persebaran agama adalah bagian penting geografi budaya (silabus IGeo: _cultural geography_), tetapi belum dibahas.
 
@@ -181,3 +202,10 @@ Karakteristik umum budaya wilayah dunia:
 
 > 🆕 **[BAGIAN-BARU]** Sistem kekerabatan patrilineal dan bilateral ditambahkan sebagai pembanding, agar keragaman kekerabatan di Indonesia terlihat utuh.
 
+> 🔬 **[KAJIAN-KINI] Matrilineal bukan matriarki**
+>
+> **Narasi umum:** Masyarakat matrilineal seperti Minangkabau atau Mosuo adalah masyarakat yang dikuasai perempuan (matriarki).
+>
+> **Kajian terkini:** Matrilineal berarti keturunan dan harta pusaka diturunkan melalui garis ibu; artinya tidak sama dengan perempuan memegang kekuasaan politik. Pada masyarakat Minangkabau, perempuan memiliki harta pusaka dan peran ekonomi yang kuat, tetapi kepemimpinan adat dipegang mamak dan penghulu (laki-laki). Antropolog Peggy Sanday (2002) memang menyebut Minangkabau "matriarki", tetapi dalam arti baru: masyarakat yang berpusat pada nilai-nilai keibuan, bukan pemerintahan oleh perempuan. Julukan "Kerajaan Perempuan" untuk Mosuo lebih banyak berasal dari promosi pariwisata dan media. Antropolog umumnya sepakat bahwa tidak ada masyarakat yang terdokumentasi dengan baik di mana perempuan secara sistematis menguasai laki-laki dalam politik.
+>
+> **Untuk soal:** Gunakan istilah matrilineal/patrilineal/bilateral untuk sistem kekerabatan, dan bedakan dengan matriarki/patriarki yang menyangkut kekuasaan.

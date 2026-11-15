@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 13 gambar, semuanya termuat normal dan tidak terdistorsi.
@@ -148,6 +151,20 @@ HASIL CEK GAMBAR LAMA:
   > 🔍 **[FLAG-CEK]** Pastikan TFR terbaru DKI Jakarta dan DIY (Long Form SP2020 masing-masing ±1,75 dan ±1,89) serta Korea Selatan (±0,72 pada 2023, sedikit naik pada 2024). Versi lama menyiratkan bahwa penduduk Jakarta dan Yogyakarta menurun, padahal penduduknya masih bertambah.
 
 
+
+> 🔬 **[KAJIAN-KINI] Transisi demografi: model deskriptif, bukan hukum**
+>
+> **Narasi umum:** Setiap negara pasti melewati lima tahap secara berurutan, dan penurunan kelahiran terjadi karena industrialisasi dan urbanisasi.
+>
+> **Kajian terkini:** Model ini disusun dari pengalaman Eropa Barat (Thompson, 1929; Notestein, 1945) dan **menggambarkan** pola, bukan **meramalkan** jalannya. Proyek Fertilitas Eropa Princeton (Coale & Watkins, 1986) menemukan bahwa kelahiran di Eropa turun hampir bersamaan di daerah yang tingkat industrialisasinya sangat berbeda, dan batas penurunannya lebih mengikuti batas **bahasa dan agama** daripada batas ekonomi. Artinya, penyebaran gagasan (keluarga kecil, kontrasepsi, pendidikan perempuan) sama pentingnya dengan kemakmuran. Di Prancis, kelahiran bahkan mulai turun sebelum kematian turun. Negara berkembang kini melewati transisi jauh lebih cepat: Indonesia menurunkan TFR dari ±5,6 menjadi ±2,2 dalam sekitar 50 tahun, padahal Eropa memerlukan lebih dari satu abad. Tahap V juga bukan tahap pasti: setelah turun di bawah tingkat pengganti, kelahiran di beberapa negara naik sedikit, sedangkan di negara lain terus turun. Secara global, TFR tinggal 2,25 dan penduduk dunia diproyeksikan memuncak sekitar 10,3 miliar pada pertengahan 2080-an (PBB, WPP 2024).
+>
+> **Untuk soal:** Jika soal OSN meminta ciri tiap tahap, jawab sesuai model. Jika soal esai meminta evaluasi, sebutkan bahwa model ini berbasis Eropa, mengabaikan peran budaya dan kebijakan (misalnya program KB), serta tidak memperhitungkan migrasi.
+
+<img width="300" alt="Angka kelahiran dan kematian kasar Inggris dan Wales 1541–2017" src="https://commons.wikimedia.org/wiki/Special:FilePath/Crude_birth_rate_and_death_rate_over_time_in_England_and_Wales.svg?width=600" /> <img width="300" alt="Fertilitas dan PDB per kapita 1955–2015" src="https://commons.wikimedia.org/wiki/Special:FilePath/Children_per_woman_%28fertility_rate%29_vs._level_of_prosperity%2C_OWID.svg?width=600" />\
+Data nyata transisi demografi. **Kiri:** angka kelahiran (biru) dan kematian (merah) kasar di Inggris dan Wales 1541–2017. **Cara membaca:** berbeda dengan kurva model yang mulus, data asli bergerigi; kematian turun perlahan sejak abad ke-18, kelahiran justru **naik** hingga sekitar 1800–1870 sebelum turun, dan ada lonjakan kelahiran sesudah kedua perang dunia. **Kanan:** lintasan fertilitas terhadap PDB per kapita di banyak negara, 1955–2015. **Logikanya:** garis-garis itu turun pada tingkat pendapatan yang sangat berbeda; sebagian negara (misalnya Bangladesh dan Iran) menurunkan fertilitasnya saat masih relatif miskin. Jadi kemakmuran bukan satu-satunya pemicu penurunan kelahiran. _Sumber: [Tweedle](https://commons.wikimedia.org/wiki/File:Crude_birth_rate_and_death_rate_over_time_in_England_and_Wales.svg), CC BY-SA 4.0; [Our World in Data](https://commons.wikimedia.org/wiki/File:Children_per_woman_%28fertility_rate%29_vs._level_of_prosperity%2C_OWID.svg), CC BY 3.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
 ## 2.2. Transisi Epidemiologi
 - Transisi epidemiologi menyatakan bahwa penyebab kematian di suatu populasi akan berubah dari didominasi penyakit menular menjadi didominasi penyakit degeneratif. Transisi epidemiologi terjadi bersamaan dengan transisi demografi.\
   <img width="634" height="431" alt="Transisi Epidemiologi 1" src="https://github.com/user-attachments/assets/160a59ad-01bd-499b-8613-bd5751afe59b" />\
@@ -160,6 +177,15 @@ HASIL CEK GAMBAR LAMA:
   2. Tahap transisi awal menunjukkan masyarakat yang tingkat kematian karena penyakit menularnya turun dan penyakit degeneratif akibat gaya hidup seperti penyakit jantung, diabetes, kanker mulai naik. Hal ini disebabkan karena perbaikan kualitas sanitasi dan gizi serta peningkatan usaha preventif seperti vaksinasi.
   3. Tahap transisi akhir menunjukkan masyarakat yang tingkat kematian karena penyakit degeneratifnya melebihi penyakit menular. Hal ini disebabkan karena kematian bayi dan kematian muda karena penyakit menular berkurang, sehingga terdapat waktu yang cukup untuk tubuh seseorang membentuk penyakit degeneratif. Alasan lain yaitu perubahan gaya hidup menjadi sedenter (diam, tidak banyak beraktifitas fisik) dan konsumsi kalori yang berlebihan.
   4. Tahap pasca transisi menunjukkan masyarakat dengan kualitas layanan kesehatan dapat memperpanjang usia harapan hidup hingga usia tua, sehingga kebanyakan kematian terjadi karena komplikasi usia tua dan penyakit degeneratif. Dapat muncul pula infeksi baru, misalnya karena muncul bakteri tahan antibiotik.
+
+
+> 🔬 **[KAJIAN-KINI] Transisi epidemiologi tidak selalu searah**
+>
+> **Narasi umum:** Penyakit menular terus berkurang dan digantikan penyakit degeneratif, sehingga harapan hidup selalu naik.
+>
+> **Kajian terkini:** Omran (1971) sendiri menggambarkan pola rata-rata. Sejak itu tercatat banyak pembalikan: harapan hidup laki-laki Rusia anjlok pada 1990-an akibat krisis ekonomi dan alkohol; harapan hidup AS turun pada 2015–2017 (overdosis opioid, "kematian akibat keputusasaan") dan kembali turun saat pandemi COVID-19. Munculnya HIV/AIDS, tuberkulosis kebal obat, dan COVID-19 menunjukkan bahwa infeksi bisa kembali menjadi penyebab kematian utama. Karena itu sering ditambahkan tahap "penyakit infeksi baru dan muncul kembali". Frenk dkk. (1991) juga menunjukkan bahwa banyak negara berkembang mengalami **transisi berlarut dan terpolarisasi**: penyakit menular dan tidak menular tinggi bersamaan, dan polanya timpang antara kelompok kaya dan miskin. Indonesia termasuk contohnya (beban ganda penyakit).
+>
+> **Untuk soal:** Gunakan tahapan Omran untuk menjawab soal klasifikasi, lalu tunjukkan beban ganda penyakit dan kemungkinan pembalikan pada soal analisis.
 
 ## 2.3. Teori Migrasi
 - Teori migrasi mencakup teori yang menjelaskan faktor penyebab migrasi dan teori yang menjelaskan mekanisme migrasi.
@@ -180,6 +206,20 @@ HASIL CEK GAMBAR LAMA:
 > ✏️ **[FLAG-ISI]** Versi lama memasukkan "kesempatan antara" ke dalam teori Lee. Lee sendiri hanya menyebut **rintangan antara** dan **faktor pribadi**; kesempatan antara adalah teori Stouffer.
 
 
+
+> 🔬 **[KAJIAN-KINI] Pendorong–penarik dan punuk migrasi**
+>
+> **Narasi umum:** Orang pindah karena miskin (faktor pendorong) dan tertarik oleh upah tinggi (faktor penarik), sehingga membangun ekonomi daerah asal akan mengurangi migrasi.
+>
+> **Kajian terkini:** Model pendorong–penarik Lee berguna untuk mendaftar faktor, tetapi tidak menjelaskan mengapa orang termiskin justru jarang bermigrasi jauh. Kerangka **aspirasi–kemampuan** (de Haas, 2021) memisahkan **keinginan** pindah dari **kemampuan** pindah (uang, pendidikan, dokumen, jaringan). Data global menunjukkan pola "punuk migrasi": emigrasi rata-rata naik seiring naiknya PDB per kapita negara miskin, melambat antara ±US$5.000 dan US$10.000 PPP per kapita, lalu menurun (Clemens, 2014; 2020). Jadi pembangunan di negara miskin dalam jangka pendek cenderung **menambah**, bukan mengurangi, emigrasi. Pola ini juga sejalan dengan model transisi mobilitas Zelinsky di bawah.
+>
+> **Untuk soal:** Faktor pendorong–penarik tetap dipakai untuk soal identifikasi. Pada soal analisis kebijakan (misalnya "apakah bantuan pembangunan akan menekan migrasi?"), jelaskan punuk migrasi dan peran kemampuan bermigrasi.
+
+<img width="560" alt="Kurva punuk migrasi" src="{{ '/assets/images/kajian/punuk-migrasi.svg' | relative_url }}" />\
+Punuk migrasi. **Cara membaca:** di negara termiskin (kiri), banyak orang ingin pindah tetapi tidak mampu; saat pendapatan naik, kemampuan bermigrasi naik lebih cepat daripada alasan untuk menetap, sehingga emigrasi meningkat; setelah titik balik sekitar US$5.000–10.000 PPP per kapita (pita oranye), peluang di dalam negeri cukup besar sehingga emigrasi turun. **Logikanya:** kemiskinan ekstrem justru menjadi penghalang migrasi, bukan pendorong terkuatnya. _Sumber: ilustrasi skematis buatan revisi ini._
+
+> 🎨 **[GAMBAR-BUATAN]** Unggah berkas `punuk-migrasi.svg` (terlampir) ke folder `assets/images/kajian/` di repo agar gambar ini tampil.
+
 ### 2.3.2. Teori Migrasi Ravenstein
 - Ravenstein (1885) merumuskan "hukum-hukum migrasi" dari data sensus Inggris.
 - Jarak Pendek dan Pusat Penyerapan: Sebagian besar migran berpindah dalam jarak pendek, dan arusnya menuju pusat perdagangan dan industri besar. Artinya, kota besar akan menarik lebih banyak migran dari desa terdekat dibandingkan dari desa yang sangat jauh. Migran jarak jauh cenderung langsung menuju kota besar.
@@ -195,6 +235,15 @@ HASIL CEK GAMBAR LAMA:
 
 > 🔍 **[FLAG-CEK]** Ravenstein sebenarnya menyatakan bahwa **perempuan lebih banyak bermigrasi jarak pendek** di dalam negeri, sedangkan laki-laki lebih banyak bermigrasi jarak jauh. Klaim bahwa perempuan "mendominasi" migrasi internasional Indonesia perlu data terbaru BP2MI; proporsi PMI perempuan memang mayoritas, tetapi bervariasi menurut tahun. Istilah resmi saat ini adalah Pekerja Migran Indonesia (PMI), bukan TKW.
 
+
+
+> 🔬 **[KAJIAN-KINI] Hukum Ravenstein di era jaringan**
+>
+> **Narasi umum:** Hukum-hukum Ravenstein berlaku umum: migran berpindah jarak pendek dan bertahap, dan perempuan lebih banyak bermigrasi jarak dekat.
+>
+> **Kajian terkini:** Ravenstein (1885) menyusun keteraturan empiris dari sensus Inggris abad ke-19, dan sebagian besar masih terlihat, misalnya peluruhan jarak dan arus balik. Namun transportasi murah, telepon genggam, dan jaringan migran membuat banyak migran kini **langsung** pindah jauh tanpa tahapan (misalnya dari desa di NTT langsung ke Malaysia), sehingga migrasi bertahap tidak lagi dominan. Pola gender juga bergantung pada pasar kerja: di Asia Tenggara, perempuan banyak bermigrasi internasional sebagai pekerja rumah tangga dan perawat. Jarak sosial (jaringan kerabat, bahasa, ikatan kolonial) kini sering lebih menentukan daripada jarak fisik.
+>
+> **Untuk soal:** Hukum Ravenstein masih sering ditanyakan; jawab sesuai rumusannya, tetapi beri contoh penyimpangan modern pada soal esai.
 
 ### 2.3.3. Model Transisi Migrasi Zelinsky
 - Migrasi mengikuti tahapan transisi demografi sebagai berikut:
@@ -287,6 +336,25 @@ Penduduk dunia sejak 1800 beserta proyeksi PBB hingga 2100. Penduduk mencapai 2 
 
 > 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
 
+
+> 🔬 **[KAJIAN-KINI] Malthus, neo-Malthusian, dan bukti dua abad**
+>
+> **Narasi umum:** Penduduk bertambah menurut deret ukur dan pangan menurut deret hitung, sehingga kelebihan penduduk pasti berakhir dengan kelaparan. Pertumbuhan penduduk adalah penyebab utama kemiskinan dan kerusakan lingkungan.
+>
+> **Kajian terkini:** (1) **Deret hitung pangan tidak pernah dibuktikan.** Malthus mengajukannya sebagai asumsi. Sejak 1961, produksi serealia dunia naik sekitar 250%, sedangkan penduduk naik sekitar 165%, dan hampir tanpa tambahan luas lahan serealia (FAO/OWID). Proporsi penduduk dunia yang kelaparan turun, walaupun jumlahnya masih sekitar 673 juta orang (8,2%) pada 2024 (SOFI 2025). (2) **Malthus sendiri merevisi pandangannya.** Pada edisi 1803 ia menambahkan "pengekangan moral" (menunda menikah) sebagai jalan keluar. (3) **Model Malthus cukup cocok untuk masa praindustri.** Sebelum ±1800, kenaikan produksi memang cenderung habis dimakan pertambahan penduduk sehingga pendapatan per kapita hampir tidak naik ("perangkap Malthus", Clark, 2007). Perangkap itu terlepas karena revolusi industri, kemajuan teknologi pertanian, dan transisi demografi. (4) **Ramalan neo-Malthusian sering meleset.** Ehrlich (1968) meramalkan ratusan juta orang mati kelaparan pada 1970-an, tetapi justru Revolusi Hijau terjadi. Taruhan Simon–Ehrlich (1980–1990) dimenangi Simon karena harga lima logam yang dipertaruhkan turun. (5) **Kekhawatiran kini bergeser** dari pangan ke batas planet (iklim, keanekaragaman hayati). Dampak lingkungan dihitung dengan I = P × A × T (penduduk × kemakmuran/konsumsi × teknologi), sehingga konsumsi per kapita negara kaya sering lebih menentukan daripada jumlah penduduk. (6) **Boserup juga tidak selalu benar**: intensifikasi bisa gagal dan merusak lahan jika tidak didukung pasar, modal, dan kelembagaan. Banyak peneliti kini memadukan keduanya, karena tekanan penduduk bisa memicu inovasi (Boserup) atau krisis (Malthus) tergantung konteksnya.
+>
+> **Untuk soal:** Soal OSN sering meminta menyebutkan isi teori Malthus atau membandingkannya dengan Boserup; jawab sesuai teori. Untuk soal evaluasi, pakai data produksi pangan, transisi demografi, dan rumus IPAT untuk menilai teori tersebut.
+
+<img width="480" alt="Model teoretis Malthus" src="{{ '/assets/images/kajian/model-malthus.svg' | relative_url }}" />\
+Model teoretis Malthus: penduduk berlipat dua setiap 25 tahun (oranye), sedangkan pangan hanya bertambah satu satuan (hijau). **Logikanya:** jika kedua asumsi benar, kesenjangan akan melebar tanpa batas. Masalahnya ada pada asumsi pangan: data di sebelahnya menunjukkan bahwa produksi pangan tumbuh secara eksponensial juga. _Sumber: ilustrasi skematis buatan revisi ini._
+
+> 🎨 **[GAMBAR-BUATAN]** Unggah berkas `model-malthus.svg` (terlampir) ke folder `assets/images/kajian/` di repo agar gambar ini tampil.
+
+<img width="480" alt="Produksi serealia, hasil, luas lahan, dan penduduk dunia 1961–2024" src="https://commons.wikimedia.org/wiki/Special:FilePath/Index-of-cereal-production-yield-and-land-use_World.svg?width=960" />\
+Perubahan produksi serealia, hasil per hektare, luas lahan serealia, dan penduduk dunia sejak 1961 (indeks, 1961 = 0). **Cara membaca:** produksi (oranye) naik sekitar 250% dan hasil per hektare (hijau tosca) sekitar 210%, sedangkan penduduk (ungu) sekitar 165% dan luas lahan serealia (abu-abu) hampir datar. **Logikanya:** pangan tidak tumbuh menurut deret hitung; kenaikan hasil per hektare (sejalan dengan gagasan Boserup) membuat produksi berlari lebih cepat daripada penduduk. Kelaparan yang masih ada lebih banyak disebabkan oleh kemiskinan, konflik, dan distribusi daripada kekurangan produksi global. _Sumber: [Hannah Ritchie, Our World in Data](https://commons.wikimedia.org/wiki/File:Index-of-cereal-production-yield-and-land-use_World.svg), CC BY 4.0 (Wikimedia Commons)._
+
+> 🖼️ **[GAMBAR-BARU]** Ditautkan dari Wikimedia Commons. Isi gambar sudah dicek langsung dan lisensinya diambil dari metadata berkas.
+
 ## 2.5. Kebijakan Kependudukan
 > 🆕 **[BAGIAN-BARU]** Kebijakan kependudukan, baik antinatalis, pronatalis, maupun redistribusi penduduk, sering ditanyakan dengan contoh negara.
 
@@ -321,3 +389,11 @@ Penduduk dunia sejak 1800 beserta proyeksi PBB hingga 2100. Penduduk mencapai 2 
 - Jendela bonus demografi Indonesia diperkirakan akan tetap menguntungkan hingga 2028–2031 sebelum rasio ketergantungan mulai naik seiring bertambahnya populasi lansia.
 
 > 🔍 **[FLAG-CEK]** Perkiraan periode bonus demografi berbeda-beda antarsumber. Bappenas umumnya menyebut periode 2020–2035, dengan rasio ketergantungan terendah sekitar 2030-an. Cantumkan sumber angka 2028–2031.
+
+> 🔬 **[KAJIAN-KINI] Bonus demografi tidak otomatis**
+>
+> **Narasi umum:** Struktur penduduk usia produktif yang besar pasti menghasilkan pertumbuhan ekonomi.
+>
+> **Kajian terkini:** Bonus demografi hanyalah **peluang** ("jendela"). Dividen pertama hanya muncul jika penduduk usia kerja benar-benar bekerja produktif; jika lapangan kerja kurang, yang muncul justru pengangguran kaum muda dan sektor informal yang membesar. Mason dan Lee juga menjelaskan **dividen kedua**: tabungan dan investasi modal manusia yang dikumpulkan selama masa bonus menopang ekonomi saat penduduk menua. Asia Timur (Korea Selatan, Taiwan, Tiongkok) berhasil memanfaatkan bonusnya, sedangkan banyak negara Amerika Latin, Timur Tengah, dan Afrika Utara dinilai kurang berhasil karena pertumbuhan lapangan kerja dan pendidikan tidak mengimbangi. Wacana kependudukan global pun bergeser: dari kekhawatiran "ledakan penduduk" ke kekhawatiran penuaan cepat dan fertilitas sangat rendah di Asia Timur dan Eropa.
+>
+> **Untuk soal:** Saat menjelaskan bonus demografi, sebutkan syarat-syaratnya (lapangan kerja, pendidikan, kesehatan, partisipasi perempuan) dan contoh negara yang berhasil serta yang gagal.

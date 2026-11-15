@@ -21,6 +21,9 @@ PENANDA (cari dengan Ctrl+F "[FLAG" / "[GAMBAR-BARU" / "[BAGIAN-BARU"):
   [GAMBAR-BARU]   gambar baru dari Wikimedia Commons (sudah dilihat langsung)
   [TAMBAH-GAMBAR] usulan gambar yang belum terisi
   [BAGIAN-BARU]   materi baru untuk melengkapi silabus OSN/IGeo
+  [KAJIAN-KINI]   narasi baku OSN yang sudah dikritik/diperbarui kajian ilmiah
+                  terkini; narasi lama tetap dijelaskan, lalu diberi konteks
+  [GAMBAR-BUATAN] ilustrasi skematis buatan revisi ini (berkas SVG terlampir)
 
 HASIL CEK GAMBAR LAMA:
   - 3 gambar (Plog, Butler, Doxey), semuanya termuat normal dan tidak
@@ -50,6 +53,15 @@ HASIL CEK GAMBAR LAMA:
      Posisi psikografis destinasi menurut Plog (1972), dengan distribusi wisatawan AS berbentuk kurva normal. **Cara membaca:** sebagian besar wisatawan berada di tengah (midsentrik), sedangkan psikosentrik dan alosentrik murni berada di kedua ujung. Destinasi di bawah kurva diurutkan dari yang paling "aman" (Coney Island, Miami Beach) hingga yang paling "petualang" (Pasifik Selatan, Afrika). **Logikanya:** destinasi yang awalnya hanya didatangi wisatawan alosentrik lama-kelamaan bergeser ke kiri ketika makin populer dan infrastrukturnya makin lengkap, sehingga model Plog berkaitan erat dengan siklus hidup Butler di bawah.
 
      > ✏️ **[FLAG-ISI]** Plog mengelompokkan wisatawan berdasarkan **kepribadian**, bukan berdasarkan lokasi tujuan wisata; lokasi tujuan adalah akibat dari kepribadian itu. Istilah _dependables_ dan _venturers_ dipakai Plog dalam revisi modelnya (2001).
+
+
+> 🔬 **[KAJIAN-KINI] Tipologi Plog dan bukti empirisnya**
+>
+> **Narasi umum:** Wisatawan dapat dipetakan pada satu sumbu kepribadian (psikosentrik–alosentrik), dan setiap destinasi bergerak dari alosentrik ke psikosentrik.
+>
+> **Kajian terkini:** Model Plog sangat populer di buku ajar, tetapi uji empirisnya lemah. Litvin (2006) mendapati bahwa destinasi yang benar-benar dikunjungi responden tidak sesuai dengan tipe kepribadian yang diramalkan model. Orang yang sama juga sering bepergian secara berbeda menurut kesempatan (misalnya liburan keluarga yang aman dan perjalanan petualangan sendirian). Kajian kini lebih banyak memakai motivasi berlapis, misalnya model karier perjalanan (Pearce), dan data perilaku nyata dari pemesanan daring.
+>
+> **Untuk soal:** Jelaskan tipologi Plog jika ditanya, tetapi pada soal evaluasi sebutkan bahwa kepribadian hanya salah satu faktor, dan bahwa perilaku wisatawan berubah menurut situasi.
 
 ## 1.2. Jenis Wisata
 1. Ekowisata (_Ecotourism_): Skala kecil, kepemilikan lokal, konservasi lingkungan, edukasi pengunjung.
@@ -101,6 +113,15 @@ HASIL CEK GAMBAR LAMA:
 
      > 🔍 **[FLAG-CEK]** Contoh tahap siklus destinasi di Indonesia (Kuta, Labuan Bajo, Mandalika) adalah interpretasi umum dan dapat diperdebatkan; sesuaikan dengan sumber yang dipakai.
 
+
+> 🔬 **[KAJIAN-KINI] Siklus hidup Butler: deskripsi, bukan ramalan**
+>
+> **Narasi umum:** Setiap destinasi pasti melewati keenam tahap Butler secara berurutan.
+>
+> **Kajian terkini:** Butler (2006) sendiri menyunting dua jilid buku yang menguji modelnya. Kesimpulannya: tahapan biasanya baru dapat dikenali **setelah** terjadi, sehingga model ini lemah untuk meramal. Banyak destinasi tidak melewati semua tahap. Resor terencana seperti Nusa Dua atau Mandalika langsung memasuki tahap pengembangan melalui investasi negara, tanpa tahap eksplorasi. Destinasi juga dapat memiliki beberapa siklus sekaligus untuk segmen pasar yang berbeda, dan guncangan luar seperti pandemi COVID-19 dapat menjatuhkan destinasi yang sedang tumbuh secara tiba-tiba. Model ini tetap berguna untuk mendorong perencanaan daya dukung sejak dini.
+>
+> **Untuk soal:** Identifikasi tahap Butler dari ciri-cirinya, tetapi jelaskan bahwa pengelolaan dan kebijakan dapat mengubah jalannya siklus.
+
 ## 2.2. Teori Iritasi Doxey
 - Menurut George Doxey (1975), respons masyarakat terhadap kegiatan wisata berkembang seiring perkembangan lokasi wisata sebagai berikut (_Irridex_/indeks iritasi):
   1. Euforia (_Euphoria_): Wisatawan disambut sebagai tamu terhormat. Investasi dan peluang kerja sangat diharapkan.
@@ -109,6 +130,15 @@ HASIL CEK GAMBAR LAMA:
   4. Antagonisme (_Antagonism_): Wisatawan secara terbuka dipersalahkan atas semua masalah sosial dan ekonomi. Keramahan lenyap. Kriminalitas terhadap wisatawan meningkat.
      <img width="850" height="745" alt="Indeks iritasi Doxey" src="https://github.com/user-attachments/assets/0dbcddc1-2fa4-4e74-99a0-50b33085e4c6" />\
      Indeks iritasi Doxey. Sumbu tegak adalah perasaan masyarakat terhadap wisatawan (positif ke negatif), dan sumbu datar adalah jumlah wisatawan. **Cara membaca:** kurva turun paling curam di awal, dari euforia ke apatis, lalu melandai melalui iritasi hingga antagonisme. **Logikanya:** tambahan wisatawan pertama paling cepat mengubah sikap, karena kebaruan dan keuntungan awal segera hilang; setelah itu, setiap tambahan wisatawan makin memperburuk sikap warga. Model ini sejalan dengan tahap Butler: euforia saat eksplorasi–keterlibatan, dan iritasi–antagonisme saat konsolidasi–stagnasi.
+
+
+> 🔬 **[KAJIAN-KINI] Sikap warga tidak selalu memburuk**
+>
+> **Narasi umum:** Sikap masyarakat terhadap wisatawan pasti berubah satu arah dari euforia ke antagonisme seiring bertambahnya wisatawan.
+>
+> **Kajian terkini:** Model Doxey menganggap warga sebagai satu kelompok yang seragam. Kajian berbasis **teori pertukaran sosial** (Ap, 1992) menunjukkan bahwa sikap warga bergantung pada manfaat dan kerugian yang dirasakan masing-masing: pemilik penginapan dan pemandu bisa tetap mendukung, sementara warga yang hanya menanggung kemacetan dan kenaikan harga menjadi kesal. Sikap juga dapat membaik jika manfaat dibagi lebih adil atau jika warga ikut mengelola wisata. Ap dan Crompton (1993) mengelompokkan respons warga menjadi menerima, menoleransi, menyesuaikan diri, dan menarik diri.
+>
+> **Untuk soal:** Sebutkan tahapan Doxey sesuai teori, lalu jelaskan bahwa sikap warga berbeda-beda menurut kelompok dan dapat dipengaruhi pengelolaan berbasis masyarakat.
 
 ## 2.3. Penawaran Wisata 4A
 - Suatu lokasi wisata memberikan penawaran sebagai berikut:
