@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.4pt" height="302.4pt" viewBox="0 0 518.4 302.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T06:55:43.877379</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 302.4 
+L 518.4 302.4 
+L 518.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 24.801719 248.500563 
+L 507.6 248.500563 
+L 507.6 25.918125 
+L 24.801719 25.918125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 257.007681 248.500563 
+L 326.90864 248.500563 
+L 326.90864 25.918125 
+L 257.007681 25.918125 
+z
+" clip-path="url(#p2a787cea61)" style="fill: #d0632b; opacity: 0.12"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m1ef2511a4e" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1ef2511a4e" x="94.702678" y="248.500563" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="94.702678" y="263.099" transform="rotate(-0 94.702678 263.099)">$1.000</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m1ef2511a4e" x="205.493078" y="248.500563" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="205.493078" y="263.099" transform="rotate(-0 205.493078 263.099)">$3.000</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m1ef2511a4e" x="326.90864" y="248.500563" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="326.90864" y="263.099" transform="rotate(-0 326.90864 263.099)">$10.000</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1ef2511a4e" x="437.69904" y="248.500563" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="437.69904" y="263.099" transform="rotate(-0 437.69904 263.099)">$30.000</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <defs>
+       <path id="mde0a4849a5" d="M 0 0 
+L 0 2 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#mde0a4849a5" x="24.801719" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="43.188076" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="58.73352" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="72.199596" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="84.077516" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="164.603638" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="234.504598" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="257.007681" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="275.394038" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="290.939482" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="304.405558" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="316.283478" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="396.8096" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="466.71056" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="489.213643" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mde0a4849a5" x="507.6" y="248.500563" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="266.200859" y="277.099781" transform="rotate(-0 266.200859 277.099781)">PDB per kapita negara asal (skala logaritmik)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="text_6">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="18.399375" y="137.209344" transform="rotate(-90 18.399375 137.209344)">Tingkat emigrasi</text>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <path d="M 24.801719 231.625019 
+L 34.489979 230.77556 
+L 44.178238 229.696969 
+L 52.251788 228.589674 
+L 60.325338 227.261491 
+L 68.398888 225.680905 
+L 74.857728 224.212557 
+L 81.316568 222.544234 
+L 87.775408 220.65853 
+L 94.234247 218.538277 
+L 100.693087 216.166905 
+L 107.151927 213.528846 
+L 113.610767 210.609981 
+L 120.069607 207.398111 
+L 126.528447 203.883456 
+L 132.987287 200.05917 
+L 139.446127 195.921844 
+L 145.904967 191.472008 
+L 152.363806 186.714594 
+L 158.822646 181.659354 
+L 165.281486 176.32122 
+L 171.740326 170.720573 
+L 179.813876 163.390776 
+L 187.887426 155.755178 
+L 199.190396 144.700617 
+L 225.025755 119.18398 
+L 233.099305 111.584383 
+L 239.558145 105.780386 
+L 246.016985 100.290635 
+L 250.861115 96.417228 
+L 255.705245 92.781289 
+L 260.549374 89.407234 
+L 265.393504 86.318137 
+L 270.237634 83.53546 
+L 275.081764 81.078809 
+L 279.925894 78.965703 
+L 283.155314 77.755443 
+L 286.384734 76.708593 
+L 289.614154 75.828549 
+L 292.843574 75.118177 
+L 296.072994 74.579797 
+L 299.302414 74.215175 
+L 302.531834 74.025506 
+L 305.761254 74.011414 
+L 308.990674 74.172946 
+L 312.220094 74.50957 
+L 315.449513 75.020181 
+L 318.678933 75.703106 
+L 321.908353 76.556112 
+L 325.137773 77.57642 
+L 328.367193 78.760718 
+L 333.211323 80.836142 
+L 338.055453 83.256852 
+L 342.899583 86.005566 
+L 347.743713 89.062889 
+L 352.587843 92.407546 
+L 357.431973 96.016624 
+L 362.276103 99.865836 
+L 368.734943 105.327651 
+L 375.193782 111.108788 
+L 383.267332 118.687043 
+L 392.955592 128.132265 
+L 423.635082 158.349109 
+L 431.708631 165.889924 
+L 439.782181 173.10213 
+L 446.241021 178.595416 
+L 452.699861 183.816955 
+L 459.158701 188.748681 
+L 465.617541 193.377877 
+L 472.076381 197.696859 
+L 478.535221 201.702599 
+L 484.99406 205.396279 
+L 491.4529 208.782811 
+L 497.91174 211.870337 
+L 504.37058 214.669714 
+L 507.6 215.965356 
+L 507.6 215.965356 
+" clip-path="url(#p2a787cea61)" style="fill: none; stroke: #2a6fb0; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 24.801719 248.500563 
+L 24.801719 25.918125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 24.801719 248.500563 
+L 507.6 248.500563 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #d0632b" transform="translate(271.157852 42.205383)">titik balik</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #d0632b" transform="translate(248.280274 53.007844)">±US$5.000–10.000</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #d0632b" transform="translate(256.042071 63.810305)">(PPP per kapita)</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 93.335338 157.426057 
+Q 88.87114 184.169961 84.591022 209.811089 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 86.827617 206.737388 
+L 84.591022 209.811089 
+L 83.474018 206.177592 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(36.230437 119.957317)">Negara termiskin:</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(36.230437 130.159642)">keinginan pindah besar,</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(36.230437 140.361966)">tetapi tidak mampu</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(36.230437 150.56429)">(biaya, pendidikan, jaringan)</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 190.896722 85.7406 
+Q 205.309926 102.262902 218.988165 117.942691 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 218.034162 114.263034 
+L 218.988165 117.942691 
+L 215.472038 116.498099 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(108.797079 48.730937)">Pendapatan naik:</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(108.797079 58.933262)">kemampuan bermigrasi</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(108.797079 69.135586)">naik lebih cepat</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(108.797079 79.33791)">daripada keinginan menetap</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 425.339249 80.874399 
+Q 431.398632 130.753261 437.323186 179.522248 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 438.600754 175.94205 
+L 437.323186 179.522248 
+L 435.225568 176.352074 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(371.104795 53.591283)">Negara kaya:</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(371.104795 63.793607)">peluang di dalam negeri</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; fill: #222222" transform="translate(371.104795 73.995932)">cukup, emigrasi turun</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #222222" x="24.801719" y="19.918125" transform="rotate(-0 24.801719 19.918125)">Punuk migrasi: emigrasi naik dulu, baru turun</text>
+   </g>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #777777" x="5.184" y="299.376" transform="rotate(-0 5.184 299.376)">Ilustrasi skematis berdasarkan Clemens (2014, 2020) dan de Haas (2010). Bentuk kurva adalah pola rata-rata, bukan hukum universal.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2a787cea61">
+   <rect x="24.801719" y="25.918125" width="482.798281" height="222.582437"/>
+  </clipPath>
+ </defs>
+</svg>
